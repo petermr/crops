@@ -4,11 +4,13 @@ import logging
 import os
 import re
 import subprocess
+import xml.etree.ElementTree as ET
 
 import pandas as pd
 import scispacy
 import spacy
 import yake
+from bs4 import BeautifulSoup
 
 logging.basicConfig(level=logging.INFO)
 metadata_dictionary = {}
@@ -41,6 +43,29 @@ def get_metadata_json(output_directory):
                                           output_directory, "*", 'eupmc_result.json'))
     metadata_dictionary["metadata_json"] = glob_results
 
+def parse_xml(output_directory, metadata_dictionary=metadata_dictionary, body_section='result'):
+    """globs the specified section parsed xml and dumps the text to a file
+
+    Args:
+        output_directory (str): CProject directory
+        results_txt (str):name of text file to write parsed XML
+        body_section (str, optional): [description]. Defaults to 'method'.
+    """
+    WORKING_DIRECTORY = os.getcwd()
+    glob_results = glob.glob(os.path.join(WORKING_DIRECTORY,
+                                          output_directory,"*", "sections",
+                                          "**", f"*{body_section}*","**",  "*_p.xml"), recursive = True)
+    logging.info(f'globbed_xml: {glob_results}')
+    metadata_dictionary["abstract"] = []
+    for result in glob_results:
+        tree = ET.parse(result)
+        root = tree.getroot()
+        xmlstr = ET.tostring(root, encoding='utf8', method='xml')
+        soup = BeautifulSoup(xmlstr, features='lxml')
+        text = soup.get_text(separator="")
+        text = text.replace( '\n', '')
+        metadata_dictionary["abstract"].append(text)
+    #print(len(metadata_dictionary[f"{body_section}"]))
 
 def get_PMCIDS(metadata_dictionary=metadata_dictionary):
     PMCIDS = []
@@ -112,7 +137,7 @@ def get_organism(metadata_dictionary=metadata_dictionary):
     logging.info("NER using SciSpacy - looking for ORGANISMS")
 
 
-def convert_to_csv(path='keywords_abstract_yake_organism_pmcid_tps_cam_ter.csv', metadata_dictionary=metadata_dictionary):
+def convert_to_csv(path='keywords_results_yake_organism_pmcid_tps_cam_ter_c.csv', metadata_dictionary=metadata_dictionary):
     df = pd.DataFrame(metadata_dictionary)
     df.to_csv(path, encoding='utf-8', line_terminator='\r\n')
     logging.info(f'writing the keywords to {path}')
@@ -144,13 +169,16 @@ CPROJECT = os.path.join(os.getcwd(), 'corpus', 'tps_camellia')
 # querying_pygetpapers_sectioning("terpene synthase volatile Camellia AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:'Review')))",
 # '100',
 #  CPROJECT)
-get_metadata_json(CPROJECT)
-get_PMCIDS()
-get_abstract()
-get_keywords()
+#get_metadata_json(CPROJECT)
+parse_xml(CPROJECT)
+#et_PMCIDS()
+
+#get_abstract()
+#get_keywords()
 key_phrase_extraction()
 get_organism()
 look_for_tps()
+look_for_tps(search="C.")
 look_for_tps(search_for='Camellia')
 add_if_file_contains_terms()
 convert_to_csv()
