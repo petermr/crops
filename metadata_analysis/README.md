@@ -13,6 +13,8 @@ So, this script:
 - matches against a given set of phrases (like terpene synthase, terponoids, or species name) and retrieves them for each para
 - outputs all the analysis as a `.csv` for interprations and conclusions. A typical output is available [here](https://github.com/petermr/crops/blob/main/metadata_analysis/filtered_for_tps_citrus_results_sec.csv). Since it's too large of a file for GitHub to display on GUI, you would have to download it to view. 
 
+Some elements including the data structure is inspired by [`docanalysis`](https://github.com/petermr/crops/blob/main/metadata_analysis/metadata_analysis.py) code which was mostly written by [Ayush](https://github.com/ayush4921).
+
 The script has a potential to widen into other genes of other orgnanisms, or mine for any information (similar to gene names) of your interest.
 
 ## Interested in running it yourself?
