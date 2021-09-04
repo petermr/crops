@@ -42,99 +42,94 @@ def get_metadata_json(output_directory):
     glob_results = glob.glob(os.path.join(WORKING_DIRECTORY,
                                           output_directory, "*", 'eupmc_result.json'))
     metadata_dictionary["metadata_json"] = glob_results
+    logging.info(f'metadata found for {len(metadata_dictionary["metadata_json"])} papers')
 
-def parse_xml(output_directory, metadata_dictionary=metadata_dictionary, body_section='result'):
-    """globs the specified section parsed xml and dumps the text to a file
-
-    Args:
-        output_directory (str): CProject directory
-        results_txt (str):name of text file to write parsed XML
-        body_section (str, optional): [description]. Defaults to 'method'.
-    """
-    WORKING_DIRECTORY = os.getcwd()
-    glob_results = glob.glob(os.path.join(WORKING_DIRECTORY,
-                                          output_directory,"*", "sections",
-                                          "**", f"*{body_section}*","**",  "*_p.xml"), recursive = True)
-    logging.info(f'globbed_xml: {glob_results}')
-    metadata_dictionary["abstract"] = []
-    for result in glob_results:
-        tree = ET.parse(result)
-        root = tree.getroot()
-        xmlstr = ET.tostring(root, encoding='utf8', method='xml')
-        soup = BeautifulSoup(xmlstr, features='lxml')
-        text = soup.get_text(separator="")
-        text = text.replace( '\n', '')
-        metadata_dictionary["abstract"].append(text)
-    #print(len(metadata_dictionary[f"{body_section}"]))
 
 def get_PMCIDS(metadata_dictionary=metadata_dictionary):
-    PMCIDS = []
-    for result in metadata_dictionary["metadata_json"]:
-        split_path = result.split('\\')
-        r = re.compile(".*PMC")
-        PMCID = (list(filter(r.match, split_path)))
-        PMCIDS.extend(PMCID)
-    metadata_dictionary["PMCIDS"] = PMCIDS
+    metadata_dictionary["PMCIDS"] = []
+    for metadata in metadata_dictionary["metadata_json"]:
+        with open(metadata) as f:
+            metadata_in_json = json.load(f)
+            try:
+                metadata_dictionary["PMCIDS"].append(
+                    metadata_in_json["full"]["pmcid"])
+            except KeyError:
+                metadata_dictionary["PMCIDS"].append('NaN')
     logging.info('getting PMCIDs')
+
+
+def parse_xml(output_directory, section, metadata_dictionary=metadata_dictionary):
+    metadata_dictionary[f"{section}"] = []
+    for pmc in metadata_dictionary["PMCIDS"]:
+        paragraphs = []
+        test_glob = glob.glob(os.path.join(os.getcwd(), output_directory,
+                                           pmc, 'sections', '**', f'*{section}*', '**', '*.xml'),
+                              recursive=True)
+        for result in test_glob:
+            tree = ET.parse(result)
+            root = tree.getroot()
+            xmlstr = ET.tostring(root, encoding='utf8', method='xml')
+            soup = BeautifulSoup(xmlstr, features='lxml')
+            text = soup.get_text(separator="")
+            text = text.replace('\n', '')
+            paragraphs.append(text)
+        concated_paragraph = ' '.join(paragraphs)
+        metadata_dictionary[f"{section}"].append(concated_paragraph)
+    logging.info(f"parsing {section} section")
 
 
 def get_abstract(metadata_dictionary=metadata_dictionary):
     TAG_RE = re.compile(r"<[^>]+>")
-    abstract_list = []
+    metadata_dictionary["abstract"] = []
     for metadata in metadata_dictionary["metadata_json"]:
         with open(metadata) as f:
             metadata_in_json = json.load(f)
             try:
                 raw_abstract = metadata_in_json["full"]["abstractText"]
                 abstract = TAG_RE.sub(' ', raw_abstract)
-                abstract_list.append(abstract)
+                metadata_dictionary["abstract"].append(abstract)
             except KeyError:
-                abstract_list.append('NaN')
-    metadata_dictionary["abstract"] = abstract_list
+                metadata_dictionary["abstract"].append('NaN')
     logging.info("getting the abstracts")
 
 
 def get_keywords(metadata_dictionary=metadata_dictionary):
-    keywords_list = []
+    metadata_dictionary["keywords"] = []
     for metadata in metadata_dictionary["metadata_json"]:
         with open(metadata) as f:
             metadata_in_json = json.load(f)
             try:
-                keywords_list.append(
+                metadata_dictionary["keywords"].append(
                     metadata_in_json["full"]["keywordList"]["keyword"])
             except KeyError:
-                keywords_list.append('NaN')
-    metadata_dictionary["keywords"] = keywords_list
-    logging.info("getting the keywords")
+                metadata_dictionary["keywords"].append('NaN')
+    logging.info("getting the keywords from metadata")
 
 
-def key_phrase_extraction(metadata_dictionary=metadata_dictionary):
-    keywords_all = []
-    for abstract in metadata_dictionary["abstract"]:
+def key_phrase_extraction(section, metadata_dictionary=metadata_dictionary):
+    metadata_dictionary["yake_keywords"] = []
+    for text in metadata_dictionary[f"{section}"]:
         custom_kw_extractor = yake.KeywordExtractor(
             lan='en', n=2, top=10, features=None)
-        keywords = custom_kw_extractor.extract_keywords(abstract)
+        keywords = custom_kw_extractor.extract_keywords(text)
         keywords_list = []
         for kw in keywords:
             keywords_list.append(kw[0])
-        keywords_all.append(keywords_list)
-    metadata_dictionary["yake_keywords"] = keywords_all
-    logging.info('extracted key phrases')
-    return metadata_dictionary
+        metadata_dictionary["yake_keywords"].append(keywords_list)
+    logging.info(f'extracted key phrases from {section}')
 
 
-def get_organism(metadata_dictionary=metadata_dictionary):
+def get_organism(section,label_interested= 'GENE_OR_GENE_PRODUCT', metadata_dictionary=metadata_dictionary):
     nlp = spacy.load("en_ner_bionlp13cg_md")
-    all_entities = []
-    for abstract in metadata_dictionary["abstract"]:
+    metadata_dictionary["entities"] = []
+    for text in metadata_dictionary[f"{section}"]:
         entity = []
-        doc = nlp(abstract)
+        doc = nlp(text)
         for ent in doc.ents:
-            if ent.label_ == 'GENE_OR_GENE_PRODUCT':
+            if ent.label_ == label_interested:
                 entity.append(ent)
-        all_entities.append(entity)
-    metadata_dictionary["entities"] = all_entities
-    logging.info("NER using SciSpacy - looking for ORGANISMS")
+        metadata_dictionary["entities"].append(entity)
+    logging.info(F"NER using SciSpacy - looking for {label_interested}")
 
 
 def convert_to_csv(path='keywords_results_yake_organism_pmcid_tps_cam_ter_c.csv', metadata_dictionary=metadata_dictionary):
@@ -143,42 +138,41 @@ def convert_to_csv(path='keywords_results_yake_organism_pmcid_tps_cam_ter_c.csv'
     logging.info(f'writing the keywords to {path}')
 
 
-def look_for_tps(metadata_dictionary=metadata_dictionary, search_for="TPS"):
-    all_matches = []
-    for abstract in metadata_dictionary["abstract"]:
-        words = abstract.split(" ")
+def look_for_a_word(section, search_for="TPS", metadata_dictionary=metadata_dictionary):
+    metadata_dictionary[f"{search_for}_match"] = []
+    for text in metadata_dictionary[f"{section}"]:
+        words = text.split(" ")
         match_list = ([s for s in words if f"{search_for}" in s])
-        all_matches.append(match_list)
-    metadata_dictionary[f"{search_for}_match"] = all_matches
-    logging.info(f"looking for {search_for} in abstract")
+        metadata_dictionary[f"{search_for}_match"] .append(match_list)
+    logging.info(f"looking for {search_for} in {section}")
 
 
-def add_if_file_contains_terms(metadata_dictionary=metadata_dictionary, terms=['terpene synthase']):
+def add_if_file_contains_terms(section, metadata_dictionary=metadata_dictionary, terms=['terpene synthase']):
     metadata_dictionary["terms"] = []
     for term in terms:
-        for abstract in metadata_dictionary["abstract"]:
-            if term.lower() in abstract.lower():
+        for text in metadata_dictionary[f"{section}"]:
+            if term.lower() in text.lower():
                 metadata_dictionary["terms"].append(term)
             else:
                 metadata_dictionary["terms"].append('NaN')
-    logging.info('looking for term matches')
+    logging.info(f'looking for term matches in {section}')
 
 
-# Calling all functions
-CPROJECT = os.path.join(os.getcwd(), 'corpus', 'tps_camellia')
-# querying_pygetpapers_sectioning("terpene synthase volatile Camellia AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:'Review')))",
-# '100',
+
+CPROJECT = os.path.join(os.getcwd(), 'corpus', 'tps_citrus')
+SECTION= 'result'
+#querying_pygetpapers_sectioning("('terpene synthase') AND ('volatile') AND ('Citrus') AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:'Review')))",
+# '200',
 #  CPROJECT)
-#get_metadata_json(CPROJECT)
-parse_xml(CPROJECT)
-#et_PMCIDS()
-
-#get_abstract()
-#get_keywords()
-key_phrase_extraction()
-get_organism()
-look_for_tps()
-look_for_tps(search="C.")
-look_for_tps(search_for='Camellia')
-add_if_file_contains_terms()
-convert_to_csv()
+get_metadata_json(CPROJECT)
+get_PMCIDS()
+parse_xml(CPROJECT, SECTION)
+get_abstract()
+get_keywords()
+key_phrase_extraction(SECTION)
+get_organism(SECTION)
+look_for_a_word(SECTION)
+look_for_a_word(SECTION, search_for="C.")
+look_for_a_word(SECTION, search_for='Citrus')
+add_if_file_contains_terms(SECTION)
+convert_to_csv(f'citrus_full_search_{SECTION}.csv')

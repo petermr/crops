@@ -1,0 +1,6 @@
+yake
+scispacy
+spacy
+pygetpapers
+bs4
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bionlp13cg_md-0.4.0.tar.gz
