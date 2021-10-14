@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="eo_Gene" version="0.0.1">
+<dictionary title="eo_ZeaTPS" version="0.0.1">
  <metadata>added version; 2021-10-11; PMR</metadata>
  <entry term="(e)-beta farnesene synthase" name="(e)-beta farnesene synthase" id="CM.eo_Gene.0"/>
  <entry term="(e)beta caryophyllene synthase" name="(e)beta caryophyllene synthase" id="CM.eo_Gene.1"/>
