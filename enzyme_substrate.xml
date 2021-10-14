@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="enzyme_substrate">
+<dictionary title="enzyme_substrate" version="0.0.1">
  <entry term="&quot;(e,e)-fpp&quot;" name="&quot;(e,e)-fpp&quot;" id="CM.enzyme_substrate.0"/>
  <entry term="&quot;(z,z)-fpp synthase&quot;" name="&quot;(z,z)-fpp synthase&quot;" id="CM.enzyme_substrate.1"/>
  <entry term="&quot;(z,z)-fpp&quot;" name="&quot;(z,z)-fpp&quot;" id="CM.enzyme_substrate.2"/>
