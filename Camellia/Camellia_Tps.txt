@@ -1,0 +1,81 @@
+PMC_Id	Genus	species	gene ID	TPS Name
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA032539.1	CsTPS01(Germacrene D synthase\sesquiterpene synthases)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA029356.1	CsTPS02(Germacrene D synthase\sesquiterpene synthases)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA014184.1	CsTPS03(Germacrene D synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA031969.1	CsTPS04(Germacrene D synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA031966.1	CsTPS05(Germacrene D synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA025177.1	CsTPS06
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA010895.1	CsTPS07
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA005128.1	CsTPS08(Valerianol synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA017888.1	CsTPS09
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA032538.1	CsTPS10
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA005117.1	CsTPS11
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA022784.1	CsTPS12
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA021924.1	CsTPS13
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA017878.1	CsTPS14
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA002287.1	CsTPS15
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA017309.1	CsTPS16
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA033098.1	CsTPS17
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA029355.1	CsTPS18
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA031961.1	CsTPS19
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA029353.1	CsTPS20
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA029348.1	CsTPS21(Germacrene D synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA012463.1	CsTPS22(Germacrene D synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA023168.1	CsTPS23(Germacrene D synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA017886.1	CsTPS24
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA010551.1	CsTPS25(Germacrene D synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA003774.1	CsTPS26
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA005096.1	CsTPS27
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA005082.1	CsTPS28
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA024081.1	CsTPS29(Germacrene D synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA007878.1	CsTPS30
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA027025.1	CsTPS31
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA021499.1	CsTPS32
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA010904.1	CsTPS33
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA017307.1	CsTPS34
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA027070.1	CsTPS35
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA027061.1	CsTPS36
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA009449.1	CsTPS37
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA023157.1	CsTPS38
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA009450.1	CsTPS39
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA017654.1	CsTPS40(monoterpenoid synthase\monoterpenoid synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA032709.1	CsTPS41
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA002963.1	CsTPS42
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA014987.1	CsTPS43(Myrcene synthase\monoterpenoid synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA032731.1	CsTPS44
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA030379.1	CsTPS45(Myrcene synthase\monoterpenoid synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA020730.1	CsTPS46(monoterpenoid synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA022294.1	CsTPS47(Myrcene synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA014219.1	CsTPS48
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA023784.1	CsTPS49(monoterpenoid synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA007029.1	CsTPS50
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA033306.1	CsTPS51(alpha-Farnesene synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA009170.1	CsTPS52(alpha-Farnesene synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA026271.1	CsTPS53(alpha-Farnesene synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA012490.1	CsTPS54(alpha-Farnesene synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA009866.1	CsTPS55(alpha-Farnesene synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA004653.1	CsTPS56(alpha-Farnesene synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA004606.1	CsTPS57(Beta-ocimene synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA031754.1	CsTPS58
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA026152.1	CsTPS59
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA014989.1	CsTPS60(monoterpenoid synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA014996.1	CsTPS61
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA016812.1	CsTPS62(monoterpenoid synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA031457.1	CsTPS63(Tricyclene synthase\monoterpenoid synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA031444.1	CsTPS64
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA031453.1	CsTPS65
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA020739.1	CsTPS66
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA000496.1	CsTPS67(copalyl diphosphate synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA024173.1	CsTPS68
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA017740.1	CsTPS69
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA024176.1	CsTPS70(ent-kaurene synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA008638.1	CsTPS71
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA007033.1	CsTPS72
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA019347.1	"CsTPS73((E,E)-geranyllinalool synthase)"
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA005451.1	CsTPS74
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA005162.1	CsTPS75
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA007191.1	CsTPS76((3 S)-linalool/ (E)-nerolidol synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA004822.1	CsTPS77((3 S)-linalool/ (E)-nerolidol synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA019472.1	CsTPS78((3 S)-linalool/ (E)-nerolidol synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA004657.1	CsTPS79((3 S)-linalool/ (E)-nerolidol synthase)
+PMC6976640	Camellia	Camellia sinensis var. sinensis	TEA018721.1	CsTPS80

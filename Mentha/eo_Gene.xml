@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="eo_Gene">
- <entry term="&quot;" name="&quot;" wikipedia="&quot;" id="CM.eo_Gene.0"/>
- <entry term="&quot;1,8-cineole synthase&quot;" name="&quot;1,8-cineole synthase&quot;" id="CM.eo_Gene.1"/>
- <entry term="&quot;2-c-methyl -d-erythritol 2,4-cyclodiphosphate synthase&quot;" name="&quot;2-c-methyl -d-erythritol 2,4-cyclodiphosphate synthase&quot;" id="CM.eo_Gene.2"/>
- <entry term="&quot;2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase&quot;" name="&quot;2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase&quot;" id="CM.eo_Gene.3"/>
- <entry term="&quot;bicyclogermacrene synthase" name="&quot;bicyclogermacrene synthase" id="CM.eo_Gene.4"/>
- <entry term="&quot;corvol ether b synthase" name="&quot;corvol ether b synthase" id="CM.eo_Gene.5"/>
- <entry term="&quot;ent-copalyl diphosphate synthase" name="&quot;ent-copalyl diphosphate synthase" id="CM.eo_Gene.6"/>
- <entry term="&quot;intermedia " name="&quot;intermedia " id="CM.eo_Gene.7"/>
- <entry term="&quot;solanesyl pyrophosphate synthase" name="&quot;solanesyl pyrophosphate synthase" id="CM.eo_Gene.8"/>
- <entry term="&quot;spata-13, 17-diene synthase&quot;" name="&quot;spata-13, 17-diene synthase&quot;" id="CM.eo_Gene.9"/>
+<dictionary title="eo_Gene" version="0.0.1">
+ <desc>Corrected punctuation; PMR</desc>
+ <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.eo_Gene.1"/>
+ <entry term="2-c-methyl -d-erythritol 2,4-cyclodiphosphate synthase" name="2-c-methyl -d-erythritol 2,4-cyclodiphosphate synthase" id="CM.eo_Gene.2"/>
+ <entry term="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" name="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" id="CM.eo_Gene.3"/>
+ <entry term="bicyclogermacrene synthase" name="bicyclogermacrene synthase" id="CM.eo_Gene.4"/>
+ <entry term="corvol ether b synthase" name="corvol ether b synthase" id="CM.eo_Gene.5"/>
+ <entry term="ent-copalyl diphosphate synthase" name="ent-copalyl diphosphate synthase" id="CM.eo_Gene.6"/>
+ <entry term="intermedia" name="intermedia" id="CM.eo_Gene.7"/>
+ <entry term="solanesyl pyrophosphate synthase" name="solanesyl pyrophosphate synthase" id="CM.eo_Gene.8"/>
+ <entry term="spata-13,17-diene synthase" name="spata-13, 17-diene synthase" id="CM.eo_Gene.9"/>
  <entry term="1-aminocyclopropane-1-carboxylate synthase" name="1-aminocyclopropane-1-carboxylate synthase" id="CM.eo_Gene.10"/>
- <entry term="1-deoxy-d-xylulose 6-phosphate (doxp) synthase" name="1-deoxy-d-xylulose 6-phosphate (doxp) synthase" id="CM.eo_Gene.11"/>
- <entry term="1-deoxy-d-xylulose- 5-phosphate synthase" name="1-deoxy-d-xylulose- 5-phosphate synthase" id="CM.eo_Gene.12"/>
+ <entry term="1-deoxy-d-xylulose-6-phosphate synthase" name="1-deoxy-d-xylulose 6-phosphate (doxp) synthase" id="CM.eo_Gene.11"/>
+ <entry term="1-deoxy-d-xylulose-5-phosphate synthase" name="1-deoxy-d-xylulose- 5-phosphate synthase" id="CM.eo_Gene.12"/>
  <entry term="1-deoxyxylulose-5-phosphate synthase" name="1-deoxyxylulose-5-phosphate synthase" id="CM.eo_Gene.13"/>
  <entry term="10-epi-cubebol synthase" name="10-epi-cubebol synthase" id="CM.eo_Gene.14"/>
  <entry term="17-diene synthase" name="17-diene synthase" id="CM.eo_Gene.15"/>
  <entry term="2-methylisoborneol synthases" name="2-methylisoborneol synthases" id="CM.eo_Gene.16"/>
  <entry term="3-carene synthase" name="3-carene synthase" id="CM.eo_Gene.17"/>
- <entry term="3-carene synthase&quot;" name="3-carene synthase&quot;" id="CM.eo_Gene.18"/>
+ <entry term="3-carene synthase" name="3-carene synthase" id="CM.eo_Gene.18"/>
  <entry term="3-ketoacyl-coa synthase" name="3-ketoacyl-coa synthase" id="CM.eo_Gene.19"/>
- <entry term="4-hydroxy-3-methyl-but-2-enyl diphosphate (hmb-pp) synthase" name="4-hydroxy-3-methyl-but-2-enyl diphosphate (hmb-pp) synthase" id="CM.eo_Gene.20"/>
+ <entry term="4-hydroxy-3-methyl-but-2-enyl diphosphate synthase" name="4-hydroxy-3-methyl-but-2-enyl diphosphate (hmb-pp) synthase" id="CM.eo_Gene.20"/>
  <entry term="4-hydroxy-3-methylbut-2 -enyl-diphosphate synthase." name="4-hydroxy-3-methylbut-2 -enyl-diphosphate synthase." id="CM.eo_Gene.21"/>
  <entry term="5-epi-aristolochene synthase" name="5-epi-aristolochene synthase" id="CM.eo_Gene.22"/>
  <entry term="? -farnesene synthase" name="? -farnesene synthase" wikipedia="? -farnesene synthase" id="CM.eo_Gene.23"/>
@@ -30,7 +30,7 @@
  <entry term="?-caryophyllene synthase" name="?-caryophyllene synthase" wikipedia="?-caryophyllene synthase" id="CM.eo_Gene.27"/>
  <entry term="?-eudesmol synthase" name="?-eudesmol synthase" wikipedia="?-eudesmol synthase" id="CM.eo_Gene.28"/>
  <entry term="?-farnesene synthase" name="?-farnesene synthase" wikipedia="?-farnesene synthase" id="CM.eo_Gene.29"/>
- <entry term="?-farnesene synthase " name="?-farnesene synthase " wikipedia="?-farnesene synthase " id="CM.eo_Gene.30"/>
+ <entry term="?-farnesene synthase" name="?-farnesene synthase" wikipedia="?-farnesene synthase" id="CM.eo_Gene.30"/>
  <entry term="?-humulene synthase" name="?-humulene synthase" wikipedia="?-humulene synthase" id="CM.eo_Gene.31"/>
  <entry term="?-muurolene synthase" name="?-muurolene synthase" wikipedia="?-muurolene synthase" id="CM.eo_Gene.32"/>
  <entry term="?-myrcene synthase" name="?-myrcene synthase" wikipedia="?-myrcene synthase" id="CM.eo_Gene.33"/>
@@ -38,7 +38,6 @@
  <entry term="?-pinene synthase" name="?-pinene synthase" wikipedia="?-pinene synthase" id="CM.eo_Gene.35"/>
  <entry term="?-sesquiphellandrane synthase" name="?-sesquiphellandrane synthase" wikipedia="?-sesquiphellandrane synthase" id="CM.eo_Gene.36"/>
  <entry term="?-terpinene synthase" name="?-terpinene synthase" wikipedia="?-terpinene synthase" id="CM.eo_Gene.37"/>
- <entry term="?-terpinene synthases" name="?-terpinene synthases" wikipedia="?-terpinene synthases" id="CM.eo_Gene.38"/>
  <entry term="?-terpineol synthase" name="?-terpineol synthase" wikipedia="?-terpineol synthase" id="CM.eo_Gene.39"/>
  <entry term="?-zingiberene synthase" name="?-zingiberene synthase" wikipedia="?-zingiberene synthase" id="CM.eo_Gene.40"/>
  <entry term="a pinene synthase" name="a pinene synthase" id="CM.eo_Gene.41"/>
@@ -49,7 +48,7 @@
  <entry term="aromandendrene synthase" name="aromandendrene synthase" id="CM.eo_Gene.46"/>
  <entry term="beta-ketoacyl synthase" name="beta-ketoacyl synthase" id="CM.eo_Gene.47"/>
  <entry term="beta-ocimene synthase" name="beta-ocimene synthase" id="CM.eo_Gene.48"/>
- <entry term="beta-ocimene synthase " name="beta-ocimene synthase " id="CM.eo_Gene.49"/>
+ <entry term="beta-ocimene synthase" name="beta-ocimene synthase" id="CM.eo_Gene.49"/>
  <entry term="bi-cyclogermacrene synthase" name="bi-cyclogermacrene synthase" id="CM.eo_Gene.50"/>
  <entry term="bornyl diphosphate synthase" name="bornyl diphosphate synthase" id="CM.eo_Gene.51"/>
  <entry term="bornyl pyrophosphase synthase" name="bornyl pyrophosphase synthase" id="CM.eo_Gene.52"/>
@@ -65,9 +64,9 @@
  <entry term="chitin synthase" name="chitin synthase" id="CM.eo_Gene.62"/>
  <entry term="cineole synthase" name="cineole synthase" id="CM.eo_Gene.63"/>
  <entry term="cis-abienol synthase" name="cis-abienol synthase" id="CM.eo_Gene.64"/>
- <entry term="cis-abienol synthase " name="cis-abienol synthase " id="CM.eo_Gene.65"/>
+ <entry term="cis-abienol synthase" name="cis-abienol synthase" id="CM.eo_Gene.65"/>
  <entry term="cis-muuroladiene synthase" name="cis-muuroladiene synthase" id="CM.eo_Gene.66"/>
- <entry term="cis-muuroladiene synthase " name="cis-muuroladiene synthase " id="CM.eo_Gene.67"/>
+ <entry term="cis-muuroladiene synthase" name="cis-muuroladiene synthase" id="CM.eo_Gene.67"/>
  <entry term="cismuuroladiene synthase" name="cismuuroladiene synthase" id="CM.eo_Gene.68"/>
  <entry term="cittps16" name="cittps16" id="CM.eo_Gene.69"/>
  <entry term="cldtps" name="cldtps" id="CM.eo_Gene.70"/>
@@ -85,13 +84,13 @@
  <entry term="d-limonene synthase" name="d-limonene synthase" id="CM.eo_Gene.82"/>
  <entry term="decaprenyl pyrophosphate synthase" name="decaprenyl pyrophosphate synthase" id="CM.eo_Gene.83"/>
  <entry term="diphosphate synthase" name="diphosphate synthase" id="CM.eo_Gene.84"/>
- <entry term="diphosphate synthase " name="diphosphate synthase " id="CM.eo_Gene.85"/>
+ <entry term="diphosphate synthase" name="diphosphate synthase" id="CM.eo_Gene.85"/>
  <entry term="diterpene synthases." name="diterpene synthases." id="CM.eo_Gene.86"/>
  <entry term="diterpenoid synthase" name="diterpenoid synthase" id="CM.eo_Gene.87"/>
  <entry term="endo-fenchol synthase" name="endo-fenchol synthase" id="CM.eo_Gene.88"/>
  <entry term="ent-kaur-16-ene synthase" name="ent-kaur-16-ene synthase" id="CM.eo_Gene.89"/>
  <entry term="ent-kaurene synthase" name="ent-kaurene synthase" id="CM.eo_Gene.90"/>
- <entry term="epi-alpha bis-abolol synthase " name="epi-alpha bis-abolol synthase " id="CM.eo_Gene.91"/>
+ <entry term="epi-alpha bis-abolol synthase" name="epi-alpha bis-abolol synthase" id="CM.eo_Gene.91"/>
  <entry term="epi-alpha bisabolol synthase" name="epi-alpha bisabolol synthase" id="CM.eo_Gene.92"/>
  <entry term="epi-isozizaene synthase" name="epi-isozizaene synthase" id="CM.eo_Gene.93"/>
  <entry term="eucalyptol synthase" name="eucalyptol synthase" id="CM.eo_Gene.94"/>
@@ -113,9 +112,7 @@
  <entry term="germacrene a synthase" name="germacrene a synthase" id="CM.eo_Gene.110"/>
  <entry term="germacrene d synthase" name="germacrene d synthase" id="CM.eo_Gene.111"/>
  <entry term="germacrene-a synthase" name="germacrene-a synthase" id="CM.eo_Gene.112"/>
- <entry term="germacrene-a synthase " name="germacrene-a synthase " id="CM.eo_Gene.113"/>
  <entry term="germacrene-d synthase" name="germacrene-d synthase" id="CM.eo_Gene.114"/>
- <entry term="germacrene-dsynthase" name="germacrene-dsynthase" id="CM.eo_Gene.115"/>
  <entry term="gpp synthase" name="gpp synthase" id="CM.eo_Gene.116"/>
  <entry term="gps1" name="gps1" id="CM.eo_Gene.117"/>
  <entry term="hydroxymethylglutaryl-coa synthase" name="hydroxymethylglutaryl-coa synthase" id="CM.eo_Gene.118"/>
@@ -124,18 +121,14 @@
  <entry term="isoprenyl diphosphate synthases" name="isoprenyl diphosphate synthases" id="CM.eo_Gene.121"/>
  <entry term="kaurene synthase" name="kaurene synthase" id="CM.eo_Gene.122"/>
  <entry term="limonene synthase" name="limonene synthase" wikipedia="limonene synthase" id="CM.eo_Gene.123"/>
- <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" id="CM.eo_Gene.124"/>
  <entry term="longiborneol synthase" name="longiborneol synthase" id="CM.eo_Gene.125"/>
  <entry term="menthofuran synthase" name="menthofuran synthase" id="CM.eo_Gene.126"/>
  <entry term="mlongtps29" name="mlongtps29" id="CM.eo_Gene.127"/>
  <entry term="mono terpene synthase" name="mono terpene synthase" id="CM.eo_Gene.128"/>
- <entry term="mono terpene synthase " name="mono terpene synthase " id="CM.eo_Gene.129"/>
  <entry term="monoterpene synthase" name="monoterpene synthase" id="CM.eo_Gene.130"/>
- <entry term="mtpsl)" name="mtpsl)" id="CM.eo_Gene.131"/>
  <entry term="murolene synthase" name="murolene synthase" id="CM.eo_Gene.132"/>
  <entry term="myrcene synthase" name="myrcene synthase" id="CM.eo_Gene.133"/>
  <entry term="nerolidol synthase" name="nerolidol synthase" id="CM.eo_Gene.134"/>
- <entry term="nerolidol synthases" name="nerolidol synthases" id="CM.eo_Gene.135"/>
  <entry term="neryl pyrophosphate synthase" name="neryl pyrophosphate synthase" id="CM.eo_Gene.136"/>
  <entry term="ocimene synthase" name="ocimene synthase" id="CM.eo_Gene.137"/>
  <entry term="octaprenyl pyrophosphate synthase" name="octaprenyl pyrophosphate synthase" id="CM.eo_Gene.138"/>
@@ -174,7 +167,7 @@
  <entry term="osatps41" name="osatps41" id="CM.eo_Gene.171"/>
  <entry term="osatps44" name="osatps44" id="CM.eo_Gene.172"/>
  <entry term="osatps45" name="osatps45" id="CM.eo_Gene.173"/>
- <entry term="osatps46 " name="osatps46 " id="CM.eo_Gene.174"/>
+ <entry term="osatps46" name="osatps46" id="CM.eo_Gene.174"/>
  <entry term="osatps47" name="osatps47" id="CM.eo_Gene.175"/>
  <entry term="osatps5" name="osatps5" id="CM.eo_Gene.176"/>
  <entry term="osatps6" name="osatps6" id="CM.eo_Gene.177"/>
@@ -206,7 +199,7 @@
  <entry term="terpene synthase 4" name="terpene synthase 4" id="CM.eo_Gene.203"/>
  <entry term="terpenoid synthase" name="terpenoid synthase" id="CM.eo_Gene.204"/>
  <entry term="terpenoid synthase genes" name="terpenoid synthase genes" id="CM.eo_Gene.205"/>
- <entry term="terpenoline synthase " name="terpenoline synthase " id="CM.eo_Gene.206"/>
+ <entry term="terpenoline synthase" name="terpenoline synthase" id="CM.eo_Gene.206"/>
  <entry term="terpinolene synthase" name="terpinolene synthase" id="CM.eo_Gene.207"/>
  <entry term="tps-a sesquiterpene synthase" name="tps-a sesquiterpene synthase" id="CM.eo_Gene.208"/>
  <entry term="tps-b monoterpene synthase" name="tps-b monoterpene synthase" id="CM.eo_Gene.209"/>
@@ -229,8 +222,8 @@
  <entry term="triterpene oxidosqualene synthase" name="triterpene oxidosqualene synthase" id="CM.eo_Gene.226"/>
  <entry term="undecaprenyl pyrophosphate synthase" name="undecaprenyl pyrophosphate synthase" id="CM.eo_Gene.227"/>
  <entry term="valencene synthase" name="valencene synthase" id="CM.eo_Gene.228"/>
- <entry term="vetispiradiene synthase " name="vetispiradiene synthase " id="CM.eo_Gene.229"/>
+ <entry term="vetispiradiene synthase" name="vetispiradiene synthase" id="CM.eo_Gene.229"/>
  <entry term="viridiflorene synthase" name="viridiflorene synthase" id="CM.eo_Gene.230"/>
- <entry term="viridiflorene synthase " name="viridiflorene synthase " id="CM.eo_Gene.231"/>
+ <entry term="viridiflorene synthase" name="viridiflorene synthase" id="CM.eo_Gene.231"/>
  <entry term="y-terpenine synthase" name="y-terpenine synthase" id="CM.eo_Gene.232"/>
 </dictionary>
