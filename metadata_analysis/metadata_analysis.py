@@ -5,6 +5,7 @@ import os
 import re
 import subprocess
 import xml.etree.ElementTree as ET
+import json
 
 import pandas as pd
 import scispacy
@@ -67,7 +68,7 @@ def parse_xml(output_directory, section, metadata_dictionary=metadata_dictionary
         for result in test_glob:
             tree = ET.parse(result)
             root = tree.getroot()
-            xmlstr = ET.tostring(root, encoding='utf8', method='xml')
+            xmlstr = ET.tostring(root, encoding='utf-8', method='xml')
             soup = BeautifulSoup(xmlstr, features='lxml')
             text = soup.get_text(separator="")
             text = text.replace('\n', '')
@@ -121,12 +122,12 @@ def key_phrase_extraction(section, metadata_dictionary=metadata_dictionary):
 def get_organism(section,label_interested= 'GENE_OR_GENE_PRODUCT', metadata_dictionary=metadata_dictionary):
     nlp = spacy.load("en_ner_bionlp13cg_md")
     metadata_dictionary["entities"] = []
-    for text in metadata_dictionary[f"{section}"]:
+    for sci_text in metadata_dictionary[f"{section}"]:
         entity = []
-        doc = nlp(text)
+        doc = nlp(sci_text)
         for ent in doc.ents:
             if ent.label_ == label_interested:
-                entity.append(ent)
+                entity.append(ent.text)
         metadata_dictionary["entities"].append(entity)
     logging.info(F"NER using SciSpacy - looking for {label_interested}")
 
@@ -135,6 +136,14 @@ def convert_to_csv(path='keywords_results_yake_organism_pmcid_tps_cam_ter_c.csv'
     df = pd.DataFrame(metadata_dictionary)
     df.to_csv(path, encoding='utf-8', line_terminator='\r\n')
     logging.info(f'writing the keywords to {path}')
+
+
+def convert_to_json(path='results_json_file.json', metadata_dictionary = metadata_dictionary):
+    json_file = json.dumps(metadata_dictionary)
+    f = open(path,"w", encoding='ascii')
+    f.write(json_file)
+    f.close()
+    logging.info(f'writing the dictionary to {path}')
 
 
 def look_for_a_word(section, search_for="TPS", metadata_dictionary=metadata_dictionary):
@@ -146,7 +155,7 @@ def look_for_a_word(section, search_for="TPS", metadata_dictionary=metadata_dict
     logging.info(f"looking for {search_for} in {section}")
 
 
-def look_for_next_word(section, search_for=["number:", "no.", "No.", "number"], metadata_dictionary=metadata_dictionary):
+def look_for_next_word(section, search_for=["number:", "no.", "No.", "number" ], metadata_dictionary=metadata_dictionary):
     metadata_dictionary[f"{search_for}_match"] = []
     for text in metadata_dictionary[f"{section}"]:
         words = text.split(" ")
@@ -169,7 +178,7 @@ def add_if_file_contains_terms(section, metadata_dictionary=metadata_dictionary,
 
 
 
-CPROJECT = os.path.join(os.getcwd(), 'corpus', 'approval_number_300_getpapers')
+CPROJECT = os.path.join(os.getcwd(), 'corpus', 'approval_number')
 SECTION= 'ethic'
 #querying_pygetpapers_sectioning("approval number",'300',CPROJECT)
 get_metadata_json(CPROJECT)
@@ -178,9 +187,10 @@ parse_xml(CPROJECT, SECTION)
 get_abstract()
 get_keywords()
 key_phrase_extraction(SECTION)
-#get_organism(SECTION)
+get_organism(SECTION)
 look_for_next_word(SECTION)
 #look_for_next_word(SECTION, search_for="C.")
 #look_for_next_word(SECTION, search_for='Citrus')
 #add_if_file_contains_terms(SECTION)
-convert_to_csv(f'ethics_approval_{SECTION}.csv')
+convert_to_csv(f'ethics_approval_{SECTION}s_100.csv')
+convert_to_json()
