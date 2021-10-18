@@ -16,8 +16,9 @@
  <entry term="chalcone synthase" name="chalcone synthase" wikipedia="chalcone synthase" id="CM.eo_Gene.12"/>
  <entry term="copalyl diphosphate synthase" name="copalyl diphosphate synthase" id="CM.eo_Gene.13"/>
  <entry term="diterpene synthase" name="diterpene synthase" id="CM.eo_Gene.14"/>
- <entry term="farnesyl diphosphate synthase" name="farnesyl diphosphate synthase" wikipedia="farnesyl diphosphate synthase" id="CM.eo_Gene.15"/>
- <entry term="farnesyl pyrophosphate synthase" name="farnesyl pyrophosphate synthase" wikipedia="farnesyl pyrophosphate synthase" id="CM.eo_Gene.16"/>
+ <entry term="farnesyl diphosphate synthase" name="farnesyl diphosphate synthase" wikipedia="farnesyl diphosphate synthase" id="CM.eo_Gene.15">
+  <synonym>farnesyl pyrophosphate synthase</synonym>
+ </entry>
  <entry term="isoprene synthase" name="isoprene synthase" id="CM.eo_Gene.17"/>
  <entry term="kaurene synthase 3" name="kaurene synthase 3" id="CM.eo_Gene.18"/>
  <entry term="kaurene synthase 4" name="kaurene synthase 4" id="CM.eo_Gene.19"/>
