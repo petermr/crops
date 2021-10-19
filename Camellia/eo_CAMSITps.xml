@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="eo_CAMSITps">
- <entry term="1,3-beta-d-glucan synthase activitylucan" name="1,3-beta-d-glucan synthase activitylucan" id="CM.eo_CAMSITps.0"/>
+ <entry term="1,3-beta-d-glucan synthase" name="1,3-beta-d-glucan synthase" id="CM.eo_CAMSITps.0"/>
  <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.eo_CAMSITps.1"/>
  <entry term="1-aminocyclopropane-1-carboxylate synthase(acc)" name="1-aminocyclopropane-1-carboxylate synthase(acc)" id="CM.eo_CAMSITps.2"/>
  <entry term="1-deoxy-d-xylulose-5-phosphate synthase" name="1-deoxy-d-xylulose-5-phosphate synthase" id="CM.eo_CAMSITps.3"/>
@@ -24,9 +24,9 @@
  <entry term="5-epi-aristolochene synthase" name="5-epi-aristolochene synthase" id="CM.eo_CAMSITps.21"/>
  <entry term="5-epi-aristolochene synthase 4" name="5-epi-aristolochene synthase 4" id="CM.eo_CAMSITps.22"/>
  <entry term="6,7-dimethyl-8-ribityllumazine synthase" name="6,7-dimethyl-8-ribityllumazine synthase" id="CM.eo_CAMSITps.23"/>
- <entry term="acyl-coa synthase(lacs)" name="acyl-coa synthase(lacs)" id="CM.eo_CAMSITps.24"/>
+ <entry term="acyl-coa synthase" name="acyl-coa synthase" id="CM.eo_CAMSITps.24"/>
  <entry term="adenylosuccinate synthase" name="adenylosuccinate synthase" wikipedia="adenylosuccinate synthase" id="CM.eo_CAMSITps.25"/>
- <entry term="all-trans-nonaprenyl-diphosphate synthase" name="all-trans-nonaprenyl-diphosphate synthase" wikipedia="all-trans-nonaprenyl-diphosphate synthase" id="CM.eo_CAMSITps.26"/>
+ <entry term="trans-nonaprenyl-diphosphate synthase" name="trans-nonaprenyl-diphosphate synthase" wikipedia="all-trans-nonaprenyl-diphosphate synthase" id="CM.eo_CAMSITps.26"/>
  <entry term="allene oxide synthase(aos)" name="allene oxide synthase(aos)" id="CM.eo_CAMSITps.27"/>
  <entry term="alpha-bergamotene synthase(abs)" name="alpha-bergamotene synthase(abs)" id="CM.eo_CAMSITps.28"/>
  <entry term="alpha-beta-terpenoid synthases" name="alpha-beta-terpenoid synthases" id="CM.eo_CAMSITps.29"/>
@@ -143,7 +143,7 @@
  <entry term="cis-muuroladiene synthase" name="cis-muuroladiene synthase" id="CM.eo_CAMSITps.140"/>
  <entry term="cytosolic nerolidol synthase" name="cytosolic nerolidol synthase" id="CM.eo_CAMSITps.141"/>
  <entry term="delta cadinene synthase" name="delta cadinene synthase" id="CM.eo_CAMSITps.142"/>
- <entry term="delta-selinene synthase" name="delta-selinene synthase" id="CM.eo_CAMSITps.143"/>
+ <entry term="delta selinene synthase" name="delta-selinene synthase" id="CM.eo_CAMSITps.143"/>
  <entry term="deoxy-d-xylulose 5-phosphate synthase(dxs)" name="deoxy-d-xylulose 5-phosphate synthase(dxs)" id="CM.eo_CAMSITps.144"/>
  <entry term="diterpene synthases" name="diterpene synthases" id="CM.eo_CAMSITps.145"/>
  <entry term="ent-copalyl diphosphate synthase" name="ent-copalyl diphosphate synthase" wikipedia="ent-copalyl diphosphate synthase" id="CM.eo_CAMSITps.146"/>
