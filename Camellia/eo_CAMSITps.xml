@@ -2,11 +2,13 @@
 <dictionary title="eo_CAMSITps">
  <entry term="1,3-beta-d-glucan synthase" name="1,3-beta-d-glucan synthase" id="CM.eo_CAMSITps.0"/>
  <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.eo_CAMSITps.1"/>
- <entry term="1-aminocyclopropane-1-carboxylate synthase" name="1-aminocyclopropane-1-carboxylate synthase(acc)" id="CM.eo_CAMSITps.2"/>
- <synonym>ACC</synonym>
+ <entry term="1-aminocyclopropane-1-carboxylate synthase" name="1-aminocyclopropane-1-carboxylate synthase(acc)" id="CM.eo_CAMSITps.2">
+   <synonym>ACC</synonym>
+ </entry>
  <entry term="1-deoxy-d-xylulose-5-phosphate synthase" name="1-deoxy-d-xylulose-5-phosphate synthase" id="CM.eo_CAMSITps.3"/>
- <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase (hds)" id="CM.eo_CAMSITps.4"/>
- <synonym>hds</synonym>
+ <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase (hds)" id="CM.eo_CAMSITps.4">
+   <synonym>hds</synonym>
+ </entry>
  <entry term="2-4-cyclodiphosphate synthase" name="2-4-cyclodiphosphate synthase" id="CM.eo_CAMSITps.5"/>
  <entry term="2-c-methyl-d-erythritol-2,4-cyclodiphosphate synthase (mds)" name="2-c-methyl-d-erythritol-2,4-cyclodiphosphate synthase (mds)" id="CM.eo_CAMSITps.7"/>
  <entry term="2-pyrone synthase" name="2-pyrone synthase" id="CM.eo_CAMSITps.8"/>
@@ -14,7 +16,9 @@
  <entry term="3-dehydroquinate synthase" name="3-dehydroquinate synthase" id="CM.eo_CAMSITps.10"/>
  <entry term="3-deoxy-7-phosphoheptulonate synthase" name="3-deoxy-7-phosphoheptulonate synthase" id="CM.eo_CAMSITps.11"/>
  <entry term="3-deoxy-d4 arabino-heptulosonate-7-phosphate synthase" name="3-deoxy-d4 arabino-heptulosonate-7-phosphate synthase" id="CM.eo_CAMSITps.12"/>
- <entry term="3-hydroxy-3- glutaryl coenzyme a synthase(hmgs)" name="3-hydroxy-3- glutaryl coenzyme a synthase(hmgs)" id="CM.eo_CAMSITps.13"/>
+ <entry term="3-hydroxy-3- glutaryl coenzyme a synthase" name="3-hydroxy-3- glutaryl coenzyme a synthase(hmgs)" id="CM.eo_CAMSITps.13">
+  <synonym>hmgs</synonym>
+ </entry>
  <entry term="3-hydroxy-3-methylglutaryl-coa synthase (hmgr)" name="3-hydroxy-3-methylglutaryl-coa synthase (hmgr)" id="CM.eo_CAMSITps.14"/>
  <entry term="3-oxoacyl synthase" name="3-oxoacyl synthase" id="CM.eo_CAMSITps.15"/>
  <entry term="3s,6e-nerolidol synthase 1" name="3s,6e-nerolidol synthase 1" id="CM.eo_CAMSITps.16"/>
