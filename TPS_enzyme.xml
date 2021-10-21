@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="TPS_enzyme" version="0.0.1">
- <entry term="1,8-cineole synthase" name="1,8-cineole synthase&quot" id="CM.TPS_enzyme.0"/>
+ <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.TPS_enzyme.0"/>
  <entry term="(+)-alpha-barbatene synthase" name="(+)-alpha-barbatene synthase" id="CM.TPS_enzyme.1"/>
  <entry term="(+)-alpha-pinene synthase" name="(+)-alpha-pinene synthase" id="CM.TPS_enzyme.2"/>
  <entry term="(+)-alpha-terpineol synthase" name="(+)-alpha-terpineol synthase" id="CM.TPS_enzyme.3"/>
