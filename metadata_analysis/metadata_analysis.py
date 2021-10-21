@@ -102,7 +102,7 @@ def get_keywords(metadata_dictionary=metadata_dictionary):
                 metadata_dictionary["keywords"].append(
                     metadata_in_json["full"]["keywordList"]["keyword"])
             except KeyError:
-                metadata_dictionary["keywords"].append('NaN')
+                metadata_dictionary["keywords"].append([])
     logging.info("getting the keywords from metadata")
 
 
@@ -119,8 +119,9 @@ def key_phrase_extraction(section, metadata_dictionary=metadata_dictionary):
     logging.info(f'extracted key phrases from {section}')
 
 
-def get_organism(section,label_interested= 'GENE_OR_GENE_PRODUCT', metadata_dictionary=metadata_dictionary):
-    nlp = spacy.load("en_ner_bionlp13cg_md")
+def get_organism(section,label_interested= 'TAXON', metadata_dictionary=metadata_dictionary):
+    #nlp = spacy.load("en_ner_bionlp13cg_md")
+    nlp = spacy.load("en_core_sci_sm")
     metadata_dictionary["entities"] = []
     for sci_text in metadata_dictionary[f"{section}"]:
         entity = []
@@ -138,7 +139,7 @@ def convert_to_csv(path='keywords_results_yake_organism_pmcid_tps_cam_ter_c.csv'
     logging.info(f'writing the keywords to {path}')
 
 
-def convert_to_json(path='results_json_file.json', metadata_dictionary = metadata_dictionary):
+def convert_to_json(path='ethics_statement_2000.json', metadata_dictionary = metadata_dictionary):
     json_file = json.dumps(metadata_dictionary)
     f = open(path,"w", encoding='ascii')
     f.write(json_file)
@@ -160,13 +161,16 @@ def look_for_next_word(section, search_for=["number:", "no.", "No.", "number" ],
     for text in metadata_dictionary[f"{section}"]:
         words = text.split(" ")
         words = iter(words)
-        match_list = ([next(words) for s in words if any(xs in s for xs in search_for)])
-        metadata_dictionary[f"{search_for}_match"] .append(match_list)
+        try:
+            match_list = ([next(words) for s in words if any(xs in s for xs in search_for)])
+            metadata_dictionary[f"{search_for}_match"].append(match_list)
+        except StopIteration:
+            metadata_dictionary[f"{search_for}_match"].append([])
+
     logging.info(f"looking for {search_for} in {section}")
-     
 
 
-def add_if_file_contains_terms(section, metadata_dictionary=metadata_dictionary, terms=['terpene synthase']):
+def add_if_file_contains_terms(section, metadata_dictionary=metadata_dictionary, terms=['iNaturalist']):
     metadata_dictionary["terms"] = []
     for term in terms:
         for text in metadata_dictionary[f"{section}"]:
@@ -178,19 +182,19 @@ def add_if_file_contains_terms(section, metadata_dictionary=metadata_dictionary,
 
 
 
-CPROJECT = os.path.join(os.getcwd(), 'corpus', 'approval_number')
+CPROJECT = os.path.join(os.path.expanduser('~'), 'ethics_statement_2000_generic')
 SECTION= 'ethic'
-#querying_pygetpapers_sectioning("approval number",'300',CPROJECT)
+#querying_pygetpapers_sectioning("inaturalist",'500',CPROJECT)
 get_metadata_json(CPROJECT)
 get_PMCIDS()
 parse_xml(CPROJECT, SECTION)
 get_abstract()
 get_keywords()
 key_phrase_extraction(SECTION)
-get_organism(SECTION)
+#get_organism(SECTION)
 look_for_next_word(SECTION)
 #look_for_next_word(SECTION, search_for="C.")
 #look_for_next_word(SECTION, search_for='Citrus')
-#add_if_file_contains_terms(SECTION)
-convert_to_csv(f'ethics_approval_{SECTION}s_100.csv')
+add_if_file_contains_terms(SECTION)
+convert_to_csv(f'ethics_{SECTION}2000.csv')
 convert_to_json()
