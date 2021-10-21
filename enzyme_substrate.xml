@@ -1,1099 +1,1099 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="enzyme_substrate" version="0.0.1">
- <entry term="&quot;(e,e)-fpp&quot;" name="&quot;(e,e)-fpp&quot;" id="CM.enzyme_substrate.0"/>
- <entry term="&quot;(z,z)-fpp synthase&quot;" name="&quot;(z,z)-fpp synthase&quot;" id="CM.enzyme_substrate.1"/>
- <entry term="&quot;(z,z)-fpp&quot;" name="&quot;(z,z)-fpp&quot;" id="CM.enzyme_substrate.2"/>
- <entry term="&quot;1,8-cineole synthase&quot;" name="&quot;1,8-cineole synthase&quot;" id="CM.enzyme_substrate.3"/>
- <entry term="&quot;2-c-methyl-d-ery- thritol-2,4-cyclodiphosphate synthase&quot;" name="&quot;2-c-methyl-d-ery- thritol-2,4-cyclodiphosphate synthase&quot;" id="CM.enzyme_substrate.4"/>
- <entry term="&quot;2-c-methyl-d-erythritol 2,4- cyclodiphosphate synthase&quot;" name="&quot;2-c-methyl-d-erythritol 2,4- cyclodiphosphate synthase&quot;" id="CM.enzyme_substrate.5"/>
- <entry term="&quot;2-c-methyl-d-erythritol 2,4-cyclod- iphosphate reductase&quot;" name="&quot;2-c-methyl-d-erythritol 2,4-cyclod- iphosphate reductase&quot;" id="CM.enzyme_substrate.6"/>
- <entry term="&quot;2-c-methyl-d-erythritol 2,4-cyclodi- phosphate&quot;" name="&quot;2-c-methyl-d-erythritol 2,4-cyclodi- phosphate&quot;" id="CM.enzyme_substrate.7"/>
- <entry term="&quot;4,8-dimethylnona-1,3,7-triene&quot;" name="&quot;4,8-dimethylnona-1,3,7-triene&quot;" id="CM.enzyme_substrate.8"/>
- <entry term="&quot;g8h,&quot;" name="&quot;g8h,&quot;" id="CM.enzyme_substrate.9"/>
- <entry term="&quot;trans,trans-farnesyl diphosphate&quot;" name="&quot;trans,trans-farnesyl diphosphate&quot;" id="CM.enzyme_substrate.10"/>
- <entry term="&quot;z,z-fpp&quot;" name="&quot;z,z-fpp&quot;" id="CM.enzyme_substrate.11"/>
- <entry term="( )-delta-cadinene synthase" name="( )-delta-cadinene synthase" id="CM.enzyme_substrate.12"/>
- <entry term="(+)-alpha-barbatene synthase" name="(+)-alpha-barbatene synthase" id="CM.enzyme_substrate.13"/>
- <entry term="(+)-alpha-pinene synthase" name="(+)-alpha-pinene synthase" id="CM.enzyme_substrate.14"/>
- <entry term="(+)-alpha-terpineol synthase" name="(+)-alpha-terpineol synthase" id="CM.enzyme_substrate.15"/>
- <entry term="(+)-bornyl diphosphate synthase" name="(+)-bornyl diphosphate synthase" id="CM.enzyme_substrate.16"/>
- <entry term="(+)-car-3-ene synthase" name="(+)-car-3-ene synthase" id="CM.enzyme_substrate.17"/>
- <entry term="(+)-copalyl diphosphate synthase 3" name="(+)-copalyl diphosphate synthase 3" id="CM.enzyme_substrate.18"/>
- <entry term="(+)-corvol ether a synthase" name="(+)-corvol ether a synthase" id="CM.enzyme_substrate.19"/>
- <entry term="(+)-corvol ether b synthase" name="(+)-corvol ether b synthase" id="CM.enzyme_substrate.20"/>
- <entry term="(+)-delta-cadinene synthase" name="(+)-delta-cadinene synthase" id="CM.enzyme_substrate.21"/>
- <entry term="(+)-delta-cadinene synthase isozyme a os" name="(+)-delta-cadinene synthase isozyme a os" id="CM.enzyme_substrate.22"/>
- <entry term="(+)-gamma-cadinene synthase" name="(+)-gamma-cadinene synthase" id="CM.enzyme_substrate.23"/>
- <entry term="(+)-gamma-cadinene synthase-" name="(+)-gamma-cadinene synthase-" id="CM.enzyme_substrate.24"/>
- <entry term="(+)-germacrene d synthase" name="(+)-germacrene d synthase" id="CM.enzyme_substrate.25"/>
- <entry term="(+)-limonene synthase" name="(+)-limonene synthase" id="CM.enzyme_substrate.26"/>
- <entry term="(+)-sabinene synthase" name="(+)-sabinene synthase" id="CM.enzyme_substrate.27"/>
- <entry term="(+)-t-muurolol synthase" name="(+)-t-muurolol synthase" id="CM.enzyme_substrate.28"/>
- <entry term="(-)-(e)-beta-caryophyllene synthase" name="(-)-(e)-beta-caryophyllene synthase" id="CM.enzyme_substrate.29"/>
- <entry term="(-)-a-terpineol synthase" name="(-)-a-terpineol synthase" id="CM.enzyme_substrate.30"/>
- <entry term="(-)-alpha-amorphene synthase" name="(-)-alpha-amorphene synthase" id="CM.enzyme_substrate.31"/>
- <entry term="(-)-alpha-pinene synthase" name="(-)-alpha-pinene synthase" id="CM.enzyme_substrate.32"/>
- <entry term="(-)-alpha-pinene synthase-" name="(-)-alpha-pinene synthase-" id="CM.enzyme_substrate.33"/>
- <entry term="(-)-alpha-terpineol synthase" name="(-)-alpha-terpineol synthase" id="CM.enzyme_substrate.34"/>
- <entry term="(-)-alpha-terpineol synthase-" name="(-)-alpha-terpineol synthase-" id="CM.enzyme_substrate.35"/>
- <entry term="(-)-beta-caryophyllene synthase" name="(-)-beta-caryophyllene synthase" id="CM.enzyme_substrate.36"/>
- <entry term="(-)-beta-pinene synthase" name="(-)-beta-pinene synthase" id="CM.enzyme_substrate.37"/>
- <entry term="(-)-camphenetricyclene synthase" name="(-)-camphenetricyclene synthase" id="CM.enzyme_substrate.38"/>
- <entry term="(-)-endo-fenchol synthase" name="(-)-endo-fenchol synthase" id="CM.enzyme_substrate.39"/>
- <entry term="(-)-gamma-cadinene synthase" name="(-)-gamma-cadinene synthase" id="CM.enzyme_substrate.40"/>
- <entry term="(-)-germacrene d synthase" name="(-)-germacrene d synthase" id="CM.enzyme_substrate.41"/>
- <entry term="(-)-kolavenyl diphosphate synthase" name="(-)-kolavenyl diphosphate synthase" id="CM.enzyme_substrate.42"/>
- <entry term="(-)-limonene synthase" name="(-)-limonene synthase" id="CM.enzyme_substrate.43"/>
- <entry term="(3s)-linalool synthase" name="(3s)-linalool synthase" id="CM.enzyme_substrate.44"/>
- <entry term="(3s-6e)-nerolidol synthase" name="(3s-6e)-nerolidol synthase" id="CM.enzyme_substrate.45"/>
- <entry term="(e)-4-hydroxy-3-methylbut-2-enyl diphosphate" name="(e)-4-hydroxy-3-methylbut-2-enyl diphosphate" id="CM.enzyme_substrate.46"/>
- <entry term="(e)-beta-farnesene synthase" name="(e)-beta-farnesene synthase" id="CM.enzyme_substrate.47"/>
- <entry term="(e)-beta-ocimene synthase" name="(e)-beta-ocimene synthase" id="CM.enzyme_substrate.48"/>
- <entry term="(e)-nerolidol synthase" name="(e)-nerolidol synthase" id="CM.enzyme_substrate.49"/>
- <entry term="(ee)-geranyl linalool synthase" name="(ee)-geranyl linalool synthase" id="CM.enzyme_substrate.50"/>
- <entry term="(r)-limonene synthase" name="(r)-limonene synthase" id="CM.enzyme_substrate.51"/>
- <entry term="(r)-limonene synthase 1" name="(r)-limonene synthase 1" id="CM.enzyme_substrate.52"/>
- <entry term="(r)-linalool synthase" name="(r)-linalool synthase" id="CM.enzyme_substrate.53"/>
- <entry term="(s)-beta-bisabolene synthase" name="(s)-beta-bisabolene synthase" id="CM.enzyme_substrate.54"/>
- <entry term="(s)-beta-macrocarpene synthase" name="(s)-beta-macrocarpene synthase" id="CM.enzyme_substrate.55"/>
- <entry term="(z-gamma-bisabolene synthase" name="(z-gamma-bisabolene synthase" id="CM.enzyme_substrate.56"/>
- <entry term="- (+)-delta-cadinene synthase" name="- (+)-delta-cadinene synthase" id="CM.enzyme_substrate.57"/>
- <entry term="- (r)-limonene synthase" name="- (r)-limonene synthase" id="CM.enzyme_substrate.58"/>
- <entry term="04 - alpha-humulene synthase" name="04 - alpha-humulene synthase" id="CM.enzyme_substrate.59"/>
- <entry term="1-deoxy- d-xylulose-5-p reductoisomerase" name="1-deoxy- d-xylulose-5-p reductoisomerase" id="CM.enzyme_substrate.60"/>
- <entry term="1-deoxy-d- xylulose-5-p synthase" name="1-deoxy-d- xylulose-5-p synthase" id="CM.enzyme_substrate.61"/>
- <entry term="1-deoxy-d-xylulose 5-phosphate" name="1-deoxy-d-xylulose 5-phosphate" id="CM.enzyme_substrate.62"/>
- <entry term="1-deoxy-d-xylulose 5-phosphate reductoisomerase" name="1-deoxy-d-xylulose 5-phosphate reductoisomerase" id="CM.enzyme_substrate.63"/>
- <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate reductase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate reductase" id="CM.enzyme_substrate.64"/>
- <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" id="CM.enzyme_substrate.65"/>
- <entry term="10-epi-junenol synthase" name="10-epi-junenol synthase" id="CM.enzyme_substrate.66"/>
- <entry term="2-c-methyl-d-erythritol-4-p cytidylyltransferase" name="2-c-methyl-d-erythritol-4-p cytidylyltransferase" id="CM.enzyme_substrate.67"/>
- <entry term="3 - copal-8-ol diphosphate hydratase" name="3 - copal-8-ol diphosphate hydratase" id="CM.enzyme_substrate.68"/>
- <entry term="3-hydroxy-3-methylglutaryl-coa" name="3-hydroxy-3-methylglutaryl-coa" id="CM.enzyme_substrate.69"/>
- <entry term="3car" name="3car" id="CM.enzyme_substrate.70"/>
- <entry term="3r-linalool synthase" name="3r-linalool synthase" id="CM.enzyme_substrate.71"/>
- <entry term="4 - geranyllinalool synthase" name="4 - geranyllinalool synthase" id="CM.enzyme_substrate.72"/>
- <entry term="4-(cytidine 5?-diphospho)- 2-c-methyl-d-erythritol phosphate" name="4-(cytidine 5?-diphospho)- 2-c-methyl-d-erythritol phosphate" id="CM.enzyme_substrate.73"/>
- <entry term="4-(cytidine 5?-diphospho)-2-c-methyl-d-erythritol" name="4-(cytidine 5?-diphospho)-2-c-methyl-d-erythritol" id="CM.enzyme_substrate.74"/>
- <entry term="4-diphos- phocytidyl-2-c-methyl-d-erythritol kinase" name="4-diphos- phocytidyl-2-c-methyl-d-erythritol kinase" id="CM.enzyme_substrate.75"/>
- <entry term="4-diphosphocytidyl-2- c-methyl-d-erythritol" name="4-diphosphocytidyl-2- c-methyl-d-erythritol" id="CM.enzyme_substrate.76"/>
- <entry term="4-diphosphocytidyl-2-c-methyl-d- erythritol synthase" name="4-diphosphocytidyl-2-c-methyl-d- erythritol synthase" id="CM.enzyme_substrate.77"/>
- <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol 2-phosphate" name="4-diphosphocytidyl-2-c-methyl-d-erythritol 2-phosphate" id="CM.enzyme_substrate.78"/>
- <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" name="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" id="CM.enzyme_substrate.79"/>
- <entry term="4-epi-cubebol synthase" name="4-epi-cubebol synthase" id="CM.enzyme_substrate.80"/>
- <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate" name="4-hydroxy-3-methylbut-2-enyl diphosphate" id="CM.enzyme_substrate.81"/>
- <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" name="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" id="CM.enzyme_substrate.82"/>
- <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate synthase" name="4-hydroxy-3-methylbut-2-enyl diphosphate synthase" id="CM.enzyme_substrate.83"/>
- <entry term="5 - (-)-germacrene d synthase" name="5 - (-)-germacrene d synthase" id="CM.enzyme_substrate.84"/>
- <entry term="5 - tricyclene synthase" name="5 - tricyclene synthase" id="CM.enzyme_substrate.85"/>
- <entry term="5-epi-aristolochene synthase" name="5-epi-aristolochene synthase" id="CM.enzyme_substrate.86"/>
- <entry term="5-epi-aristolochene synthase os" name="5-epi-aristolochene synthase os" id="CM.enzyme_substrate.87"/>
- <entry term="5-epiaristolochene synthase" name="5-epiaristolochene synthase" id="CM.enzyme_substrate.88"/>
- <entry term="5-epiaristolochene synthase os" name="5-epiaristolochene synthase os" id="CM.enzyme_substrate.89"/>
- <entry term="5eas2_0" name="5eas2_0" id="CM.enzyme_substrate.90"/>
- <entry term="5eas2_1" name="5eas2_1" id="CM.enzyme_substrate.91"/>
- <entry term="5eas3" name="5eas3" id="CM.enzyme_substrate.92"/>
- <entry term="5eas4_0" name="5eas4_0" id="CM.enzyme_substrate.93"/>
- <entry term="5eas4_1" name="5eas4_1" id="CM.enzyme_substrate.94"/>
- <entry term="6 - gamma-muurolene synthase" name="6 - gamma-muurolene synthase" id="CM.enzyme_substrate.95"/>
- <entry term="6 - terpene synthase family" name="6 - terpene synthase family" id="CM.enzyme_substrate.96"/>
- <entry term="7 - terpene synthase" name="7 - terpene synthase" id="CM.enzyme_substrate.97"/>
- <entry term="7-epi-alpha-eudesmol synthase" name="7-epi-alpha-eudesmol synthase" id="CM.enzyme_substrate.98"/>
- <entry term="7-epi-alpha-selinene synthase" name="7-epi-alpha-selinene synthase" id="CM.enzyme_substrate.99"/>
- <entry term="7-epi-sesquithujene synthase" name="7-epi-sesquithujene synthase" id="CM.enzyme_substrate.100"/>
- <entry term="7-epizingiberene synthase" name="7-epizingiberene synthase" id="CM.enzyme_substrate.101"/>
- <entry term="8 - (+)-epi-alpha-bisabolol synthase" name="8 - (+)-epi-alpha-bisabolol synthase" id="CM.enzyme_substrate.102"/>
- <entry term="8 - beta-cubebene synthase" name="8 - beta-cubebene synthase" id="CM.enzyme_substrate.103"/>
- <entry term="aact" name="aact" wikipedia="aact" id="CM.enzyme_substrate.104"/>
- <entry term="aatps2" name="aatps2" id="CM.enzyme_substrate.105"/>
- <entry term="abietadiene synthase" name="abietadiene synthase" id="CM.enzyme_substrate.106"/>
- <entry term="abs_1" name="abs_1" id="CM.enzyme_substrate.107"/>
- <entry term="abs_3" name="abs_3" id="CM.enzyme_substrate.108"/>
- <entry term="abs_4" name="abs_4" id="CM.enzyme_substrate.109"/>
- <entry term="acac-coa" name="acac-coa" id="CM.enzyme_substrate.110"/>
- <entry term="acetoacetyl-coa" name="acetoacetyl-coa" id="CM.enzyme_substrate.111"/>
- <entry term="acetoacetyl-coa thiolase" name="acetoacetyl-coa thiolase" id="CM.enzyme_substrate.112"/>
- <entry term="acetyl-coa" name="acetyl-coa" wikipedia="acetyl-coa" id="CM.enzyme_substrate.113"/>
- <entry term="acnes1" name="acnes1" id="CM.enzyme_substrate.114"/>
- <entry term="acyclic sesquiterpene synthase" name="acyclic sesquiterpene synthase" id="CM.enzyme_substrate.115"/>
- <entry term="ads" name="ads" wikipedia="ads" id="CM.enzyme_substrate.116"/>
- <entry term="afar" name="afar" wikipedia="afar" id="CM.enzyme_substrate.117"/>
- <entry term="afs1" name="afs1" id="CM.enzyme_substrate.118"/>
- <entry term="ag2.2" name="ag2.2" id="CM.enzyme_substrate.119"/>
- <entry term="ag3.18" name="ag3.18" id="CM.enzyme_substrate.120"/>
- <entry term="ag6.5" name="ag6.5" id="CM.enzyme_substrate.121"/>
- <entry term="ajtps2" name="ajtps2" id="CM.enzyme_substrate.122"/>
- <entry term="alcars" name="alcars" id="CM.enzyme_substrate.123"/>
- <entry term="all-e-ggpp" name="all-e-ggpp" id="CM.enzyme_substrate.124"/>
- <entry term="all-trans-geranylgeranyl diphosphate" name="all-trans-geranylgeranyl diphosphate" id="CM.enzyme_substrate.125"/>
- <entry term="all-trans-ggpp" name="all-trans-ggpp" id="CM.enzyme_substrate.126"/>
- <entry term="all-z-ggpp" name="all-z-ggpp" id="CM.enzyme_substrate.127"/>
- <entry term="alpha-bisabolol synthase" name="alpha-bisabolol synthase" id="CM.enzyme_substrate.128"/>
- <entry term="alpha-copaene synthase" name="alpha-copaene synthase" id="CM.enzyme_substrate.129"/>
- <entry term="alpha-farnesene synthase" name="alpha-farnesene synthase" id="CM.enzyme_substrate.130"/>
- <entry term="alpha-humulene synthase" name="alpha-humulene synthase" id="CM.enzyme_substrate.131"/>
- <entry term="alpha-isocomene synthase" name="alpha-isocomene synthase" id="CM.enzyme_substrate.132"/>
- <entry term="alpha-phellandrene synthase" name="alpha-phellandrene synthase" id="CM.enzyme_substrate.133"/>
- <entry term="alpha-pinene synthase" name="alpha-pinene synthase" id="CM.enzyme_substrate.134"/>
- <entry term="alpha-terpineol synthase" name="alpha-terpineol synthase" id="CM.enzyme_substrate.135"/>
- <entry term="alpha-thujene synthase" name="alpha-thujene synthase" id="CM.enzyme_substrate.136"/>
- <entry term="alstrotps" name="alstrotps" id="CM.enzyme_substrate.137"/>
- <entry term="amgas" name="amgas" id="CM.enzyme_substrate.138"/>
- <entry term="amino-terminal domain terpene synthase" name="amino-terminal domain terpene synthase" id="CM.enzyme_substrate.139"/>
- <entry term="amnes/lis-1/-2" name="amnes/lis-1/-2" id="CM.enzyme_substrate.140"/>
- <entry term="ams1" name="ams1" id="CM.enzyme_substrate.141"/>
- <entry term="an1" name="an1" id="CM.enzyme_substrate.142"/>
- <entry term="aristolochene synthase" name="aristolochene synthase" id="CM.enzyme_substrate.143"/>
- <entry term="atesy_0" name="atesy_0" id="CM.enzyme_substrate.144"/>
- <entry term="atesy_1" name="atesy_1" id="CM.enzyme_substrate.145"/>
- <entry term="atr13" name="atr13" id="CM.enzyme_substrate.146"/>
- <entry term="atr6" name="atr6" id="CM.enzyme_substrate.147"/>
- <entry term="attps03" name="attps03" id="CM.enzyme_substrate.148"/>
- <entry term="avtps1" name="avtps1" id="CM.enzyme_substrate.149"/>
- <entry term="bas" name="bas" wikipedia="bas" id="CM.enzyme_substrate.150"/>
- <entry term="bas1" name="bas1" id="CM.enzyme_substrate.151"/>
- <entry term="beta selinene synthase" name="beta selinene synthase" id="CM.enzyme_substrate.152"/>
- <entry term="beta-caryophyllene synthase" name="beta-caryophyllene synthase" id="CM.enzyme_substrate.153"/>
- <entry term="beta-cubebene synthase" name="beta-cubebene synthase" id="CM.enzyme_substrate.154"/>
- <entry term="beta-eudesmol synthase" name="beta-eudesmol synthase" id="CM.enzyme_substrate.155"/>
- <entry term="beta-farnesene synthase" name="beta-farnesene synthase" id="CM.enzyme_substrate.156"/>
- <entry term="beta-myrcene synthase" name="beta-myrcene synthase" id="CM.enzyme_substrate.157"/>
- <entry term="beta-ocimene synthase" name="beta-ocimene synthase" id="CM.enzyme_substrate.158"/>
- <entry term="beta-phellandrene synthase" name="beta-phellandrene synthase" id="CM.enzyme_substrate.159"/>
- <entry term="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" name="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" id="CM.enzyme_substrate.160"/>
- <entry term="beta-sesquiphellandrene synthase" name="beta-sesquiphellandrene synthase" id="CM.enzyme_substrate.161"/>
- <entry term="c10-geranyl diphosphate" name="c10-geranyl diphosphate" id="CM.enzyme_substrate.162"/>
- <entry term="cadinol synthase" name="cadinol synthase" id="CM.enzyme_substrate.163"/>
- <entry term="camphene synthase" name="camphene synthase" id="CM.enzyme_substrate.164"/>
- <entry term="cams1" name="cams1" id="CM.enzyme_substrate.165"/>
- <entry term="carene synthase" name="carene synthase" id="CM.enzyme_substrate.166"/>
- <entry term="carene synthase 1" name="carene synthase 1" id="CM.enzyme_substrate.167"/>
- <entry term="carene synthase 2" name="carene synthase 2" id="CM.enzyme_substrate.168"/>
- <entry term="carene synthase 3" name="carene synthase 3" id="CM.enzyme_substrate.169"/>
- <entry term="cars" name="cars" wikipedia="cars" id="CM.enzyme_substrate.170"/>
- <entry term="caryophyllene synthase" name="caryophyllene synthase" id="CM.enzyme_substrate.171"/>
- <entry term="cas" name="cas" wikipedia="cas" id="CM.enzyme_substrate.172"/>
- <entry term="cas1" name="cas1" wikipedia="cas1" id="CM.enzyme_substrate.173"/>
- <entry term="casbene synthase" name="casbene synthase" id="CM.enzyme_substrate.174"/>
- <entry term="casbene synthase 2" name="casbene synthase 2" id="CM.enzyme_substrate.175"/>
- <entry term="casbene synthase 3" name="casbene synthase 3" id="CM.enzyme_substrate.176"/>
- <entry term="cascarilladiene synthase" name="cascarilladiene synthase" id="CM.enzyme_substrate.177"/>
- <entry term="cbs" name="cbs" wikipedia="cbs" id="CM.enzyme_substrate.178"/>
- <entry term="cctps1" name="cctps1" id="CM.enzyme_substrate.179"/>
- <entry term="cctps2" name="cctps2" id="CM.enzyme_substrate.180"/>
- <entry term="cctps3" name="cctps3" id="CM.enzyme_substrate.181"/>
- <entry term="cctps4" name="cctps4" id="CM.enzyme_substrate.182"/>
- <entry term="cctps5" name="cctps5" id="CM.enzyme_substrate.183"/>
- <entry term="cdp- me2p" name="cdp- me2p" id="CM.enzyme_substrate.184"/>
- <entry term="cdp-me" name="cdp-me" id="CM.enzyme_substrate.185"/>
- <entry term="cdp-me kinase" name="cdp-me kinase" id="CM.enzyme_substrate.186"/>
- <entry term="cdp-me2p" name="cdp-me2p" id="CM.enzyme_substrate.187"/>
- <entry term="cdp-mep" name="cdp-mep" id="CM.enzyme_substrate.188"/>
- <entry term="cembratrienol synthase" name="cembratrienol synthase" id="CM.enzyme_substrate.189"/>
- <entry term="cembratrienol synthase 2b" name="cembratrienol synthase 2b" id="CM.enzyme_substrate.190"/>
- <entry term="cembratrienol synthase 3" name="cembratrienol synthase 3" id="CM.enzyme_substrate.191"/>
- <entry term="chpp" name="chpp" id="CM.enzyme_substrate.192"/>
- <entry term="chpps" name="chpps" id="CM.enzyme_substrate.193"/>
- <entry term="chrysanthemol synthase" name="chrysanthemol synthase" id="CM.enzyme_substrate.194"/>
- <entry term="chrysanthemyl diphosphate" name="chrysanthemyl diphosphate" id="CM.enzyme_substrate.195"/>
- <entry term="chrysanthemyl diphosphate synthase" name="chrysanthemyl diphosphate synthase" wikipedia="chrysanthemyl diphosphate synthase" id="CM.enzyme_substrate.196"/>
- <entry term="cineol synthase" name="cineol synthase" id="CM.enzyme_substrate.197"/>
- <entry term="cis-abienol synthase" name="cis-abienol synthase" id="CM.enzyme_substrate.198"/>
- <entry term="cis-muuroladiene synthase" name="cis-muuroladiene synthase" id="CM.enzyme_substrate.199"/>
- <entry term="citmtse1" name="citmtse1" id="CM.enzyme_substrate.200"/>
- <entry term="cittps16" name="cittps16" id="CM.enzyme_substrate.201"/>
- <entry term="clade-c terpene synthase" name="clade-c terpene synthase" id="CM.enzyme_substrate.202"/>
- <entry term="clade-e terpene synthase" name="clade-e terpene synthase" id="CM.enzyme_substrate.203"/>
- <entry term="class i diterpene synthase 2" name="class i diterpene synthase 2" id="CM.enzyme_substrate.204"/>
- <entry term="class i diterpene synthase tps6" name="class i diterpene synthase tps6" id="CM.enzyme_substrate.205"/>
- <entry term="clds" name="clds" id="CM.enzyme_substrate.206"/>
- <entry term="clm1" name="clm1" id="CM.enzyme_substrate.207"/>
- <entry term="clm2" name="clm2" id="CM.enzyme_substrate.208"/>
- <entry term="cls" name="cls" wikipedia="cls" id="CM.enzyme_substrate.209"/>
- <entry term="cmk" name="cmk" id="CM.enzyme_substrate.210"/>
- <entry term="cms" name="cms" wikipedia="cms" id="CM.enzyme_substrate.211"/>
- <entry term="cmtpsdul" name="cmtpsdul" id="CM.enzyme_substrate.212"/>
- <entry term="cmtpsny" name="cmtpsny" id="CM.enzyme_substrate.213"/>
- <entry term="cnd15" name="cnd15" id="CM.enzyme_substrate.214"/>
- <entry term="cop3" name="cop3" id="CM.enzyme_substrate.215"/>
- <entry term="cop4" name="cop4" wikipedia="cop4" id="CM.enzyme_substrate.216"/>
- <entry term="copal-8-ol diphosphate hydratase" name="copal-8-ol diphosphate hydratase" id="CM.enzyme_substrate.217"/>
- <entry term="copalyl diphosphate synthase" name="copalyl diphosphate synthase" id="CM.enzyme_substrate.218"/>
- <entry term="copalyl diphosphate synthase 1" name="copalyl diphosphate synthase 1" id="CM.enzyme_substrate.219"/>
- <entry term="copalyl diphosphate synthase 2" name="copalyl diphosphate synthase 2" id="CM.enzyme_substrate.220"/>
- <entry term="copalyl pyrophosphate synthase 2" name="copalyl pyrophosphate synthase 2" id="CM.enzyme_substrate.221"/>
- <entry term="copalyldiphosphate synthase" name="copalyldiphosphate synthase" id="CM.enzyme_substrate.222"/>
- <entry term="cotps1" name="cotps1" id="CM.enzyme_substrate.223"/>
- <entry term="cpp" name="cpp" wikipedia="cpp" id="CM.enzyme_substrate.224"/>
- <entry term="cps" name="cps" wikipedia="cps" id="CM.enzyme_substrate.225"/>
- <entry term="cps/ks" name="cps/ks" id="CM.enzyme_substrate.226"/>
- <entry term="cps1" name="cps1" id="CM.enzyme_substrate.227"/>
- <entry term="cps2" name="cps2" id="CM.enzyme_substrate.228"/>
- <entry term="cps3" name="cps3" id="CM.enzyme_substrate.229"/>
- <entry term="cps4" name="cps4" id="CM.enzyme_substrate.230"/>
- <entry term="cpt2" name="cpt2" id="CM.enzyme_substrate.231"/>
- <entry term="cs" name="cs" wikipedia="cs" id="CM.enzyme_substrate.232"/>
- <entry term="csks1" name="csks1" id="CM.enzyme_substrate.233"/>
- <entry term="cssesquitps3" name="cssesquitps3" id="CM.enzyme_substrate.234"/>
- <entry term="cstps1" name="cstps1" id="CM.enzyme_substrate.235"/>
- <entry term="cstps2" name="cstps2" id="CM.enzyme_substrate.236"/>
- <entry term="cstps3" name="cstps3" id="CM.enzyme_substrate.237"/>
- <entry term="cstps4" name="cstps4" id="CM.enzyme_substrate.238"/>
- <entry term="cstps5" name="cstps5" id="CM.enzyme_substrate.239"/>
- <entry term="ctvd" name="ctvd" id="CM.enzyme_substrate.240"/>
- <entry term="cyc2" name="cyc2" wikipedia="cyc2" id="CM.enzyme_substrate.241"/>
- <entry term="cycloaraneosene synthase" name="cycloaraneosene synthase" id="CM.enzyme_substrate.242"/>
- <entry term="cycloartenol synthase" name="cycloartenol synthase" id="CM.enzyme_substrate.243"/>
- <entry term="d-cadinene synthase" name="d-cadinene synthase" id="CM.enzyme_substrate.244"/>
- <entry term="d-limonene synthase" name="d-limonene synthase" id="CM.enzyme_substrate.245"/>
- <entry term="delta-cadinene synthase" name="delta-cadinene synthase" id="CM.enzyme_substrate.246"/>
- <entry term="delta-cadinene synthase isozyme xc1" name="delta-cadinene synthase isozyme xc1" id="CM.enzyme_substrate.247"/>
- <entry term="delta-cadinene synthase isozyme xc14" name="delta-cadinene synthase isozyme xc14" id="CM.enzyme_substrate.248"/>
- <entry term="delta-guaiene synthase" name="delta-guaiene synthase" id="CM.enzyme_substrate.249"/>
- <entry term="dimethylallyl diphosphate" name="dimethylallyl diphosphate" wikipedia="dimethylallyl diphosphate" id="CM.enzyme_substrate.250"/>
- <entry term="dimethylallylcistransferase" name="dimethylallylcistransferase" id="CM.enzyme_substrate.251"/>
- <entry term="diterpene geranyllinalool synthase" name="diterpene geranyllinalool synthase" id="CM.enzyme_substrate.252"/>
- <entry term="diterpene synthase" name="diterpene synthase" id="CM.enzyme_substrate.253"/>
- <entry term="diterpene synthase 3" name="diterpene synthase 3" id="CM.enzyme_substrate.254"/>
- <entry term="dmadp" name="dmadp" id="CM.enzyme_substrate.255"/>
- <entry term="dmapp" name="dmapp" id="CM.enzyme_substrate.256"/>
- <entry term="dolabradiene synthase" name="dolabradiene synthase" id="CM.enzyme_substrate.257"/>
- <entry term="dxp" name="dxp" id="CM.enzyme_substrate.258"/>
- <entry term="dxp synthase" name="dxp synthase" id="CM.enzyme_substrate.259"/>
- <entry term="dxps" name="dxps" id="CM.enzyme_substrate.260"/>
- <entry term="dxr" name="dxr" id="CM.enzyme_substrate.261"/>
- <entry term="dxs" name="dxs" id="CM.enzyme_substrate.262"/>
- <entry term="e-beta-caryophyllene synthase" name="e-beta-caryophyllene synthase" id="CM.enzyme_substrate.263"/>
- <entry term="e-beta-farnesene synthase" name="e-beta-farnesene synthase" id="CM.enzyme_substrate.264"/>
- <entry term="e-beta-farnesene synthase 1" name="e-beta-farnesene synthase 1" id="CM.enzyme_substrate.265"/>
- <entry term="e-beta-farnesene synthase 2" name="e-beta-farnesene synthase 2" id="CM.enzyme_substrate.266"/>
- <entry term="e-beta-ocimene synthase 2" name="e-beta-ocimene synthase 2" id="CM.enzyme_substrate.267"/>
- <entry term="eas3_0" name="eas3_0" id="CM.enzyme_substrate.268"/>
- <entry term="eas3_1" name="eas3_1" id="CM.enzyme_substrate.269"/>
- <entry term="eas3_2a4a49_57779" name="eas3_2a4a49_57779" id="CM.enzyme_substrate.270"/>
- <entry term="eas3_3" name="eas3_3" id="CM.enzyme_substrate.271"/>
- <entry term="eas3_4" name="eas3_4" id="CM.enzyme_substrate.272"/>
- <entry term="eas_0" name="eas_0" id="CM.enzyme_substrate.273"/>
- <entry term="eas_1" name="eas_1" id="CM.enzyme_substrate.274"/>
- <entry term="ebos" name="ebos" id="CM.enzyme_substrate.275"/>
- <entry term="ent-13-epi-manoyl oxide synthase" name="ent-13-epi-manoyl oxide synthase" id="CM.enzyme_substrate.276"/>
- <entry term="ent-8-alpha-hydroxylabd-13-en-15-yl diphosphate synthase" name="ent-8-alpha-hydroxylabd-13-en-15-yl diphosphate synthase" id="CM.enzyme_substrate.277"/>
- <entry term="ent-atiserene synthase" name="ent-atiserene synthase" id="CM.enzyme_substrate.278"/>
- <entry term="ent-copalyl diphosphate synthase" name="ent-copalyl diphosphate synthase" wikipedia="ent-copalyl diphosphate synthase" id="CM.enzyme_substrate.279"/>
- <entry term="ent-kaur-16-ene synthase" name="ent-kaur-16-ene synthase" id="CM.enzyme_substrate.280"/>
- <entry term="ent-kaurene" name="ent-kaurene" id="CM.enzyme_substrate.281"/>
- <entry term="ent-kaurene synthase" name="ent-kaurene synthase" id="CM.enzyme_substrate.282"/>
- <entry term="ent-sandaracopimaradiene synthase" name="ent-sandaracopimaradiene synthase" id="CM.enzyme_substrate.283"/>
- <entry term="eot1" name="eot1" id="CM.enzyme_substrate.284"/>
- <entry term="epi-cedrol synthase" name="epi-cedrol synthase" id="CM.enzyme_substrate.285"/>
- <entry term="epi-sesquithujene synthase" name="epi-sesquithujene synthase" id="CM.enzyme_substrate.286"/>
- <entry term="epidermal germacrene c synthase" name="epidermal germacrene c synthase" id="CM.enzyme_substrate.287"/>
- <entry term="erg-6ncu654" name="erg-6ncu654" id="CM.enzyme_substrate.288"/>
- <entry term="erg7" name="erg7" id="CM.enzyme_substrate.289"/>
- <entry term="erg9" name="erg9" id="CM.enzyme_substrate.290"/>
- <entry term="farnesene synthase" name="farnesene synthase" id="CM.enzyme_substrate.291"/>
- <entry term="farnesol synthase" name="farnesol synthase" id="CM.enzyme_substrate.292"/>
- <entry term="fars" name="fars" wikipedia="fars" id="CM.enzyme_substrate.293"/>
- <entry term="fctps1" name="fctps1" id="CM.enzyme_substrate.294"/>
- <entry term="fctps2" name="fctps2" id="CM.enzyme_substrate.295"/>
- <entry term="fctps3" name="fctps3" id="CM.enzyme_substrate.296"/>
- <entry term="fctps4" name="fctps4" id="CM.enzyme_substrate.297"/>
- <entry term="fctps5" name="fctps5" id="CM.enzyme_substrate.298"/>
- <entry term="fctps6" name="fctps6" id="CM.enzyme_substrate.299"/>
- <entry term="fdp" name="fdp" id="CM.enzyme_substrate.300"/>
- <entry term="fds" name="fds" id="CM.enzyme_substrate.301"/>
- <entry term="fpp" name="fpp" wikipedia="fpp" id="CM.enzyme_substrate.302"/>
- <entry term="fpps" name="fpps" id="CM.enzyme_substrate.303"/>
- <entry term="fps" name="fps" wikipedia="fps" id="CM.enzyme_substrate.304"/>
- <entry term="fusicoccadiene synthase" name="fusicoccadiene synthase" id="CM.enzyme_substrate.305"/>
- <entry term="g3p" name="g3p" id="CM.enzyme_substrate.306"/>
- <entry term="ga1" name="ga1" wikipedia="ga1" id="CM.enzyme_substrate.307"/>
- <entry term="ga1ga1" name="ga1ga1" id="CM.enzyme_substrate.308"/>
- <entry term="ga2" name="ga2" wikipedia="ga2" id="CM.enzyme_substrate.309"/>
- <entry term="ga2ga2" name="ga2ga2" id="CM.enzyme_substrate.310"/>
- <entry term="gamma-bisabolene synthase" name="gamma-bisabolene synthase" id="CM.enzyme_substrate.311"/>
- <entry term="gamma-terpinene synthase" name="gamma-terpinene synthase" id="CM.enzyme_substrate.312"/>
- <entry term="gap" name="gap" wikipedia="gap" id="CM.enzyme_substrate.313"/>
- <entry term="gas" name="gas" id="CM.enzyme_substrate.314"/>
- <entry term="gas1" name="gas1" id="CM.enzyme_substrate.315"/>
- <entry term="gas2" name="gas2" id="CM.enzyme_substrate.316"/>
- <entry term="gas3" name="gas3" id="CM.enzyme_substrate.317"/>
- <entry term="gdp" name="gdp" wikipedia="gdp" id="CM.enzyme_substrate.318"/>
- <entry term="gds" name="gds" wikipedia="gds" id="CM.enzyme_substrate.319"/>
- <entry term="geosmin synthase" name="geosmin synthase" wikipedia="geosmin synthase" id="CM.enzyme_substrate.320"/>
- <entry term="geraniol synthase" name="geraniol synthase" id="CM.enzyme_substrate.321"/>
- <entry term="geraniol-8-hydroxylase" name="geraniol-8-hydroxylase" id="CM.enzyme_substrate.322"/>
- <entry term="geranyl diphosphate" name="geranyl diphosphate" wikipedia="geranyl diphosphate" id="CM.enzyme_substrate.323"/>
- <entry term="geranyl diphosphate synthase" name="geranyl diphosphate synthase" id="CM.enzyme_substrate.324"/>
- <entry term="geranyl-diphosphate cyclase" name="geranyl-diphosphate cyclase" id="CM.enzyme_substrate.325"/>
- <entry term="geranylfarnesyl diphosphate" name="geranylfarnesyl diphosphate" wikipedia="geranylfarnesyl diphosphate" id="CM.enzyme_substrate.326"/>
- <entry term="geranylgeranyl reductase" name="geranylgeranyl reductase" id="CM.enzyme_substrate.327"/>
- <entry term="geranyllinalool synthase" name="geranyllinalool synthase" id="CM.enzyme_substrate.328"/>
- <entry term="gerds" name="gerds" id="CM.enzyme_substrate.329"/>
- <entry term="germacradienol synthase" name="germacradienol synthase" id="CM.enzyme_substrate.330"/>
- <entry term="germacrene a synthase" name="germacrene a synthase" id="CM.enzyme_substrate.331"/>
- <entry term="germacrene a synthase 2" name="germacrene a synthase 2" id="CM.enzyme_substrate.332"/>
- <entry term="germacrene c synthase" name="germacrene c synthase" id="CM.enzyme_substrate.333"/>
- <entry term="germacrene c synthase os" name="germacrene c synthase os" id="CM.enzyme_substrate.334"/>
- <entry term="germacrene c synthase-" name="germacrene c synthase-" id="CM.enzyme_substrate.335"/>
- <entry term="germacrene-d synthase" name="germacrene-d synthase" id="CM.enzyme_substrate.336"/>
- <entry term="gers" name="gers" wikipedia="gers" id="CM.enzyme_substrate.337"/>
- <entry term="ges" name="ges" wikipedia="ges" id="CM.enzyme_substrate.338"/>
- <entry term="gfdps" name="gfdps" id="CM.enzyme_substrate.339"/>
- <entry term="gfpps" name="gfpps" id="CM.enzyme_substrate.340"/>
- <entry term="ggbas1" name="ggbas1" id="CM.enzyme_substrate.341"/>
- <entry term="ggcas1" name="ggcas1" id="CM.enzyme_substrate.342"/>
- <entry term="ggdp" name="ggdp" id="CM.enzyme_substrate.343"/>
- <entry term="ggpp" name="ggpp" id="CM.enzyme_substrate.344"/>
- <entry term="ggpp synthases" name="ggpp synthases" id="CM.enzyme_substrate.345"/>
- <entry term="ggpps" name="ggpps" id="CM.enzyme_substrate.346"/>
- <entry term="ggps" name="ggps" id="CM.enzyme_substrate.347"/>
- <entry term="ghtps1" name="ghtps1" id="CM.enzyme_substrate.348"/>
- <entry term="ghtps2" name="ghtps2" id="CM.enzyme_substrate.349"/>
- <entry term="ghtps3" name="ghtps3" id="CM.enzyme_substrate.350"/>
- <entry term="ghtps4" name="ghtps4" id="CM.enzyme_substrate.351"/>
- <entry term="ghtps5" name="ghtps5" id="CM.enzyme_substrate.352"/>
- <entry term="glyceraldehyde-3-phosphate" name="glyceraldehyde-3-phosphate" wikipedia="glyceraldehyde-3-phosphate" id="CM.enzyme_substrate.353"/>
- <entry term="gmnes" name="gmnes" id="CM.enzyme_substrate.354"/>
- <entry term="gpp" name="gpp" id="CM.enzyme_substrate.355"/>
- <entry term="gpp synthase" name="gpp synthase" id="CM.enzyme_substrate.356"/>
- <entry term="gps" name="gps" id="CM.enzyme_substrate.357"/>
- <entry term="grr" name="grr" wikipedia="grr" id="CM.enzyme_substrate.358"/>
- <entry term="gse" name="gse" id="CM.enzyme_substrate.359"/>
- <entry term="gss" name="gss" id="CM.enzyme_substrate.360"/>
- <entry term="hctps1" name="hctps1" id="CM.enzyme_substrate.361"/>
- <entry term="hctps2" name="hctps2" id="CM.enzyme_substrate.362"/>
- <entry term="hctps3" name="hctps3" id="CM.enzyme_substrate.363"/>
- <entry term="hctps4" name="hctps4" id="CM.enzyme_substrate.364"/>
- <entry term="hctps5" name="hctps5" id="CM.enzyme_substrate.365"/>
- <entry term="hctps6" name="hctps6" id="CM.enzyme_substrate.366"/>
- <entry term="hdr" name="hdr" wikipedia="hdr" id="CM.enzyme_substrate.367"/>
- <entry term="hds" name="hds" wikipedia="hds" id="CM.enzyme_substrate.368"/>
- <entry term="hmbpp" name="hmbpp" wikipedia="hmbpp" id="CM.enzyme_substrate.369"/>
- <entry term="hmelos" name="hmelos" id="CM.enzyme_substrate.370"/>
- <entry term="hmg-coa" name="hmg-coa" id="CM.enzyme_substrate.371"/>
- <entry term="hmgr" name="hmgr" id="CM.enzyme_substrate.372"/>
- <entry term="hmgs" name="hmgs" id="CM.enzyme_substrate.373"/>
- <entry term="ipk" name="ipk" id="CM.enzyme_substrate.374"/>
- <entry term="ipp" name="ipp" wikipedia="ipp" id="CM.enzyme_substrate.375"/>
- <entry term="ippi" name="ippi" id="CM.enzyme_substrate.376"/>
- <entry term="ips" name="ips" wikipedia="ips" id="CM.enzyme_substrate.377"/>
- <entry term="ipsd" name="ipsd" id="CM.enzyme_substrate.378"/>
- <entry term="isopentenyl diphosphate" name="isopentenyl diphosphate" wikipedia="isopentenyl diphosphate" id="CM.enzyme_substrate.379"/>
- <entry term="isopentenyl diphosphate/ dimethylallyl diphosphate isomerase" name="isopentenyl diphosphate/ dimethylallyl diphosphate isomerase" id="CM.enzyme_substrate.380"/>
- <entry term="isopentenyl phosphate kinase" name="isopentenyl phosphate kinase" id="CM.enzyme_substrate.381"/>
- <entry term="isopimaradiene synthase" name="isopimaradiene synthase" id="CM.enzyme_substrate.382"/>
- <entry term="isoprene synthase" name="isoprene synthase" id="CM.enzyme_substrate.383"/>
- <entry term="ispe" name="ispe" id="CM.enzyme_substrate.384"/>
- <entry term="ispf" name="ispf" id="CM.enzyme_substrate.385"/>
- <entry term="ispg" name="ispg" id="CM.enzyme_substrate.386"/>
- <entry term="isph" name="isph" id="CM.enzyme_substrate.387"/>
- <entry term="isps" name="isps" id="CM.enzyme_substrate.388"/>
- <entry term="kaurene synthase" name="kaurene synthase" id="CM.enzyme_substrate.389"/>
- <entry term="kaurene synthase3" name="kaurene synthase3" id="CM.enzyme_substrate.390"/>
- <entry term="kaurene synthase4" name="kaurene synthase4" id="CM.enzyme_substrate.391"/>
- <entry term="kaurene synthase6" name="kaurene synthase6" id="CM.enzyme_substrate.392"/>
- <entry term="kolavenyl diphosphate synthase tps5" name="kolavenyl diphosphate synthase tps5" id="CM.enzyme_substrate.393"/>
- <entry term="ks1" name="ks1" id="CM.enzyme_substrate.394"/>
- <entry term="ks10" name="ks10" id="CM.enzyme_substrate.395"/>
- <entry term="ks11" name="ks11" id="CM.enzyme_substrate.396"/>
- <entry term="ks2" name="ks2" id="CM.enzyme_substrate.397"/>
- <entry term="ks5" name="ks5" id="CM.enzyme_substrate.398"/>
- <entry term="ksa" name="ksa" id="CM.enzyme_substrate.399"/>
- <entry term="ksa_0" name="ksa_0" id="CM.enzyme_substrate.400"/>
- <entry term="ksa_1" name="ksa_1" id="CM.enzyme_substrate.401"/>
- <entry term="ksb" name="ksb" id="CM.enzyme_substrate.402"/>
- <entry term="ksl2" name="ksl2" id="CM.enzyme_substrate.403"/>
- <entry term="ksl3" name="ksl3" id="CM.enzyme_substrate.404"/>
- <entry term="ksl4" name="ksl4" id="CM.enzyme_substrate.405"/>
- <entry term="ksl5" name="ksl5" id="CM.enzyme_substrate.406"/>
- <entry term="ksl5ksl5" name="ksl5ksl5" id="CM.enzyme_substrate.407"/>
- <entry term="ksl6" name="ksl6" id="CM.enzyme_substrate.408"/>
- <entry term="ksl7" name="ksl7" id="CM.enzyme_substrate.409"/>
- <entry term="ksl7ksl7" name="ksl7ksl7" id="CM.enzyme_substrate.410"/>
- <entry term="ksl8" name="ksl8" id="CM.enzyme_substrate.411"/>
- <entry term="lalims" name="lalims" id="CM.enzyme_substrate.412"/>
- <entry term="lalins" name="lalins" id="CM.enzyme_substrate.413"/>
- <entry term="las1" name="las1" id="CM.enzyme_substrate.414"/>
- <entry term="lavandulyl" name="lavandulyl" id="CM.enzyme_substrate.415"/>
- <entry term="lavandulyl diphosphate" name="lavandulyl diphosphate" id="CM.enzyme_substrate.416"/>
- <entry term="lemts1" name="lemts1" id="CM.enzyme_substrate.417"/>
- <entry term="lemts2" name="lemts2" id="CM.enzyme_substrate.418"/>
- <entry term="lemts3" name="lemts3" id="CM.enzyme_substrate.419"/>
- <entry term="lemts4" name="lemts4" id="CM.enzyme_substrate.420"/>
- <entry term="lemts5" name="lemts5" id="CM.enzyme_substrate.421"/>
- <entry term="levopimaradiene synthase" name="levopimaradiene synthase" id="CM.enzyme_substrate.422"/>
- <entry term="limonene synthase" name="limonene synthase" wikipedia="limonene synthase" id="CM.enzyme_substrate.423"/>
- <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" id="CM.enzyme_substrate.424"/>
- <entry term="lis" name="lis" wikipedia="lis" id="CM.enzyme_substrate.425"/>
- <entry term="llos" name="llos" id="CM.enzyme_substrate.426"/>
- <entry term="llos1" name="llos1" id="CM.enzyme_substrate.427"/>
- <entry term="llos5" name="llos5" id="CM.enzyme_substrate.428"/>
- <entry term="lotps1" name="lotps1" id="CM.enzyme_substrate.429"/>
- <entry term="lotps2" name="lotps2" id="CM.enzyme_substrate.430"/>
- <entry term="lotps3" name="lotps3" id="CM.enzyme_substrate.431"/>
- <entry term="lotps4" name="lotps4" id="CM.enzyme_substrate.432"/>
- <entry term="lotps5" name="lotps5" id="CM.enzyme_substrate.433"/>
- <entry term="lotps6" name="lotps6" id="CM.enzyme_substrate.434"/>
- <entry term="lotps7" name="lotps7" id="CM.enzyme_substrate.435"/>
- <entry term="lotps8" name="lotps8" id="CM.enzyme_substrate.436"/>
- <entry term="lpp" name="lpp" id="CM.enzyme_substrate.437"/>
- <entry term="lpps" name="lpps" id="CM.enzyme_substrate.438"/>
- <entry term="lps" name="lps" id="CM.enzyme_substrate.439"/>
- <entry term="ls" name="ls" wikipedia="ls" id="CM.enzyme_substrate.440"/>
- <entry term="lss" name="lss" id="CM.enzyme_substrate.441"/>
- <entry term="lup1" name="lup1" id="CM.enzyme_substrate.442"/>
- <entry term="lup2" name="lup2" id="CM.enzyme_substrate.443"/>
- <entry term="lup5" name="lup5" id="CM.enzyme_substrate.444"/>
- <entry term="mab16.1" name="mab16.1" id="CM.enzyme_substrate.445"/>
- <entry term="mbr3882" name="mbr3882" id="CM.enzyme_substrate.446"/>
- <entry term="mcs" name="mcs" wikipedia="mcs" id="CM.enzyme_substrate.447"/>
- <entry term="mct" name="mct" id="CM.enzyme_substrate.448"/>
- <entry term="mctps1" name="mctps1" id="CM.enzyme_substrate.449"/>
- <entry term="mdd" name="mdd" id="CM.enzyme_substrate.450"/>
- <entry term="mdn11.20" name="mdn11.20" id="CM.enzyme_substrate.451"/>
- <entry term="mds" name="mds" wikipedia="mds" id="CM.enzyme_substrate.452"/>
- <entry term="me-cdp" name="me-cdp" id="CM.enzyme_substrate.453"/>
- <entry term="mecdp" name="mecdp" id="CM.enzyme_substrate.454"/>
- <entry term="mecpp" name="mecpp" id="CM.enzyme_substrate.455"/>
- <entry term="mep" name="mep" id="CM.enzyme_substrate.456"/>
- <entry term="mercene synthase" name="mercene synthase" id="CM.enzyme_substrate.457"/>
- <entry term="mevalonate" name="mevalonate" wikipedia="mevalonate" id="CM.enzyme_substrate.458"/>
- <entry term="mevalonate 5-phosphate" name="mevalonate 5-phosphate" id="CM.enzyme_substrate.459"/>
- <entry term="mevalonate diphosphate decarboxylase" name="mevalonate diphosphate decarboxylase" id="CM.enzyme_substrate.460"/>
- <entry term="mevalonate-5-phosphate" name="mevalonate-5-phosphate" id="CM.enzyme_substrate.461"/>
- <entry term="mevalonate-diphosphate" name="mevalonate-diphosphate" id="CM.enzyme_substrate.462"/>
- <entry term="mfo20.1" name="mfo20.1" id="CM.enzyme_substrate.463"/>
- <entry term="microbial terpene synthase- protein 13 (smmtpsl13)" name="microbial terpene synthase- protein 13 (smmtpsl13)" id="CM.enzyme_substrate.464"/>
- <entry term="microbial terpene synthase- protein 30 (smmtpsl30)" name="microbial terpene synthase- protein 30 (smmtpsl30)" id="CM.enzyme_substrate.465"/>
- <entry term="mie1.2" name="mie1.2" id="CM.enzyme_substrate.466"/>
- <entry term="mie1.4mie1.4" name="mie1.4mie1.4" id="CM.enzyme_substrate.467"/>
- <entry term="miltiradiene synthase" name="miltiradiene synthase" id="CM.enzyme_substrate.468"/>
- <entry term="miltiradiene synthase ksl2" name="miltiradiene synthase ksl2" id="CM.enzyme_substrate.469"/>
- <entry term="mjl12.5" name="mjl12.5" id="CM.enzyme_substrate.470"/>
- <entry term="mk" name="mk" wikipedia="mk" id="CM.enzyme_substrate.471"/>
- <entry term="mktps1" name="mktps1" id="CM.enzyme_substrate.472"/>
- <entry term="mktps2" name="mktps2" id="CM.enzyme_substrate.473"/>
- <entry term="mktps3" name="mktps3" id="CM.enzyme_substrate.474"/>
- <entry term="mktps4" name="mktps4" id="CM.enzyme_substrate.475"/>
- <entry term="mktps5" name="mktps5" id="CM.enzyme_substrate.476"/>
- <entry term="moa2.12" name="moa2.12" id="CM.enzyme_substrate.477"/>
- <entry term="monofunctional isopimaradiene synthase" name="monofunctional isopimaradiene synthase" id="CM.enzyme_substrate.478"/>
- <entry term="monoterpene synthase" name="monoterpene synthase" id="CM.enzyme_substrate.479"/>
- <entry term="monoterpene synthase 2" name="monoterpene synthase 2" id="CM.enzyme_substrate.480"/>
- <entry term="monotps" name="monotps" id="CM.enzyme_substrate.481"/>
- <entry term="monotps1" name="monotps1" id="CM.enzyme_substrate.482"/>
- <entry term="monotps2" name="monotps2" id="CM.enzyme_substrate.483"/>
- <entry term="monotps3" name="monotps3" id="CM.enzyme_substrate.484"/>
- <entry term="monotps4" name="monotps4" id="CM.enzyme_substrate.485"/>
- <entry term="monotps5" name="monotps5" id="CM.enzyme_substrate.486"/>
- <entry term="mpdc" name="mpdc" id="CM.enzyme_substrate.487"/>
- <entry term="mrn1" name="mrn1" id="CM.enzyme_substrate.488"/>
- <entry term="mrtps1" name="mrtps1" id="CM.enzyme_substrate.489"/>
- <entry term="mrtps2" name="mrtps2" id="CM.enzyme_substrate.490"/>
- <entry term="mrtps3" name="mrtps3" id="CM.enzyme_substrate.491"/>
- <entry term="mrtps4" name="mrtps4" id="CM.enzyme_substrate.492"/>
- <entry term="mrtps5" name="mrtps5" id="CM.enzyme_substrate.493"/>
- <entry term="mstps1" name="mstps1" id="CM.enzyme_substrate.494"/>
- <entry term="mstps2" name="mstps2" id="CM.enzyme_substrate.495"/>
- <entry term="mstps3" name="mstps3" id="CM.enzyme_substrate.496"/>
- <entry term="mstps4" name="mstps4" id="CM.enzyme_substrate.497"/>
- <entry term="mstps5" name="mstps5" id="CM.enzyme_substrate.498"/>
- <entry term="mtebos" name="mtebos" id="CM.enzyme_substrate.499"/>
- <entry term="mtps" name="mtps" id="CM.enzyme_substrate.500"/>
- <entry term="mts" name="mts" wikipedia="mts" id="CM.enzyme_substrate.501"/>
- <entry term="mts1" name="mts1" id="CM.enzyme_substrate.502"/>
- <entry term="mttps1" name="mttps1" id="CM.enzyme_substrate.503"/>
- <entry term="mttps2" name="mttps2" id="CM.enzyme_substrate.504"/>
- <entry term="mttps3" name="mttps3" id="CM.enzyme_substrate.505"/>
- <entry term="mttps4" name="mttps4" id="CM.enzyme_substrate.506"/>
- <entry term="mttps5" name="mttps5" id="CM.enzyme_substrate.507"/>
- <entry term="mttps6" name="mttps6" id="CM.enzyme_substrate.508"/>
- <entry term="muo10.2" name="muo10.2" id="CM.enzyme_substrate.509"/>
- <entry term="mvap" name="mvap" id="CM.enzyme_substrate.510"/>
- <entry term="mvd" name="mvd" wikipedia="mvd" id="CM.enzyme_substrate.511"/>
- <entry term="mxe2.1" name="mxe2.1" id="CM.enzyme_substrate.512"/>
- <entry term="mxo21.3" name="mxo21.3" id="CM.enzyme_substrate.513"/>
- <entry term="myrcene synthase" name="myrcene synthase" id="CM.enzyme_substrate.514"/>
- <entry term="myrcene synthase protein" name="myrcene synthase protein" id="CM.enzyme_substrate.515"/>
- <entry term="myrs" name="myrs" id="CM.enzyme_substrate.516"/>
- <entry term="ndps1" name="ndps1" id="CM.enzyme_substrate.517"/>
- <entry term="nerolidol synthase" name="nerolidol synthase" id="CM.enzyme_substrate.518"/>
- <entry term="neryl diphosphate" name="neryl diphosphate" id="CM.enzyme_substrate.519"/>
- <entry term="neryldiphosphate" name="neryldiphosphate" id="CM.enzyme_substrate.520"/>
- <entry term="nerylneryl diphosphate" name="nerylneryl diphosphate" id="CM.enzyme_substrate.521"/>
- <entry term="nerylneryl diphosphate synthase" name="nerylneryl diphosphate synthase" id="CM.enzyme_substrate.522"/>
- <entry term="nes" name="nes" wikipedia="nes" id="CM.enzyme_substrate.523"/>
- <entry term="nes1" name="nes1" id="CM.enzyme_substrate.524"/>
- <entry term="nndps" name="nndps" id="CM.enzyme_substrate.525"/>
- <entry term="nnpp" name="nnpp" id="CM.enzyme_substrate.526"/>
- <entry term="npp" name="npp" id="CM.enzyme_substrate.527"/>
- <entry term="npp synthase" name="npp synthase" id="CM.enzyme_substrate.528"/>
- <entry term="nudx1" name="nudx1" id="CM.enzyme_substrate.529"/>
- <entry term="o-methyltransferase" name="o-methyltransferase" wikipedia="o-methyltransferase" id="CM.enzyme_substrate.530"/>
- <entry term="ocimene synthase" name="ocimene synthase" id="CM.enzyme_substrate.531"/>
- <entry term="oftps1" name="oftps1" id="CM.enzyme_substrate.532"/>
- <entry term="oftps2" name="oftps2" id="CM.enzyme_substrate.533"/>
- <entry term="oftps3" name="oftps3" id="CM.enzyme_substrate.534"/>
- <entry term="oftps4" name="oftps4" id="CM.enzyme_substrate.535"/>
- <entry term="oftps5" name="oftps5" id="CM.enzyme_substrate.536"/>
- <entry term="oligoprenyl diphosphate" name="oligoprenyl diphosphate" id="CM.enzyme_substrate.537"/>
- <entry term="omt" name="omt" id="CM.enzyme_substrate.538"/>
- <entry term="opp" name="opp" wikipedia="opp" id="CM.enzyme_substrate.539"/>
- <entry term="opp synthase" name="opp synthase" id="CM.enzyme_substrate.540"/>
- <entry term="ops" name="ops" wikipedia="ops" id="CM.enzyme_substrate.541"/>
- <entry term="ostps1" name="ostps1" id="CM.enzyme_substrate.542"/>
- <entry term="ostps10" name="ostps10" id="CM.enzyme_substrate.543"/>
- <entry term="ostps11" name="ostps11" id="CM.enzyme_substrate.544"/>
- <entry term="ostps12" name="ostps12" id="CM.enzyme_substrate.545"/>
- <entry term="ostps13" name="ostps13" id="CM.enzyme_substrate.546"/>
- <entry term="ostps14" name="ostps14" id="CM.enzyme_substrate.547"/>
- <entry term="ostps15" name="ostps15" id="CM.enzyme_substrate.548"/>
- <entry term="ostps16" name="ostps16" id="CM.enzyme_substrate.549"/>
- <entry term="ostps17" name="ostps17" id="CM.enzyme_substrate.550"/>
- <entry term="ostps18" name="ostps18" id="CM.enzyme_substrate.551"/>
- <entry term="ostps19" name="ostps19" id="CM.enzyme_substrate.552"/>
- <entry term="ostps2" name="ostps2" id="CM.enzyme_substrate.553"/>
- <entry term="ostps20" name="ostps20" id="CM.enzyme_substrate.554"/>
- <entry term="ostps21" name="ostps21" id="CM.enzyme_substrate.555"/>
- <entry term="ostps22" name="ostps22" id="CM.enzyme_substrate.556"/>
- <entry term="ostps23" name="ostps23" id="CM.enzyme_substrate.557"/>
- <entry term="ostps24" name="ostps24" id="CM.enzyme_substrate.558"/>
- <entry term="ostps25" name="ostps25" id="CM.enzyme_substrate.559"/>
- <entry term="ostps26" name="ostps26" id="CM.enzyme_substrate.560"/>
- <entry term="ostps27" name="ostps27" id="CM.enzyme_substrate.561"/>
- <entry term="ostps28" name="ostps28" id="CM.enzyme_substrate.562"/>
- <entry term="ostps29" name="ostps29" id="CM.enzyme_substrate.563"/>
- <entry term="ostps3" name="ostps3" id="CM.enzyme_substrate.564"/>
- <entry term="ostps30" name="ostps30" id="CM.enzyme_substrate.565"/>
- <entry term="ostps31" name="ostps31" id="CM.enzyme_substrate.566"/>
- <entry term="ostps32" name="ostps32" id="CM.enzyme_substrate.567"/>
- <entry term="ostps33" name="ostps33" id="CM.enzyme_substrate.568"/>
- <entry term="ostps34" name="ostps34" id="CM.enzyme_substrate.569"/>
- <entry term="ostps35" name="ostps35" id="CM.enzyme_substrate.570"/>
- <entry term="ostps4" name="ostps4" id="CM.enzyme_substrate.571"/>
- <entry term="ostps5" name="ostps5" id="CM.enzyme_substrate.572"/>
- <entry term="ostps6" name="ostps6" id="CM.enzyme_substrate.573"/>
- <entry term="ostps7" name="ostps7" id="CM.enzyme_substrate.574"/>
- <entry term="ostps8" name="ostps8" id="CM.enzyme_substrate.575"/>
- <entry term="ostps9" name="ostps9" id="CM.enzyme_substrate.576"/>
- <entry term="oxidosqualene" name="oxidosqualene" id="CM.enzyme_substrate.577"/>
- <entry term="pancps" name="pancps" id="CM.enzyme_substrate.578"/>
- <entry term="panks" name="panks" id="CM.enzyme_substrate.579"/>
- <entry term="patchoulol synthase" name="patchoulol synthase" id="CM.enzyme_substrate.580"/>
- <entry term="pbtps1" name="pbtps1" id="CM.enzyme_substrate.581"/>
- <entry term="pbtps2" name="pbtps2" id="CM.enzyme_substrate.582"/>
- <entry term="pbtps3" name="pbtps3" id="CM.enzyme_substrate.583"/>
- <entry term="pbtps4" name="pbtps4" id="CM.enzyme_substrate.584"/>
- <entry term="pbtps5" name="pbtps5" id="CM.enzyme_substrate.585"/>
- <entry term="peas" name="peas" id="CM.enzyme_substrate.586"/>
- <entry term="pen1" name="pen1" id="CM.enzyme_substrate.587"/>
- <entry term="pen2" name="pen2" wikipedia="pen2" id="CM.enzyme_substrate.588"/>
- <entry term="pen3" name="pen3" id="CM.enzyme_substrate.589"/>
- <entry term="pen6" name="pen6" id="CM.enzyme_substrate.590"/>
- <entry term="pen7" name="pen7" id="CM.enzyme_substrate.591"/>
- <entry term="peregrinol diphosphate synthase" name="peregrinol diphosphate synthase" id="CM.enzyme_substrate.592"/>
- <entry term="peregrinol diphosphate synthase tps1" name="peregrinol diphosphate synthase tps1" id="CM.enzyme_substrate.593"/>
- <entry term="phytoene synthase" name="phytoene synthase" id="CM.enzyme_substrate.594"/>
- <entry term="pinene synthase" name="pinene synthase" id="CM.enzyme_substrate.595"/>
- <entry term="pks1" name="pks1" id="CM.enzyme_substrate.596"/>
- <entry term="pltps1" name="pltps1" id="CM.enzyme_substrate.597"/>
- <entry term="pltps2" name="pltps2" id="CM.enzyme_substrate.598"/>
- <entry term="pltps3" name="pltps3" id="CM.enzyme_substrate.599"/>
- <entry term="pltps4" name="pltps4" id="CM.enzyme_substrate.600"/>
- <entry term="pltps5" name="pltps5" id="CM.enzyme_substrate.601"/>
- <entry term="pmk" name="pmk" id="CM.enzyme_substrate.602"/>
- <entry term="pntps1" name="pntps1" id="CM.enzyme_substrate.603"/>
- <entry term="pntps2" name="pntps2" id="CM.enzyme_substrate.604"/>
- <entry term="pntps3" name="pntps3" id="CM.enzyme_substrate.605"/>
- <entry term="pntps4" name="pntps4" id="CM.enzyme_substrate.606"/>
- <entry term="pntps5" name="pntps5" id="CM.enzyme_substrate.607"/>
- <entry term="pny2" name="pny2" id="CM.enzyme_substrate.608"/>
- <entry term="polyprenyl di(pyro)phosphate synthase" name="polyprenyl di(pyro)phosphate synthase" id="CM.enzyme_substrate.609"/>
- <entry term="ppase" name="ppase" id="CM.enzyme_substrate.610"/>
- <entry term="ppcps/ks" name="ppcps/ks" id="CM.enzyme_substrate.611"/>
- <entry term="ppp" name="ppp" wikipedia="ppp" id="CM.enzyme_substrate.612"/>
- <entry term="pps" name="pps" wikipedia="pps" id="CM.enzyme_substrate.613"/>
- <entry term="pptps1" name="pptps1" id="CM.enzyme_substrate.614"/>
- <entry term="pptps2" name="pptps2" id="CM.enzyme_substrate.615"/>
- <entry term="pptps3" name="pptps3" id="CM.enzyme_substrate.616"/>
- <entry term="pptps4" name="pptps4" id="CM.enzyme_substrate.617"/>
- <entry term="pptps5" name="pptps5" id="CM.enzyme_substrate.618"/>
- <entry term="premnaspirodiene oxygenase" name="premnaspirodiene oxygenase" id="CM.enzyme_substrate.619"/>
- <entry term="prenyltransferase" name="prenyltransferase" wikipedia="prenyltransferase" id="CM.enzyme_substrate.620"/>
- <entry term="prenytransferase" name="prenytransferase" id="CM.enzyme_substrate.621"/>
- <entry term="protein expression of terpenoids 1" name="protein expression of terpenoids 1" id="CM.enzyme_substrate.622"/>
- <entry term="pseudolaratriene synthase" name="pseudolaratriene synthase" id="CM.enzyme_substrate.623"/>
- <entry term="pstps1" name="pstps1" id="CM.enzyme_substrate.624"/>
- <entry term="pstps2" name="pstps2" id="CM.enzyme_substrate.625"/>
- <entry term="pstps3" name="pstps3" id="CM.enzyme_substrate.626"/>
- <entry term="pstps4" name="pstps4" id="CM.enzyme_substrate.627"/>
- <entry term="pstps5" name="pstps5" id="CM.enzyme_substrate.628"/>
- <entry term="pt" name="pt" wikipedia="pt" id="CM.enzyme_substrate.629"/>
- <entry term="ptase" name="ptase" id="CM.enzyme_substrate.630"/>
- <entry term="pttps1" name="pttps1" id="CM.enzyme_substrate.631"/>
- <entry term="pttps10" name="pttps10" id="CM.enzyme_substrate.632"/>
- <entry term="pttps11" name="pttps11" id="CM.enzyme_substrate.633"/>
- <entry term="pttps12" name="pttps12" id="CM.enzyme_substrate.634"/>
- <entry term="pttps13" name="pttps13" id="CM.enzyme_substrate.635"/>
- <entry term="pttps14" name="pttps14" id="CM.enzyme_substrate.636"/>
- <entry term="pttps15" name="pttps15" id="CM.enzyme_substrate.637"/>
- <entry term="pttps16" name="pttps16" id="CM.enzyme_substrate.638"/>
- <entry term="pttps17" name="pttps17" id="CM.enzyme_substrate.639"/>
- <entry term="pttps18" name="pttps18" id="CM.enzyme_substrate.640"/>
- <entry term="pttps19" name="pttps19" id="CM.enzyme_substrate.641"/>
- <entry term="pttps2" name="pttps2" id="CM.enzyme_substrate.642"/>
- <entry term="pttps20" name="pttps20" id="CM.enzyme_substrate.643"/>
- <entry term="pttps21" name="pttps21" id="CM.enzyme_substrate.644"/>
- <entry term="pttps22" name="pttps22" id="CM.enzyme_substrate.645"/>
- <entry term="pttps23" name="pttps23" id="CM.enzyme_substrate.646"/>
- <entry term="pttps24" name="pttps24" id="CM.enzyme_substrate.647"/>
- <entry term="pttps25" name="pttps25" id="CM.enzyme_substrate.648"/>
- <entry term="pttps26" name="pttps26" id="CM.enzyme_substrate.649"/>
- <entry term="pttps27" name="pttps27" id="CM.enzyme_substrate.650"/>
- <entry term="pttps28" name="pttps28" id="CM.enzyme_substrate.651"/>
- <entry term="pttps29" name="pttps29" id="CM.enzyme_substrate.652"/>
- <entry term="pttps3" name="pttps3" id="CM.enzyme_substrate.653"/>
- <entry term="pttps30" name="pttps30" id="CM.enzyme_substrate.654"/>
- <entry term="pttps31" name="pttps31" id="CM.enzyme_substrate.655"/>
- <entry term="pttps32" name="pttps32" id="CM.enzyme_substrate.656"/>
- <entry term="pttps33" name="pttps33" id="CM.enzyme_substrate.657"/>
- <entry term="pttps34" name="pttps34" id="CM.enzyme_substrate.658"/>
- <entry term="pttps35" name="pttps35" id="CM.enzyme_substrate.659"/>
- <entry term="pttps4" name="pttps4" id="CM.enzyme_substrate.660"/>
- <entry term="pttps5" name="pttps5" id="CM.enzyme_substrate.661"/>
- <entry term="pttps6" name="pttps6" id="CM.enzyme_substrate.662"/>
- <entry term="pttps7" name="pttps7" id="CM.enzyme_substrate.663"/>
- <entry term="pttps8" name="pttps8" id="CM.enzyme_substrate.664"/>
- <entry term="pttps9" name="pttps9" id="CM.enzyme_substrate.665"/>
- <entry term="pup8" name="pup8" id="CM.enzyme_substrate.666"/>
- <entry term="pvs1" name="pvs1" id="CM.enzyme_substrate.667"/>
- <entry term="pyrophosphatase;" name="pyrophosphatase;" wikipedia="pyrophosphatase;" id="CM.enzyme_substrate.668"/>
- <entry term="pyruvate" name="pyruvate" wikipedia="pyruvate" id="CM.enzyme_substrate.669"/>
- <entry term="pys" name="pys" wikipedia="pys" id="CM.enzyme_substrate.670"/>
- <entry term="r-linalool synthase" name="r-linalool synthase" id="CM.enzyme_substrate.671"/>
- <entry term="rttps1" name="rttps1" id="CM.enzyme_substrate.672"/>
- <entry term="rttps2" name="rttps2" id="CM.enzyme_substrate.673"/>
- <entry term="rttps3" name="rttps3" id="CM.enzyme_substrate.674"/>
- <entry term="rttps4" name="rttps4" id="CM.enzyme_substrate.675"/>
- <entry term="rttps5" name="rttps5" id="CM.enzyme_substrate.676"/>
- <entry term="s-(+)-linalool synthase" name="s-(+)-linalool synthase" id="CM.enzyme_substrate.677"/>
- <entry term="s-(+)-linalool synthase chloroplastic" name="s-(+)-linalool synthase chloroplastic" id="CM.enzyme_substrate.678"/>
- <entry term="s-+-linalool synthase" name="s-+-linalool synthase" id="CM.enzyme_substrate.679"/>
- <entry term="s-linalool synthase" name="s-linalool synthase" id="CM.enzyme_substrate.680"/>
- <entry term="sabinene synthase" name="sabinene synthase" id="CM.enzyme_substrate.681"/>
- <entry term="santalene and bergamotene synthase" name="santalene and bergamotene synthase" id="CM.enzyme_substrate.682"/>
- <entry term="sbs" name="sbs" wikipedia="sbs" id="CM.enzyme_substrate.683"/>
- <entry term="sbtps1" name="sbtps1" id="CM.enzyme_substrate.684"/>
- <entry term="sbtps2" name="sbtps2" id="CM.enzyme_substrate.685"/>
- <entry term="sbtps3" name="sbtps3" id="CM.enzyme_substrate.686"/>
- <entry term="sbtps4" name="sbtps4" id="CM.enzyme_substrate.687"/>
- <entry term="sbtps5" name="sbtps5" id="CM.enzyme_substrate.688"/>
- <entry term="sclareol synthase" name="sclareol synthase" id="CM.enzyme_substrate.689"/>
- <entry term="selinene synthase os" name="selinene synthase os" id="CM.enzyme_substrate.690"/>
- <entry term="sesquiterpene cyclase" name="sesquiterpene cyclase" wikipedia="sesquiterpene cyclase" id="CM.enzyme_substrate.691"/>
- <entry term="sesquiterpene cyclase1" name="sesquiterpene cyclase1" id="CM.enzyme_substrate.692"/>
- <entry term="sesquiterpene synthase" name="sesquiterpene synthase" id="CM.enzyme_substrate.693"/>
- <entry term="sesquiterpene synthase 1" name="sesquiterpene synthase 1" id="CM.enzyme_substrate.694"/>
- <entry term="sesquithujene synthase" name="sesquithujene synthase" id="CM.enzyme_substrate.695"/>
- <entry term="sesquithujene synthase a" name="sesquithujene synthase a" id="CM.enzyme_substrate.696"/>
- <entry term="sesquithujene synthase b" name="sesquithujene synthase b" id="CM.enzyme_substrate.697"/>
- <entry term="sesterterpene synthase" name="sesterterpene synthase" id="CM.enzyme_substrate.698"/>
- <entry term="slcpt" name="slcpt" id="CM.enzyme_substrate.699"/>
- <entry term="sleot1" name="sleot1" id="CM.enzyme_substrate.700"/>
- <entry term="sltps1" name="sltps1" id="CM.enzyme_substrate.701"/>
- <entry term="sltps10" name="sltps10" id="CM.enzyme_substrate.702"/>
- <entry term="sltps11" name="sltps11" id="CM.enzyme_substrate.703"/>
- <entry term="sltps12" name="sltps12" id="CM.enzyme_substrate.704"/>
- <entry term="sltps13" name="sltps13" id="CM.enzyme_substrate.705"/>
- <entry term="sltps14" name="sltps14" id="CM.enzyme_substrate.706"/>
- <entry term="sltps15" name="sltps15" id="CM.enzyme_substrate.707"/>
- <entry term="sltps16" name="sltps16" id="CM.enzyme_substrate.708"/>
- <entry term="sltps17" name="sltps17" id="CM.enzyme_substrate.709"/>
- <entry term="sltps18" name="sltps18" id="CM.enzyme_substrate.710"/>
- <entry term="sltps19" name="sltps19" id="CM.enzyme_substrate.711"/>
- <entry term="sltps2" name="sltps2" id="CM.enzyme_substrate.712"/>
- <entry term="sltps20" name="sltps20" id="CM.enzyme_substrate.713"/>
- <entry term="sltps21" name="sltps21" id="CM.enzyme_substrate.714"/>
- <entry term="sltps22" name="sltps22" id="CM.enzyme_substrate.715"/>
- <entry term="sltps23" name="sltps23" id="CM.enzyme_substrate.716"/>
- <entry term="sltps24" name="sltps24" id="CM.enzyme_substrate.717"/>
- <entry term="sltps25" name="sltps25" id="CM.enzyme_substrate.718"/>
- <entry term="sltps26" name="sltps26" id="CM.enzyme_substrate.719"/>
- <entry term="sltps27" name="sltps27" id="CM.enzyme_substrate.720"/>
- <entry term="sltps28" name="sltps28" id="CM.enzyme_substrate.721"/>
- <entry term="sltps29" name="sltps29" id="CM.enzyme_substrate.722"/>
- <entry term="sltps3" name="sltps3" id="CM.enzyme_substrate.723"/>
- <entry term="sltps30" name="sltps30" id="CM.enzyme_substrate.724"/>
- <entry term="sltps31" name="sltps31" id="CM.enzyme_substrate.725"/>
- <entry term="sltps32" name="sltps32" id="CM.enzyme_substrate.726"/>
- <entry term="sltps33" name="sltps33" id="CM.enzyme_substrate.727"/>
- <entry term="sltps34" name="sltps34" id="CM.enzyme_substrate.728"/>
- <entry term="sltps35" name="sltps35" id="CM.enzyme_substrate.729"/>
- <entry term="sltps36" name="sltps36" id="CM.enzyme_substrate.730"/>
- <entry term="sltps37" name="sltps37" id="CM.enzyme_substrate.731"/>
- <entry term="sltps38" name="sltps38" id="CM.enzyme_substrate.732"/>
- <entry term="sltps39" name="sltps39" id="CM.enzyme_substrate.733"/>
- <entry term="sltps4" name="sltps4" id="CM.enzyme_substrate.734"/>
- <entry term="sltps40" name="sltps40" id="CM.enzyme_substrate.735"/>
- <entry term="sltps41" name="sltps41" id="CM.enzyme_substrate.736"/>
- <entry term="sltps42" name="sltps42" id="CM.enzyme_substrate.737"/>
- <entry term="sltps43" name="sltps43" id="CM.enzyme_substrate.738"/>
- <entry term="sltps44" name="sltps44" id="CM.enzyme_substrate.739"/>
- <entry term="sltps45" name="sltps45" id="CM.enzyme_substrate.740"/>
- <entry term="sltps46" name="sltps46" id="CM.enzyme_substrate.741"/>
- <entry term="sltps47" name="sltps47" id="CM.enzyme_substrate.742"/>
- <entry term="sltps48" name="sltps48" id="CM.enzyme_substrate.743"/>
- <entry term="sltps49" name="sltps49" id="CM.enzyme_substrate.744"/>
- <entry term="sltps5" name="sltps5" id="CM.enzyme_substrate.745"/>
- <entry term="sltps50" name="sltps50" id="CM.enzyme_substrate.746"/>
- <entry term="sltps51" name="sltps51" id="CM.enzyme_substrate.747"/>
- <entry term="sltps6" name="sltps6" id="CM.enzyme_substrate.748"/>
- <entry term="sltps7" name="sltps7" id="CM.enzyme_substrate.749"/>
- <entry term="sltps8" name="sltps8" id="CM.enzyme_substrate.750"/>
- <entry term="sltps9" name="sltps9" id="CM.enzyme_substrate.751"/>
- <entry term="smstps1" name="smstps1" id="CM.enzyme_substrate.752"/>
- <entry term="smstps2" name="smstps2" id="CM.enzyme_substrate.753"/>
- <entry term="smstps3" name="smstps3" id="CM.enzyme_substrate.754"/>
- <entry term="smstps4" name="smstps4" id="CM.enzyme_substrate.755"/>
- <entry term="smstps5" name="smstps5" id="CM.enzyme_substrate.756"/>
- <entry term="solanesyl diphosphate synthase" name="solanesyl diphosphate synthase" wikipedia="solanesyl diphosphate synthase" id="CM.enzyme_substrate.757"/>
- <entry term="spp" name="spp" wikipedia="spp" id="CM.enzyme_substrate.758"/>
- <entry term="sps" name="sps" wikipedia="sps" id="CM.enzyme_substrate.759"/>
- <entry term="sqe" name="sqe" id="CM.enzyme_substrate.760"/>
- <entry term="sqe1" name="sqe1" id="CM.enzyme_substrate.761"/>
- <entry term="sqs" name="sqs" id="CM.enzyme_substrate.762"/>
- <entry term="sqs1" name="sqs1" id="CM.enzyme_substrate.763"/>
- <entry term="sqs7" name="sqs7" id="CM.enzyme_substrate.764"/>
- <entry term="squalence" name="squalence" id="CM.enzyme_substrate.765"/>
- <entry term="squalene" name="squalene" wikipedia="squalene" id="CM.enzyme_substrate.766"/>
- <entry term="squalene synthase" name="squalene synthase" wikipedia="squalene synthase" id="CM.enzyme_substrate.767"/>
- <entry term="srtps" name="srtps" id="CM.enzyme_substrate.768"/>
- <entry term="ss" name="ss" wikipedia="ss" id="CM.enzyme_substrate.769"/>
- <entry term="sstle1" name="sstle1" id="CM.enzyme_substrate.770"/>
- <entry term="sstle1_0" name="sstle1_0" id="CM.enzyme_substrate.771"/>
- <entry term="stemar-13-ene synthase" name="stemar-13-ene synthase" id="CM.enzyme_substrate.772"/>
- <entry term="stemod-13(17)-ene synthase (fragment)" name="stemod-13(17)-ene synthase (fragment)" id="CM.enzyme_substrate.773"/>
- <entry term="stps" name="stps" id="CM.enzyme_substrate.774"/>
- <entry term="stps1" name="stps1" id="CM.enzyme_substrate.775"/>
- <entry term="stps2" name="stps2" id="CM.enzyme_substrate.776"/>
- <entry term="stps3" name="stps3" id="CM.enzyme_substrate.777"/>
- <entry term="sts" name="sts" id="CM.enzyme_substrate.778"/>
- <entry term="syn-copalyl diphosphate synthase" name="syn-copalyl diphosphate synthase" id="CM.enzyme_substrate.779"/>
- <entry term="syn-copalyl-diphosphate synthase" name="syn-copalyl-diphosphate synthase" id="CM.enzyme_substrate.780"/>
- <entry term="syn-cpp synthase" name="syn-cpp synthase" id="CM.enzyme_substrate.781"/>
- <entry term="syn-stemar-13-ene synthase" name="syn-stemar-13-ene synthase" id="CM.enzyme_substrate.782"/>
- <entry term="tacps1" name="tacps1" id="CM.enzyme_substrate.783"/>
- <entry term="taksl1" name="taksl1" id="CM.enzyme_substrate.784"/>
- <entry term="tasy" name="tasy" wikipedia="tasy" id="CM.enzyme_substrate.785"/>
- <entry term="terpene cyclase" name="terpene cyclase" id="CM.enzyme_substrate.786"/>
- <entry term="terpene synthase" name="terpene synthase" id="CM.enzyme_substrate.787"/>
- <entry term="terpene synthase -10" name="terpene synthase -10" id="CM.enzyme_substrate.788"/>
- <entry term="terpene synthase -11" name="terpene synthase -11" id="CM.enzyme_substrate.789"/>
- <entry term="terpene synthase -12" name="terpene synthase -12" id="CM.enzyme_substrate.790"/>
- <entry term="terpene synthase -13" name="terpene synthase -13" id="CM.enzyme_substrate.791"/>
- <entry term="terpene synthase -14" name="terpene synthase -14" id="CM.enzyme_substrate.792"/>
- <entry term="terpene synthase -15" name="terpene synthase -15" id="CM.enzyme_substrate.793"/>
- <entry term="terpene synthase -16" name="terpene synthase -16" id="CM.enzyme_substrate.794"/>
- <entry term="terpene synthase -17" name="terpene synthase -17" id="CM.enzyme_substrate.795"/>
- <entry term="terpene synthase -18" name="terpene synthase -18" id="CM.enzyme_substrate.796"/>
- <entry term="terpene synthase -19" name="terpene synthase -19" id="CM.enzyme_substrate.797"/>
- <entry term="terpene synthase -2" name="terpene synthase -2" id="CM.enzyme_substrate.798"/>
- <entry term="terpene synthase -20" name="terpene synthase -20" id="CM.enzyme_substrate.799"/>
- <entry term="terpene synthase -21" name="terpene synthase -21" id="CM.enzyme_substrate.800"/>
- <entry term="terpene synthase -22" name="terpene synthase -22" id="CM.enzyme_substrate.801"/>
- <entry term="terpene synthase -23" name="terpene synthase -23" id="CM.enzyme_substrate.802"/>
- <entry term="terpene synthase -24" name="terpene synthase -24" id="CM.enzyme_substrate.803"/>
- <entry term="terpene synthase -25" name="terpene synthase -25" id="CM.enzyme_substrate.804"/>
- <entry term="terpene synthase -26" name="terpene synthase -26" id="CM.enzyme_substrate.805"/>
- <entry term="terpene synthase -27" name="terpene synthase -27" id="CM.enzyme_substrate.806"/>
- <entry term="terpene synthase -28" name="terpene synthase -28" id="CM.enzyme_substrate.807"/>
- <entry term="terpene synthase -29" name="terpene synthase -29" id="CM.enzyme_substrate.808"/>
- <entry term="terpene synthase -3" name="terpene synthase -3" id="CM.enzyme_substrate.809"/>
- <entry term="terpene synthase -30" name="terpene synthase -30" id="CM.enzyme_substrate.810"/>
- <entry term="terpene synthase -4" name="terpene synthase -4" id="CM.enzyme_substrate.811"/>
- <entry term="terpene synthase -6" name="terpene synthase -6" id="CM.enzyme_substrate.812"/>
- <entry term="terpene synthase -7" name="terpene synthase -7" id="CM.enzyme_substrate.813"/>
- <entry term="terpene synthase -8" name="terpene synthase -8" id="CM.enzyme_substrate.814"/>
- <entry term="terpene synthase -9" name="terpene synthase -9" id="CM.enzyme_substrate.815"/>
- <entry term="terpene synthase 02" name="terpene synthase 02" id="CM.enzyme_substrate.816"/>
- <entry term="terpene synthase 03" name="terpene synthase 03" id="CM.enzyme_substrate.817"/>
- <entry term="terpene synthase 1" name="terpene synthase 1" id="CM.enzyme_substrate.818"/>
- <entry term="terpene synthase 10" name="terpene synthase 10" id="CM.enzyme_substrate.819"/>
- <entry term="terpene synthase 10 (fragment)" name="terpene synthase 10 (fragment)" id="CM.enzyme_substrate.820"/>
- <entry term="terpene synthase 10- protein" name="terpene synthase 10- protein" id="CM.enzyme_substrate.821"/>
- <entry term="terpene synthase 14" name="terpene synthase 14" id="CM.enzyme_substrate.822"/>
- <entry term="terpene synthase 2" name="terpene synthase 2" id="CM.enzyme_substrate.823"/>
- <entry term="terpene synthase 21" name="terpene synthase 21" id="CM.enzyme_substrate.824"/>
- <entry term="terpene synthase 3" name="terpene synthase 3" id="CM.enzyme_substrate.825"/>
- <entry term="terpene synthase 4" name="terpene synthase 4" id="CM.enzyme_substrate.826"/>
- <entry term="terpene synthase 6" name="terpene synthase 6" id="CM.enzyme_substrate.827"/>
- <entry term="terpene synthase 7" name="terpene synthase 7" id="CM.enzyme_substrate.828"/>
- <entry term="terpene synthase 8" name="terpene synthase 8" id="CM.enzyme_substrate.829"/>
- <entry term="terpene synthase 9" name="terpene synthase 9" id="CM.enzyme_substrate.830"/>
- <entry term="terpene synthase family" name="terpene synthase family" id="CM.enzyme_substrate.831"/>
- <entry term="terpene synthase tps1" name="terpene synthase tps1" id="CM.enzyme_substrate.832"/>
- <entry term="terpene synthase tps10" name="terpene synthase tps10" id="CM.enzyme_substrate.833"/>
- <entry term="terpene synthase tps11" name="terpene synthase tps11" id="CM.enzyme_substrate.834"/>
- <entry term="terpene synthase tps12" name="terpene synthase tps12" id="CM.enzyme_substrate.835"/>
- <entry term="terpene synthase tps13" name="terpene synthase tps13" id="CM.enzyme_substrate.836"/>
- <entry term="terpene synthase tps14" name="terpene synthase tps14" id="CM.enzyme_substrate.837"/>
- <entry term="terpene synthase tps15" name="terpene synthase tps15" id="CM.enzyme_substrate.838"/>
- <entry term="terpene synthase tps16" name="terpene synthase tps16" id="CM.enzyme_substrate.839"/>
- <entry term="terpene synthase tps17" name="terpene synthase tps17" id="CM.enzyme_substrate.840"/>
- <entry term="terpene synthase tps18" name="terpene synthase tps18" id="CM.enzyme_substrate.841"/>
- <entry term="terpene synthase tps19" name="terpene synthase tps19" id="CM.enzyme_substrate.842"/>
- <entry term="terpene synthase tps2" name="terpene synthase tps2" id="CM.enzyme_substrate.843"/>
- <entry term="terpene synthase tps20" name="terpene synthase tps20" id="CM.enzyme_substrate.844"/>
- <entry term="terpene synthase tps21" name="terpene synthase tps21" id="CM.enzyme_substrate.845"/>
- <entry term="terpene synthase tps22" name="terpene synthase tps22" id="CM.enzyme_substrate.846"/>
- <entry term="terpene synthase tps23" name="terpene synthase tps23" id="CM.enzyme_substrate.847"/>
- <entry term="terpene synthase tps24" name="terpene synthase tps24" id="CM.enzyme_substrate.848"/>
- <entry term="terpene synthase tps25" name="terpene synthase tps25" id="CM.enzyme_substrate.849"/>
- <entry term="terpene synthase tps26" name="terpene synthase tps26" id="CM.enzyme_substrate.850"/>
- <entry term="terpene synthase tps27" name="terpene synthase tps27" id="CM.enzyme_substrate.851"/>
- <entry term="terpene synthase tps28" name="terpene synthase tps28" id="CM.enzyme_substrate.852"/>
- <entry term="terpene synthase tps29" name="terpene synthase tps29" id="CM.enzyme_substrate.853"/>
- <entry term="terpene synthase tps3" name="terpene synthase tps3" id="CM.enzyme_substrate.854"/>
- <entry term="terpene synthase tps30" name="terpene synthase tps30" id="CM.enzyme_substrate.855"/>
- <entry term="terpene synthase tps31" name="terpene synthase tps31" id="CM.enzyme_substrate.856"/>
- <entry term="terpene synthase tps32" name="terpene synthase tps32" id="CM.enzyme_substrate.857"/>
- <entry term="terpene synthase tps33" name="terpene synthase tps33" id="CM.enzyme_substrate.858"/>
- <entry term="terpene synthase tps34" name="terpene synthase tps34" id="CM.enzyme_substrate.859"/>
- <entry term="terpene synthase tps35" name="terpene synthase tps35" id="CM.enzyme_substrate.860"/>
- <entry term="terpene synthase tps36" name="terpene synthase tps36" id="CM.enzyme_substrate.861"/>
- <entry term="terpene synthase tps4" name="terpene synthase tps4" id="CM.enzyme_substrate.862"/>
- <entry term="terpene synthase tps5" name="terpene synthase tps5" id="CM.enzyme_substrate.863"/>
- <entry term="terpene synthase tps6" name="terpene synthase tps6" id="CM.enzyme_substrate.864"/>
- <entry term="terpene synthase tps7" name="terpene synthase tps7" id="CM.enzyme_substrate.865"/>
- <entry term="terpene synthase tps8" name="terpene synthase tps8" id="CM.enzyme_substrate.866"/>
- <entry term="terpene synthase tps9" name="terpene synthase tps9" id="CM.enzyme_substrate.867"/>
- <entry term="terpene synthase- sequence-1" name="terpene synthase- sequence-1" id="CM.enzyme_substrate.868"/>
- <entry term="terpene synthase1" name="terpene synthase1" id="CM.enzyme_substrate.869"/>
- <entry term="terpene synthase10" name="terpene synthase10" id="CM.enzyme_substrate.870"/>
- <entry term="terpene synthase26" name="terpene synthase26" id="CM.enzyme_substrate.871"/>
- <entry term="terpene synthase4" name="terpene synthase4" id="CM.enzyme_substrate.872"/>
- <entry term="terpene synthase5" name="terpene synthase5" id="CM.enzyme_substrate.873"/>
- <entry term="terpene synthase6" name="terpene synthase6" id="CM.enzyme_substrate.874"/>
- <entry term="terpene synthase8" name="terpene synthase8" id="CM.enzyme_substrate.875"/>
- <entry term="terpene synthase9" name="terpene synthase9" id="CM.enzyme_substrate.876"/>
- <entry term="terpene_synth domain-containing protein" name="terpene_synth domain-containing protein" id="CM.enzyme_substrate.877"/>
- <entry term="terpene_synth_c domain-containing protein" name="terpene_synth_c domain-containing protein" id="CM.enzyme_substrate.878"/>
- <entry term="terpenoid synthase 20" name="terpenoid synthase 20" id="CM.enzyme_substrate.879"/>
- <entry term="terpinolene synthase" name="terpinolene synthase" id="CM.enzyme_substrate.880"/>
- <entry term="thas1" name="thas1" id="CM.enzyme_substrate.881"/>
- <entry term="torcps" name="torcps" id="CM.enzyme_substrate.882"/>
- <entry term="tox" name="tox" wikipedia="tox" id="CM.enzyme_substrate.883"/>
- <entry term="tpc1" name="tpc1" id="CM.enzyme_substrate.884"/>
- <entry term="tps" name="tps" wikipedia="tps" id="CM.enzyme_substrate.885"/>
- <entry term="tps-3car1" name="tps-3car1" id="CM.enzyme_substrate.886"/>
- <entry term="tps-3car2" name="tps-3car2" id="CM.enzyme_substrate.887"/>
- <entry term="tps-3car3" name="tps-3car3" id="CM.enzyme_substrate.888"/>
- <entry term="tps-cin" name="tps-cin" id="CM.enzyme_substrate.889"/>
- <entry term="tps-cin1" name="tps-cin1" id="CM.enzyme_substrate.890"/>
- <entry term="tps-cin2" name="tps-cin2" id="CM.enzyme_substrate.891"/>
- <entry term="tps-cinat3g2582" name="tps-cinat3g2582" id="CM.enzyme_substrate.892"/>
- <entry term="tps-cintps-cin" name="tps-cintps-cin" id="CM.enzyme_substrate.893"/>
- <entry term="tps-iso" name="tps-iso" id="CM.enzyme_substrate.894"/>
- <entry term="tps-las" name="tps-las" id="CM.enzyme_substrate.895"/>
- <entry term="tps-las1" name="tps-las1" id="CM.enzyme_substrate.896"/>
- <entry term="tps-las2" name="tps-las2" id="CM.enzyme_substrate.897"/>
- <entry term="tps-lon" name="tps-lon" id="CM.enzyme_substrate.898"/>
- <entry term="tps-miso1" name="tps-miso1" id="CM.enzyme_substrate.899"/>
- <entry term="tps-mpim1" name="tps-mpim1" id="CM.enzyme_substrate.900"/>
- <entry term="tps-sab" name="tps-sab" id="CM.enzyme_substrate.901"/>
- <entry term="tps01" name="tps01" id="CM.enzyme_substrate.902"/>
- <entry term="tps02" name="tps02" id="CM.enzyme_substrate.903"/>
- <entry term="tps03" name="tps03" id="CM.enzyme_substrate.904"/>
- <entry term="tps04" name="tps04" id="CM.enzyme_substrate.905"/>
- <entry term="tps05" name="tps05" id="CM.enzyme_substrate.906"/>
- <entry term="tps06" name="tps06" id="CM.enzyme_substrate.907"/>
- <entry term="tps07" name="tps07" id="CM.enzyme_substrate.908"/>
- <entry term="tps08" name="tps08" id="CM.enzyme_substrate.909"/>
- <entry term="tps09" name="tps09" id="CM.enzyme_substrate.910"/>
- <entry term="tps1" name="tps1" id="CM.enzyme_substrate.911"/>
- <entry term="tps10" name="tps10" id="CM.enzyme_substrate.912"/>
- <entry term="tps100" name="tps100" id="CM.enzyme_substrate.913"/>
- <entry term="tps101" name="tps101" id="CM.enzyme_substrate.914"/>
- <entry term="tps102" name="tps102" id="CM.enzyme_substrate.915"/>
- <entry term="tps103" name="tps103" id="CM.enzyme_substrate.916"/>
- <entry term="tps104" name="tps104" id="CM.enzyme_substrate.917"/>
- <entry term="tps105" name="tps105" id="CM.enzyme_substrate.918"/>
- <entry term="tps106" name="tps106" id="CM.enzyme_substrate.919"/>
- <entry term="tps107" name="tps107" id="CM.enzyme_substrate.920"/>
- <entry term="tps108" name="tps108" id="CM.enzyme_substrate.921"/>
- <entry term="tps109" name="tps109" id="CM.enzyme_substrate.922"/>
- <entry term="tps11" name="tps11" id="CM.enzyme_substrate.923"/>
- <entry term="tps110" name="tps110" id="CM.enzyme_substrate.924"/>
- <entry term="tps111" name="tps111" id="CM.enzyme_substrate.925"/>
- <entry term="tps112" name="tps112" id="CM.enzyme_substrate.926"/>
- <entry term="tps113" name="tps113" id="CM.enzyme_substrate.927"/>
- <entry term="tps114" name="tps114" id="CM.enzyme_substrate.928"/>
- <entry term="tps115" name="tps115" id="CM.enzyme_substrate.929"/>
- <entry term="tps116" name="tps116" id="CM.enzyme_substrate.930"/>
- <entry term="tps117" name="tps117" id="CM.enzyme_substrate.931"/>
- <entry term="tps118" name="tps118" id="CM.enzyme_substrate.932"/>
- <entry term="tps119" name="tps119" id="CM.enzyme_substrate.933"/>
- <entry term="tps12" name="tps12" id="CM.enzyme_substrate.934"/>
- <entry term="tps120" name="tps120" id="CM.enzyme_substrate.935"/>
- <entry term="tps121" name="tps121" id="CM.enzyme_substrate.936"/>
- <entry term="tps122" name="tps122" id="CM.enzyme_substrate.937"/>
- <entry term="tps123" name="tps123" id="CM.enzyme_substrate.938"/>
- <entry term="tps124" name="tps124" id="CM.enzyme_substrate.939"/>
- <entry term="tps125" name="tps125" id="CM.enzyme_substrate.940"/>
- <entry term="tps126" name="tps126" id="CM.enzyme_substrate.941"/>
- <entry term="tps127" name="tps127" id="CM.enzyme_substrate.942"/>
- <entry term="tps128" name="tps128" id="CM.enzyme_substrate.943"/>
- <entry term="tps129" name="tps129" id="CM.enzyme_substrate.944"/>
- <entry term="tps13" name="tps13" id="CM.enzyme_substrate.945"/>
- <entry term="tps130" name="tps130" id="CM.enzyme_substrate.946"/>
- <entry term="tps131" name="tps131" id="CM.enzyme_substrate.947"/>
- <entry term="tps132" name="tps132" id="CM.enzyme_substrate.948"/>
- <entry term="tps133" name="tps133" id="CM.enzyme_substrate.949"/>
- <entry term="tps134" name="tps134" id="CM.enzyme_substrate.950"/>
- <entry term="tps135" name="tps135" id="CM.enzyme_substrate.951"/>
- <entry term="tps136" name="tps136" id="CM.enzyme_substrate.952"/>
- <entry term="tps137" name="tps137" id="CM.enzyme_substrate.953"/>
- <entry term="tps138" name="tps138" id="CM.enzyme_substrate.954"/>
- <entry term="tps139" name="tps139" id="CM.enzyme_substrate.955"/>
- <entry term="tps14" name="tps14" id="CM.enzyme_substrate.956"/>
- <entry term="tps140" name="tps140" id="CM.enzyme_substrate.957"/>
- <entry term="tps141" name="tps141" id="CM.enzyme_substrate.958"/>
- <entry term="tps142" name="tps142" id="CM.enzyme_substrate.959"/>
- <entry term="tps143" name="tps143" id="CM.enzyme_substrate.960"/>
- <entry term="tps144" name="tps144" id="CM.enzyme_substrate.961"/>
- <entry term="tps145" name="tps145" id="CM.enzyme_substrate.962"/>
- <entry term="tps146" name="tps146" id="CM.enzyme_substrate.963"/>
- <entry term="tps147" name="tps147" id="CM.enzyme_substrate.964"/>
- <entry term="tps148" name="tps148" id="CM.enzyme_substrate.965"/>
- <entry term="tps149" name="tps149" id="CM.enzyme_substrate.966"/>
- <entry term="tps15" name="tps15" id="CM.enzyme_substrate.967"/>
- <entry term="tps150" name="tps150" id="CM.enzyme_substrate.968"/>
- <entry term="tps151" name="tps151" id="CM.enzyme_substrate.969"/>
- <entry term="tps16" name="tps16" id="CM.enzyme_substrate.970"/>
- <entry term="tps17" name="tps17" id="CM.enzyme_substrate.971"/>
- <entry term="tps18" name="tps18" id="CM.enzyme_substrate.972"/>
- <entry term="tps19" name="tps19" id="CM.enzyme_substrate.973"/>
- <entry term="tps1a" name="tps1a" id="CM.enzyme_substrate.974"/>
- <entry term="tps1b" name="tps1b" id="CM.enzyme_substrate.975"/>
- <entry term="tps1c" name="tps1c" id="CM.enzyme_substrate.976"/>
- <entry term="tps1e" name="tps1e" id="CM.enzyme_substrate.977"/>
- <entry term="tps1f" name="tps1f" id="CM.enzyme_substrate.978"/>
- <entry term="tps2" name="tps2" id="CM.enzyme_substrate.979"/>
- <entry term="tps20" name="tps20" id="CM.enzyme_substrate.980"/>
- <entry term="tps21" name="tps21" id="CM.enzyme_substrate.981"/>
- <entry term="tps22" name="tps22" id="CM.enzyme_substrate.982"/>
- <entry term="tps23" name="tps23" id="CM.enzyme_substrate.983"/>
- <entry term="tps24" name="tps24" id="CM.enzyme_substrate.984"/>
- <entry term="tps25" name="tps25" id="CM.enzyme_substrate.985"/>
- <entry term="tps26" name="tps26" id="CM.enzyme_substrate.986"/>
- <entry term="tps27" name="tps27" id="CM.enzyme_substrate.987"/>
- <entry term="tps28" name="tps28" id="CM.enzyme_substrate.988"/>
- <entry term="tps29" name="tps29" id="CM.enzyme_substrate.989"/>
- <entry term="tps3" name="tps3" id="CM.enzyme_substrate.990"/>
- <entry term="tps30" name="tps30" id="CM.enzyme_substrate.991"/>
- <entry term="tps31" name="tps31" id="CM.enzyme_substrate.992"/>
- <entry term="tps32" name="tps32" id="CM.enzyme_substrate.993"/>
- <entry term="tps32_1" name="tps32_1" id="CM.enzyme_substrate.994"/>
- <entry term="tps32_2" name="tps32_2" id="CM.enzyme_substrate.995"/>
- <entry term="tps33" name="tps33" id="CM.enzyme_substrate.996"/>
- <entry term="tps34" name="tps34" id="CM.enzyme_substrate.997"/>
- <entry term="tps35" name="tps35" id="CM.enzyme_substrate.998"/>
- <entry term="tps36" name="tps36" id="CM.enzyme_substrate.999"/>
- <entry term="tps37" name="tps37" id="CM.enzyme_substrate.1000"/>
- <entry term="tps38" name="tps38" id="CM.enzyme_substrate.1001"/>
- <entry term="tps39" name="tps39" id="CM.enzyme_substrate.1002"/>
- <entry term="tps3_0" name="tps3_0" id="CM.enzyme_substrate.1003"/>
- <entry term="tps3_1" name="tps3_1" id="CM.enzyme_substrate.1004"/>
- <entry term="tps3_2" name="tps3_2" id="CM.enzyme_substrate.1005"/>
- <entry term="tps3_3" name="tps3_3" id="CM.enzyme_substrate.1006"/>
- <entry term="tps3_4" name="tps3_4" id="CM.enzyme_substrate.1007"/>
- <entry term="tps3_5" name="tps3_5" id="CM.enzyme_substrate.1008"/>
- <entry term="tps4" name="tps4" id="CM.enzyme_substrate.1009"/>
- <entry term="tps40" name="tps40" id="CM.enzyme_substrate.1010"/>
- <entry term="tps41" name="tps41" id="CM.enzyme_substrate.1011"/>
- <entry term="tps42" name="tps42" id="CM.enzyme_substrate.1012"/>
- <entry term="tps43" name="tps43" id="CM.enzyme_substrate.1013"/>
- <entry term="tps44" name="tps44" id="CM.enzyme_substrate.1014"/>
- <entry term="tps45" name="tps45" id="CM.enzyme_substrate.1015"/>
- <entry term="tps46" name="tps46" id="CM.enzyme_substrate.1016"/>
- <entry term="tps47" name="tps47" id="CM.enzyme_substrate.1017"/>
- <entry term="tps48" name="tps48" id="CM.enzyme_substrate.1018"/>
- <entry term="tps49" name="tps49" id="CM.enzyme_substrate.1019"/>
- <entry term="tps5" name="tps5" id="CM.enzyme_substrate.1020"/>
- <entry term="tps50" name="tps50" id="CM.enzyme_substrate.1021"/>
- <entry term="tps51" name="tps51" id="CM.enzyme_substrate.1022"/>
- <entry term="tps52" name="tps52" id="CM.enzyme_substrate.1023"/>
- <entry term="tps53" name="tps53" id="CM.enzyme_substrate.1024"/>
- <entry term="tps54" name="tps54" id="CM.enzyme_substrate.1025"/>
- <entry term="tps55" name="tps55" id="CM.enzyme_substrate.1026"/>
- <entry term="tps56" name="tps56" id="CM.enzyme_substrate.1027"/>
- <entry term="tps57" name="tps57" id="CM.enzyme_substrate.1028"/>
- <entry term="tps58" name="tps58" id="CM.enzyme_substrate.1029"/>
- <entry term="tps59" name="tps59" id="CM.enzyme_substrate.1030"/>
- <entry term="tps6" name="tps6" id="CM.enzyme_substrate.1031"/>
- <entry term="tps60" name="tps60" id="CM.enzyme_substrate.1032"/>
- <entry term="tps61" name="tps61" id="CM.enzyme_substrate.1033"/>
- <entry term="tps62" name="tps62" id="CM.enzyme_substrate.1034"/>
- <entry term="tps63" name="tps63" id="CM.enzyme_substrate.1035"/>
- <entry term="tps64" name="tps64" id="CM.enzyme_substrate.1036"/>
- <entry term="tps65" name="tps65" id="CM.enzyme_substrate.1037"/>
- <entry term="tps66" name="tps66" id="CM.enzyme_substrate.1038"/>
- <entry term="tps67" name="tps67" id="CM.enzyme_substrate.1039"/>
- <entry term="tps68" name="tps68" id="CM.enzyme_substrate.1040"/>
- <entry term="tps69" name="tps69" id="CM.enzyme_substrate.1041"/>
- <entry term="tps7" name="tps7" id="CM.enzyme_substrate.1042"/>
- <entry term="tps70" name="tps70" id="CM.enzyme_substrate.1043"/>
- <entry term="tps71" name="tps71" id="CM.enzyme_substrate.1044"/>
- <entry term="tps72" name="tps72" id="CM.enzyme_substrate.1045"/>
- <entry term="tps73" name="tps73" id="CM.enzyme_substrate.1046"/>
- <entry term="tps74" name="tps74" id="CM.enzyme_substrate.1047"/>
- <entry term="tps75" name="tps75" id="CM.enzyme_substrate.1048"/>
- <entry term="tps76" name="tps76" id="CM.enzyme_substrate.1049"/>
- <entry term="tps77" name="tps77" id="CM.enzyme_substrate.1050"/>
- <entry term="tps78" name="tps78" id="CM.enzyme_substrate.1051"/>
- <entry term="tps79" name="tps79" id="CM.enzyme_substrate.1052"/>
- <entry term="tps7_1" name="tps7_1" id="CM.enzyme_substrate.1053"/>
- <entry term="tps8" name="tps8" id="CM.enzyme_substrate.1054"/>
- <entry term="tps80" name="tps80" id="CM.enzyme_substrate.1055"/>
- <entry term="tps81" name="tps81" id="CM.enzyme_substrate.1056"/>
- <entry term="tps82" name="tps82" id="CM.enzyme_substrate.1057"/>
- <entry term="tps83" name="tps83" id="CM.enzyme_substrate.1058"/>
- <entry term="tps84" name="tps84" id="CM.enzyme_substrate.1059"/>
- <entry term="tps85" name="tps85" id="CM.enzyme_substrate.1060"/>
- <entry term="tps86" name="tps86" id="CM.enzyme_substrate.1061"/>
- <entry term="tps87" name="tps87" id="CM.enzyme_substrate.1062"/>
- <entry term="tps88" name="tps88" id="CM.enzyme_substrate.1063"/>
- <entry term="tps89" name="tps89" id="CM.enzyme_substrate.1064"/>
- <entry term="tps9" name="tps9" id="CM.enzyme_substrate.1065"/>
- <entry term="tps90" name="tps90" id="CM.enzyme_substrate.1066"/>
- <entry term="tps91" name="tps91" id="CM.enzyme_substrate.1067"/>
- <entry term="tps92" name="tps92" id="CM.enzyme_substrate.1068"/>
- <entry term="tps93" name="tps93" id="CM.enzyme_substrate.1069"/>
- <entry term="tps94" name="tps94" id="CM.enzyme_substrate.1070"/>
- <entry term="tps95" name="tps95" id="CM.enzyme_substrate.1071"/>
- <entry term="tps96" name="tps96" id="CM.enzyme_substrate.1072"/>
- <entry term="tps97" name="tps97" id="CM.enzyme_substrate.1073"/>
- <entry term="tps98" name="tps98" id="CM.enzyme_substrate.1074"/>
- <entry term="tps99" name="tps99" id="CM.enzyme_substrate.1075"/>
- <entry term="tpsga2" name="tpsga2" id="CM.enzyme_substrate.1076"/>
- <entry term="trans-alpha-bergamotene synthase" name="trans-alpha-bergamotene synthase" id="CM.enzyme_substrate.1077"/>
- <entry term="trans-fpp synthases" name="trans-fpp synthases" id="CM.enzyme_substrate.1078"/>
- <entry term="trans-ocimene synthase" name="trans-ocimene synthase" id="CM.enzyme_substrate.1079"/>
- <entry term="tricyclene synthase" name="tricyclene synthase" id="CM.enzyme_substrate.1080"/>
- <entry term="txs" name="txs" id="CM.enzyme_substrate.1081"/>
- <entry term="umi3" name="umi3" id="CM.enzyme_substrate.1082"/>
- <entry term="uv-induced sesquiterpene cyclase" name="uv-induced sesquiterpene cyclase" id="CM.enzyme_substrate.1083"/>
- <entry term="valencene synthase" name="valencene synthase" id="CM.enzyme_substrate.1084"/>
- <entry term="valencene synthase os" name="valencene synthase os" id="CM.enzyme_substrate.1085"/>
- <entry term="valencene synthase-" name="valencene synthase-" id="CM.enzyme_substrate.1086"/>
- <entry term="vetispiradiene synthase" name="vetispiradiene synthase" id="CM.enzyme_substrate.1087"/>
- <entry term="vetispiradiene synthase 1 (fragment) os" name="vetispiradiene synthase 1 (fragment) os" id="CM.enzyme_substrate.1088"/>
- <entry term="vetispiradiene synthase 1 os" name="vetispiradiene synthase 1 os" id="CM.enzyme_substrate.1089"/>
- <entry term="viridiflorene synthase" name="viridiflorene synthase" id="CM.enzyme_substrate.1090"/>
- <entry term="votps1" name="votps1" id="CM.enzyme_substrate.1091"/>
- <entry term="vvguas" name="vvguas" id="CM.enzyme_substrate.1092"/>
- <entry term="vvpnseint" name="vvpnseint" id="CM.enzyme_substrate.1093"/>
+<dictionary title="enzyme_substrate">
+ <entry term="( )-delta-cadinene synthase" name="( )-delta-cadinene synthase" id="CM.enzyme_substrate.0"/>
+ <entry term="(+)-alpha-barbatene synthase" name="(+)-alpha-barbatene synthase" id="CM.enzyme_substrate.1"/>
+ <entry term="(+)-alpha-pinene synthase" name="(+)-alpha-pinene synthase" id="CM.enzyme_substrate.2"/>
+ <entry term="(+)-alpha-terpineol synthase" name="(+)-alpha-terpineol synthase" id="CM.enzyme_substrate.3"/>
+ <entry term="(+)-bornyl diphosphate synthase" name="(+)-bornyl diphosphate synthase" id="CM.enzyme_substrate.4"/>
+ <entry term="(+)-car-3-ene synthase" name="(+)-car-3-ene synthase" id="CM.enzyme_substrate.5"/>
+ <entry term="(+)-copalyl diphosphate synthase 3" name="(+)-copalyl diphosphate synthase 3" id="CM.enzyme_substrate.6"/>
+ <entry term="(+)-corvol ether a synthase" name="(+)-corvol ether a synthase" id="CM.enzyme_substrate.7"/>
+ <entry term="(+)-corvol ether b synthase" name="(+)-corvol ether b synthase" id="CM.enzyme_substrate.8"/>
+ <entry term="(+)-delta-cadinene synthase" name="(+)-delta-cadinene synthase" id="CM.enzyme_substrate.9"/>
+ <entry term="(+)-delta-cadinene synthase isozyme a os" name="(+)-delta-cadinene synthase isozyme a os" id="CM.enzyme_substrate.10"/>
+ <entry term="(+)-gamma-cadinene synthase" name="(+)-gamma-cadinene synthase" id="CM.enzyme_substrate.11"/>
+ <entry term="(+)-gamma-cadinene synthase-" name="(+)-gamma-cadinene synthase-" id="CM.enzyme_substrate.12"/>
+ <entry term="(+)-germacrene d synthase" name="(+)-germacrene d synthase" id="CM.enzyme_substrate.13"/>
+ <entry term="(+)-limonene synthase" name="(+)-limonene synthase" id="CM.enzyme_substrate.14"/>
+ <entry term="(+)-sabinene synthase" name="(+)-sabinene synthase" id="CM.enzyme_substrate.15"/>
+ <entry term="(+)-t-muurolol synthase" name="(+)-t-muurolol synthase" id="CM.enzyme_substrate.16"/>
+ <entry term="(-)-(e)-beta-caryophyllene synthase" name="(-)-(e)-beta-caryophyllene synthase" id="CM.enzyme_substrate.17"/>
+ <entry term="(-)-a-terpineol synthase" name="(-)-a-terpineol synthase" id="CM.enzyme_substrate.18"/>
+ <entry term="(-)-alpha-amorphene synthase" name="(-)-alpha-amorphene synthase" id="CM.enzyme_substrate.19"/>
+ <entry term="(-)-alpha-pinene synthase" name="(-)-alpha-pinene synthase" id="CM.enzyme_substrate.20"/>
+ <entry term="(-)-alpha-pinene synthase-" name="(-)-alpha-pinene synthase-" id="CM.enzyme_substrate.21"/>
+ <entry term="(-)-alpha-terpineol synthase" name="(-)-alpha-terpineol synthase" id="CM.enzyme_substrate.22"/>
+ <entry term="(-)-alpha-terpineol synthase-" name="(-)-alpha-terpineol synthase-" id="CM.enzyme_substrate.23"/>
+ <entry term="(-)-beta-caryophyllene synthase" name="(-)-beta-caryophyllene synthase" id="CM.enzyme_substrate.24"/>
+ <entry term="(-)-beta-pinene synthase" name="(-)-beta-pinene synthase" id="CM.enzyme_substrate.25"/>
+ <entry term="(-)-camphenetricyclene synthase" name="(-)-camphenetricyclene synthase" id="CM.enzyme_substrate.26"/>
+ <entry term="(-)-endo-fenchol synthase" name="(-)-endo-fenchol synthase" id="CM.enzyme_substrate.27"/>
+ <entry term="(-)-gamma-cadinene synthase" name="(-)-gamma-cadinene synthase" id="CM.enzyme_substrate.28"/>
+ <entry term="(-)-germacrene d synthase" name="(-)-germacrene d synthase" id="CM.enzyme_substrate.29"/>
+ <entry term="(-)-kolavenyl diphosphate synthase" name="(-)-kolavenyl diphosphate synthase" id="CM.enzyme_substrate.30"/>
+ <entry term="(-)-limonene synthase" name="(-)-limonene synthase" id="CM.enzyme_substrate.31"/>
+ <entry term="(3s)-linalool synthase" name="(3s)-linalool synthase" id="CM.enzyme_substrate.32"/>
+ <entry term="(3s-6e)-nerolidol synthase" name="(3s-6e)-nerolidol synthase" id="CM.enzyme_substrate.33"/>
+ <entry term="(e)-4-hydroxy-3-methylbut-2-enyl diphosphate" name="(e)-4-hydroxy-3-methylbut-2-enyl diphosphate" id="CM.enzyme_substrate.34"/>
+ <entry term="(e)-beta-farnesene synthase" name="(e)-beta-farnesene synthase" id="CM.enzyme_substrate.35"/>
+ <entry term="(e)-beta-ocimene synthase" name="(e)-beta-ocimene synthase" id="CM.enzyme_substrate.36"/>
+ <entry term="(e)-nerolidol synthase" name="(e)-nerolidol synthase" id="CM.enzyme_substrate.37"/>
+ <entry term="(e,e)-fpp" name="(e,e)-fpp" id="CM.enzyme_substrate.38"/>
+ <entry term="(ee)-geranyl linalool synthase" name="(ee)-geranyl linalool synthase" id="CM.enzyme_substrate.39"/>
+ <entry term="(r)-limonene synthase" name="(r)-limonene synthase" id="CM.enzyme_substrate.40"/>
+ <entry term="(r)-limonene synthase 1" name="(r)-limonene synthase 1" id="CM.enzyme_substrate.41"/>
+ <entry term="(r)-linalool synthase" name="(r)-linalool synthase" id="CM.enzyme_substrate.42"/>
+ <entry term="(s)-beta-bisabolene synthase" name="(s)-beta-bisabolene synthase" id="CM.enzyme_substrate.43"/>
+ <entry term="(s)-beta-macrocarpene synthase" name="(s)-beta-macrocarpene synthase" id="CM.enzyme_substrate.44"/>
+ <entry term="(z,z)-fpp" name="(z,z)-fpp" id="CM.enzyme_substrate.45"/>
+ <entry term="(z,z)-fpp synthase" name="(z,z)-fpp synthase" id="CM.enzyme_substrate.46"/>
+ <entry term="(z-gamma-bisabolene synthase" name="(z-gamma-bisabolene synthase" id="CM.enzyme_substrate.47"/>
+ <entry term="- (+)-delta-cadinene synthase" name="- (+)-delta-cadinene synthase" id="CM.enzyme_substrate.48"/>
+ <entry term="- (r)-limonene synthase" name="- (r)-limonene synthase" id="CM.enzyme_substrate.49"/>
+ <entry term="04 - alpha-humulene synthase" name="04 - alpha-humulene synthase" id="CM.enzyme_substrate.50"/>
+ <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.enzyme_substrate.51"/>
+ <entry term="1-deoxy- d-xylulose-5-p reductoisomerase" name="1-deoxy- d-xylulose-5-p reductoisomerase" id="CM.enzyme_substrate.52"/>
+ <entry term="1-deoxy-d- xylulose-5-p synthase" name="1-deoxy-d- xylulose-5-p synthase" id="CM.enzyme_substrate.53"/>
+ <entry term="1-deoxy-d-xylulose 5-phosphate" name="1-deoxy-d-xylulose 5-phosphate" id="CM.enzyme_substrate.54"/>
+ <entry term="1-deoxy-d-xylulose 5-phosphate reductoisomerase" name="1-deoxy-d-xylulose 5-phosphate reductoisomerase" id="CM.enzyme_substrate.55"/>
+ <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate reductase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate reductase" id="CM.enzyme_substrate.56"/>
+ <entry term="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" name="1-hydroxy-2-methyl-2-(e)- butenyl-4-diphosphate synthase" id="CM.enzyme_substrate.57"/>
+ <entry term="10-epi-junenol synthase" name="10-epi-junenol synthase" id="CM.enzyme_substrate.58"/>
+ <entry term="2-c-methyl-d-ery- thritol-2,4-cyclodiphosphate synthase" name="2-c-methyl-d-ery- thritol-2,4-cyclodiphosphate synthase" id="CM.enzyme_substrate.59"/>
+ <entry term="2-c-methyl-d-erythritol 2,4- cyclodiphosphate synthase" name="2-c-methyl-d-erythritol 2,4- cyclodiphosphate synthase" id="CM.enzyme_substrate.60"/>
+ <entry term="2-c-methyl-d-erythritol 2,4-cyclod- iphosphate reductase" name="2-c-methyl-d-erythritol 2,4-cyclod- iphosphate reductase" id="CM.enzyme_substrate.61"/>
+ <entry term="2-c-methyl-d-erythritol 2,4-cyclodi- phosphate" name="2-c-methyl-d-erythritol 2,4-cyclodi- phosphate" id="CM.enzyme_substrate.62"/>
+ <entry term="2-c-methyl-d-erythritol-4-p cytidylyltransferase" name="2-c-methyl-d-erythritol-4-p cytidylyltransferase" id="CM.enzyme_substrate.63"/>
+ <entry term="3 - copal-8-ol diphosphate hydratase" name="3 - copal-8-ol diphosphate hydratase" id="CM.enzyme_substrate.64"/>
+ <entry term="3-hydroxy-3-methylglutaryl-coa" name="3-hydroxy-3-methylglutaryl-coa" id="CM.enzyme_substrate.65"/>
+ <entry term="3car" name="3car" id="CM.enzyme_substrate.66"/>
+ <entry term="3r-linalool synthase" name="3r-linalool synthase" id="CM.enzyme_substrate.67"/>
+ <entry term="4 - geranyllinalool synthase" name="4 - geranyllinalool synthase" id="CM.enzyme_substrate.68"/>
+ <entry term="4,8-dimethylnona-1,3,7-triene" name="4,8-dimethylnona-1,3,7-triene" id="CM.enzyme_substrate.69"/>
+ <entry term="4-(cytidine 5?-diphospho)- 2-c-methyl-d-erythritol phosphate" name="4-(cytidine 5?-diphospho)- 2-c-methyl-d-erythritol phosphate" id="CM.enzyme_substrate.70"/>
+ <entry term="4-(cytidine 5?-diphospho)-2-c-methyl-d-erythritol" name="4-(cytidine 5?-diphospho)-2-c-methyl-d-erythritol" id="CM.enzyme_substrate.71"/>
+ <entry term="4-diphos- phocytidyl-2-c-methyl-d-erythritol kinase" name="4-diphos- phocytidyl-2-c-methyl-d-erythritol kinase" id="CM.enzyme_substrate.72"/>
+ <entry term="4-diphosphocytidyl-2- c-methyl-d-erythritol" name="4-diphosphocytidyl-2- c-methyl-d-erythritol" id="CM.enzyme_substrate.73"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d- erythritol synthase" name="4-diphosphocytidyl-2-c-methyl-d- erythritol synthase" id="CM.enzyme_substrate.74"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol 2-phosphate" name="4-diphosphocytidyl-2-c-methyl-d-erythritol 2-phosphate" id="CM.enzyme_substrate.75"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" name="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" id="CM.enzyme_substrate.76"/>
+ <entry term="4-epi-cubebol synthase" name="4-epi-cubebol synthase" id="CM.enzyme_substrate.77"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate" name="4-hydroxy-3-methylbut-2-enyl diphosphate" id="CM.enzyme_substrate.78"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" name="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" id="CM.enzyme_substrate.79"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate synthase" name="4-hydroxy-3-methylbut-2-enyl diphosphate synthase" id="CM.enzyme_substrate.80"/>
+ <entry term="5 - (-)-germacrene d synthase" name="5 - (-)-germacrene d synthase" id="CM.enzyme_substrate.81"/>
+ <entry term="5 - tricyclene synthase" name="5 - tricyclene synthase" id="CM.enzyme_substrate.82"/>
+ <entry term="5-epi-aristolochene synthase" name="5-epi-aristolochene synthase" id="CM.enzyme_substrate.83"/>
+ <entry term="5-epi-aristolochene synthase os" name="5-epi-aristolochene synthase os" id="CM.enzyme_substrate.84"/>
+ <entry term="5-epiaristolochene synthase" name="5-epiaristolochene synthase" id="CM.enzyme_substrate.85"/>
+ <entry term="5-epiaristolochene synthase os" name="5-epiaristolochene synthase os" id="CM.enzyme_substrate.86"/>
+ <entry term="5eas2_0" name="5eas2_0" id="CM.enzyme_substrate.87"/>
+ <entry term="5eas2_1" name="5eas2_1" id="CM.enzyme_substrate.88"/>
+ <entry term="5eas3" name="5eas3" id="CM.enzyme_substrate.89"/>
+ <entry term="5eas4_0" name="5eas4_0" id="CM.enzyme_substrate.90"/>
+ <entry term="5eas4_1" name="5eas4_1" id="CM.enzyme_substrate.91"/>
+ <entry term="6 - gamma-muurolene synthase" name="6 - gamma-muurolene synthase" id="CM.enzyme_substrate.92"/>
+ <entry term="6 - terpene synthase family" name="6 - terpene synthase family" id="CM.enzyme_substrate.93"/>
+ <entry term="7 - terpene synthase" name="7 - terpene synthase" id="CM.enzyme_substrate.94"/>
+ <entry term="7-epi-alpha-eudesmol synthase" name="7-epi-alpha-eudesmol synthase" id="CM.enzyme_substrate.95"/>
+ <entry term="7-epi-alpha-selinene synthase" name="7-epi-alpha-selinene synthase" id="CM.enzyme_substrate.96"/>
+ <entry term="7-epi-sesquithujene synthase" name="7-epi-sesquithujene synthase" id="CM.enzyme_substrate.97"/>
+ <entry term="7-epizingiberene synthase" name="7-epizingiberene synthase" id="CM.enzyme_substrate.98"/>
+ <entry term="8 - (+)-epi-alpha-bisabolol synthase" name="8 - (+)-epi-alpha-bisabolol synthase" id="CM.enzyme_substrate.99"/>
+ <entry term="8 - beta-cubebene synthase" name="8 - beta-cubebene synthase" id="CM.enzyme_substrate.100"/>
+ <entry term="aact" name="aact" wikipedia="aact" id="CM.enzyme_substrate.101"/>
+ <entry term="aatps2" name="aatps2" id="CM.enzyme_substrate.102"/>
+ <entry term="abietadiene synthase" name="abietadiene synthase" id="CM.enzyme_substrate.103"/>
+ <entry term="abs_1" name="abs_1" id="CM.enzyme_substrate.104"/>
+ <entry term="abs_3" name="abs_3" id="CM.enzyme_substrate.105"/>
+ <entry term="abs_4" name="abs_4" id="CM.enzyme_substrate.106"/>
+ <entry term="acac-coa" name="acac-coa" id="CM.enzyme_substrate.107"/>
+ <entry term="acetoacetyl-coa" name="acetoacetyl-coa" id="CM.enzyme_substrate.108"/>
+ <entry term="acetoacetyl-coa thiolase" name="acetoacetyl-coa thiolase" id="CM.enzyme_substrate.109"/>
+ <entry term="acetyl-coa" name="acetyl-coa" wikipedia="acetyl-coa" id="CM.enzyme_substrate.110"/>
+ <entry term="acnes1" name="acnes1" id="CM.enzyme_substrate.111"/>
+ <entry term="acyclic sesquiterpene synthase" name="acyclic sesquiterpene synthase" id="CM.enzyme_substrate.112"/>
+ <entry term="ads" name="ads" wikipedia="ads" id="CM.enzyme_substrate.113"/>
+ <entry term="afar" name="afar" wikipedia="afar" id="CM.enzyme_substrate.114"/>
+ <entry term="afs1" name="afs1" id="CM.enzyme_substrate.115"/>
+ <entry term="ag2.2" name="ag2.2" id="CM.enzyme_substrate.116"/>
+ <entry term="ag3.18" name="ag3.18" id="CM.enzyme_substrate.117"/>
+ <entry term="ag6.5" name="ag6.5" id="CM.enzyme_substrate.118"/>
+ <entry term="ajtps2" name="ajtps2" id="CM.enzyme_substrate.119"/>
+ <entry term="alcars" name="alcars" id="CM.enzyme_substrate.120"/>
+ <entry term="all-e-ggpp" name="all-e-ggpp" id="CM.enzyme_substrate.121"/>
+ <entry term="all-trans-geranylgeranyl diphosphate" name="all-trans-geranylgeranyl diphosphate" id="CM.enzyme_substrate.122"/>
+ <entry term="all-trans-ggpp" name="all-trans-ggpp" id="CM.enzyme_substrate.123"/>
+ <entry term="all-z-ggpp" name="all-z-ggpp" id="CM.enzyme_substrate.124"/>
+ <entry term="alpha-bisabolol synthase" name="alpha-bisabolol synthase" id="CM.enzyme_substrate.125"/>
+ <entry term="alpha-copaene synthase" name="alpha-copaene synthase" id="CM.enzyme_substrate.126"/>
+ <entry term="alpha-farnesene synthase" name="alpha-farnesene synthase" id="CM.enzyme_substrate.127"/>
+ <entry term="alpha-humulene synthase" name="alpha-humulene synthase" id="CM.enzyme_substrate.128"/>
+ <entry term="alpha-isocomene synthase" name="alpha-isocomene synthase" id="CM.enzyme_substrate.129"/>
+ <entry term="alpha-phellandrene synthase" name="alpha-phellandrene synthase" id="CM.enzyme_substrate.130"/>
+ <entry term="alpha-pinene synthase" name="alpha-pinene synthase" id="CM.enzyme_substrate.131"/>
+ <entry term="alpha-terpineol synthase" name="alpha-terpineol synthase" id="CM.enzyme_substrate.132"/>
+ <entry term="alpha-thujene synthase" name="alpha-thujene synthase" id="CM.enzyme_substrate.133"/>
+ <entry term="alstrotps" name="alstrotps" id="CM.enzyme_substrate.134"/>
+ <entry term="amgas" name="amgas" id="CM.enzyme_substrate.135"/>
+ <entry term="amino-terminal domain terpene synthase" name="amino-terminal domain terpene synthase" id="CM.enzyme_substrate.136"/>
+ <entry term="amnes/lis-1/-2" name="amnes/lis-1/-2" id="CM.enzyme_substrate.137"/>
+ <entry term="ams1" name="ams1" id="CM.enzyme_substrate.138"/>
+ <entry term="an1" name="an1" id="CM.enzyme_substrate.139"/>
+ <entry term="aristolochene synthase" name="aristolochene synthase" id="CM.enzyme_substrate.140"/>
+ <entry term="atesy_0" name="atesy_0" id="CM.enzyme_substrate.141"/>
+ <entry term="atesy_1" name="atesy_1" id="CM.enzyme_substrate.142"/>
+ <entry term="atr13" name="atr13" id="CM.enzyme_substrate.143"/>
+ <entry term="atr6" name="atr6" id="CM.enzyme_substrate.144"/>
+ <entry term="attps03" name="attps03" id="CM.enzyme_substrate.145"/>
+ <entry term="avtps1" name="avtps1" id="CM.enzyme_substrate.146"/>
+ <entry term="bas" name="bas" wikipedia="bas" id="CM.enzyme_substrate.147"/>
+ <entry term="bas1" name="bas1" id="CM.enzyme_substrate.148"/>
+ <entry term="beta selinene synthase" name="beta selinene synthase" id="CM.enzyme_substrate.149"/>
+ <entry term="beta-caryophyllene synthase" name="beta-caryophyllene synthase" id="CM.enzyme_substrate.150"/>
+ <entry term="beta-cubebene synthase" name="beta-cubebene synthase" id="CM.enzyme_substrate.151"/>
+ <entry term="beta-eudesmol synthase" name="beta-eudesmol synthase" id="CM.enzyme_substrate.152"/>
+ <entry term="beta-farnesene synthase" name="beta-farnesene synthase" id="CM.enzyme_substrate.153"/>
+ <entry term="beta-myrcene synthase" name="beta-myrcene synthase" id="CM.enzyme_substrate.154"/>
+ <entry term="beta-ocimene synthase" name="beta-ocimene synthase" id="CM.enzyme_substrate.155"/>
+ <entry term="beta-phellandrene synthase" name="beta-phellandrene synthase" id="CM.enzyme_substrate.156"/>
+ <entry term="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" name="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" id="CM.enzyme_substrate.157"/>
+ <entry term="beta-sesquiphellandrene synthase" name="beta-sesquiphellandrene synthase" id="CM.enzyme_substrate.158"/>
+ <entry term="c10-geranyl diphosphate" name="c10-geranyl diphosphate" id="CM.enzyme_substrate.159"/>
+ <entry term="cadinol synthase" name="cadinol synthase" id="CM.enzyme_substrate.160"/>
+ <entry term="camphene synthase" name="camphene synthase" id="CM.enzyme_substrate.161"/>
+ <entry term="cams1" name="cams1" id="CM.enzyme_substrate.162"/>
+ <entry term="carene synthase" name="carene synthase" id="CM.enzyme_substrate.163"/>
+ <entry term="carene synthase 1" name="carene synthase 1" id="CM.enzyme_substrate.164"/>
+ <entry term="carene synthase 2" name="carene synthase 2" id="CM.enzyme_substrate.165"/>
+ <entry term="carene synthase 3" name="carene synthase 3" id="CM.enzyme_substrate.166"/>
+ <entry term="cars" name="cars" wikipedia="cars" id="CM.enzyme_substrate.167"/>
+ <entry term="caryophyllene synthase" name="caryophyllene synthase" id="CM.enzyme_substrate.168"/>
+ <entry term="cas" name="cas" wikipedia="cas" id="CM.enzyme_substrate.169"/>
+ <entry term="cas1" name="cas1" wikipedia="cas1" id="CM.enzyme_substrate.170"/>
+ <entry term="casbene synthase" name="casbene synthase" id="CM.enzyme_substrate.171"/>
+ <entry term="casbene synthase 2" name="casbene synthase 2" id="CM.enzyme_substrate.172"/>
+ <entry term="casbene synthase 3" name="casbene synthase 3" id="CM.enzyme_substrate.173"/>
+ <entry term="cascarilladiene synthase" name="cascarilladiene synthase" id="CM.enzyme_substrate.174"/>
+ <entry term="cbs" name="cbs" wikipedia="cbs" id="CM.enzyme_substrate.175"/>
+ <entry term="cctps1" name="cctps1" id="CM.enzyme_substrate.176"/>
+ <entry term="cctps2" name="cctps2" id="CM.enzyme_substrate.177"/>
+ <entry term="cctps3" name="cctps3" id="CM.enzyme_substrate.178"/>
+ <entry term="cctps4" name="cctps4" id="CM.enzyme_substrate.179"/>
+ <entry term="cctps5" name="cctps5" id="CM.enzyme_substrate.180"/>
+ <entry term="cdp- me2p" name="cdp- me2p" id="CM.enzyme_substrate.181"/>
+ <entry term="cdp-me" name="cdp-me" id="CM.enzyme_substrate.182"/>
+ <entry term="cdp-me kinase" name="cdp-me kinase" id="CM.enzyme_substrate.183"/>
+ <entry term="cdp-me2p" name="cdp-me2p" id="CM.enzyme_substrate.184"/>
+ <entry term="cdp-mep" name="cdp-mep" id="CM.enzyme_substrate.185"/>
+ <entry term="cembratrienol synthase" name="cembratrienol synthase" id="CM.enzyme_substrate.186"/>
+ <entry term="cembratrienol synthase 2b" name="cembratrienol synthase 2b" id="CM.enzyme_substrate.187"/>
+ <entry term="cembratrienol synthase 3" name="cembratrienol synthase 3" id="CM.enzyme_substrate.188"/>
+ <entry term="chpp" name="chpp" id="CM.enzyme_substrate.189"/>
+ <entry term="chpps" name="chpps" id="CM.enzyme_substrate.190"/>
+ <entry term="chrysanthemol synthase" name="chrysanthemol synthase" id="CM.enzyme_substrate.191"/>
+ <entry term="chrysanthemyl diphosphate" name="chrysanthemyl diphosphate" id="CM.enzyme_substrate.192"/>
+ <entry term="chrysanthemyl diphosphate synthase" name="chrysanthemyl diphosphate synthase" wikipedia="chrysanthemyl diphosphate synthase" id="CM.enzyme_substrate.193"/>
+ <entry term="cineol synthase" name="cineol synthase" id="CM.enzyme_substrate.194"/>
+ <entry term="cis-abienol synthase" name="cis-abienol synthase" id="CM.enzyme_substrate.195"/>
+ <entry term="cis-muuroladiene synthase" name="cis-muuroladiene synthase" id="CM.enzyme_substrate.196"/>
+ <entry term="citmtse1" name="citmtse1" id="CM.enzyme_substrate.197"/>
+ <entry term="cittps16" name="cittps16" id="CM.enzyme_substrate.198"/>
+ <entry term="clade-c terpene synthase" name="clade-c terpene synthase" id="CM.enzyme_substrate.199"/>
+ <entry term="clade-e terpene synthase" name="clade-e terpene synthase" id="CM.enzyme_substrate.200"/>
+ <entry term="class i diterpene synthase 2" name="class i diterpene synthase 2" id="CM.enzyme_substrate.201"/>
+ <entry term="class i diterpene synthase tps6" name="class i diterpene synthase tps6" id="CM.enzyme_substrate.202"/>
+ <entry term="clds" name="clds" id="CM.enzyme_substrate.203"/>
+ <entry term="clm1" name="clm1" id="CM.enzyme_substrate.204"/>
+ <entry term="clm2" name="clm2" id="CM.enzyme_substrate.205"/>
+ <entry term="cls" name="cls" wikipedia="cls" id="CM.enzyme_substrate.206"/>
+ <entry term="cmk" name="cmk" id="CM.enzyme_substrate.207"/>
+ <entry term="cms" name="cms" wikipedia="cms" id="CM.enzyme_substrate.208"/>
+ <entry term="cmtpsdul" name="cmtpsdul" id="CM.enzyme_substrate.209"/>
+ <entry term="cmtpsny" name="cmtpsny" id="CM.enzyme_substrate.210"/>
+ <entry term="cnd15" name="cnd15" id="CM.enzyme_substrate.211"/>
+ <entry term="cop3" name="cop3" id="CM.enzyme_substrate.212"/>
+ <entry term="cop4" name="cop4" wikipedia="cop4" id="CM.enzyme_substrate.213"/>
+ <entry term="copal-8-ol diphosphate hydratase" name="copal-8-ol diphosphate hydratase" id="CM.enzyme_substrate.214"/>
+ <entry term="copalyl diphosphate synthase" name="copalyl diphosphate synthase" id="CM.enzyme_substrate.215"/>
+ <entry term="copalyl diphosphate synthase 1" name="copalyl diphosphate synthase 1" id="CM.enzyme_substrate.216"/>
+ <entry term="copalyl diphosphate synthase 2" name="copalyl diphosphate synthase 2" id="CM.enzyme_substrate.217"/>
+ <entry term="copalyl pyrophosphate synthase 2" name="copalyl pyrophosphate synthase 2" id="CM.enzyme_substrate.218"/>
+ <entry term="copalyldiphosphate synthase" name="copalyldiphosphate synthase" id="CM.enzyme_substrate.219"/>
+ <entry term="cotps1" name="cotps1" id="CM.enzyme_substrate.220"/>
+ <entry term="cpp" name="cpp" wikipedia="cpp" id="CM.enzyme_substrate.221"/>
+ <entry term="cps" name="cps" wikipedia="cps" id="CM.enzyme_substrate.222"/>
+ <entry term="cps/ks" name="cps/ks" id="CM.enzyme_substrate.223"/>
+ <entry term="cps1" name="cps1" id="CM.enzyme_substrate.224"/>
+ <entry term="cps2" name="cps2" id="CM.enzyme_substrate.225"/>
+ <entry term="cps3" name="cps3" id="CM.enzyme_substrate.226"/>
+ <entry term="cps4" name="cps4" id="CM.enzyme_substrate.227"/>
+ <entry term="cpt2" name="cpt2" id="CM.enzyme_substrate.228"/>
+ <entry term="cs" name="cs" wikipedia="cs" id="CM.enzyme_substrate.229"/>
+ <entry term="csks1" name="csks1" id="CM.enzyme_substrate.230"/>
+ <entry term="cssesquitps3" name="cssesquitps3" id="CM.enzyme_substrate.231"/>
+ <entry term="cstps1" name="cstps1" id="CM.enzyme_substrate.232"/>
+ <entry term="cstps2" name="cstps2" id="CM.enzyme_substrate.233"/>
+ <entry term="cstps3" name="cstps3" id="CM.enzyme_substrate.234"/>
+ <entry term="cstps4" name="cstps4" id="CM.enzyme_substrate.235"/>
+ <entry term="cstps5" name="cstps5" id="CM.enzyme_substrate.236"/>
+ <entry term="ctvd" name="ctvd" id="CM.enzyme_substrate.237"/>
+ <entry term="cyc2" name="cyc2" wikipedia="cyc2" id="CM.enzyme_substrate.238"/>
+ <entry term="cycloaraneosene synthase" name="cycloaraneosene synthase" id="CM.enzyme_substrate.239"/>
+ <entry term="cycloartenol synthase" name="cycloartenol synthase" id="CM.enzyme_substrate.240"/>
+ <entry term="d-cadinene synthase" name="d-cadinene synthase" id="CM.enzyme_substrate.241"/>
+ <entry term="d-limonene synthase" name="d-limonene synthase" id="CM.enzyme_substrate.242"/>
+ <entry term="delta-cadinene synthase" name="delta-cadinene synthase" id="CM.enzyme_substrate.243"/>
+ <entry term="delta-cadinene synthase isozyme xc1" name="delta-cadinene synthase isozyme xc1" id="CM.enzyme_substrate.244"/>
+ <entry term="delta-cadinene synthase isozyme xc14" name="delta-cadinene synthase isozyme xc14" id="CM.enzyme_substrate.245"/>
+ <entry term="delta-guaiene synthase" name="delta-guaiene synthase" id="CM.enzyme_substrate.246"/>
+ <entry term="dimethylallyl diphosphate" name="dimethylallyl diphosphate" wikipedia="dimethylallyl diphosphate" id="CM.enzyme_substrate.247"/>
+ <entry term="dimethylallylcistransferase" name="dimethylallylcistransferase" id="CM.enzyme_substrate.248"/>
+ <entry term="diterpene geranyllinalool synthase" name="diterpene geranyllinalool synthase" id="CM.enzyme_substrate.249"/>
+ <entry term="diterpene synthase" name="diterpene synthase" id="CM.enzyme_substrate.250"/>
+ <entry term="diterpene synthase 3" name="diterpene synthase 3" id="CM.enzyme_substrate.251"/>
+ <entry term="dmadp" name="dmadp" id="CM.enzyme_substrate.252"/>
+ <entry term="dmapp" name="dmapp" id="CM.enzyme_substrate.253"/>
+ <entry term="dolabradiene synthase" name="dolabradiene synthase" id="CM.enzyme_substrate.254"/>
+ <entry term="dxp" name="dxp" id="CM.enzyme_substrate.255"/>
+ <entry term="dxp synthase" name="dxp synthase" id="CM.enzyme_substrate.256"/>
+ <entry term="dxps" name="dxps" id="CM.enzyme_substrate.257"/>
+ <entry term="dxr" name="dxr" id="CM.enzyme_substrate.258"/>
+ <entry term="dxs" name="dxs" id="CM.enzyme_substrate.259"/>
+ <entry term="e-beta-caryophyllene synthase" name="e-beta-caryophyllene synthase" id="CM.enzyme_substrate.260"/>
+ <entry term="e-beta-farnesene synthase" name="e-beta-farnesene synthase" id="CM.enzyme_substrate.261"/>
+ <entry term="e-beta-farnesene synthase 1" name="e-beta-farnesene synthase 1" id="CM.enzyme_substrate.262"/>
+ <entry term="e-beta-farnesene synthase 2" name="e-beta-farnesene synthase 2" id="CM.enzyme_substrate.263"/>
+ <entry term="e-beta-ocimene synthase 2" name="e-beta-ocimene synthase 2" id="CM.enzyme_substrate.264"/>
+ <entry term="eas3_0" name="eas3_0" id="CM.enzyme_substrate.265"/>
+ <entry term="eas3_1" name="eas3_1" id="CM.enzyme_substrate.266"/>
+ <entry term="eas3_2a4a49_57779" name="eas3_2a4a49_57779" id="CM.enzyme_substrate.267"/>
+ <entry term="eas3_3" name="eas3_3" id="CM.enzyme_substrate.268"/>
+ <entry term="eas3_4" name="eas3_4" id="CM.enzyme_substrate.269"/>
+ <entry term="eas_0" name="eas_0" id="CM.enzyme_substrate.270"/>
+ <entry term="eas_1" name="eas_1" id="CM.enzyme_substrate.271"/>
+ <entry term="ebos" name="ebos" id="CM.enzyme_substrate.272"/>
+ <entry term="ent-13-epi-manoyl oxide synthase" name="ent-13-epi-manoyl oxide synthase" id="CM.enzyme_substrate.273"/>
+ <entry term="ent-8-alpha-hydroxylabd-13-en-15-yl diphosphate synthase" name="ent-8-alpha-hydroxylabd-13-en-15-yl diphosphate synthase" id="CM.enzyme_substrate.274"/>
+ <entry term="ent-atiserene synthase" name="ent-atiserene synthase" id="CM.enzyme_substrate.275"/>
+ <entry term="ent-copalyl diphosphate synthase" name="ent-copalyl diphosphate synthase" wikipedia="ent-copalyl diphosphate synthase" id="CM.enzyme_substrate.276"/>
+ <entry term="ent-kaur-16-ene synthase" name="ent-kaur-16-ene synthase" id="CM.enzyme_substrate.277"/>
+ <entry term="ent-kaurene" name="ent-kaurene" id="CM.enzyme_substrate.278"/>
+ <entry term="ent-kaurene synthase" name="ent-kaurene synthase" id="CM.enzyme_substrate.279"/>
+ <entry term="ent-sandaracopimaradiene synthase" name="ent-sandaracopimaradiene synthase" id="CM.enzyme_substrate.280"/>
+ <entry term="eot1" name="eot1" id="CM.enzyme_substrate.281"/>
+ <entry term="epi-cedrol synthase" name="epi-cedrol synthase" id="CM.enzyme_substrate.282"/>
+ <entry term="epi-sesquithujene synthase" name="epi-sesquithujene synthase" id="CM.enzyme_substrate.283"/>
+ <entry term="epidermal germacrene c synthase" name="epidermal germacrene c synthase" id="CM.enzyme_substrate.284"/>
+ <entry term="erg-6ncu654" name="erg-6ncu654" id="CM.enzyme_substrate.285"/>
+ <entry term="erg7" name="erg7" id="CM.enzyme_substrate.286"/>
+ <entry term="erg9" name="erg9" id="CM.enzyme_substrate.287"/>
+ <entry term="farnesene synthase" name="farnesene synthase" id="CM.enzyme_substrate.288"/>
+ <entry term="farnesol synthase" name="farnesol synthase" id="CM.enzyme_substrate.289"/>
+ <entry term="fars" name="fars" wikipedia="fars" id="CM.enzyme_substrate.290"/>
+ <entry term="fctps1" name="fctps1" id="CM.enzyme_substrate.291"/>
+ <entry term="fctps2" name="fctps2" id="CM.enzyme_substrate.292"/>
+ <entry term="fctps3" name="fctps3" id="CM.enzyme_substrate.293"/>
+ <entry term="fctps4" name="fctps4" id="CM.enzyme_substrate.294"/>
+ <entry term="fctps5" name="fctps5" id="CM.enzyme_substrate.295"/>
+ <entry term="fctps6" name="fctps6" id="CM.enzyme_substrate.296"/>
+ <entry term="fdp" name="fdp" id="CM.enzyme_substrate.297"/>
+ <entry term="fds" name="fds" id="CM.enzyme_substrate.298"/>
+ <entry term="fpp" name="fpp" wikipedia="fpp" id="CM.enzyme_substrate.299"/>
+ <entry term="fpps" name="fpps" id="CM.enzyme_substrate.300"/>
+ <entry term="fps" name="fps" wikipedia="fps" id="CM.enzyme_substrate.301"/>
+ <entry term="fusicoccadiene synthase" name="fusicoccadiene synthase" id="CM.enzyme_substrate.302"/>
+ <entry term="g3p" name="g3p" id="CM.enzyme_substrate.303"/>
+ <entry term="g8h," name="g8h," id="CM.enzyme_substrate.304"/>
+ <entry term="ga1" name="ga1" wikipedia="ga1" id="CM.enzyme_substrate.305"/>
+ <entry term="ga1ga1" name="ga1ga1" id="CM.enzyme_substrate.306"/>
+ <entry term="ga2" name="ga2" wikipedia="ga2" id="CM.enzyme_substrate.307"/>
+ <entry term="ga2ga2" name="ga2ga2" id="CM.enzyme_substrate.308"/>
+ <entry term="gamma-bisabolene synthase" name="gamma-bisabolene synthase" id="CM.enzyme_substrate.309"/>
+ <entry term="gamma-terpinene synthase" name="gamma-terpinene synthase" id="CM.enzyme_substrate.310"/>
+ <entry term="gap" name="gap" wikipedia="gap" id="CM.enzyme_substrate.311"/>
+ <entry term="gas" name="gas" id="CM.enzyme_substrate.312"/>
+ <entry term="gas1" name="gas1" id="CM.enzyme_substrate.313"/>
+ <entry term="gas2" name="gas2" id="CM.enzyme_substrate.314"/>
+ <entry term="gas3" name="gas3" id="CM.enzyme_substrate.315"/>
+ <entry term="gdp" name="gdp" wikipedia="gdp" id="CM.enzyme_substrate.316"/>
+ <entry term="gds" name="gds" wikipedia="gds" id="CM.enzyme_substrate.317"/>
+ <entry term="geosmin synthase" name="geosmin synthase" wikipedia="geosmin synthase" id="CM.enzyme_substrate.318"/>
+ <entry term="geraniol synthase" name="geraniol synthase" id="CM.enzyme_substrate.319"/>
+ <entry term="geraniol-8-hydroxylase" name="geraniol-8-hydroxylase" id="CM.enzyme_substrate.320"/>
+ <entry term="geranyl diphosphate" name="geranyl diphosphate" wikipedia="geranyl diphosphate" id="CM.enzyme_substrate.321"/>
+ <entry term="geranyl diphosphate synthase" name="geranyl diphosphate synthase" id="CM.enzyme_substrate.322"/>
+ <entry term="geranyl-diphosphate cyclase" name="geranyl-diphosphate cyclase" id="CM.enzyme_substrate.323"/>
+ <entry term="geranylfarnesyl diphosphate" name="geranylfarnesyl diphosphate" wikipedia="geranylfarnesyl diphosphate" id="CM.enzyme_substrate.324"/>
+ <entry term="geranylgeranyl reductase" name="geranylgeranyl reductase" id="CM.enzyme_substrate.325"/>
+ <entry term="geranyllinalool synthase" name="geranyllinalool synthase" id="CM.enzyme_substrate.326"/>
+ <entry term="gerds" name="gerds" id="CM.enzyme_substrate.327"/>
+ <entry term="germacradienol synthase" name="germacradienol synthase" id="CM.enzyme_substrate.328"/>
+ <entry term="germacrene a synthase" name="germacrene a synthase" id="CM.enzyme_substrate.329"/>
+ <entry term="germacrene a synthase 2" name="germacrene a synthase 2" id="CM.enzyme_substrate.330"/>
+ <entry term="germacrene c synthase" name="germacrene c synthase" id="CM.enzyme_substrate.331"/>
+ <entry term="germacrene c synthase os" name="germacrene c synthase os" id="CM.enzyme_substrate.332"/>
+ <entry term="germacrene c synthase-" name="germacrene c synthase-" id="CM.enzyme_substrate.333"/>
+ <entry term="germacrene-d synthase" name="germacrene-d synthase" id="CM.enzyme_substrate.334"/>
+ <entry term="gers" name="gers" wikipedia="gers" id="CM.enzyme_substrate.335"/>
+ <entry term="ges" name="ges" wikipedia="ges" id="CM.enzyme_substrate.336"/>
+ <entry term="gfdps" name="gfdps" id="CM.enzyme_substrate.337"/>
+ <entry term="gfpps" name="gfpps" id="CM.enzyme_substrate.338"/>
+ <entry term="ggbas1" name="ggbas1" id="CM.enzyme_substrate.339"/>
+ <entry term="ggcas1" name="ggcas1" id="CM.enzyme_substrate.340"/>
+ <entry term="ggdp" name="ggdp" id="CM.enzyme_substrate.341"/>
+ <entry term="ggpp" name="ggpp" id="CM.enzyme_substrate.342"/>
+ <entry term="ggpp synthases" name="ggpp synthases" id="CM.enzyme_substrate.343"/>
+ <entry term="ggpps" name="ggpps" id="CM.enzyme_substrate.344"/>
+ <entry term="ggps" name="ggps" id="CM.enzyme_substrate.345"/>
+ <entry term="ghtps1" name="ghtps1" id="CM.enzyme_substrate.346"/>
+ <entry term="ghtps2" name="ghtps2" id="CM.enzyme_substrate.347"/>
+ <entry term="ghtps3" name="ghtps3" id="CM.enzyme_substrate.348"/>
+ <entry term="ghtps4" name="ghtps4" id="CM.enzyme_substrate.349"/>
+ <entry term="ghtps5" name="ghtps5" id="CM.enzyme_substrate.350"/>
+ <entry term="glyceraldehyde-3-phosphate" name="glyceraldehyde-3-phosphate" wikipedia="glyceraldehyde-3-phosphate" id="CM.enzyme_substrate.351"/>
+ <entry term="gmnes" name="gmnes" id="CM.enzyme_substrate.352"/>
+ <entry term="gpp" name="gpp" id="CM.enzyme_substrate.353"/>
+ <entry term="gpp synthase" name="gpp synthase" id="CM.enzyme_substrate.354"/>
+ <entry term="gps" name="gps" id="CM.enzyme_substrate.355"/>
+ <entry term="grr" name="grr" wikipedia="grr" id="CM.enzyme_substrate.356"/>
+ <entry term="gse" name="gse" id="CM.enzyme_substrate.357"/>
+ <entry term="gss" name="gss" id="CM.enzyme_substrate.358"/>
+ <entry term="hctps1" name="hctps1" id="CM.enzyme_substrate.359"/>
+ <entry term="hctps2" name="hctps2" id="CM.enzyme_substrate.360"/>
+ <entry term="hctps3" name="hctps3" id="CM.enzyme_substrate.361"/>
+ <entry term="hctps4" name="hctps4" id="CM.enzyme_substrate.362"/>
+ <entry term="hctps5" name="hctps5" id="CM.enzyme_substrate.363"/>
+ <entry term="hctps6" name="hctps6" id="CM.enzyme_substrate.364"/>
+ <entry term="hdr" name="hdr" wikipedia="hdr" id="CM.enzyme_substrate.365"/>
+ <entry term="hds" name="hds" wikipedia="hds" id="CM.enzyme_substrate.366"/>
+ <entry term="hmbpp" name="hmbpp" wikipedia="hmbpp" id="CM.enzyme_substrate.367"/>
+ <entry term="hmelos" name="hmelos" id="CM.enzyme_substrate.368"/>
+ <entry term="hmg-coa" name="hmg-coa" id="CM.enzyme_substrate.369"/>
+ <entry term="hmgr" name="hmgr" id="CM.enzyme_substrate.370"/>
+ <entry term="hmgs" name="hmgs" id="CM.enzyme_substrate.371"/>
+ <entry term="ipk" name="ipk" id="CM.enzyme_substrate.372"/>
+ <entry term="ipp" name="ipp" wikipedia="ipp" id="CM.enzyme_substrate.373"/>
+ <entry term="ippi" name="ippi" id="CM.enzyme_substrate.374"/>
+ <entry term="ips" name="ips" wikipedia="ips" id="CM.enzyme_substrate.375"/>
+ <entry term="ipsd" name="ipsd" id="CM.enzyme_substrate.376"/>
+ <entry term="isopentenyl diphosphate" name="isopentenyl diphosphate" wikipedia="isopentenyl diphosphate" id="CM.enzyme_substrate.377"/>
+ <entry term="isopentenyl diphosphate/ dimethylallyl diphosphate isomerase" name="isopentenyl diphosphate/ dimethylallyl diphosphate isomerase" id="CM.enzyme_substrate.378"/>
+ <entry term="isopentenyl phosphate kinase" name="isopentenyl phosphate kinase" id="CM.enzyme_substrate.379"/>
+ <entry term="isopimaradiene synthase" name="isopimaradiene synthase" id="CM.enzyme_substrate.380"/>
+ <entry term="isoprene synthase" name="isoprene synthase" id="CM.enzyme_substrate.381"/>
+ <entry term="ispe" name="ispe" id="CM.enzyme_substrate.382"/>
+ <entry term="ispf" name="ispf" id="CM.enzyme_substrate.383"/>
+ <entry term="ispg" name="ispg" id="CM.enzyme_substrate.384"/>
+ <entry term="isph" name="isph" id="CM.enzyme_substrate.385"/>
+ <entry term="isps" name="isps" id="CM.enzyme_substrate.386"/>
+ <entry term="kaurene synthase" name="kaurene synthase" id="CM.enzyme_substrate.387"/>
+ <entry term="kaurene synthase3" name="kaurene synthase3" id="CM.enzyme_substrate.388"/>
+ <entry term="kaurene synthase4" name="kaurene synthase4" id="CM.enzyme_substrate.389"/>
+ <entry term="kaurene synthase6" name="kaurene synthase6" id="CM.enzyme_substrate.390"/>
+ <entry term="kolavenyl diphosphate synthase tps5" name="kolavenyl diphosphate synthase tps5" id="CM.enzyme_substrate.391"/>
+ <entry term="ks1" name="ks1" id="CM.enzyme_substrate.392"/>
+ <entry term="ks10" name="ks10" id="CM.enzyme_substrate.393"/>
+ <entry term="ks11" name="ks11" id="CM.enzyme_substrate.394"/>
+ <entry term="ks2" name="ks2" id="CM.enzyme_substrate.395"/>
+ <entry term="ks5" name="ks5" id="CM.enzyme_substrate.396"/>
+ <entry term="ksa" name="ksa" id="CM.enzyme_substrate.397"/>
+ <entry term="ksa_0" name="ksa_0" id="CM.enzyme_substrate.398"/>
+ <entry term="ksa_1" name="ksa_1" id="CM.enzyme_substrate.399"/>
+ <entry term="ksb" name="ksb" id="CM.enzyme_substrate.400"/>
+ <entry term="ksl2" name="ksl2" id="CM.enzyme_substrate.401"/>
+ <entry term="ksl3" name="ksl3" id="CM.enzyme_substrate.402"/>
+ <entry term="ksl4" name="ksl4" id="CM.enzyme_substrate.403"/>
+ <entry term="ksl5" name="ksl5" id="CM.enzyme_substrate.404"/>
+ <entry term="ksl5ksl5" name="ksl5ksl5" id="CM.enzyme_substrate.405"/>
+ <entry term="ksl6" name="ksl6" id="CM.enzyme_substrate.406"/>
+ <entry term="ksl7" name="ksl7" id="CM.enzyme_substrate.407"/>
+ <entry term="ksl7ksl7" name="ksl7ksl7" id="CM.enzyme_substrate.408"/>
+ <entry term="ksl8" name="ksl8" id="CM.enzyme_substrate.409"/>
+ <entry term="lalims" name="lalims" id="CM.enzyme_substrate.410"/>
+ <entry term="lalins" name="lalins" id="CM.enzyme_substrate.411"/>
+ <entry term="las1" name="las1" id="CM.enzyme_substrate.412"/>
+ <entry term="lavandulyl" name="lavandulyl" id="CM.enzyme_substrate.413"/>
+ <entry term="lavandulyl diphosphate" name="lavandulyl diphosphate" id="CM.enzyme_substrate.414"/>
+ <entry term="lemts1" name="lemts1" id="CM.enzyme_substrate.415"/>
+ <entry term="lemts2" name="lemts2" id="CM.enzyme_substrate.416"/>
+ <entry term="lemts3" name="lemts3" id="CM.enzyme_substrate.417"/>
+ <entry term="lemts4" name="lemts4" id="CM.enzyme_substrate.418"/>
+ <entry term="lemts5" name="lemts5" id="CM.enzyme_substrate.419"/>
+ <entry term="levopimaradiene synthase" name="levopimaradiene synthase" id="CM.enzyme_substrate.420"/>
+ <entry term="limonene synthase" name="limonene synthase" wikipedia="limonene synthase" id="CM.enzyme_substrate.421"/>
+ <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" id="CM.enzyme_substrate.422"/>
+ <entry term="lis" name="lis" wikipedia="lis" id="CM.enzyme_substrate.423"/>
+ <entry term="llos" name="llos" id="CM.enzyme_substrate.424"/>
+ <entry term="llos1" name="llos1" id="CM.enzyme_substrate.425"/>
+ <entry term="llos5" name="llos5" id="CM.enzyme_substrate.426"/>
+ <entry term="lotps1" name="lotps1" id="CM.enzyme_substrate.427"/>
+ <entry term="lotps2" name="lotps2" id="CM.enzyme_substrate.428"/>
+ <entry term="lotps3" name="lotps3" id="CM.enzyme_substrate.429"/>
+ <entry term="lotps4" name="lotps4" id="CM.enzyme_substrate.430"/>
+ <entry term="lotps5" name="lotps5" id="CM.enzyme_substrate.431"/>
+ <entry term="lotps6" name="lotps6" id="CM.enzyme_substrate.432"/>
+ <entry term="lotps7" name="lotps7" id="CM.enzyme_substrate.433"/>
+ <entry term="lotps8" name="lotps8" id="CM.enzyme_substrate.434"/>
+ <entry term="lpp" name="lpp" id="CM.enzyme_substrate.435"/>
+ <entry term="lpps" name="lpps" id="CM.enzyme_substrate.436"/>
+ <entry term="lps" name="lps" id="CM.enzyme_substrate.437"/>
+ <entry term="ls" name="ls" wikipedia="ls" id="CM.enzyme_substrate.438"/>
+ <entry term="lss" name="lss" id="CM.enzyme_substrate.439"/>
+ <entry term="lup1" name="lup1" id="CM.enzyme_substrate.440"/>
+ <entry term="lup2" name="lup2" id="CM.enzyme_substrate.441"/>
+ <entry term="lup5" name="lup5" id="CM.enzyme_substrate.442"/>
+ <entry term="mab16.1" name="mab16.1" id="CM.enzyme_substrate.443"/>
+ <entry term="mbr3882" name="mbr3882" id="CM.enzyme_substrate.444"/>
+ <entry term="mcs" name="mcs" wikipedia="mcs" id="CM.enzyme_substrate.445"/>
+ <entry term="mct" name="mct" id="CM.enzyme_substrate.446"/>
+ <entry term="mctps1" name="mctps1" id="CM.enzyme_substrate.447"/>
+ <entry term="mdd" name="mdd" id="CM.enzyme_substrate.448"/>
+ <entry term="mdn11.20" name="mdn11.20" id="CM.enzyme_substrate.449"/>
+ <entry term="mds" name="mds" wikipedia="mds" id="CM.enzyme_substrate.450"/>
+ <entry term="me-cdp" name="me-cdp" id="CM.enzyme_substrate.451"/>
+ <entry term="mecdp" name="mecdp" id="CM.enzyme_substrate.452"/>
+ <entry term="mecpp" name="mecpp" id="CM.enzyme_substrate.453"/>
+ <entry term="mep" name="mep" id="CM.enzyme_substrate.454"/>
+ <entry term="mercene synthase" name="mercene synthase" id="CM.enzyme_substrate.455"/>
+ <entry term="mevalonate" name="mevalonate" wikipedia="mevalonate" id="CM.enzyme_substrate.456"/>
+ <entry term="mevalonate 5-phosphate" name="mevalonate 5-phosphate" id="CM.enzyme_substrate.457"/>
+ <entry term="mevalonate diphosphate decarboxylase" name="mevalonate diphosphate decarboxylase" id="CM.enzyme_substrate.458"/>
+ <entry term="mevalonate-5-phosphate" name="mevalonate-5-phosphate" id="CM.enzyme_substrate.459"/>
+ <entry term="mevalonate-diphosphate" name="mevalonate-diphosphate" id="CM.enzyme_substrate.460"/>
+ <entry term="mfo20.1" name="mfo20.1" id="CM.enzyme_substrate.461"/>
+ <entry term="microbial terpene synthase- protein 13 (smmtpsl13)" name="microbial terpene synthase- protein 13 (smmtpsl13)" id="CM.enzyme_substrate.462"/>
+ <entry term="microbial terpene synthase- protein 30 (smmtpsl30)" name="microbial terpene synthase- protein 30 (smmtpsl30)" id="CM.enzyme_substrate.463"/>
+ <entry term="mie1.2" name="mie1.2" id="CM.enzyme_substrate.464"/>
+ <entry term="mie1.4mie1.4" name="mie1.4mie1.4" id="CM.enzyme_substrate.465"/>
+ <entry term="miltiradiene synthase" name="miltiradiene synthase" id="CM.enzyme_substrate.466"/>
+ <entry term="miltiradiene synthase ksl2" name="miltiradiene synthase ksl2" id="CM.enzyme_substrate.467"/>
+ <entry term="mjl12.5" name="mjl12.5" id="CM.enzyme_substrate.468"/>
+ <entry term="mk" name="mk" wikipedia="mk" id="CM.enzyme_substrate.469"/>
+ <entry term="mktps1" name="mktps1" id="CM.enzyme_substrate.470"/>
+ <entry term="mktps2" name="mktps2" id="CM.enzyme_substrate.471"/>
+ <entry term="mktps3" name="mktps3" id="CM.enzyme_substrate.472"/>
+ <entry term="mktps4" name="mktps4" id="CM.enzyme_substrate.473"/>
+ <entry term="mktps5" name="mktps5" id="CM.enzyme_substrate.474"/>
+ <entry term="moa2.12" name="moa2.12" id="CM.enzyme_substrate.475"/>
+ <entry term="monofunctional isopimaradiene synthase" name="monofunctional isopimaradiene synthase" id="CM.enzyme_substrate.476"/>
+ <entry term="monoterpene synthase" name="monoterpene synthase" id="CM.enzyme_substrate.477"/>
+ <entry term="monoterpene synthase 2" name="monoterpene synthase 2" id="CM.enzyme_substrate.478"/>
+ <entry term="monotps" name="monotps" id="CM.enzyme_substrate.479"/>
+ <entry term="monotps1" name="monotps1" id="CM.enzyme_substrate.480"/>
+ <entry term="monotps2" name="monotps2" id="CM.enzyme_substrate.481"/>
+ <entry term="monotps3" name="monotps3" id="CM.enzyme_substrate.482"/>
+ <entry term="monotps4" name="monotps4" id="CM.enzyme_substrate.483"/>
+ <entry term="monotps5" name="monotps5" id="CM.enzyme_substrate.484"/>
+ <entry term="mpdc" name="mpdc" id="CM.enzyme_substrate.485"/>
+ <entry term="mrn1" name="mrn1" id="CM.enzyme_substrate.486"/>
+ <entry term="mrtps1" name="mrtps1" id="CM.enzyme_substrate.487"/>
+ <entry term="mrtps2" name="mrtps2" id="CM.enzyme_substrate.488"/>
+ <entry term="mrtps3" name="mrtps3" id="CM.enzyme_substrate.489"/>
+ <entry term="mrtps4" name="mrtps4" id="CM.enzyme_substrate.490"/>
+ <entry term="mrtps5" name="mrtps5" id="CM.enzyme_substrate.491"/>
+ <entry term="mstps1" name="mstps1" id="CM.enzyme_substrate.492"/>
+ <entry term="mstps2" name="mstps2" id="CM.enzyme_substrate.493"/>
+ <entry term="mstps3" name="mstps3" id="CM.enzyme_substrate.494"/>
+ <entry term="mstps4" name="mstps4" id="CM.enzyme_substrate.495"/>
+ <entry term="mstps5" name="mstps5" id="CM.enzyme_substrate.496"/>
+ <entry term="mtebos" name="mtebos" id="CM.enzyme_substrate.497"/>
+ <entry term="mtps" name="mtps" id="CM.enzyme_substrate.498"/>
+ <entry term="mts" name="mts" wikipedia="mts" id="CM.enzyme_substrate.499"/>
+ <entry term="mts1" name="mts1" id="CM.enzyme_substrate.500"/>
+ <entry term="mttps1" name="mttps1" id="CM.enzyme_substrate.501"/>
+ <entry term="mttps2" name="mttps2" id="CM.enzyme_substrate.502"/>
+ <entry term="mttps3" name="mttps3" id="CM.enzyme_substrate.503"/>
+ <entry term="mttps4" name="mttps4" id="CM.enzyme_substrate.504"/>
+ <entry term="mttps5" name="mttps5" id="CM.enzyme_substrate.505"/>
+ <entry term="mttps6" name="mttps6" id="CM.enzyme_substrate.506"/>
+ <entry term="muo10.2" name="muo10.2" id="CM.enzyme_substrate.507"/>
+ <entry term="mvap" name="mvap" id="CM.enzyme_substrate.508"/>
+ <entry term="mvd" name="mvd" wikipedia="mvd" id="CM.enzyme_substrate.509"/>
+ <entry term="mxe2.1" name="mxe2.1" id="CM.enzyme_substrate.510"/>
+ <entry term="mxo21.3" name="mxo21.3" id="CM.enzyme_substrate.511"/>
+ <entry term="myrcene synthase" name="myrcene synthase" id="CM.enzyme_substrate.512"/>
+ <entry term="myrcene synthase protein" name="myrcene synthase protein" id="CM.enzyme_substrate.513"/>
+ <entry term="myrs" name="myrs" id="CM.enzyme_substrate.514"/>
+ <entry term="ndps1" name="ndps1" id="CM.enzyme_substrate.515"/>
+ <entry term="nerolidol synthase" name="nerolidol synthase" id="CM.enzyme_substrate.516"/>
+ <entry term="neryl diphosphate" name="neryl diphosphate" id="CM.enzyme_substrate.517"/>
+ <entry term="neryldiphosphate" name="neryldiphosphate" id="CM.enzyme_substrate.518"/>
+ <entry term="nerylneryl diphosphate" name="nerylneryl diphosphate" id="CM.enzyme_substrate.519"/>
+ <entry term="nerylneryl diphosphate synthase" name="nerylneryl diphosphate synthase" id="CM.enzyme_substrate.520"/>
+ <entry term="nes" name="nes" wikipedia="nes" id="CM.enzyme_substrate.521"/>
+ <entry term="nes1" name="nes1" id="CM.enzyme_substrate.522"/>
+ <entry term="nndps" name="nndps" id="CM.enzyme_substrate.523"/>
+ <entry term="nnpp" name="nnpp" id="CM.enzyme_substrate.524"/>
+ <entry term="npp" name="npp" id="CM.enzyme_substrate.525"/>
+ <entry term="npp synthase" name="npp synthase" id="CM.enzyme_substrate.526"/>
+ <entry term="nudx1" name="nudx1" id="CM.enzyme_substrate.527"/>
+ <entry term="o-methyltransferase" name="o-methyltransferase" wikipedia="o-methyltransferase" id="CM.enzyme_substrate.528"/>
+ <entry term="ocimene synthase" name="ocimene synthase" id="CM.enzyme_substrate.529"/>
+ <entry term="oftps1" name="oftps1" id="CM.enzyme_substrate.530"/>
+ <entry term="oftps2" name="oftps2" id="CM.enzyme_substrate.531"/>
+ <entry term="oftps3" name="oftps3" id="CM.enzyme_substrate.532"/>
+ <entry term="oftps4" name="oftps4" id="CM.enzyme_substrate.533"/>
+ <entry term="oftps5" name="oftps5" id="CM.enzyme_substrate.534"/>
+ <entry term="oligoprenyl diphosphate" name="oligoprenyl diphosphate" id="CM.enzyme_substrate.535"/>
+ <entry term="omt" name="omt" id="CM.enzyme_substrate.536"/>
+ <entry term="opp" name="opp" wikipedia="opp" id="CM.enzyme_substrate.537"/>
+ <entry term="opp synthase" name="opp synthase" id="CM.enzyme_substrate.538"/>
+ <entry term="ops" name="ops" wikipedia="ops" id="CM.enzyme_substrate.539"/>
+ <entry term="ostps1" name="ostps1" id="CM.enzyme_substrate.540"/>
+ <entry term="ostps10" name="ostps10" id="CM.enzyme_substrate.541"/>
+ <entry term="ostps11" name="ostps11" id="CM.enzyme_substrate.542"/>
+ <entry term="ostps12" name="ostps12" id="CM.enzyme_substrate.543"/>
+ <entry term="ostps13" name="ostps13" id="CM.enzyme_substrate.544"/>
+ <entry term="ostps14" name="ostps14" id="CM.enzyme_substrate.545"/>
+ <entry term="ostps15" name="ostps15" id="CM.enzyme_substrate.546"/>
+ <entry term="ostps16" name="ostps16" id="CM.enzyme_substrate.547"/>
+ <entry term="ostps17" name="ostps17" id="CM.enzyme_substrate.548"/>
+ <entry term="ostps18" name="ostps18" id="CM.enzyme_substrate.549"/>
+ <entry term="ostps19" name="ostps19" id="CM.enzyme_substrate.550"/>
+ <entry term="ostps2" name="ostps2" id="CM.enzyme_substrate.551"/>
+ <entry term="ostps20" name="ostps20" id="CM.enzyme_substrate.552"/>
+ <entry term="ostps21" name="ostps21" id="CM.enzyme_substrate.553"/>
+ <entry term="ostps22" name="ostps22" id="CM.enzyme_substrate.554"/>
+ <entry term="ostps23" name="ostps23" id="CM.enzyme_substrate.555"/>
+ <entry term="ostps24" name="ostps24" id="CM.enzyme_substrate.556"/>
+ <entry term="ostps25" name="ostps25" id="CM.enzyme_substrate.557"/>
+ <entry term="ostps26" name="ostps26" id="CM.enzyme_substrate.558"/>
+ <entry term="ostps27" name="ostps27" id="CM.enzyme_substrate.559"/>
+ <entry term="ostps28" name="ostps28" id="CM.enzyme_substrate.560"/>
+ <entry term="ostps29" name="ostps29" id="CM.enzyme_substrate.561"/>
+ <entry term="ostps3" name="ostps3" id="CM.enzyme_substrate.562"/>
+ <entry term="ostps30" name="ostps30" id="CM.enzyme_substrate.563"/>
+ <entry term="ostps31" name="ostps31" id="CM.enzyme_substrate.564"/>
+ <entry term="ostps32" name="ostps32" id="CM.enzyme_substrate.565"/>
+ <entry term="ostps33" name="ostps33" id="CM.enzyme_substrate.566"/>
+ <entry term="ostps34" name="ostps34" id="CM.enzyme_substrate.567"/>
+ <entry term="ostps35" name="ostps35" id="CM.enzyme_substrate.568"/>
+ <entry term="ostps4" name="ostps4" id="CM.enzyme_substrate.569"/>
+ <entry term="ostps5" name="ostps5" id="CM.enzyme_substrate.570"/>
+ <entry term="ostps6" name="ostps6" id="CM.enzyme_substrate.571"/>
+ <entry term="ostps7" name="ostps7" id="CM.enzyme_substrate.572"/>
+ <entry term="ostps8" name="ostps8" id="CM.enzyme_substrate.573"/>
+ <entry term="ostps9" name="ostps9" id="CM.enzyme_substrate.574"/>
+ <entry term="oxidosqualene" name="oxidosqualene" id="CM.enzyme_substrate.575"/>
+ <entry term="pancps" name="pancps" id="CM.enzyme_substrate.576"/>
+ <entry term="panks" name="panks" id="CM.enzyme_substrate.577"/>
+ <entry term="patchoulol synthase" name="patchoulol synthase" id="CM.enzyme_substrate.578"/>
+ <entry term="pbtps1" name="pbtps1" id="CM.enzyme_substrate.579"/>
+ <entry term="pbtps2" name="pbtps2" id="CM.enzyme_substrate.580"/>
+ <entry term="pbtps3" name="pbtps3" id="CM.enzyme_substrate.581"/>
+ <entry term="pbtps4" name="pbtps4" id="CM.enzyme_substrate.582"/>
+ <entry term="pbtps5" name="pbtps5" id="CM.enzyme_substrate.583"/>
+ <entry term="peas" name="peas" id="CM.enzyme_substrate.584"/>
+ <entry term="pen1" name="pen1" id="CM.enzyme_substrate.585"/>
+ <entry term="pen2" name="pen2" wikipedia="pen2" id="CM.enzyme_substrate.586"/>
+ <entry term="pen3" name="pen3" id="CM.enzyme_substrate.587"/>
+ <entry term="pen6" name="pen6" id="CM.enzyme_substrate.588"/>
+ <entry term="pen7" name="pen7" id="CM.enzyme_substrate.589"/>
+ <entry term="peregrinol diphosphate synthase" name="peregrinol diphosphate synthase" id="CM.enzyme_substrate.590"/>
+ <entry term="peregrinol diphosphate synthase tps1" name="peregrinol diphosphate synthase tps1" id="CM.enzyme_substrate.591"/>
+ <entry term="phytoene synthase" name="phytoene synthase" id="CM.enzyme_substrate.592"/>
+ <entry term="pinene synthase" name="pinene synthase" id="CM.enzyme_substrate.593"/>
+ <entry term="pks1" name="pks1" id="CM.enzyme_substrate.594"/>
+ <entry term="pltps1" name="pltps1" id="CM.enzyme_substrate.595"/>
+ <entry term="pltps2" name="pltps2" id="CM.enzyme_substrate.596"/>
+ <entry term="pltps3" name="pltps3" id="CM.enzyme_substrate.597"/>
+ <entry term="pltps4" name="pltps4" id="CM.enzyme_substrate.598"/>
+ <entry term="pltps5" name="pltps5" id="CM.enzyme_substrate.599"/>
+ <entry term="pmk" name="pmk" id="CM.enzyme_substrate.600"/>
+ <entry term="pntps1" name="pntps1" id="CM.enzyme_substrate.601"/>
+ <entry term="pntps2" name="pntps2" id="CM.enzyme_substrate.602"/>
+ <entry term="pntps3" name="pntps3" id="CM.enzyme_substrate.603"/>
+ <entry term="pntps4" name="pntps4" id="CM.enzyme_substrate.604"/>
+ <entry term="pntps5" name="pntps5" id="CM.enzyme_substrate.605"/>
+ <entry term="pny2" name="pny2" id="CM.enzyme_substrate.606"/>
+ <entry term="polyprenyl di(pyro)phosphate synthase" name="polyprenyl di(pyro)phosphate synthase" id="CM.enzyme_substrate.607"/>
+ <entry term="ppase" name="ppase" id="CM.enzyme_substrate.608"/>
+ <entry term="ppcps/ks" name="ppcps/ks" id="CM.enzyme_substrate.609"/>
+ <entry term="ppp" name="ppp" wikipedia="ppp" id="CM.enzyme_substrate.610"/>
+ <entry term="pps" name="pps" wikipedia="pps" id="CM.enzyme_substrate.611"/>
+ <entry term="pptps1" name="pptps1" id="CM.enzyme_substrate.612"/>
+ <entry term="pptps2" name="pptps2" id="CM.enzyme_substrate.613"/>
+ <entry term="pptps3" name="pptps3" id="CM.enzyme_substrate.614"/>
+ <entry term="pptps4" name="pptps4" id="CM.enzyme_substrate.615"/>
+ <entry term="pptps5" name="pptps5" id="CM.enzyme_substrate.616"/>
+ <entry term="premnaspirodiene oxygenase" name="premnaspirodiene oxygenase" id="CM.enzyme_substrate.617"/>
+ <entry term="prenyltransferase" name="prenyltransferase" wikipedia="prenyltransferase" id="CM.enzyme_substrate.618"/>
+ <entry term="prenytransferase" name="prenytransferase" id="CM.enzyme_substrate.619"/>
+ <entry term="protein expression of terpenoids 1" name="protein expression of terpenoids 1" id="CM.enzyme_substrate.620"/>
+ <entry term="pseudolaratriene synthase" name="pseudolaratriene synthase" id="CM.enzyme_substrate.621"/>
+ <entry term="pstps1" name="pstps1" id="CM.enzyme_substrate.622"/>
+ <entry term="pstps2" name="pstps2" id="CM.enzyme_substrate.623"/>
+ <entry term="pstps3" name="pstps3" id="CM.enzyme_substrate.624"/>
+ <entry term="pstps4" name="pstps4" id="CM.enzyme_substrate.625"/>
+ <entry term="pstps5" name="pstps5" id="CM.enzyme_substrate.626"/>
+ <entry term="pt" name="pt" wikipedia="pt" id="CM.enzyme_substrate.627"/>
+ <entry term="ptase" name="ptase" id="CM.enzyme_substrate.628"/>
+ <entry term="pttps1" name="pttps1" id="CM.enzyme_substrate.629"/>
+ <entry term="pttps10" name="pttps10" id="CM.enzyme_substrate.630"/>
+ <entry term="pttps11" name="pttps11" id="CM.enzyme_substrate.631"/>
+ <entry term="pttps12" name="pttps12" id="CM.enzyme_substrate.632"/>
+ <entry term="pttps13" name="pttps13" id="CM.enzyme_substrate.633"/>
+ <entry term="pttps14" name="pttps14" id="CM.enzyme_substrate.634"/>
+ <entry term="pttps15" name="pttps15" id="CM.enzyme_substrate.635"/>
+ <entry term="pttps16" name="pttps16" id="CM.enzyme_substrate.636"/>
+ <entry term="pttps17" name="pttps17" id="CM.enzyme_substrate.637"/>
+ <entry term="pttps18" name="pttps18" id="CM.enzyme_substrate.638"/>
+ <entry term="pttps19" name="pttps19" id="CM.enzyme_substrate.639"/>
+ <entry term="pttps2" name="pttps2" id="CM.enzyme_substrate.640"/>
+ <entry term="pttps20" name="pttps20" id="CM.enzyme_substrate.641"/>
+ <entry term="pttps21" name="pttps21" id="CM.enzyme_substrate.642"/>
+ <entry term="pttps22" name="pttps22" id="CM.enzyme_substrate.643"/>
+ <entry term="pttps23" name="pttps23" id="CM.enzyme_substrate.644"/>
+ <entry term="pttps24" name="pttps24" id="CM.enzyme_substrate.645"/>
+ <entry term="pttps25" name="pttps25" id="CM.enzyme_substrate.646"/>
+ <entry term="pttps26" name="pttps26" id="CM.enzyme_substrate.647"/>
+ <entry term="pttps27" name="pttps27" id="CM.enzyme_substrate.648"/>
+ <entry term="pttps28" name="pttps28" id="CM.enzyme_substrate.649"/>
+ <entry term="pttps29" name="pttps29" id="CM.enzyme_substrate.650"/>
+ <entry term="pttps3" name="pttps3" id="CM.enzyme_substrate.651"/>
+ <entry term="pttps30" name="pttps30" id="CM.enzyme_substrate.652"/>
+ <entry term="pttps31" name="pttps31" id="CM.enzyme_substrate.653"/>
+ <entry term="pttps32" name="pttps32" id="CM.enzyme_substrate.654"/>
+ <entry term="pttps33" name="pttps33" id="CM.enzyme_substrate.655"/>
+ <entry term="pttps34" name="pttps34" id="CM.enzyme_substrate.656"/>
+ <entry term="pttps35" name="pttps35" id="CM.enzyme_substrate.657"/>
+ <entry term="pttps4" name="pttps4" id="CM.enzyme_substrate.658"/>
+ <entry term="pttps5" name="pttps5" id="CM.enzyme_substrate.659"/>
+ <entry term="pttps6" name="pttps6" id="CM.enzyme_substrate.660"/>
+ <entry term="pttps7" name="pttps7" id="CM.enzyme_substrate.661"/>
+ <entry term="pttps8" name="pttps8" id="CM.enzyme_substrate.662"/>
+ <entry term="pttps9" name="pttps9" id="CM.enzyme_substrate.663"/>
+ <entry term="pup8" name="pup8" id="CM.enzyme_substrate.664"/>
+ <entry term="pvs1" name="pvs1" id="CM.enzyme_substrate.665"/>
+ <entry term="pyrophosphatase;" name="pyrophosphatase;" wikipedia="pyrophosphatase;" id="CM.enzyme_substrate.666"/>
+ <entry term="pyruvate" name="pyruvate" wikipedia="pyruvate" id="CM.enzyme_substrate.667"/>
+ <entry term="pys" name="pys" wikipedia="pys" id="CM.enzyme_substrate.668"/>
+ <entry term="r-linalool synthase" name="r-linalool synthase" id="CM.enzyme_substrate.669"/>
+ <entry term="rttps1" name="rttps1" id="CM.enzyme_substrate.670"/>
+ <entry term="rttps2" name="rttps2" id="CM.enzyme_substrate.671"/>
+ <entry term="rttps3" name="rttps3" id="CM.enzyme_substrate.672"/>
+ <entry term="rttps4" name="rttps4" id="CM.enzyme_substrate.673"/>
+ <entry term="rttps5" name="rttps5" id="CM.enzyme_substrate.674"/>
+ <entry term="s-(+)-linalool synthase" name="s-(+)-linalool synthase" id="CM.enzyme_substrate.675"/>
+ <entry term="s-(+)-linalool synthase chloroplastic" name="s-(+)-linalool synthase chloroplastic" id="CM.enzyme_substrate.676"/>
+ <entry term="s-+-linalool synthase" name="s-+-linalool synthase" id="CM.enzyme_substrate.677"/>
+ <entry term="s-linalool synthase" name="s-linalool synthase" id="CM.enzyme_substrate.678"/>
+ <entry term="sabinene synthase" name="sabinene synthase" id="CM.enzyme_substrate.679"/>
+ <entry term="santalene and bergamotene synthase" name="santalene and bergamotene synthase" id="CM.enzyme_substrate.680"/>
+ <entry term="sbs" name="sbs" wikipedia="sbs" id="CM.enzyme_substrate.681"/>
+ <entry term="sbtps1" name="sbtps1" id="CM.enzyme_substrate.682"/>
+ <entry term="sbtps2" name="sbtps2" id="CM.enzyme_substrate.683"/>
+ <entry term="sbtps3" name="sbtps3" id="CM.enzyme_substrate.684"/>
+ <entry term="sbtps4" name="sbtps4" id="CM.enzyme_substrate.685"/>
+ <entry term="sbtps5" name="sbtps5" id="CM.enzyme_substrate.686"/>
+ <entry term="sclareol synthase" name="sclareol synthase" id="CM.enzyme_substrate.687"/>
+ <entry term="selinene synthase os" name="selinene synthase os" id="CM.enzyme_substrate.688"/>
+ <entry term="sesquiterpene cyclase" name="sesquiterpene cyclase" wikipedia="sesquiterpene cyclase" id="CM.enzyme_substrate.689"/>
+ <entry term="sesquiterpene cyclase1" name="sesquiterpene cyclase1" id="CM.enzyme_substrate.690"/>
+ <entry term="sesquiterpene synthase" name="sesquiterpene synthase" id="CM.enzyme_substrate.691"/>
+ <entry term="sesquiterpene synthase 1" name="sesquiterpene synthase 1" id="CM.enzyme_substrate.692"/>
+ <entry term="sesquithujene synthase" name="sesquithujene synthase" id="CM.enzyme_substrate.693"/>
+ <entry term="sesquithujene synthase a" name="sesquithujene synthase a" id="CM.enzyme_substrate.694"/>
+ <entry term="sesquithujene synthase b" name="sesquithujene synthase b" id="CM.enzyme_substrate.695"/>
+ <entry term="sesterterpene synthase" name="sesterterpene synthase" id="CM.enzyme_substrate.696"/>
+ <entry term="slcpt" name="slcpt" id="CM.enzyme_substrate.697"/>
+ <entry term="sleot1" name="sleot1" id="CM.enzyme_substrate.698"/>
+ <entry term="sltps1" name="sltps1" id="CM.enzyme_substrate.699"/>
+ <entry term="sltps10" name="sltps10" id="CM.enzyme_substrate.700"/>
+ <entry term="sltps11" name="sltps11" id="CM.enzyme_substrate.701"/>
+ <entry term="sltps12" name="sltps12" id="CM.enzyme_substrate.702"/>
+ <entry term="sltps13" name="sltps13" id="CM.enzyme_substrate.703"/>
+ <entry term="sltps14" name="sltps14" id="CM.enzyme_substrate.704"/>
+ <entry term="sltps15" name="sltps15" id="CM.enzyme_substrate.705"/>
+ <entry term="sltps16" name="sltps16" id="CM.enzyme_substrate.706"/>
+ <entry term="sltps17" name="sltps17" id="CM.enzyme_substrate.707"/>
+ <entry term="sltps18" name="sltps18" id="CM.enzyme_substrate.708"/>
+ <entry term="sltps19" name="sltps19" id="CM.enzyme_substrate.709"/>
+ <entry term="sltps2" name="sltps2" id="CM.enzyme_substrate.710"/>
+ <entry term="sltps20" name="sltps20" id="CM.enzyme_substrate.711"/>
+ <entry term="sltps21" name="sltps21" id="CM.enzyme_substrate.712"/>
+ <entry term="sltps22" name="sltps22" id="CM.enzyme_substrate.713"/>
+ <entry term="sltps23" name="sltps23" id="CM.enzyme_substrate.714"/>
+ <entry term="sltps24" name="sltps24" id="CM.enzyme_substrate.715"/>
+ <entry term="sltps25" name="sltps25" id="CM.enzyme_substrate.716"/>
+ <entry term="sltps26" name="sltps26" id="CM.enzyme_substrate.717"/>
+ <entry term="sltps27" name="sltps27" id="CM.enzyme_substrate.718"/>
+ <entry term="sltps28" name="sltps28" id="CM.enzyme_substrate.719"/>
+ <entry term="sltps29" name="sltps29" id="CM.enzyme_substrate.720"/>
+ <entry term="sltps3" name="sltps3" id="CM.enzyme_substrate.721"/>
+ <entry term="sltps30" name="sltps30" id="CM.enzyme_substrate.722"/>
+ <entry term="sltps31" name="sltps31" id="CM.enzyme_substrate.723"/>
+ <entry term="sltps32" name="sltps32" id="CM.enzyme_substrate.724"/>
+ <entry term="sltps33" name="sltps33" id="CM.enzyme_substrate.725"/>
+ <entry term="sltps34" name="sltps34" id="CM.enzyme_substrate.726"/>
+ <entry term="sltps35" name="sltps35" id="CM.enzyme_substrate.727"/>
+ <entry term="sltps36" name="sltps36" id="CM.enzyme_substrate.728"/>
+ <entry term="sltps37" name="sltps37" id="CM.enzyme_substrate.729"/>
+ <entry term="sltps38" name="sltps38" id="CM.enzyme_substrate.730"/>
+ <entry term="sltps39" name="sltps39" id="CM.enzyme_substrate.731"/>
+ <entry term="sltps4" name="sltps4" id="CM.enzyme_substrate.732"/>
+ <entry term="sltps40" name="sltps40" id="CM.enzyme_substrate.733"/>
+ <entry term="sltps41" name="sltps41" id="CM.enzyme_substrate.734"/>
+ <entry term="sltps42" name="sltps42" id="CM.enzyme_substrate.735"/>
+ <entry term="sltps43" name="sltps43" id="CM.enzyme_substrate.736"/>
+ <entry term="sltps44" name="sltps44" id="CM.enzyme_substrate.737"/>
+ <entry term="sltps45" name="sltps45" id="CM.enzyme_substrate.738"/>
+ <entry term="sltps46" name="sltps46" id="CM.enzyme_substrate.739"/>
+ <entry term="sltps47" name="sltps47" id="CM.enzyme_substrate.740"/>
+ <entry term="sltps48" name="sltps48" id="CM.enzyme_substrate.741"/>
+ <entry term="sltps49" name="sltps49" id="CM.enzyme_substrate.742"/>
+ <entry term="sltps5" name="sltps5" id="CM.enzyme_substrate.743"/>
+ <entry term="sltps50" name="sltps50" id="CM.enzyme_substrate.744"/>
+ <entry term="sltps51" name="sltps51" id="CM.enzyme_substrate.745"/>
+ <entry term="sltps6" name="sltps6" id="CM.enzyme_substrate.746"/>
+ <entry term="sltps7" name="sltps7" id="CM.enzyme_substrate.747"/>
+ <entry term="sltps8" name="sltps8" id="CM.enzyme_substrate.748"/>
+ <entry term="sltps9" name="sltps9" id="CM.enzyme_substrate.749"/>
+ <entry term="smstps1" name="smstps1" id="CM.enzyme_substrate.750"/>
+ <entry term="smstps2" name="smstps2" id="CM.enzyme_substrate.751"/>
+ <entry term="smstps3" name="smstps3" id="CM.enzyme_substrate.752"/>
+ <entry term="smstps4" name="smstps4" id="CM.enzyme_substrate.753"/>
+ <entry term="smstps5" name="smstps5" id="CM.enzyme_substrate.754"/>
+ <entry term="solanesyl diphosphate synthase" name="solanesyl diphosphate synthase" wikipedia="solanesyl diphosphate synthase" id="CM.enzyme_substrate.755"/>
+ <entry term="spp" name="spp" wikipedia="spp" id="CM.enzyme_substrate.756"/>
+ <entry term="sps" name="sps" wikipedia="sps" id="CM.enzyme_substrate.757"/>
+ <entry term="sqe" name="sqe" id="CM.enzyme_substrate.758"/>
+ <entry term="sqe1" name="sqe1" id="CM.enzyme_substrate.759"/>
+ <entry term="sqs" name="sqs" id="CM.enzyme_substrate.760"/>
+ <entry term="sqs1" name="sqs1" id="CM.enzyme_substrate.761"/>
+ <entry term="sqs7" name="sqs7" id="CM.enzyme_substrate.762"/>
+ <entry term="squalence" name="squalence" id="CM.enzyme_substrate.763"/>
+ <entry term="squalene" name="squalene" wikipedia="squalene" id="CM.enzyme_substrate.764"/>
+ <entry term="squalene synthase" name="squalene synthase" wikipedia="squalene synthase" id="CM.enzyme_substrate.765"/>
+ <entry term="srtps" name="srtps" id="CM.enzyme_substrate.766"/>
+ <entry term="ss" name="ss" wikipedia="ss" id="CM.enzyme_substrate.767"/>
+ <entry term="sstle1" name="sstle1" id="CM.enzyme_substrate.768"/>
+ <entry term="sstle1_0" name="sstle1_0" id="CM.enzyme_substrate.769"/>
+ <entry term="stemar-13-ene synthase" name="stemar-13-ene synthase" id="CM.enzyme_substrate.770"/>
+ <entry term="stemod-13(17)-ene synthase (fragment)" name="stemod-13(17)-ene synthase (fragment)" id="CM.enzyme_substrate.771"/>
+ <entry term="stps" name="stps" id="CM.enzyme_substrate.772"/>
+ <entry term="stps1" name="stps1" id="CM.enzyme_substrate.773"/>
+ <entry term="stps2" name="stps2" id="CM.enzyme_substrate.774"/>
+ <entry term="stps3" name="stps3" id="CM.enzyme_substrate.775"/>
+ <entry term="sts" name="sts" wikipedia="sts" id="CM.enzyme_substrate.776"/>
+ <entry term="syn-copalyl diphosphate synthase" name="syn-copalyl diphosphate synthase" id="CM.enzyme_substrate.777"/>
+ <entry term="syn-copalyl-diphosphate synthase" name="syn-copalyl-diphosphate synthase" id="CM.enzyme_substrate.778"/>
+ <entry term="syn-cpp synthase" name="syn-cpp synthase" id="CM.enzyme_substrate.779"/>
+ <entry term="syn-stemar-13-ene synthase" name="syn-stemar-13-ene synthase" id="CM.enzyme_substrate.780"/>
+ <entry term="tacps1" name="tacps1" id="CM.enzyme_substrate.781"/>
+ <entry term="taksl1" name="taksl1" id="CM.enzyme_substrate.782"/>
+ <entry term="tasy" name="tasy" wikipedia="tasy" id="CM.enzyme_substrate.783"/>
+ <entry term="terpene cyclase" name="terpene cyclase" id="CM.enzyme_substrate.784"/>
+ <entry term="terpene synthase" name="terpene synthase" id="CM.enzyme_substrate.785"/>
+ <entry term="terpene synthase -10" name="terpene synthase -10" id="CM.enzyme_substrate.786"/>
+ <entry term="terpene synthase -11" name="terpene synthase -11" id="CM.enzyme_substrate.787"/>
+ <entry term="terpene synthase -12" name="terpene synthase -12" id="CM.enzyme_substrate.788"/>
+ <entry term="terpene synthase -13" name="terpene synthase -13" id="CM.enzyme_substrate.789"/>
+ <entry term="terpene synthase -14" name="terpene synthase -14" id="CM.enzyme_substrate.790"/>
+ <entry term="terpene synthase -15" name="terpene synthase -15" id="CM.enzyme_substrate.791"/>
+ <entry term="terpene synthase -16" name="terpene synthase -16" id="CM.enzyme_substrate.792"/>
+ <entry term="terpene synthase -17" name="terpene synthase -17" id="CM.enzyme_substrate.793"/>
+ <entry term="terpene synthase -18" name="terpene synthase -18" id="CM.enzyme_substrate.794"/>
+ <entry term="terpene synthase -19" name="terpene synthase -19" id="CM.enzyme_substrate.795"/>
+ <entry term="terpene synthase -2" name="terpene synthase -2" id="CM.enzyme_substrate.796"/>
+ <entry term="terpene synthase -20" name="terpene synthase -20" id="CM.enzyme_substrate.797"/>
+ <entry term="terpene synthase -21" name="terpene synthase -21" id="CM.enzyme_substrate.798"/>
+ <entry term="terpene synthase -22" name="terpene synthase -22" id="CM.enzyme_substrate.799"/>
+ <entry term="terpene synthase -23" name="terpene synthase -23" id="CM.enzyme_substrate.800"/>
+ <entry term="terpene synthase -24" name="terpene synthase -24" id="CM.enzyme_substrate.801"/>
+ <entry term="terpene synthase -25" name="terpene synthase -25" id="CM.enzyme_substrate.802"/>
+ <entry term="terpene synthase -26" name="terpene synthase -26" id="CM.enzyme_substrate.803"/>
+ <entry term="terpene synthase -27" name="terpene synthase -27" id="CM.enzyme_substrate.804"/>
+ <entry term="terpene synthase -28" name="terpene synthase -28" id="CM.enzyme_substrate.805"/>
+ <entry term="terpene synthase -29" name="terpene synthase -29" id="CM.enzyme_substrate.806"/>
+ <entry term="terpene synthase -3" name="terpene synthase -3" id="CM.enzyme_substrate.807"/>
+ <entry term="terpene synthase -30" name="terpene synthase -30" id="CM.enzyme_substrate.808"/>
+ <entry term="terpene synthase -4" name="terpene synthase -4" id="CM.enzyme_substrate.809"/>
+ <entry term="terpene synthase -6" name="terpene synthase -6" id="CM.enzyme_substrate.810"/>
+ <entry term="terpene synthase -7" name="terpene synthase -7" id="CM.enzyme_substrate.811"/>
+ <entry term="terpene synthase -8" name="terpene synthase -8" id="CM.enzyme_substrate.812"/>
+ <entry term="terpene synthase -9" name="terpene synthase -9" id="CM.enzyme_substrate.813"/>
+ <entry term="terpene synthase 02" name="terpene synthase 02" id="CM.enzyme_substrate.814"/>
+ <entry term="terpene synthase 03" name="terpene synthase 03" id="CM.enzyme_substrate.815"/>
+ <entry term="terpene synthase 1" name="terpene synthase 1" id="CM.enzyme_substrate.816"/>
+ <entry term="terpene synthase 10" name="terpene synthase 10" id="CM.enzyme_substrate.817"/>
+ <entry term="terpene synthase 10 (fragment)" name="terpene synthase 10 (fragment)" id="CM.enzyme_substrate.818"/>
+ <entry term="terpene synthase 10- protein" name="terpene synthase 10- protein" id="CM.enzyme_substrate.819"/>
+ <entry term="terpene synthase 14" name="terpene synthase 14" id="CM.enzyme_substrate.820"/>
+ <entry term="terpene synthase 2" name="terpene synthase 2" id="CM.enzyme_substrate.821"/>
+ <entry term="terpene synthase 21" name="terpene synthase 21" id="CM.enzyme_substrate.822"/>
+ <entry term="terpene synthase 3" name="terpene synthase 3" id="CM.enzyme_substrate.823"/>
+ <entry term="terpene synthase 4" name="terpene synthase 4" id="CM.enzyme_substrate.824"/>
+ <entry term="terpene synthase 6" name="terpene synthase 6" id="CM.enzyme_substrate.825"/>
+ <entry term="terpene synthase 7" name="terpene synthase 7" id="CM.enzyme_substrate.826"/>
+ <entry term="terpene synthase 8" name="terpene synthase 8" id="CM.enzyme_substrate.827"/>
+ <entry term="terpene synthase 9" name="terpene synthase 9" id="CM.enzyme_substrate.828"/>
+ <entry term="terpene synthase family" name="terpene synthase family" id="CM.enzyme_substrate.829"/>
+ <entry term="terpene synthase tps1" name="terpene synthase tps1" id="CM.enzyme_substrate.830"/>
+ <entry term="terpene synthase tps10" name="terpene synthase tps10" id="CM.enzyme_substrate.831"/>
+ <entry term="terpene synthase tps11" name="terpene synthase tps11" id="CM.enzyme_substrate.832"/>
+ <entry term="terpene synthase tps12" name="terpene synthase tps12" id="CM.enzyme_substrate.833"/>
+ <entry term="terpene synthase tps13" name="terpene synthase tps13" id="CM.enzyme_substrate.834"/>
+ <entry term="terpene synthase tps14" name="terpene synthase tps14" id="CM.enzyme_substrate.835"/>
+ <entry term="terpene synthase tps15" name="terpene synthase tps15" id="CM.enzyme_substrate.836"/>
+ <entry term="terpene synthase tps16" name="terpene synthase tps16" id="CM.enzyme_substrate.837"/>
+ <entry term="terpene synthase tps17" name="terpene synthase tps17" id="CM.enzyme_substrate.838"/>
+ <entry term="terpene synthase tps18" name="terpene synthase tps18" id="CM.enzyme_substrate.839"/>
+ <entry term="terpene synthase tps19" name="terpene synthase tps19" id="CM.enzyme_substrate.840"/>
+ <entry term="terpene synthase tps2" name="terpene synthase tps2" id="CM.enzyme_substrate.841"/>
+ <entry term="terpene synthase tps20" name="terpene synthase tps20" id="CM.enzyme_substrate.842"/>
+ <entry term="terpene synthase tps21" name="terpene synthase tps21" id="CM.enzyme_substrate.843"/>
+ <entry term="terpene synthase tps22" name="terpene synthase tps22" id="CM.enzyme_substrate.844"/>
+ <entry term="terpene synthase tps23" name="terpene synthase tps23" id="CM.enzyme_substrate.845"/>
+ <entry term="terpene synthase tps24" name="terpene synthase tps24" id="CM.enzyme_substrate.846"/>
+ <entry term="terpene synthase tps25" name="terpene synthase tps25" id="CM.enzyme_substrate.847"/>
+ <entry term="terpene synthase tps26" name="terpene synthase tps26" id="CM.enzyme_substrate.848"/>
+ <entry term="terpene synthase tps27" name="terpene synthase tps27" id="CM.enzyme_substrate.849"/>
+ <entry term="terpene synthase tps28" name="terpene synthase tps28" id="CM.enzyme_substrate.850"/>
+ <entry term="terpene synthase tps29" name="terpene synthase tps29" id="CM.enzyme_substrate.851"/>
+ <entry term="terpene synthase tps3" name="terpene synthase tps3" id="CM.enzyme_substrate.852"/>
+ <entry term="terpene synthase tps30" name="terpene synthase tps30" id="CM.enzyme_substrate.853"/>
+ <entry term="terpene synthase tps31" name="terpene synthase tps31" id="CM.enzyme_substrate.854"/>
+ <entry term="terpene synthase tps32" name="terpene synthase tps32" id="CM.enzyme_substrate.855"/>
+ <entry term="terpene synthase tps33" name="terpene synthase tps33" id="CM.enzyme_substrate.856"/>
+ <entry term="terpene synthase tps34" name="terpene synthase tps34" id="CM.enzyme_substrate.857"/>
+ <entry term="terpene synthase tps35" name="terpene synthase tps35" id="CM.enzyme_substrate.858"/>
+ <entry term="terpene synthase tps36" name="terpene synthase tps36" id="CM.enzyme_substrate.859"/>
+ <entry term="terpene synthase tps4" name="terpene synthase tps4" id="CM.enzyme_substrate.860"/>
+ <entry term="terpene synthase tps5" name="terpene synthase tps5" id="CM.enzyme_substrate.861"/>
+ <entry term="terpene synthase tps6" name="terpene synthase tps6" id="CM.enzyme_substrate.862"/>
+ <entry term="terpene synthase tps7" name="terpene synthase tps7" id="CM.enzyme_substrate.863"/>
+ <entry term="terpene synthase tps8" name="terpene synthase tps8" id="CM.enzyme_substrate.864"/>
+ <entry term="terpene synthase tps9" name="terpene synthase tps9" id="CM.enzyme_substrate.865"/>
+ <entry term="terpene synthase- sequence-1" name="terpene synthase- sequence-1" id="CM.enzyme_substrate.866"/>
+ <entry term="terpene synthase1" name="terpene synthase1" id="CM.enzyme_substrate.867"/>
+ <entry term="terpene synthase10" name="terpene synthase10" id="CM.enzyme_substrate.868"/>
+ <entry term="terpene synthase26" name="terpene synthase26" id="CM.enzyme_substrate.869"/>
+ <entry term="terpene synthase4" name="terpene synthase4" id="CM.enzyme_substrate.870"/>
+ <entry term="terpene synthase5" name="terpene synthase5" id="CM.enzyme_substrate.871"/>
+ <entry term="terpene synthase6" name="terpene synthase6" id="CM.enzyme_substrate.872"/>
+ <entry term="terpene synthase8" name="terpene synthase8" id="CM.enzyme_substrate.873"/>
+ <entry term="terpene synthase9" name="terpene synthase9" id="CM.enzyme_substrate.874"/>
+ <entry term="terpene_synth domain-containing protein" name="terpene_synth domain-containing protein" id="CM.enzyme_substrate.875"/>
+ <entry term="terpene_synth_c domain-containing protein" name="terpene_synth_c domain-containing protein" id="CM.enzyme_substrate.876"/>
+ <entry term="terpenoid synthase 20" name="terpenoid synthase 20" id="CM.enzyme_substrate.877"/>
+ <entry term="terpinolene synthase" name="terpinolene synthase" id="CM.enzyme_substrate.878"/>
+ <entry term="thas1" name="thas1" id="CM.enzyme_substrate.879"/>
+ <entry term="torcps" name="torcps" id="CM.enzyme_substrate.880"/>
+ <entry term="tox" name="tox" wikipedia="tox" id="CM.enzyme_substrate.881"/>
+ <entry term="tpc1" name="tpc1" id="CM.enzyme_substrate.882"/>
+ <entry term="tps" name="tps" wikipedia="tps" id="CM.enzyme_substrate.883"/>
+ <entry term="tps-3car1" name="tps-3car1" id="CM.enzyme_substrate.884"/>
+ <entry term="tps-3car2" name="tps-3car2" id="CM.enzyme_substrate.885"/>
+ <entry term="tps-3car3" name="tps-3car3" id="CM.enzyme_substrate.886"/>
+ <entry term="tps-cin" name="tps-cin" id="CM.enzyme_substrate.887"/>
+ <entry term="tps-cin1" name="tps-cin1" id="CM.enzyme_substrate.888"/>
+ <entry term="tps-cin2" name="tps-cin2" id="CM.enzyme_substrate.889"/>
+ <entry term="tps-cinat3g2582" name="tps-cinat3g2582" id="CM.enzyme_substrate.890"/>
+ <entry term="tps-cintps-cin" name="tps-cintps-cin" id="CM.enzyme_substrate.891"/>
+ <entry term="tps-iso" name="tps-iso" id="CM.enzyme_substrate.892"/>
+ <entry term="tps-las" name="tps-las" id="CM.enzyme_substrate.893"/>
+ <entry term="tps-las1" name="tps-las1" id="CM.enzyme_substrate.894"/>
+ <entry term="tps-las2" name="tps-las2" id="CM.enzyme_substrate.895"/>
+ <entry term="tps-lon" name="tps-lon" id="CM.enzyme_substrate.896"/>
+ <entry term="tps-miso1" name="tps-miso1" id="CM.enzyme_substrate.897"/>
+ <entry term="tps-mpim1" name="tps-mpim1" id="CM.enzyme_substrate.898"/>
+ <entry term="tps-sab" name="tps-sab" id="CM.enzyme_substrate.899"/>
+ <entry term="tps01" name="tps01" id="CM.enzyme_substrate.900"/>
+ <entry term="tps02" name="tps02" id="CM.enzyme_substrate.901"/>
+ <entry term="tps03" name="tps03" id="CM.enzyme_substrate.902"/>
+ <entry term="tps04" name="tps04" id="CM.enzyme_substrate.903"/>
+ <entry term="tps05" name="tps05" id="CM.enzyme_substrate.904"/>
+ <entry term="tps06" name="tps06" id="CM.enzyme_substrate.905"/>
+ <entry term="tps07" name="tps07" id="CM.enzyme_substrate.906"/>
+ <entry term="tps08" name="tps08" id="CM.enzyme_substrate.907"/>
+ <entry term="tps09" name="tps09" id="CM.enzyme_substrate.908"/>
+ <entry term="tps1" name="tps1" id="CM.enzyme_substrate.909"/>
+ <entry term="tps10" name="tps10" id="CM.enzyme_substrate.910"/>
+ <entry term="tps100" name="tps100" id="CM.enzyme_substrate.911"/>
+ <entry term="tps101" name="tps101" id="CM.enzyme_substrate.912"/>
+ <entry term="tps102" name="tps102" id="CM.enzyme_substrate.913"/>
+ <entry term="tps103" name="tps103" id="CM.enzyme_substrate.914"/>
+ <entry term="tps104" name="tps104" id="CM.enzyme_substrate.915"/>
+ <entry term="tps105" name="tps105" id="CM.enzyme_substrate.916"/>
+ <entry term="tps106" name="tps106" id="CM.enzyme_substrate.917"/>
+ <entry term="tps107" name="tps107" id="CM.enzyme_substrate.918"/>
+ <entry term="tps108" name="tps108" id="CM.enzyme_substrate.919"/>
+ <entry term="tps109" name="tps109" id="CM.enzyme_substrate.920"/>
+ <entry term="tps11" name="tps11" id="CM.enzyme_substrate.921"/>
+ <entry term="tps110" name="tps110" id="CM.enzyme_substrate.922"/>
+ <entry term="tps111" name="tps111" id="CM.enzyme_substrate.923"/>
+ <entry term="tps112" name="tps112" id="CM.enzyme_substrate.924"/>
+ <entry term="tps113" name="tps113" id="CM.enzyme_substrate.925"/>
+ <entry term="tps114" name="tps114" id="CM.enzyme_substrate.926"/>
+ <entry term="tps115" name="tps115" id="CM.enzyme_substrate.927"/>
+ <entry term="tps116" name="tps116" id="CM.enzyme_substrate.928"/>
+ <entry term="tps117" name="tps117" id="CM.enzyme_substrate.929"/>
+ <entry term="tps118" name="tps118" id="CM.enzyme_substrate.930"/>
+ <entry term="tps119" name="tps119" id="CM.enzyme_substrate.931"/>
+ <entry term="tps12" name="tps12" id="CM.enzyme_substrate.932"/>
+ <entry term="tps120" name="tps120" id="CM.enzyme_substrate.933"/>
+ <entry term="tps121" name="tps121" id="CM.enzyme_substrate.934"/>
+ <entry term="tps122" name="tps122" id="CM.enzyme_substrate.935"/>
+ <entry term="tps123" name="tps123" id="CM.enzyme_substrate.936"/>
+ <entry term="tps124" name="tps124" id="CM.enzyme_substrate.937"/>
+ <entry term="tps125" name="tps125" id="CM.enzyme_substrate.938"/>
+ <entry term="tps126" name="tps126" id="CM.enzyme_substrate.939"/>
+ <entry term="tps127" name="tps127" id="CM.enzyme_substrate.940"/>
+ <entry term="tps128" name="tps128" id="CM.enzyme_substrate.941"/>
+ <entry term="tps129" name="tps129" id="CM.enzyme_substrate.942"/>
+ <entry term="tps13" name="tps13" id="CM.enzyme_substrate.943"/>
+ <entry term="tps130" name="tps130" id="CM.enzyme_substrate.944"/>
+ <entry term="tps131" name="tps131" id="CM.enzyme_substrate.945"/>
+ <entry term="tps132" name="tps132" id="CM.enzyme_substrate.946"/>
+ <entry term="tps133" name="tps133" id="CM.enzyme_substrate.947"/>
+ <entry term="tps134" name="tps134" id="CM.enzyme_substrate.948"/>
+ <entry term="tps135" name="tps135" id="CM.enzyme_substrate.949"/>
+ <entry term="tps136" name="tps136" id="CM.enzyme_substrate.950"/>
+ <entry term="tps137" name="tps137" id="CM.enzyme_substrate.951"/>
+ <entry term="tps138" name="tps138" id="CM.enzyme_substrate.952"/>
+ <entry term="tps139" name="tps139" id="CM.enzyme_substrate.953"/>
+ <entry term="tps14" name="tps14" id="CM.enzyme_substrate.954"/>
+ <entry term="tps140" name="tps140" id="CM.enzyme_substrate.955"/>
+ <entry term="tps141" name="tps141" id="CM.enzyme_substrate.956"/>
+ <entry term="tps142" name="tps142" id="CM.enzyme_substrate.957"/>
+ <entry term="tps143" name="tps143" id="CM.enzyme_substrate.958"/>
+ <entry term="tps144" name="tps144" id="CM.enzyme_substrate.959"/>
+ <entry term="tps145" name="tps145" id="CM.enzyme_substrate.960"/>
+ <entry term="tps146" name="tps146" id="CM.enzyme_substrate.961"/>
+ <entry term="tps147" name="tps147" id="CM.enzyme_substrate.962"/>
+ <entry term="tps148" name="tps148" id="CM.enzyme_substrate.963"/>
+ <entry term="tps149" name="tps149" id="CM.enzyme_substrate.964"/>
+ <entry term="tps15" name="tps15" id="CM.enzyme_substrate.965"/>
+ <entry term="tps150" name="tps150" id="CM.enzyme_substrate.966"/>
+ <entry term="tps151" name="tps151" id="CM.enzyme_substrate.967"/>
+ <entry term="tps16" name="tps16" id="CM.enzyme_substrate.968"/>
+ <entry term="tps17" name="tps17" id="CM.enzyme_substrate.969"/>
+ <entry term="tps18" name="tps18" id="CM.enzyme_substrate.970"/>
+ <entry term="tps19" name="tps19" id="CM.enzyme_substrate.971"/>
+ <entry term="tps1a" name="tps1a" id="CM.enzyme_substrate.972"/>
+ <entry term="tps1b" name="tps1b" id="CM.enzyme_substrate.973"/>
+ <entry term="tps1c" name="tps1c" id="CM.enzyme_substrate.974"/>
+ <entry term="tps1e" name="tps1e" id="CM.enzyme_substrate.975"/>
+ <entry term="tps1f" name="tps1f" id="CM.enzyme_substrate.976"/>
+ <entry term="tps2" name="tps2" id="CM.enzyme_substrate.977"/>
+ <entry term="tps20" name="tps20" id="CM.enzyme_substrate.978"/>
+ <entry term="tps21" name="tps21" id="CM.enzyme_substrate.979"/>
+ <entry term="tps22" name="tps22" id="CM.enzyme_substrate.980"/>
+ <entry term="tps23" name="tps23" id="CM.enzyme_substrate.981"/>
+ <entry term="tps24" name="tps24" id="CM.enzyme_substrate.982"/>
+ <entry term="tps25" name="tps25" id="CM.enzyme_substrate.983"/>
+ <entry term="tps26" name="tps26" id="CM.enzyme_substrate.984"/>
+ <entry term="tps27" name="tps27" id="CM.enzyme_substrate.985"/>
+ <entry term="tps28" name="tps28" id="CM.enzyme_substrate.986"/>
+ <entry term="tps29" name="tps29" id="CM.enzyme_substrate.987"/>
+ <entry term="tps3" name="tps3" id="CM.enzyme_substrate.988"/>
+ <entry term="tps30" name="tps30" id="CM.enzyme_substrate.989"/>
+ <entry term="tps31" name="tps31" id="CM.enzyme_substrate.990"/>
+ <entry term="tps32" name="tps32" id="CM.enzyme_substrate.991"/>
+ <entry term="tps32_1" name="tps32_1" id="CM.enzyme_substrate.992"/>
+ <entry term="tps32_2" name="tps32_2" id="CM.enzyme_substrate.993"/>
+ <entry term="tps33" name="tps33" id="CM.enzyme_substrate.994"/>
+ <entry term="tps34" name="tps34" id="CM.enzyme_substrate.995"/>
+ <entry term="tps35" name="tps35" id="CM.enzyme_substrate.996"/>
+ <entry term="tps36" name="tps36" id="CM.enzyme_substrate.997"/>
+ <entry term="tps37" name="tps37" id="CM.enzyme_substrate.998"/>
+ <entry term="tps38" name="tps38" id="CM.enzyme_substrate.999"/>
+ <entry term="tps39" name="tps39" id="CM.enzyme_substrate.1000"/>
+ <entry term="tps3_0" name="tps3_0" id="CM.enzyme_substrate.1001"/>
+ <entry term="tps3_1" name="tps3_1" id="CM.enzyme_substrate.1002"/>
+ <entry term="tps3_2" name="tps3_2" id="CM.enzyme_substrate.1003"/>
+ <entry term="tps3_3" name="tps3_3" id="CM.enzyme_substrate.1004"/>
+ <entry term="tps3_4" name="tps3_4" id="CM.enzyme_substrate.1005"/>
+ <entry term="tps3_5" name="tps3_5" id="CM.enzyme_substrate.1006"/>
+ <entry term="tps4" name="tps4" id="CM.enzyme_substrate.1007"/>
+ <entry term="tps40" name="tps40" id="CM.enzyme_substrate.1008"/>
+ <entry term="tps41" name="tps41" id="CM.enzyme_substrate.1009"/>
+ <entry term="tps42" name="tps42" id="CM.enzyme_substrate.1010"/>
+ <entry term="tps43" name="tps43" id="CM.enzyme_substrate.1011"/>
+ <entry term="tps44" name="tps44" id="CM.enzyme_substrate.1012"/>
+ <entry term="tps45" name="tps45" id="CM.enzyme_substrate.1013"/>
+ <entry term="tps46" name="tps46" id="CM.enzyme_substrate.1014"/>
+ <entry term="tps47" name="tps47" id="CM.enzyme_substrate.1015"/>
+ <entry term="tps48" name="tps48" id="CM.enzyme_substrate.1016"/>
+ <entry term="tps49" name="tps49" id="CM.enzyme_substrate.1017"/>
+ <entry term="tps5" name="tps5" id="CM.enzyme_substrate.1018"/>
+ <entry term="tps50" name="tps50" id="CM.enzyme_substrate.1019"/>
+ <entry term="tps51" name="tps51" id="CM.enzyme_substrate.1020"/>
+ <entry term="tps52" name="tps52" id="CM.enzyme_substrate.1021"/>
+ <entry term="tps53" name="tps53" id="CM.enzyme_substrate.1022"/>
+ <entry term="tps54" name="tps54" id="CM.enzyme_substrate.1023"/>
+ <entry term="tps55" name="tps55" id="CM.enzyme_substrate.1024"/>
+ <entry term="tps56" name="tps56" id="CM.enzyme_substrate.1025"/>
+ <entry term="tps57" name="tps57" id="CM.enzyme_substrate.1026"/>
+ <entry term="tps58" name="tps58" id="CM.enzyme_substrate.1027"/>
+ <entry term="tps59" name="tps59" id="CM.enzyme_substrate.1028"/>
+ <entry term="tps6" name="tps6" id="CM.enzyme_substrate.1029"/>
+ <entry term="tps60" name="tps60" id="CM.enzyme_substrate.1030"/>
+ <entry term="tps61" name="tps61" id="CM.enzyme_substrate.1031"/>
+ <entry term="tps62" name="tps62" id="CM.enzyme_substrate.1032"/>
+ <entry term="tps63" name="tps63" id="CM.enzyme_substrate.1033"/>
+ <entry term="tps64" name="tps64" id="CM.enzyme_substrate.1034"/>
+ <entry term="tps65" name="tps65" id="CM.enzyme_substrate.1035"/>
+ <entry term="tps66" name="tps66" id="CM.enzyme_substrate.1036"/>
+ <entry term="tps67" name="tps67" id="CM.enzyme_substrate.1037"/>
+ <entry term="tps68" name="tps68" id="CM.enzyme_substrate.1038"/>
+ <entry term="tps69" name="tps69" id="CM.enzyme_substrate.1039"/>
+ <entry term="tps7" name="tps7" id="CM.enzyme_substrate.1040"/>
+ <entry term="tps70" name="tps70" id="CM.enzyme_substrate.1041"/>
+ <entry term="tps71" name="tps71" id="CM.enzyme_substrate.1042"/>
+ <entry term="tps72" name="tps72" id="CM.enzyme_substrate.1043"/>
+ <entry term="tps73" name="tps73" id="CM.enzyme_substrate.1044"/>
+ <entry term="tps74" name="tps74" id="CM.enzyme_substrate.1045"/>
+ <entry term="tps75" name="tps75" id="CM.enzyme_substrate.1046"/>
+ <entry term="tps76" name="tps76" id="CM.enzyme_substrate.1047"/>
+ <entry term="tps77" name="tps77" id="CM.enzyme_substrate.1048"/>
+ <entry term="tps78" name="tps78" id="CM.enzyme_substrate.1049"/>
+ <entry term="tps79" name="tps79" id="CM.enzyme_substrate.1050"/>
+ <entry term="tps7_1" name="tps7_1" id="CM.enzyme_substrate.1051"/>
+ <entry term="tps8" name="tps8" id="CM.enzyme_substrate.1052"/>
+ <entry term="tps80" name="tps80" id="CM.enzyme_substrate.1053"/>
+ <entry term="tps81" name="tps81" id="CM.enzyme_substrate.1054"/>
+ <entry term="tps82" name="tps82" id="CM.enzyme_substrate.1055"/>
+ <entry term="tps83" name="tps83" id="CM.enzyme_substrate.1056"/>
+ <entry term="tps84" name="tps84" id="CM.enzyme_substrate.1057"/>
+ <entry term="tps85" name="tps85" id="CM.enzyme_substrate.1058"/>
+ <entry term="tps86" name="tps86" id="CM.enzyme_substrate.1059"/>
+ <entry term="tps87" name="tps87" id="CM.enzyme_substrate.1060"/>
+ <entry term="tps88" name="tps88" id="CM.enzyme_substrate.1061"/>
+ <entry term="tps89" name="tps89" id="CM.enzyme_substrate.1062"/>
+ <entry term="tps9" name="tps9" id="CM.enzyme_substrate.1063"/>
+ <entry term="tps90" name="tps90" id="CM.enzyme_substrate.1064"/>
+ <entry term="tps91" name="tps91" id="CM.enzyme_substrate.1065"/>
+ <entry term="tps92" name="tps92" id="CM.enzyme_substrate.1066"/>
+ <entry term="tps93" name="tps93" id="CM.enzyme_substrate.1067"/>
+ <entry term="tps94" name="tps94" id="CM.enzyme_substrate.1068"/>
+ <entry term="tps95" name="tps95" id="CM.enzyme_substrate.1069"/>
+ <entry term="tps96" name="tps96" id="CM.enzyme_substrate.1070"/>
+ <entry term="tps97" name="tps97" id="CM.enzyme_substrate.1071"/>
+ <entry term="tps98" name="tps98" id="CM.enzyme_substrate.1072"/>
+ <entry term="tps99" name="tps99" id="CM.enzyme_substrate.1073"/>
+ <entry term="tpsga2" name="tpsga2" id="CM.enzyme_substrate.1074"/>
+ <entry term="trans,trans-farnesyl diphosphate" name="trans,trans-farnesyl diphosphate" wikipedia="trans,trans-farnesyl diphosphate" id="CM.enzyme_substrate.1075"/>
+ <entry term="trans-alpha-bergamotene synthase" name="trans-alpha-bergamotene synthase" id="CM.enzyme_substrate.1076"/>
+ <entry term="trans-fpp synthases" name="trans-fpp synthases" id="CM.enzyme_substrate.1077"/>
+ <entry term="trans-ocimene synthase" name="trans-ocimene synthase" id="CM.enzyme_substrate.1078"/>
+ <entry term="tricyclene synthase" name="tricyclene synthase" id="CM.enzyme_substrate.1079"/>
+ <entry term="txs" name="txs" id="CM.enzyme_substrate.1080"/>
+ <entry term="umi3" name="umi3" id="CM.enzyme_substrate.1081"/>
+ <entry term="uv-induced sesquiterpene cyclase" name="uv-induced sesquiterpene cyclase" id="CM.enzyme_substrate.1082"/>
+ <entry term="valencene synthase" name="valencene synthase" id="CM.enzyme_substrate.1083"/>
+ <entry term="valencene synthase os" name="valencene synthase os" id="CM.enzyme_substrate.1084"/>
+ <entry term="valencene synthase-" name="valencene synthase-" id="CM.enzyme_substrate.1085"/>
+ <entry term="vetispiradiene synthase" name="vetispiradiene synthase" id="CM.enzyme_substrate.1086"/>
+ <entry term="vetispiradiene synthase 1 (fragment) os" name="vetispiradiene synthase 1 (fragment) os" id="CM.enzyme_substrate.1087"/>
+ <entry term="vetispiradiene synthase 1 os" name="vetispiradiene synthase 1 os" id="CM.enzyme_substrate.1088"/>
+ <entry term="viridiflorene synthase" name="viridiflorene synthase" id="CM.enzyme_substrate.1089"/>
+ <entry term="votps1" name="votps1" id="CM.enzyme_substrate.1090"/>
+ <entry term="vvguas" name="vvguas" id="CM.enzyme_substrate.1091"/>
+ <entry term="vvpnseint" name="vvpnseint" id="CM.enzyme_substrate.1092"/>
+ <entry term="z,z-fpp" name="z,z-fpp" id="CM.enzyme_substrate.1093"/>
  <entry term="zmtps10" name="zmtps10" id="CM.enzyme_substrate.1094"/>
  <entry term="zsd1" name="zsd1" id="CM.enzyme_substrate.1095"/>
  <entry term="zss1" name="zss1" id="CM.enzyme_substrate.1096"/>

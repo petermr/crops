@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="eo_Enzyme">
+ <entry term="ec 2.2.1.7 dxs,1-deoxy-d-xylulose-5-phosphate synthase" name="ec 2.2.1.7 dxs,1-deoxy-d-xylulose-5-phosphate synthase" id="CM.eo_Enzyme.0"/>
+ <entry term="ec 1.1.1.267 dxr,1-deoxy-d-xylulose-5-phosphate reductoisomerase" name="ec 1.1.1.267 dxr,1-deoxy-d-xylulose-5-phosphate reductoisomerase" id="CM.eo_Enzyme.1"/>
+ <entry term="ec 1.17.1.2 hdr,4-hydroxy-3-methylbut-2-enyl diphosphate reductase" name="ec 1.17.1.2 hdr,4-hydroxy-3-methylbut-2-enyl diphosphate reductase" id="CM.eo_Enzyme.2"/>
+ <entry term="ec 1.17.7.1 hds,(e)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase" name="ec 1.17.7.1 hds,(e)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase" id="CM.eo_Enzyme.3"/>
+ <entry term="ec 2.3.1.9 aact,acetyl-coa-acetyltransferase" name="ec 2.3.1.9 aact,acetyl-coa-acetyltransferase" id="CM.eo_Enzyme.4"/>
+ <entry term="ec 2.3.3.10 hmgs,hydroxymethylglutaryl-coa synthase" name="ec 2.3.3.10 hmgs,hydroxymethylglutaryl-coa synthase" id="CM.eo_Enzyme.5"/>
+ <entry term="ec 2.5.1.1 gpps,geranyl diphosphate synthase" name="ec 2.5.1.1 gpps,geranyl diphosphate synthase" id="CM.eo_Enzyme.6"/>
+ <entry term="ec 2.5.1.10 fpps,farnesyl diphosphate synthase" name="ec 2.5.1.10 fpps,farnesyl diphosphate synthase" id="CM.eo_Enzyme.7"/>
+ <entry term="ec 2.7.1.148 cmk,4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" name="ec 2.7.1.148 cmk,4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" id="CM.eo_Enzyme.8"/>
+ <entry term="ec 2.7.1.36 mk,mevalonate kinase" name="ec 2.7.1.36 mk,mevalonate kinase" id="CM.eo_Enzyme.9"/>
+ <entry term="ec 2.7.4.2 pmk,phosphomevalonate kinase" name="ec 2.7.4.2 pmk,phosphomevalonate kinase" id="CM.eo_Enzyme.10"/>
+ <entry term="ec 2.7.7.60 mct,2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase" name="ec 2.7.7.60 mct,2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase" id="CM.eo_Enzyme.11"/>
+ <entry term="ec 3.1.7.11 geraniol synthase,ges" name="ec 3.1.7.11 geraniol synthase,ges" id="CM.eo_Enzyme.12"/>
+ <entry term="ec 4.1.1.33 mpd,diphosphomevalonate decarboxylase" name="ec 4.1.1.33 mpd,diphosphomevalonate decarboxylase" id="CM.eo_Enzyme.13"/>
+ <entry term="ec 4.2.3 terpene synthases family,tps" name="ec 4.2.3 terpene synthases family,tps" id="CM.eo_Enzyme.14"/>
+ <entry term="ec 4.2.3.13 (+)-delta-cadinene synthase" name="ec 4.2.3.13 (+)-delta-cadinene synthase" id="CM.eo_Enzyme.15"/>
+ <entry term="ec 4.2.3.15 myrcene/ocimene synthase" name="ec 4.2.3.15 myrcene/ocimene synthase" id="CM.eo_Enzyme.16"/>
+ <entry term="ec 4.2.3.16 (4s)-limonene synthase" name="ec 4.2.3.16 (4s)-limonene synthase" id="CM.eo_Enzyme.17"/>
+ <entry term="ec 4.2.3.18 abieta-7, 13-diene synthase" name="ec 4.2.3.18 abieta-7, 13-diene synthase" id="CM.eo_Enzyme.18"/>
+ <entry term="ec 4.2.3.19 ent-kaurene synthase" name="ec 4.2.3.19 ent-kaurene synthase" id="CM.eo_Enzyme.19"/>
+ <entry term="ec 4.2.3.20 (r)-limonene synthase" name="ec 4.2.3.20 (r)-limonene synthase" id="CM.eo_Enzyme.20"/>
+ <entry term="ec 4.2.3.21 vetispiradiene synthase" name="ec 4.2.3.21 vetispiradiene synthase" id="CM.eo_Enzyme.21"/>
+ <entry term="ec 4.2.3.22 germacradienol synthase" name="ec 4.2.3.22 germacradienol synthase" id="CM.eo_Enzyme.22"/>
+ <entry term="ec 4.2.3.23 germacrene-a synthase" name="ec 4.2.3.23 germacrene-a synthase" id="CM.eo_Enzyme.23"/>
+ <entry term="ec 4.2.3.25 (tps14) (3s)-linalool synthase" name="ec 4.2.3.25 (tps14) (3s)-linalool synthase" id="CM.eo_Enzyme.24"/>
+ <entry term="ec 4.2.3.28 ent-cassa-12, 15-diene synthase" name="ec 4.2.3.28 ent-cassa-12, 15-diene synthase" id="CM.eo_Enzyme.25"/>
+ <entry term="ec 4.2.3.29 ent-sandaracopimaradiene synthase" name="ec 4.2.3.29 ent-sandaracopimaradiene synthase" id="CM.eo_Enzyme.26"/>
+ <entry term="ec 4.2.3.30 ent-pimara-8 (14), 15-diene synthase" name="ec 4.2.3.30 ent-pimara-8 (14), 15-diene synthase" id="CM.eo_Enzyme.27"/>
+ <entry term="ec 4.2.3.32 levopimaradiene synthase" name="ec 4.2.3.32 levopimaradiene synthase" id="CM.eo_Enzyme.28"/>
+ <entry term="ec 4.2.3.33 stemar-13-ene synthase" name="ec 4.2.3.33 stemar-13-ene synthase" id="CM.eo_Enzyme.29"/>
+ <entry term="ec 4.2.3.34 stemod-13 (17)-ene synthase" name="ec 4.2.3.34 stemod-13 (17)-ene synthase" id="CM.eo_Enzyme.30"/>
+ <entry term="ec 4.2.3.35 syn-pimara-7, 15-diene synthase" name="ec 4.2.3.35 syn-pimara-7, 15-diene synthase" id="CM.eo_Enzyme.31"/>
+ <entry term="ec 4.6.1.12 mcs,2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" name="ec 4.6.1.12 mcs,2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" id="CM.eo_Enzyme.32"/>
+ <entry term="ec 5.3.3.2 ippi,isopentenyl-diphosphate delta-isomerase" name="ec 5.3.3.2 ippi,isopentenyl-diphosphate delta-isomerase" id="CM.eo_Enzyme.33"/>
+ <entry term="ec 5.5.1.12 copalyldiphosphate synthase" name="ec 5.5.1.12 copalyldiphosphate synthase" id="CM.eo_Enzyme.34"/>
+ <entry term="ec 5.5.1.13 ent-copalyldiphosphate synthase" name="ec 5.5.1.13 ent-copalyldiphosphate synthase" id="CM.eo_Enzyme.35"/>
+ <entry term="ec 5.5.1.14 syn-copalyl-diphosphate synthase" name="ec 5.5.1.14 syn-copalyl-diphosphate synthase" id="CM.eo_Enzyme.36"/>
+ <entry term="ec 5.5.1.8 bornyldiphosphate synthase" name="ec 5.5.1.8 bornyldiphosphate synthase" id="CM.eo_Enzyme.37"/>
+ <entry term="ec:1.1.1.34 3-hydroxy-3-methylglutaryl coa reductase" name="ec:1.1.1.34 3-hydroxy-3-methylglutaryl coa reductase" id="CM.eo_Enzyme.39"/>
+ <entry term="ec:1.11.1.7 lactoperoxidase" name="ec:1.11.1.7 lactoperoxidase" id="CM.eo_Enzyme.40"/>
+ <entry term="ec:2.3.1.9 c-acetyltransferase" name="ec:2.3.1.9 c-acetyltransferase" id="CM.eo_Enzyme.41"/>
+ <entry term="ec:2.3.3.10 hydroxymethylglutaryl-coa synthase" name="ec:2.3.3.10 hydroxymethylglutaryl-coa synthase" id="CM.eo_Enzyme.42"/>
+ <entry term="ec:2.5.1.1 geranyl-diphosphate synthase" name="ec:2.5.1.1 geranyl-diphosphate synthase" id="CM.eo_Enzyme.43"/>
+ <entry term="ec:2.5.1.29 geranylgeranyl pyrophosphate synthase 1" name="ec:2.5.1.29 geranylgeranyl pyrophosphate synthase 1" id="CM.eo_Enzyme.44"/>
+ <entry term="ec:4.1.1.33 mevalonate disphosphate decarboxylase" name="ec:4.1.1.33 mevalonate disphosphate decarboxylase" id="CM.eo_Enzyme.45"/>
+ <entry term="ec:4.3.1.24 phenylalanine ammonia-lyase 2" name="ec:4.3.1.24 phenylalanine ammonia-lyase 2" id="CM.eo_Enzyme.46"/>
+ <entry term="ec:4.3.1.25 phenylalanine ammonia-lyase" name="ec:4.3.1.25 phenylalanine ammonia-lyase" id="CM.eo_Enzyme.47"/>
+ <entry term="ec:5.3.3.2 isopentenyl diphosphate isomerase" name="ec:5.3.3.2 isopentenyl diphosphate isomerase" id="CM.eo_Enzyme.48"/>
+</dictionary>
