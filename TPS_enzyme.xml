@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="TPS_enzyme">
+ <entry term="&quot;1,8-cineole synthase&quot;" name="&quot;1,8-cineole synthase&quot;" id="CM.TPS_enzyme.0"/>
+ <entry term="(+)-alpha-barbatene synthase" name="(+)-alpha-barbatene synthase" id="CM.TPS_enzyme.1"/>
+ <entry term="(+)-alpha-pinene synthase" name="(+)-alpha-pinene synthase" id="CM.TPS_enzyme.2"/>
+ <entry term="(+)-alpha-terpineol synthase" name="(+)-alpha-terpineol synthase" id="CM.TPS_enzyme.3"/>
+ <entry term="(+)-bornyl diphosphate synthase" name="(+)-bornyl diphosphate synthase" id="CM.TPS_enzyme.4"/>
+ <entry term="(+)-car-3-ene synthase" name="(+)-car-3-ene synthase" id="CM.TPS_enzyme.5"/>
+ <entry term="(+)-copalyl diphosphate synthase 3" name="(+)-copalyl diphosphate synthase 3" id="CM.TPS_enzyme.6"/>
+ <entry term="(+)-corvol ether a synthase" name="(+)-corvol ether a synthase" id="CM.TPS_enzyme.7"/>
+ <entry term="(+)-corvol ether b synthase" name="(+)-corvol ether b synthase" id="CM.TPS_enzyme.8"/>
+ <entry term="(+)-delta-cadinene synthase" name="(+)-delta-cadinene synthase" id="CM.TPS_enzyme.9"/>
+ <entry term="(+)-delta-cadinene synthase isozyme a" name="(+)-delta-cadinene synthase isozyme a" id="CM.TPS_enzyme.10"/>
+ <entry term="(+)-gamma-cadinene synthase" name="(+)-gamma-cadinene synthase" id="CM.TPS_enzyme.11"/>
+ <entry term="(+)-germacrene d synthase" name="(+)-germacrene d synthase" id="CM.TPS_enzyme.12"/>
+ <entry term="(+)-limonene synthase" name="(+)-limonene synthase" id="CM.TPS_enzyme.13"/>
+ <entry term="(+)-sabinene synthase" name="(+)-sabinene synthase" id="CM.TPS_enzyme.14"/>
+ <entry term="(+)-t-muurolol synthase" name="(+)-t-muurolol synthase" id="CM.TPS_enzyme.15"/>
+ <entry term="(-)-(e)-beta-caryophyllene synthase" name="(-)-(e)-beta-caryophyllene synthase" id="CM.TPS_enzyme.16"/>
+ <entry term="(-)-a-terpineol synthase" name="(-)-a-terpineol synthase" id="CM.TPS_enzyme.17"/>
+ <entry term="(-)-alpha-amorphene synthase" name="(-)-alpha-amorphene synthase" id="CM.TPS_enzyme.18"/>
+ <entry term="(-)-alpha-pinene synthase" name="(-)-alpha-pinene synthase" id="CM.TPS_enzyme.19"/>
+ <entry term="(-)-alpha-terpineol synthase" name="(-)-alpha-terpineol synthase" id="CM.TPS_enzyme.20"/>
+ <entry term="(-)-beta-caryophyllene synthase" name="(-)-beta-caryophyllene synthase" id="CM.TPS_enzyme.21"/>
+ <entry term="(-)-beta-pinene synthase" name="(-)-beta-pinene synthase" id="CM.TPS_enzyme.22"/>
+ <entry term="(-)-camphenetricyclene synthase" name="(-)-camphenetricyclene synthase" id="CM.TPS_enzyme.23"/>
+ <entry term="(-)-endo-fenchol synthase" name="(-)-endo-fenchol synthase" id="CM.TPS_enzyme.24"/>
+ <entry term="(-)-gamma-cadinene synthase" name="(-)-gamma-cadinene synthase" id="CM.TPS_enzyme.25"/>
+ <entry term="(-)-germacrene d synthase" name="(-)-germacrene d synthase" id="CM.TPS_enzyme.26"/>
+ <entry term="(-)-kolavenyl diphosphate synthase" name="(-)-kolavenyl diphosphate synthase" id="CM.TPS_enzyme.27"/>
+ <entry term="(-)-limonene synthase" name="(-)-limonene synthase" id="CM.TPS_enzyme.28"/>
+ <entry term="(3s)-linalool synthase" name="(3s)-linalool synthase" id="CM.TPS_enzyme.29"/>
+ <entry term="(3s-6e)-nerolidol synthase" name="(3s-6e)-nerolidol synthase" id="CM.TPS_enzyme.30"/>
+ <entry term="(e)-beta-farnesene synthase" name="(e)-beta-farnesene synthase" id="CM.TPS_enzyme.31"/>
+ <entry term="(e)-beta-ocimene synthase" name="(e)-beta-ocimene synthase" id="CM.TPS_enzyme.32"/>
+ <entry term="(e)-nerolidol synthase" name="(e)-nerolidol synthase" id="CM.TPS_enzyme.33"/>
+ <entry term="(ee)-geranyl linalool synthase" name="(ee)-geranyl linalool synthase" id="CM.TPS_enzyme.34"/>
+ <entry term="(r)-limonene synthase" name="(r)-limonene synthase" id="CM.TPS_enzyme.35"/>
+ <entry term="(r)-limonene synthase 1" name="(r)-limonene synthase 1" id="CM.TPS_enzyme.36"/>
+ <entry term="(r)-linalool synthase" name="(r)-linalool synthase" id="CM.TPS_enzyme.37"/>
+ <entry term="(s)-beta-bisabolene synthase" name="(s)-beta-bisabolene synthase" id="CM.TPS_enzyme.38"/>
+ <entry term="(s)-beta-macrocarpene synthase" name="(s)-beta-macrocarpene synthase" id="CM.TPS_enzyme.39"/>
+ <entry term="(z-gamma-bisabolene synthase" name="(z-gamma-bisabolene synthase" id="CM.TPS_enzyme.40"/>
+ <entry term="10-epi-junenol synthase" name="10-epi-junenol synthase" id="CM.TPS_enzyme.41"/>
+ <entry term="3 -copal-8-ol diphosphate hydratase" name="3 -copal-8-ol diphosphate hydratase" id="CM.TPS_enzyme.42"/>
+ <entry term="3car" name="3car" id="CM.TPS_enzyme.43"/>
+ <entry term="3r-linalool synthase" name="3r-linalool synthase" id="CM.TPS_enzyme.44"/>
+ <entry term="4 -geranyllinalool synthase" name="4 -geranyllinalool synthase" id="CM.TPS_enzyme.45"/>
+ <entry term="4-epi-cubebol synthase" name="4-epi-cubebol synthase" id="CM.TPS_enzyme.46"/>
+ <entry term="5 - (-)-germacrene d synthase" name="5 - (-)-germacrene d synthase" id="CM.TPS_enzyme.47"/>
+ <entry term="5 -tricyclene synthase" name="5 -tricyclene synthase" id="CM.TPS_enzyme.48"/>
+ <entry term="5-epi-aristolochene synthase" name="5-epi-aristolochene synthase" id="CM.TPS_enzyme.49"/>
+ <entry term="5-epiaristolochene synthase" name="5-epiaristolochene synthase" id="CM.TPS_enzyme.50"/>
+ <entry term="5eas2_0" name="5eas2_0" id="CM.TPS_enzyme.51"/>
+ <entry term="5eas2_1" name="5eas2_1" id="CM.TPS_enzyme.52"/>
+ <entry term="5eas3" name="5eas3" id="CM.TPS_enzyme.53"/>
+ <entry term="5eas4_0" name="5eas4_0" id="CM.TPS_enzyme.54"/>
+ <entry term="5eas4_1" name="5eas4_1" id="CM.TPS_enzyme.55"/>
+ <entry term="6 -gamma-muurolene synthase" name="6 -gamma-muurolene synthase" id="CM.TPS_enzyme.56"/>
+ <entry term="6 -terpene synthase family" name="6 -terpene synthase family" id="CM.TPS_enzyme.57"/>
+ <entry term="7 -terpene synthase" name="7 -terpene synthase" id="CM.TPS_enzyme.58"/>
+ <entry term="7-epi-alpha-eudesmol synthase" name="7-epi-alpha-eudesmol synthase" id="CM.TPS_enzyme.59"/>
+ <entry term="7-epi-alpha-selinene synthase" name="7-epi-alpha-selinene synthase" id="CM.TPS_enzyme.60"/>
+ <entry term="7-epi-sesquithujene synthase" name="7-epi-sesquithujene synthase" id="CM.TPS_enzyme.61"/>
+ <entry term="8 -(+)-epi-alpha-bisabolol synthase" name="8 -(+)-epi-alpha-bisabolol synthase" id="CM.TPS_enzyme.62"/>
+ <entry term="8 -beta-cubebene synthase" name="8 -beta-cubebene synthase" id="CM.TPS_enzyme.63"/>
+ <entry term="aatps2" name="aatps2" id="CM.TPS_enzyme.64"/>
+ <entry term="abietadiene synthase" name="abietadiene synthase" id="CM.TPS_enzyme.65"/>
+ <entry term="abs_1" name="abs_1" id="CM.TPS_enzyme.66"/>
+ <entry term="abs_3" name="abs_3" id="CM.TPS_enzyme.67"/>
+ <entry term="abs_4" name="abs_4" id="CM.TPS_enzyme.68"/>
+ <entry term="acnes1" name="acnes1" id="CM.TPS_enzyme.69"/>
+ <entry term="acyclic sesquiterpene synthase" name="acyclic sesquiterpene synthase" id="CM.TPS_enzyme.70"/>
+ <entry term="afar" name="afar" wikipedia="afar" id="CM.TPS_enzyme.71"/>
+ <entry term="afs1" name="afs1" id="CM.TPS_enzyme.72"/>
+ <entry term="ag2.2" name="ag2.2" id="CM.TPS_enzyme.73"/>
+ <entry term="ag3.18" name="ag3.18" id="CM.TPS_enzyme.74"/>
+ <entry term="ag6.5" name="ag6.5" id="CM.TPS_enzyme.75"/>
+ <entry term="ajtps2" name="ajtps2" id="CM.TPS_enzyme.76"/>
+ <entry term="alcars" name="alcars" id="CM.TPS_enzyme.77"/>
+ <entry term="alpha-bisabolol synthase" name="alpha-bisabolol synthase" id="CM.TPS_enzyme.78"/>
+ <entry term="alpha-copaene synthase" name="alpha-copaene synthase" id="CM.TPS_enzyme.79"/>
+ <entry term="alpha-farnesene synthase" name="alpha-farnesene synthase" id="CM.TPS_enzyme.80"/>
+ <entry term="alpha-humulene synthase" name="alpha-humulene synthase" id="CM.TPS_enzyme.81"/>
+ <entry term="alpha-isocomene synthase" name="alpha-isocomene synthase" id="CM.TPS_enzyme.82"/>
+ <entry term="alpha-phellandrene synthase" name="alpha-phellandrene synthase" id="CM.TPS_enzyme.83"/>
+ <entry term="alpha-pinene synthase" name="alpha-pinene synthase" id="CM.TPS_enzyme.84"/>
+ <entry term="alpha-terpineol synthase" name="alpha-terpineol synthase" id="CM.TPS_enzyme.85"/>
+ <entry term="alpha-thujene synthase" name="alpha-thujene synthase" id="CM.TPS_enzyme.86"/>
+ <entry term="alstrotps" name="alstrotps" id="CM.TPS_enzyme.87"/>
+ <entry term="amgas" name="amgas" id="CM.TPS_enzyme.88"/>
+ <entry term="amino-terminal domain terpene synthase" name="amino-terminal domain terpene synthase" id="CM.TPS_enzyme.89"/>
+ <entry term="amnes" name="amnes" id="CM.TPS_enzyme.90"/>
+ <entry term="ams1" name="ams1" id="CM.TPS_enzyme.91"/>
+ <entry term="an1" name="an1" id="CM.TPS_enzyme.92"/>
+ <entry term="aristolochene synthase" name="aristolochene synthase" id="CM.TPS_enzyme.93"/>
+ <entry term="atesy_0" name="atesy_0" id="CM.TPS_enzyme.94"/>
+ <entry term="atesy_1" name="atesy_1" id="CM.TPS_enzyme.95"/>
+ <entry term="atr13" name="atr13" id="CM.TPS_enzyme.96"/>
+ <entry term="atr6" name="atr6" id="CM.TPS_enzyme.97"/>
+ <entry term="attps03" name="attps03" id="CM.TPS_enzyme.98"/>
+ <entry term="avtps1" name="avtps1" id="CM.TPS_enzyme.99"/>
+ <entry term="bas" name="bas" wikipedia="bas" id="CM.TPS_enzyme.100"/>
+ <entry term="bas1" name="bas1" id="CM.TPS_enzyme.101"/>
+ <entry term="beta selinene synthase" name="beta selinene synthase" id="CM.TPS_enzyme.102"/>
+ <entry term="beta-caryophyllene synthase" name="beta-caryophyllene synthase" id="CM.TPS_enzyme.103"/>
+ <entry term="beta-cubebene synthase" name="beta-cubebene synthase" id="CM.TPS_enzyme.104"/>
+ <entry term="beta-eudesmol synthase" name="beta-eudesmol synthase" id="CM.TPS_enzyme.105"/>
+ <entry term="beta-farnesene synthase" name="beta-farnesene synthase" id="CM.TPS_enzyme.106"/>
+ <entry term="beta-myrcene synthase" name="beta-myrcene synthase" id="CM.TPS_enzyme.107"/>
+ <entry term="beta-ocimene synthase" name="beta-ocimene synthase" id="CM.TPS_enzyme.108"/>
+ <entry term="beta-phellandrene synthase" name="beta-phellandrene synthase" id="CM.TPS_enzyme.109"/>
+ <entry term="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" name="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" id="CM.TPS_enzyme.110"/>
+ <entry term="beta-sesquiphellandrene synthase" name="beta-sesquiphellandrene synthase" id="CM.TPS_enzyme.111"/>
+ <entry term="cadinol synthase" name="cadinol synthase" id="CM.TPS_enzyme.112"/>
+ <entry term="camphene synthase" name="camphene synthase" id="CM.TPS_enzyme.113"/>
+ <entry term="cams1" name="cams1" id="CM.TPS_enzyme.114"/>
+ <entry term="carene synthase" name="carene synthase" id="CM.TPS_enzyme.115"/>
+ <entry term="carene synthase 1" name="carene synthase 1" id="CM.TPS_enzyme.116"/>
+ <entry term="carene synthase 2" name="carene synthase 2" id="CM.TPS_enzyme.117"/>
+ <entry term="carene synthase 3" name="carene synthase 3" id="CM.TPS_enzyme.118"/>
+ <entry term="cars" name="cars" wikipedia="cars" id="CM.TPS_enzyme.119"/>
+ <entry term="caryophyllene synthase" name="caryophyllene synthase" id="CM.TPS_enzyme.120"/>
+ <entry term="cas" name="cas" wikipedia="cas" id="CM.TPS_enzyme.121"/>
+ <entry term="cas1" name="cas1" wikipedia="cas1" id="CM.TPS_enzyme.122"/>
+ <entry term="casbene synthase" name="casbene synthase" id="CM.TPS_enzyme.123"/>
+ <entry term="casbene synthase 2" name="casbene synthase 2" id="CM.TPS_enzyme.124"/>
+ <entry term="casbene synthase 3" name="casbene synthase 3" id="CM.TPS_enzyme.125"/>
+ <entry term="cascarilladiene synthase" name="cascarilladiene synthase" id="CM.TPS_enzyme.126"/>
+ <entry term="cbs" name="cbs" wikipedia="cbs" id="CM.TPS_enzyme.127"/>
+ <entry term="cctps1" name="cctps1" id="CM.TPS_enzyme.128"/>
+ <entry term="cctps2" name="cctps2" id="CM.TPS_enzyme.129"/>
+ <entry term="cctps3" name="cctps3" id="CM.TPS_enzyme.130"/>
+ <entry term="cctps4" name="cctps4" id="CM.TPS_enzyme.131"/>
+ <entry term="cctps5" name="cctps5" id="CM.TPS_enzyme.132"/>
+ <entry term="cellulose synthase" name="cellulose synthase" wikipedia="cellulose synthase" id="CM.TPS_enzyme.133"/>
+ <entry term="cembratrienol synthase" name="cembratrienol synthase" id="CM.TPS_enzyme.134"/>
+ <entry term="cembratrienol synthase 2b" name="cembratrienol synthase 2b" id="CM.TPS_enzyme.135"/>
+ <entry term="cembratrienol synthase 3" name="cembratrienol synthase 3" id="CM.TPS_enzyme.136"/>
+ <entry term="chrysanthemol synthase" name="chrysanthemol synthase" id="CM.TPS_enzyme.137"/>
+ <entry term="cineol synthase" name="cineol synthase" id="CM.TPS_enzyme.138"/>
+ <entry term="cis-abienol synthase" name="cis-abienol synthase" id="CM.TPS_enzyme.139"/>
+ <entry term="cis-muuroladiene synthase" name="cis-muuroladiene synthase" id="CM.TPS_enzyme.140"/>
+ <entry term="citmtse1" name="citmtse1" id="CM.TPS_enzyme.141"/>
+ <entry term="cittps16" name="cittps16" id="CM.TPS_enzyme.142"/>
+ <entry term="clade-c terpene synthase" name="clade-c terpene synthase" id="CM.TPS_enzyme.143"/>
+ <entry term="clade-e terpene synthase" name="clade-e terpene synthase" id="CM.TPS_enzyme.144"/>
+ <entry term="class i diterpene synthase 2" name="class i diterpene synthase 2" id="CM.TPS_enzyme.145"/>
+ <entry term="class i diterpene synthase tps6" name="class i diterpene synthase tps6" id="CM.TPS_enzyme.146"/>
+ <entry term="clds" name="clds" id="CM.TPS_enzyme.147"/>
+ <entry term="clm1" name="clm1" id="CM.TPS_enzyme.148"/>
+ <entry term="clm2" name="clm2" id="CM.TPS_enzyme.149"/>
+ <entry term="cls" name="cls" wikipedia="cls" id="CM.TPS_enzyme.150"/>
+ <entry term="cmtpsdul" name="cmtpsdul" id="CM.TPS_enzyme.151"/>
+ <entry term="cmtpsny" name="cmtpsny" id="CM.TPS_enzyme.152"/>
+ <entry term="cnd15" name="cnd15" id="CM.TPS_enzyme.153"/>
+ <entry term="cop3" name="cop3" id="CM.TPS_enzyme.154"/>
+ <entry term="cop4" name="cop4" wikipedia="cop4" id="CM.TPS_enzyme.155"/>
+ <entry term="copal-8-ol diphosphate hydratase" name="copal-8-ol diphosphate hydratase" id="CM.TPS_enzyme.156"/>
+ <entry term="copalyl diphosphate synthase" name="copalyl diphosphate synthase" id="CM.TPS_enzyme.157"/>
+ <entry term="copalyl diphosphate synthase 1" name="copalyl diphosphate synthase 1" id="CM.TPS_enzyme.158"/>
+ <entry term="copalyl diphosphate synthase 2" name="copalyl diphosphate synthase 2" id="CM.TPS_enzyme.159"/>
+ <entry term="copalyl pyrophosphate synthase 2" name="copalyl pyrophosphate synthase 2" id="CM.TPS_enzyme.160"/>
+ <entry term="copalyldiphosphate synthase" name="copalyldiphosphate synthase" id="CM.TPS_enzyme.161"/>
+ <entry term="cotps1" name="cotps1" id="CM.TPS_enzyme.162"/>
+ <entry term="cps" name="cps" wikipedia="cps" id="CM.TPS_enzyme.163"/>
+ <entry term="cps/ks" name="cps/ks" id="CM.TPS_enzyme.164"/>
+ <entry term="cps1" name="cps1" id="CM.TPS_enzyme.165"/>
+ <entry term="cps2" name="cps2" id="CM.TPS_enzyme.166"/>
+ <entry term="cps3" name="cps3" id="CM.TPS_enzyme.167"/>
+ <entry term="cps4" name="cps4" id="CM.TPS_enzyme.168"/>
+ <entry term="cpt2" name="cpt2" id="CM.TPS_enzyme.169"/>
+ <entry term="cs" name="cs" wikipedia="cs" id="CM.TPS_enzyme.170"/>
+ <entry term="csks1" name="csks1" id="CM.TPS_enzyme.171"/>
+ <entry term="cssesquitps3" name="cssesquitps3" id="CM.TPS_enzyme.172"/>
+ <entry term="cstps1" name="cstps1" id="CM.TPS_enzyme.173"/>
+ <entry term="cstps2" name="cstps2" id="CM.TPS_enzyme.174"/>
+ <entry term="cstps3" name="cstps3" id="CM.TPS_enzyme.175"/>
+ <entry term="cstps4" name="cstps4" id="CM.TPS_enzyme.176"/>
+ <entry term="cstps5" name="cstps5" id="CM.TPS_enzyme.177"/>
+ <entry term="ctvd" name="ctvd" id="CM.TPS_enzyme.178"/>
+ <entry term="cyc2" name="cyc2" wikipedia="cyc2" id="CM.TPS_enzyme.179"/>
+ <entry term="cycloaraneosene synthase" name="cycloaraneosene synthase" id="CM.TPS_enzyme.180"/>
+ <entry term="d-cadinene synthase" name="d-cadinene synthase" id="CM.TPS_enzyme.181"/>
+ <entry term="d-limonene synthase" name="d-limonene synthase" id="CM.TPS_enzyme.182"/>
+ <entry term="delta-cadinene synthase" name="delta-cadinene synthase" id="CM.TPS_enzyme.183"/>
+ <entry term="delta-cadinene synthase isozyme xc1" name="delta-cadinene synthase isozyme xc1" id="CM.TPS_enzyme.184"/>
+ <entry term="delta-cadinene synthase isozyme xc14" name="delta-cadinene synthase isozyme xc14" id="CM.TPS_enzyme.185"/>
+ <entry term="delta-guaiene synthase" name="delta-guaiene synthase" id="CM.TPS_enzyme.186"/>
+ <entry term="dimethylallylcistransferase" name="dimethylallylcistransferase" id="CM.TPS_enzyme.187"/>
+ <entry term="diterpene geranyllinalool synthase" name="diterpene geranyllinalool synthase" id="CM.TPS_enzyme.188"/>
+ <entry term="diterpene synthase" name="diterpene synthase" id="CM.TPS_enzyme.189"/>
+ <entry term="diterpene synthase 3" name="diterpene synthase 3" id="CM.TPS_enzyme.190"/>
+ <entry term="dolabradiene synthase" name="dolabradiene synthase" id="CM.TPS_enzyme.191"/>
+ <entry term="e-beta-caryophyllene synthase" name="e-beta-caryophyllene synthase" id="CM.TPS_enzyme.192"/>
+ <entry term="e-beta-farnesene synthase" name="e-beta-farnesene synthase" id="CM.TPS_enzyme.193"/>
+ <entry term="e-beta-farnesene synthase 1" name="e-beta-farnesene synthase 1" id="CM.TPS_enzyme.194"/>
+ <entry term="e-beta-farnesene synthase 2" name="e-beta-farnesene synthase 2" id="CM.TPS_enzyme.195"/>
+ <entry term="e-beta-ocimene synthase 2" name="e-beta-ocimene synthase 2" id="CM.TPS_enzyme.196"/>
+ <entry term="eas3_0" name="eas3_0" id="CM.TPS_enzyme.197"/>
+ <entry term="eas3_1" name="eas3_1" id="CM.TPS_enzyme.198"/>
+ <entry term="eas3_2a4a49_57779" name="eas3_2a4a49_57779" id="CM.TPS_enzyme.199"/>
+ <entry term="eas3_3" name="eas3_3" id="CM.TPS_enzyme.200"/>
+ <entry term="eas3_4" name="eas3_4" id="CM.TPS_enzyme.201"/>
+ <entry term="eas_0" name="eas_0" id="CM.TPS_enzyme.202"/>
+ <entry term="eas_1" name="eas_1" id="CM.TPS_enzyme.203"/>
+ <entry term="ebos" name="ebos" id="CM.TPS_enzyme.204"/>
+ <entry term="ent-13-epi-manoyl oxide synthase" name="ent-13-epi-manoyl oxide synthase" id="CM.TPS_enzyme.205"/>
+ <entry term="ent-8-alpha-hydroxylabd-13-en-15-yl diphosphate synthase" name="ent-8-alpha-hydroxylabd-13-en-15-yl diphosphate synthase" id="CM.TPS_enzyme.206"/>
+ <entry term="ent-atiserene synthase" name="ent-atiserene synthase" id="CM.TPS_enzyme.207"/>
+ <entry term="ent-copalyl diphosphate synthase" name="ent-copalyl diphosphate synthase" wikipedia="ent-copalyl diphosphate synthase" id="CM.TPS_enzyme.208"/>
+ <entry term="ent-kaur-16-ene synthase" name="ent-kaur-16-ene synthase" id="CM.TPS_enzyme.209"/>
+ <entry term="ent-kaurene synthase" name="ent-kaurene synthase" id="CM.TPS_enzyme.210"/>
+ <entry term="ent-kaurene synthase protein 1" name="ent-kaurene synthase protein 1" id="CM.TPS_enzyme.211"/>
+ <entry term="ent-sandaracopimaradiene synthase" name="ent-sandaracopimaradiene synthase" id="CM.TPS_enzyme.212"/>
+ <entry term="eot1" name="eot1" id="CM.TPS_enzyme.213"/>
+ <entry term="epi-cedrol synthase" name="epi-cedrol synthase" id="CM.TPS_enzyme.214"/>
+ <entry term="epi-sesquithujene synthase" name="epi-sesquithujene synthase" id="CM.TPS_enzyme.215"/>
+ <entry term="epidermal germacrene c synthase" name="epidermal germacrene c synthase" id="CM.TPS_enzyme.216"/>
+ <entry term="erg-6ncu654" name="erg-6ncu654" id="CM.TPS_enzyme.217"/>
+ <entry term="erg7" name="erg7" id="CM.TPS_enzyme.218"/>
+ <entry term="erg9" name="erg9" id="CM.TPS_enzyme.219"/>
+ <entry term="farnesene synthase" name="farnesene synthase" id="CM.TPS_enzyme.220"/>
+ <entry term="farnesol synthase" name="farnesol synthase" id="CM.TPS_enzyme.221"/>
+ <entry term="fars" name="fars" wikipedia="fars" id="CM.TPS_enzyme.222"/>
+ <entry term="fctps1" name="fctps1" id="CM.TPS_enzyme.223"/>
+ <entry term="fctps2" name="fctps2" id="CM.TPS_enzyme.224"/>
+ <entry term="fctps3" name="fctps3" id="CM.TPS_enzyme.225"/>
+ <entry term="fctps4" name="fctps4" id="CM.TPS_enzyme.226"/>
+ <entry term="fctps5" name="fctps5" id="CM.TPS_enzyme.227"/>
+ <entry term="fctps6" name="fctps6" id="CM.TPS_enzyme.228"/>
+ <entry term="fds" name="fds" id="CM.TPS_enzyme.229"/>
+ <entry term="fpps" name="fpps" id="CM.TPS_enzyme.230"/>
+ <entry term="fusicoccadiene synthase" name="fusicoccadiene synthase" id="CM.TPS_enzyme.231"/>
+ <entry term="ga1" name="ga1" wikipedia="ga1" id="CM.TPS_enzyme.232"/>
+ <entry term="ga1ga1" name="ga1ga1" id="CM.TPS_enzyme.233"/>
+ <entry term="ga2" name="ga2" wikipedia="ga2" id="CM.TPS_enzyme.234"/>
+ <entry term="ga2ga2" name="ga2ga2" id="CM.TPS_enzyme.235"/>
+ <entry term="gamma-bisabolene synthase" name="gamma-bisabolene synthase" id="CM.TPS_enzyme.236"/>
+ <entry term="gamma-terpinene synthase" name="gamma-terpinene synthase" id="CM.TPS_enzyme.237"/>
+ <entry term="gas" name="gas" id="CM.TPS_enzyme.238"/>
+ <entry term="gas1" name="gas1" id="CM.TPS_enzyme.239"/>
+ <entry term="gas2" name="gas2" id="CM.TPS_enzyme.240"/>
+ <entry term="gas3" name="gas3" id="CM.TPS_enzyme.241"/>
+ <entry term="gds" name="gds" wikipedia="gds" id="CM.TPS_enzyme.242"/>
+ <entry term="geosmin synthase" name="geosmin synthase" wikipedia="geosmin synthase" id="CM.TPS_enzyme.243"/>
+ <entry term="geraniol synthase" name="geraniol synthase" id="CM.TPS_enzyme.244"/>
+ <entry term="geranyl-diphosphate cyclase" name="geranyl-diphosphate cyclase" id="CM.TPS_enzyme.245"/>
+ <entry term="geranyllinalool synthase" name="geranyllinalool synthase" id="CM.TPS_enzyme.246"/>
+ <entry term="gerds" name="gerds" id="CM.TPS_enzyme.247"/>
+ <entry term="germacradienol synthase" name="germacradienol synthase" id="CM.TPS_enzyme.248"/>
+ <entry term="germacrene a synthase" name="germacrene a synthase" id="CM.TPS_enzyme.249"/>
+ <entry term="germacrene a synthase 2" name="germacrene a synthase 2" id="CM.TPS_enzyme.250"/>
+ <entry term="germacrene c synthase" name="germacrene c synthase" id="CM.TPS_enzyme.251"/>
+ <entry term="germacrene-d synthase" name="germacrene-d synthase" id="CM.TPS_enzyme.252"/>
+ <entry term="gers" name="gers" wikipedia="gers" id="CM.TPS_enzyme.253"/>
+ <entry term="ges" name="ges" wikipedia="ges" id="CM.TPS_enzyme.254"/>
+ <entry term="ggbas1" name="ggbas1" id="CM.TPS_enzyme.255"/>
+ <entry term="ggcas1" name="ggcas1" id="CM.TPS_enzyme.256"/>
+ <entry term="ghtps1" name="ghtps1" id="CM.TPS_enzyme.257"/>
+ <entry term="ghtps2" name="ghtps2" id="CM.TPS_enzyme.258"/>
+ <entry term="ghtps3" name="ghtps3" id="CM.TPS_enzyme.259"/>
+ <entry term="ghtps4" name="ghtps4" id="CM.TPS_enzyme.260"/>
+ <entry term="ghtps5" name="ghtps5" id="CM.TPS_enzyme.261"/>
+ <entry term="gmnes" name="gmnes" id="CM.TPS_enzyme.262"/>
+ <entry term="gse" name="gse" id="CM.TPS_enzyme.263"/>
+ <entry term="gss" name="gss" id="CM.TPS_enzyme.264"/>
+ <entry term="hctps1" name="hctps1" id="CM.TPS_enzyme.265"/>
+ <entry term="hctps2" name="hctps2" id="CM.TPS_enzyme.266"/>
+ <entry term="hctps3" name="hctps3" id="CM.TPS_enzyme.267"/>
+ <entry term="hctps4" name="hctps4" id="CM.TPS_enzyme.268"/>
+ <entry term="hctps5" name="hctps5" id="CM.TPS_enzyme.269"/>
+ <entry term="hctps6" name="hctps6" id="CM.TPS_enzyme.270"/>
+ <entry term="hmelos" name="hmelos" id="CM.TPS_enzyme.271"/>
+ <entry term="isopimaradiene synthase" name="isopimaradiene synthase" id="CM.TPS_enzyme.272"/>
+ <entry term="isoprene synthase" name="isoprene synthase" id="CM.TPS_enzyme.273"/>
+ <entry term="kaurene synthase" name="kaurene synthase" id="CM.TPS_enzyme.274"/>
+ <entry term="kaurene synthase3" name="kaurene synthase3" id="CM.TPS_enzyme.275"/>
+ <entry term="kaurene synthase4" name="kaurene synthase4" id="CM.TPS_enzyme.276"/>
+ <entry term="kaurene synthase6" name="kaurene synthase6" id="CM.TPS_enzyme.277"/>
+ <entry term="kolavenyl diphosphate synthase tps5" name="kolavenyl diphosphate synthase tps5" id="CM.TPS_enzyme.278"/>
+ <entry term="ks1" name="ks1" id="CM.TPS_enzyme.279"/>
+ <entry term="ks10" name="ks10" id="CM.TPS_enzyme.280"/>
+ <entry term="ks11" name="ks11" id="CM.TPS_enzyme.281"/>
+ <entry term="ks2" name="ks2" id="CM.TPS_enzyme.282"/>
+ <entry term="ks5" name="ks5" id="CM.TPS_enzyme.283"/>
+ <entry term="ksa" name="ksa" id="CM.TPS_enzyme.284"/>
+ <entry term="ksa_0" name="ksa_0" id="CM.TPS_enzyme.285"/>
+ <entry term="ksa_1" name="ksa_1" id="CM.TPS_enzyme.286"/>
+ <entry term="ksb" name="ksb" id="CM.TPS_enzyme.287"/>
+ <entry term="ksl2" name="ksl2" id="CM.TPS_enzyme.288"/>
+ <entry term="ksl3" name="ksl3" id="CM.TPS_enzyme.289"/>
+ <entry term="ksl4" name="ksl4" id="CM.TPS_enzyme.290"/>
+ <entry term="ksl5" name="ksl5" id="CM.TPS_enzyme.291"/>
+ <entry term="ksl5ksl5" name="ksl5ksl5" id="CM.TPS_enzyme.292"/>
+ <entry term="ksl6" name="ksl6" id="CM.TPS_enzyme.293"/>
+ <entry term="ksl7" name="ksl7" id="CM.TPS_enzyme.294"/>
+ <entry term="ksl7ksl7" name="ksl7ksl7" id="CM.TPS_enzyme.295"/>
+ <entry term="ksl8" name="ksl8" id="CM.TPS_enzyme.296"/>
+ <entry term="lalims" name="lalims" id="CM.TPS_enzyme.297"/>
+ <entry term="lalins" name="lalins" id="CM.TPS_enzyme.298"/>
+ <entry term="las1" name="las1" id="CM.TPS_enzyme.299"/>
+ <entry term="lemts1" name="lemts1" id="CM.TPS_enzyme.300"/>
+ <entry term="lemts2" name="lemts2" id="CM.TPS_enzyme.301"/>
+ <entry term="lemts3" name="lemts3" id="CM.TPS_enzyme.302"/>
+ <entry term="lemts4" name="lemts4" id="CM.TPS_enzyme.303"/>
+ <entry term="lemts5" name="lemts5" id="CM.TPS_enzyme.304"/>
+ <entry term="levopimaradiene synthase" name="levopimaradiene synthase" id="CM.TPS_enzyme.305"/>
+ <entry term="limonene synthase" name="limonene synthase" wikipedia="limonene synthase" id="CM.TPS_enzyme.306"/>
+ <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" id="CM.TPS_enzyme.307"/>
+ <entry term="lis" name="lis" wikipedia="lis" id="CM.TPS_enzyme.308"/>
+ <entry term="lis-1" name="lis-1" id="CM.TPS_enzyme.309"/>
+ <entry term="lis-2" name="lis-2" id="CM.TPS_enzyme.310"/>
+ <entry term="llos" name="llos" id="CM.TPS_enzyme.311"/>
+ <entry term="llos1" name="llos1" id="CM.TPS_enzyme.312"/>
+ <entry term="llos5" name="llos5" id="CM.TPS_enzyme.313"/>
+ <entry term="lotps1" name="lotps1" id="CM.TPS_enzyme.314"/>
+ <entry term="lotps2" name="lotps2" id="CM.TPS_enzyme.315"/>
+ <entry term="lotps3" name="lotps3" id="CM.TPS_enzyme.316"/>
+ <entry term="lotps4" name="lotps4" id="CM.TPS_enzyme.317"/>
+ <entry term="lotps5" name="lotps5" id="CM.TPS_enzyme.318"/>
+ <entry term="lotps6" name="lotps6" id="CM.TPS_enzyme.319"/>
+ <entry term="lotps7" name="lotps7" id="CM.TPS_enzyme.320"/>
+ <entry term="lotps8" name="lotps8" id="CM.TPS_enzyme.321"/>
+ <entry term="lps" name="lps" id="CM.TPS_enzyme.322"/>
+ <entry term="lss" name="lss" id="CM.TPS_enzyme.323"/>
+ <entry term="lup1" name="lup1" id="CM.TPS_enzyme.324"/>
+ <entry term="lup2" name="lup2" id="CM.TPS_enzyme.325"/>
+ <entry term="lup5" name="lup5" id="CM.TPS_enzyme.326"/>
+ <entry term="mab16.1" name="mab16.1" id="CM.TPS_enzyme.327"/>
+ <entry term="mbr3882" name="mbr3882" id="CM.TPS_enzyme.328"/>
+ <entry term="mctps1" name="mctps1" id="CM.TPS_enzyme.329"/>
+ <entry term="mdn11.20" name="mdn11.20" id="CM.TPS_enzyme.330"/>
+ <entry term="mercene synthase" name="mercene synthase" id="CM.TPS_enzyme.331"/>
+ <entry term="mfo20.1" name="mfo20.1" id="CM.TPS_enzyme.332"/>
+ <entry term="microbial terpene synthase protein 13 (smmtpsl13)" name="microbial terpene synthase protein 13 (smmtpsl13)" id="CM.TPS_enzyme.333"/>
+ <entry term="microbial terpene synthase protein 30 (smmtpsl30)" name="microbial terpene synthase protein 30 (smmtpsl30)" id="CM.TPS_enzyme.334"/>
+ <entry term="mie1.2" name="mie1.2" id="CM.TPS_enzyme.335"/>
+ <entry term="mie1.4mie1.4" name="mie1.4mie1.4" id="CM.TPS_enzyme.336"/>
+ <entry term="miltiradiene synthase" name="miltiradiene synthase" id="CM.TPS_enzyme.337"/>
+ <entry term="mjl12.5" name="mjl12.5" id="CM.TPS_enzyme.338"/>
+ <entry term="mktps1" name="mktps1" id="CM.TPS_enzyme.339"/>
+ <entry term="mktps2" name="mktps2" id="CM.TPS_enzyme.340"/>
+ <entry term="mktps3" name="mktps3" id="CM.TPS_enzyme.341"/>
+ <entry term="mktps4" name="mktps4" id="CM.TPS_enzyme.342"/>
+ <entry term="mktps5" name="mktps5" id="CM.TPS_enzyme.343"/>
+ <entry term="moa2.12" name="moa2.12" id="CM.TPS_enzyme.344"/>
+ <entry term="monofunctional isopimaradiene synthase" name="monofunctional isopimaradiene synthase" id="CM.TPS_enzyme.345"/>
+ <entry term="monoterpene synthase" name="monoterpene synthase" id="CM.TPS_enzyme.346"/>
+ <entry term="monoterpene synthase 2" name="monoterpene synthase 2" id="CM.TPS_enzyme.347"/>
+ <entry term="monotps" name="monotps" id="CM.TPS_enzyme.348"/>
+ <entry term="monotps1" name="monotps1" id="CM.TPS_enzyme.349"/>
+ <entry term="monotps2" name="monotps2" id="CM.TPS_enzyme.350"/>
+ <entry term="monotps3" name="monotps3" id="CM.TPS_enzyme.351"/>
+ <entry term="monotps4" name="monotps4" id="CM.TPS_enzyme.352"/>
+ <entry term="monotps5" name="monotps5" id="CM.TPS_enzyme.353"/>
+ <entry term="mrn1" name="mrn1" id="CM.TPS_enzyme.354"/>
+ <entry term="mrtps1" name="mrtps1" id="CM.TPS_enzyme.355"/>
+ <entry term="mrtps2" name="mrtps2" id="CM.TPS_enzyme.356"/>
+ <entry term="mrtps3" name="mrtps3" id="CM.TPS_enzyme.357"/>
+ <entry term="mrtps4" name="mrtps4" id="CM.TPS_enzyme.358"/>
+ <entry term="mrtps5" name="mrtps5" id="CM.TPS_enzyme.359"/>
+ <entry term="mstps1" name="mstps1" id="CM.TPS_enzyme.360"/>
+ <entry term="mstps2" name="mstps2" id="CM.TPS_enzyme.361"/>
+ <entry term="mstps3" name="mstps3" id="CM.TPS_enzyme.362"/>
+ <entry term="mstps4" name="mstps4" id="CM.TPS_enzyme.363"/>
+ <entry term="mstps5" name="mstps5" id="CM.TPS_enzyme.364"/>
+ <entry term="mtebos" name="mtebos" id="CM.TPS_enzyme.365"/>
+ <entry term="mts" name="mts" wikipedia="mts" id="CM.TPS_enzyme.366"/>
+ <entry term="mts1" name="mts1" id="CM.TPS_enzyme.367"/>
+ <entry term="mttps1" name="mttps1" id="CM.TPS_enzyme.368"/>
+ <entry term="mttps2" name="mttps2" id="CM.TPS_enzyme.369"/>
+ <entry term="mttps3" name="mttps3" id="CM.TPS_enzyme.370"/>
+ <entry term="mttps4" name="mttps4" id="CM.TPS_enzyme.371"/>
+ <entry term="mttps5" name="mttps5" id="CM.TPS_enzyme.372"/>
+ <entry term="mttps6" name="mttps6" id="CM.TPS_enzyme.373"/>
+ <entry term="muo10.2" name="muo10.2" id="CM.TPS_enzyme.374"/>
+ <entry term="mxe2.1" name="mxe2.1" id="CM.TPS_enzyme.375"/>
+ <entry term="mxo21.3" name="mxo21.3" id="CM.TPS_enzyme.376"/>
+ <entry term="myrcene synthase" name="myrcene synthase" id="CM.TPS_enzyme.377"/>
+ <entry term="myrcene synthase protein" name="myrcene synthase protein" id="CM.TPS_enzyme.378"/>
+ <entry term="myrs" name="myrs" id="CM.TPS_enzyme.379"/>
+ <entry term="ndps1" name="ndps1" id="CM.TPS_enzyme.380"/>
+ <entry term="nerolidol synthase" name="nerolidol synthase" id="CM.TPS_enzyme.381"/>
+ <entry term="nerylneryl diphosphate synthase" name="nerylneryl diphosphate synthase" id="CM.TPS_enzyme.382"/>
+ <entry term="nes1" name="nes1" id="CM.TPS_enzyme.383"/>
+ <entry term="ocimene synthase" name="ocimene synthase" id="CM.TPS_enzyme.384"/>
+ <entry term="oftps1" name="oftps1" id="CM.TPS_enzyme.385"/>
+ <entry term="oftps2" name="oftps2" id="CM.TPS_enzyme.386"/>
+ <entry term="oftps3" name="oftps3" id="CM.TPS_enzyme.387"/>
+ <entry term="oftps4" name="oftps4" id="CM.TPS_enzyme.388"/>
+ <entry term="oftps5" name="oftps5" id="CM.TPS_enzyme.389"/>
+ <entry term="ostps1" name="ostps1" id="CM.TPS_enzyme.390"/>
+ <entry term="ostps10" name="ostps10" id="CM.TPS_enzyme.391"/>
+ <entry term="ostps11" name="ostps11" id="CM.TPS_enzyme.392"/>
+ <entry term="ostps12" name="ostps12" id="CM.TPS_enzyme.393"/>
+ <entry term="ostps13" name="ostps13" id="CM.TPS_enzyme.394"/>
+ <entry term="ostps14" name="ostps14" id="CM.TPS_enzyme.395"/>
+ <entry term="ostps15" name="ostps15" id="CM.TPS_enzyme.396"/>
+ <entry term="ostps16" name="ostps16" id="CM.TPS_enzyme.397"/>
+ <entry term="ostps17" name="ostps17" id="CM.TPS_enzyme.398"/>
+ <entry term="ostps18" name="ostps18" id="CM.TPS_enzyme.399"/>
+ <entry term="ostps19" name="ostps19" id="CM.TPS_enzyme.400"/>
+ <entry term="ostps2" name="ostps2" id="CM.TPS_enzyme.401"/>
+ <entry term="ostps20" name="ostps20" id="CM.TPS_enzyme.402"/>
+ <entry term="ostps21" name="ostps21" id="CM.TPS_enzyme.403"/>
+ <entry term="ostps22" name="ostps22" id="CM.TPS_enzyme.404"/>
+ <entry term="ostps23" name="ostps23" id="CM.TPS_enzyme.405"/>
+ <entry term="ostps24" name="ostps24" id="CM.TPS_enzyme.406"/>
+ <entry term="ostps25" name="ostps25" id="CM.TPS_enzyme.407"/>
+ <entry term="ostps26" name="ostps26" id="CM.TPS_enzyme.408"/>
+ <entry term="ostps27" name="ostps27" id="CM.TPS_enzyme.409"/>
+ <entry term="ostps28" name="ostps28" id="CM.TPS_enzyme.410"/>
+ <entry term="ostps29" name="ostps29" id="CM.TPS_enzyme.411"/>
+ <entry term="ostps3" name="ostps3" id="CM.TPS_enzyme.412"/>
+ <entry term="ostps30" name="ostps30" id="CM.TPS_enzyme.413"/>
+ <entry term="ostps31" name="ostps31" id="CM.TPS_enzyme.414"/>
+ <entry term="ostps32" name="ostps32" id="CM.TPS_enzyme.415"/>
+ <entry term="ostps33" name="ostps33" id="CM.TPS_enzyme.416"/>
+ <entry term="ostps34" name="ostps34" id="CM.TPS_enzyme.417"/>
+ <entry term="ostps35" name="ostps35" id="CM.TPS_enzyme.418"/>
+ <entry term="ostps4" name="ostps4" id="CM.TPS_enzyme.419"/>
+ <entry term="ostps5" name="ostps5" id="CM.TPS_enzyme.420"/>
+ <entry term="ostps6" name="ostps6" id="CM.TPS_enzyme.421"/>
+ <entry term="ostps7" name="ostps7" id="CM.TPS_enzyme.422"/>
+ <entry term="ostps8" name="ostps8" id="CM.TPS_enzyme.423"/>
+ <entry term="ostps9" name="ostps9" id="CM.TPS_enzyme.424"/>
+ <entry term="pancps" name="pancps" id="CM.TPS_enzyme.425"/>
+ <entry term="panks" name="panks" id="CM.TPS_enzyme.426"/>
+ <entry term="patchoulol synthase" name="patchoulol synthase" id="CM.TPS_enzyme.427"/>
+ <entry term="pbtps1" name="pbtps1" id="CM.TPS_enzyme.428"/>
+ <entry term="pbtps2" name="pbtps2" id="CM.TPS_enzyme.429"/>
+ <entry term="pbtps3" name="pbtps3" id="CM.TPS_enzyme.430"/>
+ <entry term="pbtps4" name="pbtps4" id="CM.TPS_enzyme.431"/>
+ <entry term="pbtps5" name="pbtps5" id="CM.TPS_enzyme.432"/>
+ <entry term="peas" name="peas" id="CM.TPS_enzyme.433"/>
+ <entry term="pen1" name="pen1" id="CM.TPS_enzyme.434"/>
+ <entry term="pen2" name="pen2" wikipedia="pen2" id="CM.TPS_enzyme.435"/>
+ <entry term="pen3" name="pen3" id="CM.TPS_enzyme.436"/>
+ <entry term="pen6" name="pen6" id="CM.TPS_enzyme.437"/>
+ <entry term="pen7" name="pen7" id="CM.TPS_enzyme.438"/>
+ <entry term="peregrinol diphosphate synthase" name="peregrinol diphosphate synthase" id="CM.TPS_enzyme.439"/>
+ <entry term="peregrinol diphosphate synthase tps1" name="peregrinol diphosphate synthase tps1" id="CM.TPS_enzyme.440"/>
+ <entry term="phytoene synthase" name="phytoene synthase" id="CM.TPS_enzyme.441"/>
+ <entry term="pinene synthase" name="pinene synthase" id="CM.TPS_enzyme.442"/>
+ <entry term="pks1" name="pks1" id="CM.TPS_enzyme.443"/>
+ <entry term="pltps1" name="pltps1" id="CM.TPS_enzyme.444"/>
+ <entry term="pltps2" name="pltps2" id="CM.TPS_enzyme.445"/>
+ <entry term="pltps3" name="pltps3" id="CM.TPS_enzyme.446"/>
+ <entry term="pltps4" name="pltps4" id="CM.TPS_enzyme.447"/>
+ <entry term="pltps5" name="pltps5" id="CM.TPS_enzyme.448"/>
+ <entry term="pntps1" name="pntps1" id="CM.TPS_enzyme.449"/>
+ <entry term="pntps2" name="pntps2" id="CM.TPS_enzyme.450"/>
+ <entry term="pntps3" name="pntps3" id="CM.TPS_enzyme.451"/>
+ <entry term="pntps4" name="pntps4" id="CM.TPS_enzyme.452"/>
+ <entry term="pntps5" name="pntps5" id="CM.TPS_enzyme.453"/>
+ <entry term="pny2" name="pny2" id="CM.TPS_enzyme.454"/>
+ <entry term="ppcps/ks" name="ppcps/ks" id="CM.TPS_enzyme.455"/>
+ <entry term="pptps1" name="pptps1" id="CM.TPS_enzyme.456"/>
+ <entry term="pptps2" name="pptps2" id="CM.TPS_enzyme.457"/>
+ <entry term="pptps3" name="pptps3" id="CM.TPS_enzyme.458"/>
+ <entry term="pptps4" name="pptps4" id="CM.TPS_enzyme.459"/>
+ <entry term="pptps5" name="pptps5" id="CM.TPS_enzyme.460"/>
+ <entry term="premnaspirodiene oxygenase" name="premnaspirodiene oxygenase" id="CM.TPS_enzyme.461"/>
+ <entry term="pseudolaratriene synthase" name="pseudolaratriene synthase" id="CM.TPS_enzyme.462"/>
+ <entry term="pstps1" name="pstps1" id="CM.TPS_enzyme.463"/>
+ <entry term="pstps2" name="pstps2" id="CM.TPS_enzyme.464"/>
+ <entry term="pstps3" name="pstps3" id="CM.TPS_enzyme.465"/>
+ <entry term="pstps4" name="pstps4" id="CM.TPS_enzyme.466"/>
+ <entry term="pstps5" name="pstps5" id="CM.TPS_enzyme.467"/>
+ <entry term="pttps1" name="pttps1" id="CM.TPS_enzyme.468"/>
+ <entry term="pttps10" name="pttps10" id="CM.TPS_enzyme.469"/>
+ <entry term="pttps11" name="pttps11" id="CM.TPS_enzyme.470"/>
+ <entry term="pttps12" name="pttps12" id="CM.TPS_enzyme.471"/>
+ <entry term="pttps13" name="pttps13" id="CM.TPS_enzyme.472"/>
+ <entry term="pttps14" name="pttps14" id="CM.TPS_enzyme.473"/>
+ <entry term="pttps15" name="pttps15" id="CM.TPS_enzyme.474"/>
+ <entry term="pttps16" name="pttps16" id="CM.TPS_enzyme.475"/>
+ <entry term="pttps17" name="pttps17" id="CM.TPS_enzyme.476"/>
+ <entry term="pttps18" name="pttps18" id="CM.TPS_enzyme.477"/>
+ <entry term="pttps19" name="pttps19" id="CM.TPS_enzyme.478"/>
+ <entry term="pttps2" name="pttps2" id="CM.TPS_enzyme.479"/>
+ <entry term="pttps20" name="pttps20" id="CM.TPS_enzyme.480"/>
+ <entry term="pttps21" name="pttps21" id="CM.TPS_enzyme.481"/>
+ <entry term="pttps22" name="pttps22" id="CM.TPS_enzyme.482"/>
+ <entry term="pttps23" name="pttps23" id="CM.TPS_enzyme.483"/>
+ <entry term="pttps24" name="pttps24" id="CM.TPS_enzyme.484"/>
+ <entry term="pttps25" name="pttps25" id="CM.TPS_enzyme.485"/>
+ <entry term="pttps26" name="pttps26" id="CM.TPS_enzyme.486"/>
+ <entry term="pttps27" name="pttps27" id="CM.TPS_enzyme.487"/>
+ <entry term="pttps28" name="pttps28" id="CM.TPS_enzyme.488"/>
+ <entry term="pttps29" name="pttps29" id="CM.TPS_enzyme.489"/>
+ <entry term="pttps3" name="pttps3" id="CM.TPS_enzyme.490"/>
+ <entry term="pttps30" name="pttps30" id="CM.TPS_enzyme.491"/>
+ <entry term="pttps31" name="pttps31" id="CM.TPS_enzyme.492"/>
+ <entry term="pttps32" name="pttps32" id="CM.TPS_enzyme.493"/>
+ <entry term="pttps33" name="pttps33" id="CM.TPS_enzyme.494"/>
+ <entry term="pttps34" name="pttps34" id="CM.TPS_enzyme.495"/>
+ <entry term="pttps35" name="pttps35" id="CM.TPS_enzyme.496"/>
+ <entry term="pttps4" name="pttps4" id="CM.TPS_enzyme.497"/>
+ <entry term="pttps5" name="pttps5" id="CM.TPS_enzyme.498"/>
+ <entry term="pttps6" name="pttps6" id="CM.TPS_enzyme.499"/>
+ <entry term="pttps7" name="pttps7" id="CM.TPS_enzyme.500"/>
+ <entry term="pttps8" name="pttps8" id="CM.TPS_enzyme.501"/>
+ <entry term="pttps9" name="pttps9" id="CM.TPS_enzyme.502"/>
+ <entry term="pup8" name="pup8" id="CM.TPS_enzyme.503"/>
+ <entry term="pvs1" name="pvs1" id="CM.TPS_enzyme.504"/>
+ <entry term="r-linalool synthase" name="r-linalool synthase" id="CM.TPS_enzyme.505"/>
+ <entry term="rttps1" name="rttps1" id="CM.TPS_enzyme.506"/>
+ <entry term="rttps2" name="rttps2" id="CM.TPS_enzyme.507"/>
+ <entry term="rttps3" name="rttps3" id="CM.TPS_enzyme.508"/>
+ <entry term="rttps4" name="rttps4" id="CM.TPS_enzyme.509"/>
+ <entry term="rttps5" name="rttps5" id="CM.TPS_enzyme.510"/>
+ <entry term="s-(+)-linalool synthase" name="s-(+)-linalool synthase" id="CM.TPS_enzyme.511"/>
+ <entry term="s-linalool synthase" name="s-linalool synthase" id="CM.TPS_enzyme.512"/>
+ <entry term="sabinene synthase" name="sabinene synthase" id="CM.TPS_enzyme.513"/>
+ <entry term="santalene and bergamotene synthase" name="santalene and bergamotene synthase" id="CM.TPS_enzyme.514"/>
+ <entry term="sbs" name="sbs" wikipedia="sbs" id="CM.TPS_enzyme.515"/>
+ <entry term="sbtps1" name="sbtps1" id="CM.TPS_enzyme.516"/>
+ <entry term="sbtps2" name="sbtps2" id="CM.TPS_enzyme.517"/>
+ <entry term="sbtps3" name="sbtps3" id="CM.TPS_enzyme.518"/>
+ <entry term="sbtps4" name="sbtps4" id="CM.TPS_enzyme.519"/>
+ <entry term="sbtps5" name="sbtps5" id="CM.TPS_enzyme.520"/>
+ <entry term="sclareol synthase" name="sclareol synthase" id="CM.TPS_enzyme.521"/>
+ <entry term="selinene synthase" name="selinene synthase" id="CM.TPS_enzyme.522"/>
+ <entry term="sesquiterpene cyclase" name="sesquiterpene cyclase" wikipedia="sesquiterpene cyclase" id="CM.TPS_enzyme.523"/>
+ <entry term="sesquiterpene cyclase1" name="sesquiterpene cyclase1" id="CM.TPS_enzyme.524"/>
+ <entry term="sesquiterpene synthase" name="sesquiterpene synthase" id="CM.TPS_enzyme.525"/>
+ <entry term="sesquiterpene synthase 1" name="sesquiterpene synthase 1" id="CM.TPS_enzyme.526"/>
+ <entry term="sesquithujene synthase" name="sesquithujene synthase" id="CM.TPS_enzyme.527"/>
+ <entry term="sesquithujene synthase a" name="sesquithujene synthase a" id="CM.TPS_enzyme.528"/>
+ <entry term="sesquithujene synthase b" name="sesquithujene synthase b" id="CM.TPS_enzyme.529"/>
+ <entry term="sleot1" name="sleot1" id="CM.TPS_enzyme.530"/>
+ <entry term="sltps1" name="sltps1" id="CM.TPS_enzyme.531"/>
+ <entry term="sltps10" name="sltps10" id="CM.TPS_enzyme.532"/>
+ <entry term="sltps11" name="sltps11" id="CM.TPS_enzyme.533"/>
+ <entry term="sltps12" name="sltps12" id="CM.TPS_enzyme.534"/>
+ <entry term="sltps13" name="sltps13" id="CM.TPS_enzyme.535"/>
+ <entry term="sltps14" name="sltps14" id="CM.TPS_enzyme.536"/>
+ <entry term="sltps15" name="sltps15" id="CM.TPS_enzyme.537"/>
+ <entry term="sltps16" name="sltps16" id="CM.TPS_enzyme.538"/>
+ <entry term="sltps17" name="sltps17" id="CM.TPS_enzyme.539"/>
+ <entry term="sltps18" name="sltps18" id="CM.TPS_enzyme.540"/>
+ <entry term="sltps19" name="sltps19" id="CM.TPS_enzyme.541"/>
+ <entry term="sltps2" name="sltps2" id="CM.TPS_enzyme.542"/>
+ <entry term="sltps20" name="sltps20" id="CM.TPS_enzyme.543"/>
+ <entry term="sltps21" name="sltps21" id="CM.TPS_enzyme.544"/>
+ <entry term="sltps22" name="sltps22" id="CM.TPS_enzyme.545"/>
+ <entry term="sltps23" name="sltps23" id="CM.TPS_enzyme.546"/>
+ <entry term="sltps24" name="sltps24" id="CM.TPS_enzyme.547"/>
+ <entry term="sltps25" name="sltps25" id="CM.TPS_enzyme.548"/>
+ <entry term="sltps26" name="sltps26" id="CM.TPS_enzyme.549"/>
+ <entry term="sltps27" name="sltps27" id="CM.TPS_enzyme.550"/>
+ <entry term="sltps28" name="sltps28" id="CM.TPS_enzyme.551"/>
+ <entry term="sltps29" name="sltps29" id="CM.TPS_enzyme.552"/>
+ <entry term="sltps3" name="sltps3" id="CM.TPS_enzyme.553"/>
+ <entry term="sltps30" name="sltps30" id="CM.TPS_enzyme.554"/>
+ <entry term="sltps31" name="sltps31" id="CM.TPS_enzyme.555"/>
+ <entry term="sltps32" name="sltps32" id="CM.TPS_enzyme.556"/>
+ <entry term="sltps33" name="sltps33" id="CM.TPS_enzyme.557"/>
+ <entry term="sltps34" name="sltps34" id="CM.TPS_enzyme.558"/>
+ <entry term="sltps35" name="sltps35" id="CM.TPS_enzyme.559"/>
+ <entry term="sltps36" name="sltps36" id="CM.TPS_enzyme.560"/>
+ <entry term="sltps37" name="sltps37" id="CM.TPS_enzyme.561"/>
+ <entry term="sltps38" name="sltps38" id="CM.TPS_enzyme.562"/>
+ <entry term="sltps39" name="sltps39" id="CM.TPS_enzyme.563"/>
+ <entry term="sltps4" name="sltps4" id="CM.TPS_enzyme.564"/>
+ <entry term="sltps40" name="sltps40" id="CM.TPS_enzyme.565"/>
+ <entry term="sltps41" name="sltps41" id="CM.TPS_enzyme.566"/>
+ <entry term="sltps42" name="sltps42" id="CM.TPS_enzyme.567"/>
+ <entry term="sltps43" name="sltps43" id="CM.TPS_enzyme.568"/>
+ <entry term="sltps44" name="sltps44" id="CM.TPS_enzyme.569"/>
+ <entry term="sltps45" name="sltps45" id="CM.TPS_enzyme.570"/>
+ <entry term="sltps46" name="sltps46" id="CM.TPS_enzyme.571"/>
+ <entry term="sltps47" name="sltps47" id="CM.TPS_enzyme.572"/>
+ <entry term="sltps48" name="sltps48" id="CM.TPS_enzyme.573"/>
+ <entry term="sltps49" name="sltps49" id="CM.TPS_enzyme.574"/>
+ <entry term="sltps5" name="sltps5" id="CM.TPS_enzyme.575"/>
+ <entry term="sltps50" name="sltps50" id="CM.TPS_enzyme.576"/>
+ <entry term="sltps51" name="sltps51" id="CM.TPS_enzyme.577"/>
+ <entry term="sltps6" name="sltps6" id="CM.TPS_enzyme.578"/>
+ <entry term="sltps7" name="sltps7" id="CM.TPS_enzyme.579"/>
+ <entry term="sltps8" name="sltps8" id="CM.TPS_enzyme.580"/>
+ <entry term="sltps9" name="sltps9" id="CM.TPS_enzyme.581"/>
+ <entry term="smstps1" name="smstps1" id="CM.TPS_enzyme.582"/>
+ <entry term="smstps2" name="smstps2" id="CM.TPS_enzyme.583"/>
+ <entry term="smstps3" name="smstps3" id="CM.TPS_enzyme.584"/>
+ <entry term="smstps4" name="smstps4" id="CM.TPS_enzyme.585"/>
+ <entry term="smstps5" name="smstps5" id="CM.TPS_enzyme.586"/>
+ <entry term="sqe1" name="sqe1" id="CM.TPS_enzyme.587"/>
+ <entry term="sqs1" name="sqs1" id="CM.TPS_enzyme.588"/>
+ <entry term="sqs7" name="sqs7" id="CM.TPS_enzyme.589"/>
+ <entry term="ss" name="ss" wikipedia="ss" id="CM.TPS_enzyme.590"/>
+ <entry term="sstle1" name="sstle1" id="CM.TPS_enzyme.591"/>
+ <entry term="sstle1_0" name="sstle1_0" id="CM.TPS_enzyme.592"/>
+ <entry term="stemar-13-ene synthase" name="stemar-13-ene synthase" id="CM.TPS_enzyme.593"/>
+ <entry term="stemod-13(17)-ene synthase" name="stemod-13(17)-ene synthase" id="CM.TPS_enzyme.594"/>
+ <entry term="stps" name="stps" id="CM.TPS_enzyme.595"/>
+ <entry term="stps1" name="stps1" id="CM.TPS_enzyme.596"/>
+ <entry term="stps2" name="stps2" id="CM.TPS_enzyme.597"/>
+ <entry term="stps3" name="stps3" id="CM.TPS_enzyme.598"/>
+ <entry term="sts" name="sts" wikipedia="sts" id="CM.TPS_enzyme.599"/>
+ <entry term="syn-copalyl diphosphate synthase" name="syn-copalyl diphosphate synthase" id="CM.TPS_enzyme.600"/>
+ <entry term="syn-cpp synthase" name="syn-cpp synthase" id="CM.TPS_enzyme.601"/>
+ <entry term="syn-stemar-13-ene synthase" name="syn-stemar-13-ene synthase" id="CM.TPS_enzyme.602"/>
+ <entry term="tacps1" name="tacps1" id="CM.TPS_enzyme.603"/>
+ <entry term="taksl1" name="taksl1" id="CM.TPS_enzyme.604"/>
+ <entry term="tasy" name="tasy" wikipedia="tasy" id="CM.TPS_enzyme.605"/>
+ <entry term="terpene cyclase" name="terpene cyclase" id="CM.TPS_enzyme.606"/>
+ <entry term="terpene synthase" name="terpene synthase" id="CM.TPS_enzyme.607"/>
+ <entry term="terpene synthase 02" name="terpene synthase 02" id="CM.TPS_enzyme.608"/>
+ <entry term="terpene synthase 03" name="terpene synthase 03" id="CM.TPS_enzyme.609"/>
+ <entry term="terpene synthase 1" name="terpene synthase 1" id="CM.TPS_enzyme.610"/>
+ <entry term="terpene synthase 10" name="terpene synthase 10" id="CM.TPS_enzyme.611"/>
+ <entry term="terpene synthase 14" name="terpene synthase 14" id="CM.TPS_enzyme.612"/>
+ <entry term="terpene synthase 2" name="terpene synthase 2" id="CM.TPS_enzyme.613"/>
+ <entry term="terpene synthase 21" name="terpene synthase 21" id="CM.TPS_enzyme.614"/>
+ <entry term="terpene synthase 3" name="terpene synthase 3" id="CM.TPS_enzyme.615"/>
+ <entry term="terpene synthase 4" name="terpene synthase 4" id="CM.TPS_enzyme.616"/>
+ <entry term="terpene synthase 6" name="terpene synthase 6" id="CM.TPS_enzyme.617"/>
+ <entry term="terpene synthase 7" name="terpene synthase 7" id="CM.TPS_enzyme.618"/>
+ <entry term="terpene synthase 8" name="terpene synthase 8" id="CM.TPS_enzyme.619"/>
+ <entry term="terpene synthase 9" name="terpene synthase 9" id="CM.TPS_enzyme.620"/>
+ <entry term="terpene synthase like-10" name="terpene synthase like-10" id="CM.TPS_enzyme.621"/>
+ <entry term="terpene synthase like-11" name="terpene synthase like-11" id="CM.TPS_enzyme.622"/>
+ <entry term="terpene synthase like-12" name="terpene synthase like-12" id="CM.TPS_enzyme.623"/>
+ <entry term="terpene synthase like-13" name="terpene synthase like-13" id="CM.TPS_enzyme.624"/>
+ <entry term="terpene synthase like-14" name="terpene synthase like-14" id="CM.TPS_enzyme.625"/>
+ <entry term="terpene synthase like-15" name="terpene synthase like-15" id="CM.TPS_enzyme.626"/>
+ <entry term="terpene synthase like-16" name="terpene synthase like-16" id="CM.TPS_enzyme.627"/>
+ <entry term="terpene synthase like-17" name="terpene synthase like-17" id="CM.TPS_enzyme.628"/>
+ <entry term="terpene synthase like-18" name="terpene synthase like-18" id="CM.TPS_enzyme.629"/>
+ <entry term="terpene synthase like-19" name="terpene synthase like-19" id="CM.TPS_enzyme.630"/>
+ <entry term="terpene synthase like-2" name="terpene synthase like-2" id="CM.TPS_enzyme.631"/>
+ <entry term="terpene synthase like-20" name="terpene synthase like-20" id="CM.TPS_enzyme.632"/>
+ <entry term="terpene synthase like-21" name="terpene synthase like-21" id="CM.TPS_enzyme.633"/>
+ <entry term="terpene synthase like-22" name="terpene synthase like-22" id="CM.TPS_enzyme.634"/>
+ <entry term="terpene synthase like-23" name="terpene synthase like-23" id="CM.TPS_enzyme.635"/>
+ <entry term="terpene synthase like-24" name="terpene synthase like-24" id="CM.TPS_enzyme.636"/>
+ <entry term="terpene synthase like-25" name="terpene synthase like-25" id="CM.TPS_enzyme.637"/>
+ <entry term="terpene synthase like-26" name="terpene synthase like-26" id="CM.TPS_enzyme.638"/>
+ <entry term="terpene synthase like-27" name="terpene synthase like-27" id="CM.TPS_enzyme.639"/>
+ <entry term="terpene synthase like-28" name="terpene synthase like-28" id="CM.TPS_enzyme.640"/>
+ <entry term="terpene synthase like-29" name="terpene synthase like-29" id="CM.TPS_enzyme.641"/>
+ <entry term="terpene synthase like-3" name="terpene synthase like-3" id="CM.TPS_enzyme.642"/>
+ <entry term="terpene synthase like-30" name="terpene synthase like-30" id="CM.TPS_enzyme.643"/>
+ <entry term="terpene synthase like-4" name="terpene synthase like-4" id="CM.TPS_enzyme.644"/>
+ <entry term="terpene synthase like-6" name="terpene synthase like-6" id="CM.TPS_enzyme.645"/>
+ <entry term="terpene synthase like-7" name="terpene synthase like-7" id="CM.TPS_enzyme.646"/>
+ <entry term="terpene synthase like-8" name="terpene synthase like-8" id="CM.TPS_enzyme.647"/>
+ <entry term="terpene synthase like-9" name="terpene synthase like-9" id="CM.TPS_enzyme.648"/>
+ <entry term="terpene synthase tps1" name="terpene synthase tps1" id="CM.TPS_enzyme.649"/>
+ <entry term="terpene synthase tps10" name="terpene synthase tps10" id="CM.TPS_enzyme.650"/>
+ <entry term="terpene synthase tps11" name="terpene synthase tps11" id="CM.TPS_enzyme.651"/>
+ <entry term="terpene synthase tps12" name="terpene synthase tps12" id="CM.TPS_enzyme.652"/>
+ <entry term="terpene synthase tps13" name="terpene synthase tps13" id="CM.TPS_enzyme.653"/>
+ <entry term="terpene synthase tps14" name="terpene synthase tps14" id="CM.TPS_enzyme.654"/>
+ <entry term="terpene synthase tps15" name="terpene synthase tps15" id="CM.TPS_enzyme.655"/>
+ <entry term="terpene synthase tps16" name="terpene synthase tps16" id="CM.TPS_enzyme.656"/>
+ <entry term="terpene synthase tps17" name="terpene synthase tps17" id="CM.TPS_enzyme.657"/>
+ <entry term="terpene synthase tps18" name="terpene synthase tps18" id="CM.TPS_enzyme.658"/>
+ <entry term="terpene synthase tps19" name="terpene synthase tps19" id="CM.TPS_enzyme.659"/>
+ <entry term="terpene synthase tps2" name="terpene synthase tps2" id="CM.TPS_enzyme.660"/>
+ <entry term="terpene synthase tps20" name="terpene synthase tps20" id="CM.TPS_enzyme.661"/>
+ <entry term="terpene synthase tps21" name="terpene synthase tps21" id="CM.TPS_enzyme.662"/>
+ <entry term="terpene synthase tps22" name="terpene synthase tps22" id="CM.TPS_enzyme.663"/>
+ <entry term="terpene synthase tps23" name="terpene synthase tps23" id="CM.TPS_enzyme.664"/>
+ <entry term="terpene synthase tps24" name="terpene synthase tps24" id="CM.TPS_enzyme.665"/>
+ <entry term="terpene synthase tps25" name="terpene synthase tps25" id="CM.TPS_enzyme.666"/>
+ <entry term="terpene synthase tps26" name="terpene synthase tps26" id="CM.TPS_enzyme.667"/>
+ <entry term="terpene synthase tps27" name="terpene synthase tps27" id="CM.TPS_enzyme.668"/>
+ <entry term="terpene synthase tps28" name="terpene synthase tps28" id="CM.TPS_enzyme.669"/>
+ <entry term="terpene synthase tps29" name="terpene synthase tps29" id="CM.TPS_enzyme.670"/>
+ <entry term="terpene synthase tps3" name="terpene synthase tps3" id="CM.TPS_enzyme.671"/>
+ <entry term="terpene synthase tps30" name="terpene synthase tps30" id="CM.TPS_enzyme.672"/>
+ <entry term="terpene synthase tps31" name="terpene synthase tps31" id="CM.TPS_enzyme.673"/>
+ <entry term="terpene synthase tps32" name="terpene synthase tps32" id="CM.TPS_enzyme.674"/>
+ <entry term="terpene synthase tps33" name="terpene synthase tps33" id="CM.TPS_enzyme.675"/>
+ <entry term="terpene synthase tps34" name="terpene synthase tps34" id="CM.TPS_enzyme.676"/>
+ <entry term="terpene synthase tps35" name="terpene synthase tps35" id="CM.TPS_enzyme.677"/>
+ <entry term="terpene synthase tps36" name="terpene synthase tps36" id="CM.TPS_enzyme.678"/>
+ <entry term="terpene synthase tps4" name="terpene synthase tps4" id="CM.TPS_enzyme.679"/>
+ <entry term="terpene synthase tps5" name="terpene synthase tps5" id="CM.TPS_enzyme.680"/>
+ <entry term="terpene synthase tps6" name="terpene synthase tps6" id="CM.TPS_enzyme.681"/>
+ <entry term="terpene synthase tps7" name="terpene synthase tps7" id="CM.TPS_enzyme.682"/>
+ <entry term="terpene synthase tps8" name="terpene synthase tps8" id="CM.TPS_enzyme.683"/>
+ <entry term="terpene synthase tps9" name="terpene synthase tps9" id="CM.TPS_enzyme.684"/>
+ <entry term="terpene synthase1" name="terpene synthase1" id="CM.TPS_enzyme.685"/>
+ <entry term="terpene synthase10" name="terpene synthase10" id="CM.TPS_enzyme.686"/>
+ <entry term="terpene synthase26" name="terpene synthase26" id="CM.TPS_enzyme.687"/>
+ <entry term="terpene synthase4" name="terpene synthase4" id="CM.TPS_enzyme.688"/>
+ <entry term="terpene synthase5" name="terpene synthase5" id="CM.TPS_enzyme.689"/>
+ <entry term="terpene synthase6" name="terpene synthase6" id="CM.TPS_enzyme.690"/>
+ <entry term="terpene synthase8" name="terpene synthase8" id="CM.TPS_enzyme.691"/>
+ <entry term="terpene synthase9" name="terpene synthase9" id="CM.TPS_enzyme.692"/>
+ <entry term="terpene_synth domain-containing protein" name="terpene_synth domain-containing protein" id="CM.TPS_enzyme.693"/>
+ <entry term="terpene_synth_c domain-containing protein" name="terpene_synth_c domain-containing protein" id="CM.TPS_enzyme.694"/>
+ <entry term="terpenoid synthase 20" name="terpenoid synthase 20" id="CM.TPS_enzyme.695"/>
+ <entry term="terpinolene synthase" name="terpinolene synthase" id="CM.TPS_enzyme.696"/>
+ <entry term="thas1" name="thas1" id="CM.TPS_enzyme.697"/>
+ <entry term="torcps" name="torcps" id="CM.TPS_enzyme.698"/>
+ <entry term="tox" name="tox" wikipedia="tox" id="CM.TPS_enzyme.699"/>
+ <entry term="tpc1" name="tpc1" id="CM.TPS_enzyme.700"/>
+ <entry term="tps" name="tps" wikipedia="tps" id="CM.TPS_enzyme.701"/>
+ <entry term="tps-3car1" name="tps-3car1" id="CM.TPS_enzyme.702"/>
+ <entry term="tps-3car2" name="tps-3car2" id="CM.TPS_enzyme.703"/>
+ <entry term="tps-3car3" name="tps-3car3" id="CM.TPS_enzyme.704"/>
+ <entry term="tps-cin" name="tps-cin" id="CM.TPS_enzyme.705"/>
+ <entry term="tps-cin1" name="tps-cin1" id="CM.TPS_enzyme.706"/>
+ <entry term="tps-cin2" name="tps-cin2" id="CM.TPS_enzyme.707"/>
+ <entry term="tps-cinat3g2582" name="tps-cinat3g2582" id="CM.TPS_enzyme.708"/>
+ <entry term="tps-cintps-cin" name="tps-cintps-cin" id="CM.TPS_enzyme.709"/>
+ <entry term="tps-iso" name="tps-iso" id="CM.TPS_enzyme.710"/>
+ <entry term="tps-las" name="tps-las" id="CM.TPS_enzyme.711"/>
+ <entry term="tps-las1" name="tps-las1" id="CM.TPS_enzyme.712"/>
+ <entry term="tps-las2" name="tps-las2" id="CM.TPS_enzyme.713"/>
+ <entry term="tps-lon" name="tps-lon" id="CM.TPS_enzyme.714"/>
+ <entry term="tps-miso1" name="tps-miso1" id="CM.TPS_enzyme.715"/>
+ <entry term="tps-mpim1" name="tps-mpim1" id="CM.TPS_enzyme.716"/>
+ <entry term="tps-sab" name="tps-sab" id="CM.TPS_enzyme.717"/>
+ <entry term="tps01" name="tps01" id="CM.TPS_enzyme.718"/>
+ <entry term="tps02" name="tps02" id="CM.TPS_enzyme.719"/>
+ <entry term="tps03" name="tps03" id="CM.TPS_enzyme.720"/>
+ <entry term="tps04" name="tps04" id="CM.TPS_enzyme.721"/>
+ <entry term="tps05" name="tps05" id="CM.TPS_enzyme.722"/>
+ <entry term="tps06" name="tps06" id="CM.TPS_enzyme.723"/>
+ <entry term="tps07" name="tps07" id="CM.TPS_enzyme.724"/>
+ <entry term="tps08" name="tps08" id="CM.TPS_enzyme.725"/>
+ <entry term="tps09" name="tps09" id="CM.TPS_enzyme.726"/>
+ <entry term="tps1" name="tps1" id="CM.TPS_enzyme.727"/>
+ <entry term="tps10" name="tps10" id="CM.TPS_enzyme.728"/>
+ <entry term="tps100" name="tps100" id="CM.TPS_enzyme.729"/>
+ <entry term="tps101" name="tps101" id="CM.TPS_enzyme.730"/>
+ <entry term="tps102" name="tps102" id="CM.TPS_enzyme.731"/>
+ <entry term="tps103" name="tps103" id="CM.TPS_enzyme.732"/>
+ <entry term="tps104" name="tps104" id="CM.TPS_enzyme.733"/>
+ <entry term="tps105" name="tps105" id="CM.TPS_enzyme.734"/>
+ <entry term="tps106" name="tps106" id="CM.TPS_enzyme.735"/>
+ <entry term="tps107" name="tps107" id="CM.TPS_enzyme.736"/>
+ <entry term="tps108" name="tps108" id="CM.TPS_enzyme.737"/>
+ <entry term="tps109" name="tps109" id="CM.TPS_enzyme.738"/>
+ <entry term="tps11" name="tps11" id="CM.TPS_enzyme.739"/>
+ <entry term="tps110" name="tps110" id="CM.TPS_enzyme.740"/>
+ <entry term="tps111" name="tps111" id="CM.TPS_enzyme.741"/>
+ <entry term="tps112" name="tps112" id="CM.TPS_enzyme.742"/>
+ <entry term="tps113" name="tps113" id="CM.TPS_enzyme.743"/>
+ <entry term="tps114" name="tps114" id="CM.TPS_enzyme.744"/>
+ <entry term="tps115" name="tps115" id="CM.TPS_enzyme.745"/>
+ <entry term="tps116" name="tps116" id="CM.TPS_enzyme.746"/>
+ <entry term="tps117" name="tps117" id="CM.TPS_enzyme.747"/>
+ <entry term="tps118" name="tps118" id="CM.TPS_enzyme.748"/>
+ <entry term="tps119" name="tps119" id="CM.TPS_enzyme.749"/>
+ <entry term="tps12" name="tps12" id="CM.TPS_enzyme.750"/>
+ <entry term="tps120" name="tps120" id="CM.TPS_enzyme.751"/>
+ <entry term="tps121" name="tps121" id="CM.TPS_enzyme.752"/>
+ <entry term="tps122" name="tps122" id="CM.TPS_enzyme.753"/>
+ <entry term="tps123" name="tps123" id="CM.TPS_enzyme.754"/>
+ <entry term="tps124" name="tps124" id="CM.TPS_enzyme.755"/>
+ <entry term="tps125" name="tps125" id="CM.TPS_enzyme.756"/>
+ <entry term="tps126" name="tps126" id="CM.TPS_enzyme.757"/>
+ <entry term="tps127" name="tps127" id="CM.TPS_enzyme.758"/>
+ <entry term="tps128" name="tps128" id="CM.TPS_enzyme.759"/>
+ <entry term="tps129" name="tps129" id="CM.TPS_enzyme.760"/>
+ <entry term="tps13" name="tps13" id="CM.TPS_enzyme.761"/>
+ <entry term="tps130" name="tps130" id="CM.TPS_enzyme.762"/>
+ <entry term="tps131" name="tps131" id="CM.TPS_enzyme.763"/>
+ <entry term="tps132" name="tps132" id="CM.TPS_enzyme.764"/>
+ <entry term="tps133" name="tps133" id="CM.TPS_enzyme.765"/>
+ <entry term="tps134" name="tps134" id="CM.TPS_enzyme.766"/>
+ <entry term="tps135" name="tps135" id="CM.TPS_enzyme.767"/>
+ <entry term="tps136" name="tps136" id="CM.TPS_enzyme.768"/>
+ <entry term="tps137" name="tps137" id="CM.TPS_enzyme.769"/>
+ <entry term="tps138" name="tps138" id="CM.TPS_enzyme.770"/>
+ <entry term="tps139" name="tps139" id="CM.TPS_enzyme.771"/>
+ <entry term="tps14" name="tps14" id="CM.TPS_enzyme.772"/>
+ <entry term="tps140" name="tps140" id="CM.TPS_enzyme.773"/>
+ <entry term="tps141" name="tps141" id="CM.TPS_enzyme.774"/>
+ <entry term="tps142" name="tps142" id="CM.TPS_enzyme.775"/>
+ <entry term="tps143" name="tps143" id="CM.TPS_enzyme.776"/>
+ <entry term="tps144" name="tps144" id="CM.TPS_enzyme.777"/>
+ <entry term="tps145" name="tps145" id="CM.TPS_enzyme.778"/>
+ <entry term="tps146" name="tps146" id="CM.TPS_enzyme.779"/>
+ <entry term="tps147" name="tps147" id="CM.TPS_enzyme.780"/>
+ <entry term="tps148" name="tps148" id="CM.TPS_enzyme.781"/>
+ <entry term="tps149" name="tps149" id="CM.TPS_enzyme.782"/>
+ <entry term="tps15" name="tps15" id="CM.TPS_enzyme.783"/>
+ <entry term="tps150" name="tps150" id="CM.TPS_enzyme.784"/>
+ <entry term="tps151" name="tps151" id="CM.TPS_enzyme.785"/>
+ <entry term="tps16" name="tps16" id="CM.TPS_enzyme.786"/>
+ <entry term="tps17" name="tps17" id="CM.TPS_enzyme.787"/>
+ <entry term="tps18" name="tps18" id="CM.TPS_enzyme.788"/>
+ <entry term="tps19" name="tps19" id="CM.TPS_enzyme.789"/>
+ <entry term="tps1a" name="tps1a" id="CM.TPS_enzyme.790"/>
+ <entry term="tps1b" name="tps1b" id="CM.TPS_enzyme.791"/>
+ <entry term="tps1c" name="tps1c" id="CM.TPS_enzyme.792"/>
+ <entry term="tps1e" name="tps1e" id="CM.TPS_enzyme.793"/>
+ <entry term="tps1f" name="tps1f" id="CM.TPS_enzyme.794"/>
+ <entry term="tps2" name="tps2" id="CM.TPS_enzyme.795"/>
+ <entry term="tps20" name="tps20" id="CM.TPS_enzyme.796"/>
+ <entry term="tps21" name="tps21" id="CM.TPS_enzyme.797"/>
+ <entry term="tps22" name="tps22" id="CM.TPS_enzyme.798"/>
+ <entry term="tps23" name="tps23" id="CM.TPS_enzyme.799"/>
+ <entry term="tps24" name="tps24" id="CM.TPS_enzyme.800"/>
+ <entry term="tps25" name="tps25" id="CM.TPS_enzyme.801"/>
+ <entry term="tps26" name="tps26" id="CM.TPS_enzyme.802"/>
+ <entry term="tps27" name="tps27" id="CM.TPS_enzyme.803"/>
+ <entry term="tps28" name="tps28" id="CM.TPS_enzyme.804"/>
+ <entry term="tps29" name="tps29" id="CM.TPS_enzyme.805"/>
+ <entry term="tps3" name="tps3" id="CM.TPS_enzyme.806"/>
+ <entry term="tps30" name="tps30" id="CM.TPS_enzyme.807"/>
+ <entry term="tps31" name="tps31" id="CM.TPS_enzyme.808"/>
+ <entry term="tps32" name="tps32" id="CM.TPS_enzyme.809"/>
+ <entry term="tps32_1" name="tps32_1" id="CM.TPS_enzyme.810"/>
+ <entry term="tps32_2" name="tps32_2" id="CM.TPS_enzyme.811"/>
+ <entry term="tps33" name="tps33" id="CM.TPS_enzyme.812"/>
+ <entry term="tps34" name="tps34" id="CM.TPS_enzyme.813"/>
+ <entry term="tps35" name="tps35" id="CM.TPS_enzyme.814"/>
+ <entry term="tps36" name="tps36" id="CM.TPS_enzyme.815"/>
+ <entry term="tps37" name="tps37" id="CM.TPS_enzyme.816"/>
+ <entry term="tps38" name="tps38" id="CM.TPS_enzyme.817"/>
+ <entry term="tps39" name="tps39" id="CM.TPS_enzyme.818"/>
+ <entry term="tps3_0" name="tps3_0" id="CM.TPS_enzyme.819"/>
+ <entry term="tps3_1" name="tps3_1" id="CM.TPS_enzyme.820"/>
+ <entry term="tps3_2" name="tps3_2" id="CM.TPS_enzyme.821"/>
+ <entry term="tps3_3" name="tps3_3" id="CM.TPS_enzyme.822"/>
+ <entry term="tps3_4" name="tps3_4" id="CM.TPS_enzyme.823"/>
+ <entry term="tps3_5" name="tps3_5" id="CM.TPS_enzyme.824"/>
+ <entry term="tps4" name="tps4" id="CM.TPS_enzyme.825"/>
+ <entry term="tps40" name="tps40" id="CM.TPS_enzyme.826"/>
+ <entry term="tps41" name="tps41" id="CM.TPS_enzyme.827"/>
+ <entry term="tps42" name="tps42" id="CM.TPS_enzyme.828"/>
+ <entry term="tps43" name="tps43" id="CM.TPS_enzyme.829"/>
+ <entry term="tps44" name="tps44" id="CM.TPS_enzyme.830"/>
+ <entry term="tps45" name="tps45" id="CM.TPS_enzyme.831"/>
+ <entry term="tps46" name="tps46" id="CM.TPS_enzyme.832"/>
+ <entry term="tps47" name="tps47" id="CM.TPS_enzyme.833"/>
+ <entry term="tps48" name="tps48" id="CM.TPS_enzyme.834"/>
+ <entry term="tps49" name="tps49" id="CM.TPS_enzyme.835"/>
+ <entry term="tps5" name="tps5" id="CM.TPS_enzyme.836"/>
+ <entry term="tps50" name="tps50" id="CM.TPS_enzyme.837"/>
+ <entry term="tps51" name="tps51" id="CM.TPS_enzyme.838"/>
+ <entry term="tps52" name="tps52" id="CM.TPS_enzyme.839"/>
+ <entry term="tps53" name="tps53" id="CM.TPS_enzyme.840"/>
+ <entry term="tps54" name="tps54" id="CM.TPS_enzyme.841"/>
+ <entry term="tps55" name="tps55" id="CM.TPS_enzyme.842"/>
+ <entry term="tps56" name="tps56" id="CM.TPS_enzyme.843"/>
+ <entry term="tps57" name="tps57" id="CM.TPS_enzyme.844"/>
+ <entry term="tps58" name="tps58" id="CM.TPS_enzyme.845"/>
+ <entry term="tps59" name="tps59" id="CM.TPS_enzyme.846"/>
+ <entry term="tps6" name="tps6" id="CM.TPS_enzyme.847"/>
+ <entry term="tps60" name="tps60" id="CM.TPS_enzyme.848"/>
+ <entry term="tps61" name="tps61" id="CM.TPS_enzyme.849"/>
+ <entry term="tps62" name="tps62" id="CM.TPS_enzyme.850"/>
+ <entry term="tps63" name="tps63" id="CM.TPS_enzyme.851"/>
+ <entry term="tps64" name="tps64" id="CM.TPS_enzyme.852"/>
+ <entry term="tps65" name="tps65" id="CM.TPS_enzyme.853"/>
+ <entry term="tps66" name="tps66" id="CM.TPS_enzyme.854"/>
+ <entry term="tps67" name="tps67" id="CM.TPS_enzyme.855"/>
+ <entry term="tps68" name="tps68" id="CM.TPS_enzyme.856"/>
+ <entry term="tps69" name="tps69" id="CM.TPS_enzyme.857"/>
+ <entry term="tps7" name="tps7" id="CM.TPS_enzyme.858"/>
+ <entry term="tps70" name="tps70" id="CM.TPS_enzyme.859"/>
+ <entry term="tps71" name="tps71" id="CM.TPS_enzyme.860"/>
+ <entry term="tps72" name="tps72" id="CM.TPS_enzyme.861"/>
+ <entry term="tps73" name="tps73" id="CM.TPS_enzyme.862"/>
+ <entry term="tps74" name="tps74" id="CM.TPS_enzyme.863"/>
+ <entry term="tps75" name="tps75" id="CM.TPS_enzyme.864"/>
+ <entry term="tps76" name="tps76" id="CM.TPS_enzyme.865"/>
+ <entry term="tps77" name="tps77" id="CM.TPS_enzyme.866"/>
+ <entry term="tps78" name="tps78" id="CM.TPS_enzyme.867"/>
+ <entry term="tps79" name="tps79" id="CM.TPS_enzyme.868"/>
+ <entry term="tps7_1" name="tps7_1" id="CM.TPS_enzyme.869"/>
+ <entry term="tps8" name="tps8" id="CM.TPS_enzyme.870"/>
+ <entry term="tps80" name="tps80" id="CM.TPS_enzyme.871"/>
+ <entry term="tps81" name="tps81" id="CM.TPS_enzyme.872"/>
+ <entry term="tps82" name="tps82" id="CM.TPS_enzyme.873"/>
+ <entry term="tps83" name="tps83" id="CM.TPS_enzyme.874"/>
+ <entry term="tps84" name="tps84" id="CM.TPS_enzyme.875"/>
+ <entry term="tps85" name="tps85" id="CM.TPS_enzyme.876"/>
+ <entry term="tps86" name="tps86" id="CM.TPS_enzyme.877"/>
+ <entry term="tps87" name="tps87" id="CM.TPS_enzyme.878"/>
+ <entry term="tps88" name="tps88" id="CM.TPS_enzyme.879"/>
+ <entry term="tps89" name="tps89" id="CM.TPS_enzyme.880"/>
+ <entry term="tps9" name="tps9" id="CM.TPS_enzyme.881"/>
+ <entry term="tps90" name="tps90" id="CM.TPS_enzyme.882"/>
+ <entry term="tps91" name="tps91" id="CM.TPS_enzyme.883"/>
+ <entry term="tps92" name="tps92" id="CM.TPS_enzyme.884"/>
+ <entry term="tps93" name="tps93" id="CM.TPS_enzyme.885"/>
+ <entry term="tps94" name="tps94" id="CM.TPS_enzyme.886"/>
+ <entry term="tps95" name="tps95" id="CM.TPS_enzyme.887"/>
+ <entry term="tps96" name="tps96" id="CM.TPS_enzyme.888"/>
+ <entry term="tps97" name="tps97" id="CM.TPS_enzyme.889"/>
+ <entry term="tps98" name="tps98" id="CM.TPS_enzyme.890"/>
+ <entry term="tps99" name="tps99" id="CM.TPS_enzyme.891"/>
+ <entry term="tpsga2" name="tpsga2" id="CM.TPS_enzyme.892"/>
+ <entry term="trans-alpha-bergamotene synthase" name="trans-alpha-bergamotene synthase" id="CM.TPS_enzyme.893"/>
+ <entry term="trans-ocimene synthase" name="trans-ocimene synthase" id="CM.TPS_enzyme.894"/>
+ <entry term="tricyclene synthase" name="tricyclene synthase" id="CM.TPS_enzyme.895"/>
+ <entry term="umi3" name="umi3" id="CM.TPS_enzyme.896"/>
+ <entry term="valencene synthase" name="valencene synthase" id="CM.TPS_enzyme.897"/>
+ <entry term="vetispiradiene synthase" name="vetispiradiene synthase" id="CM.TPS_enzyme.898"/>
+ <entry term="vetispiradiene synthase 1" name="vetispiradiene synthase 1" id="CM.TPS_enzyme.899"/>
+ <entry term="viridiflorene synthase" name="viridiflorene synthase" id="CM.TPS_enzyme.900"/>
+ <entry term="votps1" name="votps1" id="CM.TPS_enzyme.901"/>
+ <entry term="vvguas" name="vvguas" id="CM.TPS_enzyme.902"/>
+ <entry term="vvpnseint" name="vvpnseint" id="CM.TPS_enzyme.903"/>
+ <entry term="zmtps10" name="zmtps10" id="CM.TPS_enzyme.904"/>
+ <entry term="zsd1" name="zsd1" id="CM.TPS_enzyme.905"/>
+ <entry term="zss1" name="zss1" id="CM.TPS_enzyme.906"/>
+ <entry term="zss2" name="zss2" id="CM.TPS_enzyme.907"/>
+ <entry term="zw1" name="zw1" id="CM.TPS_enzyme.908"/>
+</dictionary>
