@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="eo_tomato">
+ <entry term="(3s)-linalool synthase" name="(3s)-linalool synthase" id="CM.eo_tomato.0"/>
+ <entry term="(4s)-limonene synthase" name="(4s)-limonene synthase" id="CM.eo_tomato.1"/>
+ <entry term="(e)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase" name="(e)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase" id="CM.eo_tomato.2"/>
+ <entry term="(e,e)-farnesyl diphosphate synthases" name="(e,e)-farnesyl diphosphate synthases" id="CM.eo_tomato.3"/>
+ <entry term="(e,e,e)-geranylgeranyl diphosphate synthase" name="(e,e,e)-geranylgeranyl diphosphate synthase" id="CM.eo_tomato.4"/>
+ <entry term="(r)-limonene synthase" name="(r)-limonene synthase" id="CM.eo_tomato.5"/>
+ <entry term="1-deoxy-d-xylulose-5-phosphate synthase(dxs)" name="1-deoxy-d-xylulose-5-phosphate synthase(dxs)" id="CM.eo_tomato.6"/>
+ <entry term="3-hydroxy-3-methylglutaryl coa reductase" name="3-hydroxy-3-methylglutaryl coa reductase" id="CM.eo_tomato.7"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" name="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" id="CM.eo_tomato.8"/>
+ <entry term="aact,acetyl-coa-acetyltransferase" name="aact,acetyl-coa-acetyltransferase" id="CM.eo_tomato.9"/>
+ <entry term="abieta-7,13-diene synthase" name="abieta-7,13-diene synthase" id="CM.eo_tomato.10"/>
+ <entry term="allene oxide synthase(aos)" name="allene oxide synthase(aos)" id="CM.eo_tomato.11"/>
+ <entry term="alpha-humulene synthase" name="alpha-humulene synthase" id="CM.eo_tomato.12"/>
+ <entry term="beta caryophyllene synthase" name="beta caryophyllene synthase" id="CM.eo_tomato.13"/>
+ <entry term="beta-farnesene synthase" name="beta-farnesene synthase" id="CM.eo_tomato.14"/>
+ <entry term="bornyldiphosphate synthase" name="bornyldiphosphate synthase" id="CM.eo_tomato.15"/>
+ <entry term="c-acetyltransferase" name="c-acetyltransferase" id="CM.eo_tomato.16"/>
+ <entry term="cis-prenyl diphosphate synthases" name="cis-prenyl diphosphate synthases" id="CM.eo_tomato.17"/>
+ <entry term="cmk,4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" name="cmk,4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" id="CM.eo_tomato.18"/>
+ <entry term="copalyldiphosphate synthase" name="copalyldiphosphate synthase" id="CM.eo_tomato.19"/>
+ <entry term="delta-cadinene synthase" name="delta-cadinene synthase" id="CM.eo_tomato.20"/>
+ <entry term="dxs,1-deoxy-d-xylulose-5-phosphate synthase" name="dxs,1-deoxy-d-xylulose-5-phosphate synthase" id="CM.eo_tomato.21"/>
+ <entry term="ent-cassa-12,15-diene synthase" name="ent-cassa-12,15-diene synthase" id="CM.eo_tomato.22"/>
+ <entry term="ent-copalyldiphosphate synthase" name="ent-copalyldiphosphate synthase" id="CM.eo_tomato.23"/>
+ <entry term="ent-kaurene synthase" name="ent-kaurene synthase" id="CM.eo_tomato.24"/>
+ <entry term="ent-pimara-8(14),15-diene synthase" name="ent-pimara-8(14),15-diene synthase" id="CM.eo_tomato.25"/>
+ <entry term="ent-sandaracopimaradiene synthase" name="ent-sandaracopimaradiene synthase" id="CM.eo_tomato.26"/>
+ <entry term="epi-aristolochene synthase" name="epi-aristolochene synthase" id="CM.eo_tomato.27"/>
+ <entry term="fpps,farnesyl diphosphate synthase" name="fpps,farnesyl diphosphate synthase" id="CM.eo_tomato.28"/>
+ <entry term="geraniol synthase,ges" name="geraniol synthase,ges" id="CM.eo_tomato.29"/>
+ <entry term="geranyl-diphosphate synthase" name="geranyl-diphosphate synthase" id="CM.eo_tomato.30"/>
+ <entry term="geranylgeranyl pyrophosphate synthase 1" name="geranylgeranyl pyrophosphate synthase 1" id="CM.eo_tomato.31"/>
+ <entry term="geranyllinalool synthases" name="geranyllinalool synthases" id="CM.eo_tomato.32"/>
+ <entry term="germacradienol synthase" name="germacradienol synthase" id="CM.eo_tomato.33"/>
+ <entry term="germacrene a synthases" name="germacrene a synthases" id="CM.eo_tomato.34"/>
+ <entry term="germacrene c synthase" name="germacrene c synthase" id="CM.eo_tomato.35"/>
+ <entry term="germacrene synthases" name="germacrene synthases" id="CM.eo_tomato.36"/>
+ <entry term="hmgs,hydroxymethylglutaryl-coa synthase" name="hmgs,hydroxymethylglutaryl-coa synthase" id="CM.eo_tomato.37"/>
+ <entry term="hydroxymethylglutaryl-coa synthase" name="hydroxymethylglutaryl-coa synthase" id="CM.eo_tomato.38"/>
+ <entry term="ippi,isopentenyl-diphosphate delta-isomerase" name="ippi,isopentenyl-diphosphate delta-isomerase" id="CM.eo_tomato.39"/>
+ <entry term="isopentenyl diphosphate isomerase" name="isopentenyl diphosphate isomerase" id="CM.eo_tomato.40"/>
+ <entry term="isoprenoid synthases" name="isoprenoid synthases" id="CM.eo_tomato.41"/>
+ <entry term="kaurene synthases" name="kaurene synthases" id="CM.eo_tomato.42"/>
+ <entry term="lactoperoxidase" name="lactoperoxidase" wikipedia="lactoperoxidase" id="CM.eo_tomato.43"/>
+ <entry term="levopimaradiene synthase" name="levopimaradiene synthase" id="CM.eo_tomato.44"/>
+ <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" id="CM.eo_tomato.45"/>
+ <entry term="linalool/nerolidol synthases" name="linalool/nerolidol synthases" id="CM.eo_tomato.46"/>
+ <entry term="mcs,2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" name="mcs,2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" id="CM.eo_tomato.47"/>
+ <entry term="mct,2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase" name="mct,2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase" id="CM.eo_tomato.48"/>
+ <entry term="mevalonate disphosphate decarboxylase" name="mevalonate disphosphate decarboxylase" id="CM.eo_tomato.49"/>
+ <entry term="mk,mevalonate kinase" name="mk,mevalonate kinase" id="CM.eo_tomato.50"/>
+ <entry term="monoterpene synthases" name="monoterpene synthases" id="CM.eo_tomato.51"/>
+ <entry term="mpd,diphosphomevalonate decarboxylase" name="mpd,diphosphomevalonate decarboxylase" id="CM.eo_tomato.52"/>
+ <entry term="myrcene/ocimene synthase" name="myrcene/ocimene synthase" id="CM.eo_tomato.53"/>
+ <entry term="neryl diphosphate" name="neryl diphosphate" id="CM.eo_tomato.54"/>
+ <entry term="neryl diphosphate synthase 1(ndps1)" name="neryl diphosphate synthase 1(ndps1)" id="CM.eo_tomato.55"/>
+ <entry term="neryneryl diphosphate synthase" name="neryneryl diphosphate synthase" id="CM.eo_tomato.56"/>
+ <entry term="phellandrene synthase" name="phellandrene synthase" id="CM.eo_tomato.57"/>
+ <entry term="phenylalanine ammonia-lyase" name="phenylalanine ammonia-lyase" id="CM.eo_tomato.58"/>
+ <entry term="phenylalanine ammonia-lyase 2" name="phenylalanine ammonia-lyase 2" id="CM.eo_tomato.59"/>
+ <entry term="pmk,phosphomevalonate kinase" name="pmk,phosphomevalonate kinase" id="CM.eo_tomato.60"/>
+ <entry term="sesquiterpene synthases" name="sesquiterpene synthases" id="CM.eo_tomato.61"/>
+ <entry term="sltps12" name="sltps12" id="CM.eo_tomato.62"/>
+ <entry term="sltps14" name="sltps14" id="CM.eo_tomato.63"/>
+ <entry term="sltps15" name="sltps15" id="CM.eo_tomato.64"/>
+ <entry term="sltps16" name="sltps16" id="CM.eo_tomato.65"/>
+ <entry term="sltps17" name="sltps17" id="CM.eo_tomato.66"/>
+ <entry term="sltps20" name="sltps20" id="CM.eo_tomato.67"/>
+ <entry term="sltps25" name="sltps25" id="CM.eo_tomato.68"/>
+ <entry term="sltps3" name="sltps3" id="CM.eo_tomato.69"/>
+ <entry term="sltps31" name="sltps31" id="CM.eo_tomato.70"/>
+ <entry term="sltps40" name="sltps40" id="CM.eo_tomato.71"/>
+ <entry term="sltps5" name="sltps5" id="CM.eo_tomato.72"/>
+ <entry term="sltps9" name="sltps9" id="CM.eo_tomato.73"/>
+ <entry term="stemar-13-ene synthase" name="stemar-13-ene synthase" id="CM.eo_tomato.74"/>
+ <entry term="stemod-13(17)-ene synthase" name="stemod-13(17)-ene synthase" id="CM.eo_tomato.75"/>
+ <entry term="syn-copalyl-diphosphate synthase" name="syn-copalyl-diphosphate synthase" id="CM.eo_tomato.76"/>
+ <entry term="syn-pimara-7,15-diene synthase" name="syn-pimara-7,15-diene synthase" id="CM.eo_tomato.77"/>
+ <entry term="terpene synthases family,tps" name="terpene synthases family,tps" id="CM.eo_tomato.78"/>
+ <entry term="tps1" name="tps1" id="CM.eo_tomato.79"/>
+ <entry term="tps18" name="tps18" id="CM.eo_tomato.80"/>
+ <entry term="tps19/20" name="tps19/20" id="CM.eo_tomato.81"/>
+ <entry term="tps2" name="tps2" id="CM.eo_tomato.82"/>
+ <entry term="tps21" name="tps21" id="CM.eo_tomato.83"/>
+ <entry term="tps22" name="tps22" id="CM.eo_tomato.84"/>
+ <entry term="tps24" name="tps24" id="CM.eo_tomato.85"/>
+ <entry term="tps25" name="tps25" id="CM.eo_tomato.86"/>
+ <entry term="tps26" name="tps26" id="CM.eo_tomato.87"/>
+ <entry term="tps27" name="tps27" id="CM.eo_tomato.88"/>
+ <entry term="tps28" name="tps28" id="CM.eo_tomato.89"/>
+ <entry term="tps29" name="tps29" id="CM.eo_tomato.90"/>
+ <entry term="tps30" name="tps30" id="CM.eo_tomato.91"/>
+ <entry term="tps32" name="tps32" id="CM.eo_tomato.92"/>
+ <entry term="tps33" name="tps33" id="CM.eo_tomato.93"/>
+ <entry term="tps35" name="tps35" id="CM.eo_tomato.94"/>
+ <entry term="tps36" name="tps36" id="CM.eo_tomato.95"/>
+ <entry term="tps37" name="tps37" id="CM.eo_tomato.96"/>
+ <entry term="tps38" name="tps38" id="CM.eo_tomato.97"/>
+ <entry term="tps39" name="tps39" id="CM.eo_tomato.98"/>
+ <entry term="tps4,beta-phellandrene synthase" name="tps4,beta-phellandrene synthase" id="CM.eo_tomato.99"/>
+ <entry term="tps41" name="tps41" id="CM.eo_tomato.100"/>
+ <entry term="tps42" name="tps42" id="CM.eo_tomato.101"/>
+ <entry term="tps43" name="tps43" id="CM.eo_tomato.102"/>
+ <entry term="tps46" name="tps46" id="CM.eo_tomato.103"/>
+ <entry term="tps47" name="tps47" id="CM.eo_tomato.104"/>
+ <entry term="tps48" name="tps48" id="CM.eo_tomato.105"/>
+ <entry term="tps51" name="tps51" id="CM.eo_tomato.106"/>
+ <entry term="tps52" name="tps52" id="CM.eo_tomato.107"/>
+ <entry term="tps6" name="tps6" id="CM.eo_tomato.108"/>
+ <entry term="tps7" name="tps7" id="CM.eo_tomato.109"/>
+ <entry term="tps8" name="tps8" id="CM.eo_tomato.110"/>
+ <entry term="vetispiradiene synthase" name="vetispiradiene synthase" id="CM.eo_tomato.111"/>
+</dictionary>
