@@ -25,7 +25,7 @@
  <entry term="c-acetyltransferase" name="c-acetyltransferase" id="CM.eo_tomato.16"/>
  <entry term="cis-prenyl diphosphate synthase" name="cis-prenyl diphosphate synthase" id="CM.eo_tomato.17"/>
  <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" name="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" id="CM.eo_tomato.18"/>
-  <synonym>cmk</synonym>
+   <synonym>cmk</synonym>
  </entry>
  <entry term="copalyldiphosphate synthase" name="copalyldiphosphate synthase" id="CM.eo_tomato.19"/>
  <entry term="delta-cadinene synthase" name="delta-cadinene synthase" id="CM.eo_tomato.20"/>
@@ -125,7 +125,9 @@
  <entry term="tps37" name="tps37" id="CM.eo_tomato.96"/>
  <entry term="tps38" name="tps38" id="CM.eo_tomato.97"/>
  <entry term="tps39" name="tps39" id="CM.eo_tomato.98"/>
- <entry term="tps4,beta-phellandrene synthase" name="tps4,beta-phellandrene synthase" id="CM.eo_tomato.99"/>
+ <entry term="tps4" name="tps4" id="CM.eo_tomato.99"/>
+   <synonym>beta-phellandrene synthase</synonym>
+ </entry>
  <entry term="tps41" name="tps41" id="CM.eo_tomato.100"/>
  <entry term="tps42" name="tps42" id="CM.eo_tomato.101"/>
  <entry term="tps43" name="tps43" id="CM.eo_tomato.102"/>
