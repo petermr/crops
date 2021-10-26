@@ -201,32 +201,33 @@
  <entry term="gibberellin 2-oxidase" name="gibberellin 2-oxidase" Wikidata ID="Q3763970" id="CM.eo_CAMSITps.175"/>
  <entry term="gibberellin 3-beta-dioxygenase" name="gibberellin 3-beta-dioxygenase" id="CM.eo_CAMSITps.176"/>
  <entry term="glutamate synthase" name="glutamate synthase" Wikidata ID="Q5572440" id="CM.eo_CAMSITps.177"/>
- <entry term="glutathione synthase" name="glutathione synthase" id="CM.eo_CAMSITps.178"/>
+ <entry term="glutathione synthase" name="glutathione synthase" Wikidata ID="Q106950316" id="CM.eo_CAMSITps.178"/>
  <entry term="geranyl pyrophosphate synthase" name="geranyl pyrophosphate synthase" id="CM.eo_CAMSITps.179"/>
  <entry term="hedycaryol synthase" name="hedycaryol synthase" id="CM.eo_CAMSITps.180"/>
  <entry term="heptaprenyl diphosphate synthase" name="heptaprenyl diphosphate synthase" id="CM.eo_CAMSITps.181"/>
  <entry term="hydroxy-methyl-glutaryl-coa synthase" name="hydroxy-methyl-glutaryl-coa synthase" id="CM.eo_CAMSITps.182"/>
- <entry term="hydroxy-methylbut-enyl diphosphate synthase hdr" name="hydroxy-methylbut-enyl diphosphate synthase hdr" id="CM.eo_CAMSITps.183"/>
+ <entry term="hydroxy-methylbut-enyl diphosphate synthase" name="hydroxy-methylbut-enyl diphosphate synthase" id="CM.eo_CAMSITps.183"/>
+    <synonym>hdr</synonym>
+ </entry>
  <entry term="hydroxyl methyl glutarylcoa synthase" name="hydroxyl methyl glutarylcoa synthase" id="CM.eo_CAMSITps.184"/>
- <entry term="hydroxylmethylglutaryl-coa synthase" name="hydroxylmethylglutaryl-coa synthase" id="CM.eo_CAMSITps.185"/>
- <entry term="hydroxymethyl glutaryl-coa synthase" name="hydroxymethyl glutaryl-coa synthase" id="CM.eo_CAMSITps.186"/>
- <entry term="hydroxymethylglutaryl-coa synthase" name="hydroxymethylglutaryl-coa synthase" id="CM.eo_CAMSITps.187"/>
  <entry term="indole-3-glycerolphosphate synthase" name="indole-3-glycerolphosphate synthase" id="CM.eo_CAMSITps.188"/>
  <entry term="inducible nitric oxide synthase" name="inducible nitric oxide synthase" id="CM.eo_CAMSITps.189"/>
- <entry term="inositol-3-phosphate synthase" name="inositol-3-phosphate synthase" id="CM.eo_CAMSITps.190"/>
+ <entry term="inositol-3-phosphate synthase" name="inositol-3-phosphate synthase" Wikidata ID="Q6036623" id="CM.eo_CAMSITps.190"/>
  <entry term="isochorismate synthase 1" name="isochorismate synthase 1" id="CM.eo_CAMSITps.191"/>
- <entry term="isoprene synthase" name="isoprene synthase" id="CM.eo_CAMSITps.192"/>
+ <entry term="isoprene synthase" name="isoprene synthase" Wikidata ID="Q11286661" id="CM.eo_CAMSITps.192"/>
  <entry term="isoprenoid synthase" name="isoprenoid synthase" id="CM.eo_CAMSITps.193"/>
- <entry term="isoprenyl diphosphate synthases (idss)" name="isoprenyl diphosphate synthases (idss)" id="CM.eo_CAMSITps.194"/>
+ <entry term="isoprenyl diphosphate synthases" name="isoprenyl diphosphate synthases" id="CM.eo_CAMSITps.194"/>
+   <synonym>idss</synonym>
+ </entery>
  <entry term="ketoacyl-acp synthase-1" name="ketoacyl-acp synthase-1" id="CM.eo_CAMSITps.195"/>
  <entry term="ketoacyl-acp synthase-2" name="ketoacyl-acp synthase-2" id="CM.eo_CAMSITps.196"/>
- <entry term="ketoacyl-coa synthase" name="ketoacyl-coa synthase" id="CM.eo_CAMSITps.197"/>
- <entry term="2-isopropylmalate synthase" name="2-isopropylmalate synthase" id="CM.eo_CAMSITps.198"/>
+ <entry term="ketoacyl-coa synthase" name="ketoacyl-coa synthase" Wikidata ID=" id="CM.eo_CAMSITps.197"/>
+ <entry term="2-isopropylmalate synthase" name="2-isopropylmalate synthase Wikidata ID="Q62966335" id="CM.eo_CAMSITps.198"/>
  <entry term="limonene synthase 1" name="limonene synthase 1" id="CM.eo_CAMSITps.199"/>
  <entry term="linalool synthase 2" name="linalool synthase 2" id="CM.eo_CAMSITps.200"/>
- <entry term="linoleate-diol synthase" name="linoleate-diol synthase" id="CM.eo_CAMSITps.201"/>
- <entry term="lipid-a-disaccharide synthase" name="lipid-a-disaccharide synthase" id="CM.eo_CAMSITps.202"/>
- <entry term="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" name="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" id="CM.eo_CAMSITps.203"/>
+ <entry term="linoleate-diol synthase" name="linoleate-diol synthase" Wikidata ID="Q3784716" id="CM.eo_CAMSITps.201"/>
+ <entry term="lipid-a-disaccharide synthase" name="lipid-a-disaccharide synthase" Wikidata ID="Q6556348" id="CM.eo_CAMSITps.202"/>
+ <entry term="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" name="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" Wikidata ID="Q2813806" id="CM.eo_CAMSITps.203"/>
  <entry term="momilactone-a synthase" name="momilactone-a synthase" Wikidata ID="Q2679795" id="CM.eo_CAMSITps.204"/>
  <entry term="monoterpene synthase" name="monoterpene synthase" id="CM.eo_CAMSITps.205"/>
  <entry term="myrcene synthase" name="myrcene synthase" Wikidata ID="Q6948139" id="CM.eo_CAMSITps.206"/>
