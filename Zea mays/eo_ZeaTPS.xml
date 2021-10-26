@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="eo_ZeaTPS" version="0.0.1">
  <metadata>added version; 2021-10-11; PMR</metadata>
- <entry term="(e)-beta farnesene synthase" name="(e)-beta farnesene synthase" id="CM.eo_Gene.0"/>
- <entry term="(e)beta caryophyllene synthase" name="(e)beta caryophyllene synthase" id="CM.eo_Gene.1"/>
- <entry term="(s)-beta macrocarpene synthase" name="(s)-beta macrocarpene synthase" id="CM.eo_Gene.2"/>
- <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.eo_Gene.3"/>
- <entry term="1-deoxyxylulose-5-phosphate synthase" name="1-deoxyxylulose-5-phosphate synthase" id="CM.eo_Gene.4"/>
- <entry term="alpha-bergamotene synthase" name="alpha-bergamotene synthase" id="CM.eo_Gene.5"/>
- <entry term="b-ocimene synthase" name="b-ocimene synthase" id="CM.eo_Gene.6"/>
- <entry term="beta-bisabolene synthase" name="beta-bisabolene synthase" id="CM.eo_Gene.7"/>
- <entry term="beta-curcumene synthase" name="beta-curcumene synthase" id="CM.eo_Gene.8"/>
- <entry term="beta-macrocarpene synthase" name="beta-macrocarpene synthase" id="CM.eo_Gene.9"/>
- <entry term="bornyldiphosphate synthase" name="bornyldiphosphate synthase" id="CM.eo_Gene.10"/>
- <entry term="caryophyllene synthase" name="caryophyllene synthase" id="CM.eo_Gene.11"/>
- <entry term="chalcone synthase" name="chalcone synthase" wikipedia="chalcone synthase" id="CM.eo_Gene.12"/>
- <entry term="copalyl diphosphate synthase" name="copalyl diphosphate synthase" id="CM.eo_Gene.13"/>
- <entry term="diterpene synthase" name="diterpene synthase" id="CM.eo_Gene.14"/>
- <entry term="farnesyl diphosphate synthase" name="farnesyl diphosphate synthase" wikipedia="farnesyl diphosphate synthase" id="CM.eo_Gene.15">
+ <entry term="(e)-beta farnesene synthase" name="(e)-beta farnesene synthase" Wikidata ID="Q34419156" id="CM.eo_Gene.0"/>
+ <entry term="(e)beta caryophyllene synthase" name="(e)beta caryophyllene synthase" Wikidata ID="Q22324422" id="CM.eo_Gene.1"/>
+ <entry term="(s)-beta macrocarpene synthase" name="(s)-beta macrocarpene synthase" Wikidata ID="Q13419062" id="CM.eo_Gene.2"/>
+ <entry term="1,8-cineole synthase" name="1,8-cineole synthase" Wikidata ID="Q13405276" id="CM.eo_Gene.3"/>
+ <entry term="1-deoxyxylulose-5-phosphate synthase" name="1-deoxyxylulose-5-phosphate synthase" Wikidata ID="Q2806588" id="CM.eo_Gene.4"/>
+ <entry term="Exo-alpha-bergamotene synthase" name="Exo-alpha-bergamotene synthase" Wikidata ID="Q13405209" id="CM.eo_Gene.5"/>
+ <entry term="beta-ocimene synthase" name="beta-ocimene synthase" Wikidata ID="Q13405274" id="CM.eo_Gene.6"/>
+ <entry term="beta-bisabolene synthase" name="beta-bisabolene synthase" Wikidata ID="Q13402104" id="CM.eo_Gene.7"/>
+ <entry term="beta-curcumene synthase" name="beta-curcumene synthase" Wikidata ID="Q27125375" id="CM.eo_Gene.8"/>
+ <entry term="beta-macrocarpene synthase" name="beta-macrocarpene synthase" Wikidata ID="Q13419062" id="CM.eo_Gene.9"/>
+ <entry term="bornyldiphosphate synthase" name="bornyldiphosphate synthase" Wikidata ID="Q4946163" id="CM.eo_Gene.10"/>
+ <entry term="(-)-caryophyllene synthase" name="(-)-caryophyllene synthase" Wikidata ID="Q13402109" id="CM.eo_Gene.11"/>
+ <entry term="chalcone synthase" name="chalcone synthase" wikipedia="chalcone synthase" Wikidata ID="Q3870431" id="CM.eo_Gene.12"/>
+ <entry term="copalyl diphosphate synthase" name="copalyl diphosphate synthase" Wikidata ID ="Q5168300" id="CM.eo_Gene.13"/>
+ <entry term="diterpene synthase" name="diterpene synthase" Wikidata ID="Q23283546" id="CM.eo_Gene.14"/>
+ <entry term="farnesyl diphosphate synthase" name="farnesyl diphosphate synthase" wikipedia="farnesyl diphosphate synthase" Wikidata ID="Q25113787" id="CM.eo_Gene.15">
   <synonym>farnesyl pyrophosphate synthase</synonym>
  </entry>
- <entry term="isoprene synthase" name="isoprene synthase" id="CM.eo_Gene.17"/>
+ <entry term="isoprene synthase" name="isoprene synthase" Wikidata ID="Q11286661" id="CM.eo_Gene.17"/>
  <entry term="kaurene synthase 3" name="kaurene synthase 3" id="CM.eo_Gene.18"/>
  <entry term="kaurene synthase 4" name="kaurene synthase 4" id="CM.eo_Gene.19"/>
- <entry term="kaurene synthases" name="kaurene synthases" id="CM.eo_Gene.20"/>
- <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" id="CM.eo_Gene.21"/>
+ <entry term="kaurene synthases" name="kaurene synthases" Wikidata ID="Q5380074" id="CM.eo_Gene.20"/>
+ <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" Wikidata ID="Q16872170" id="CM.eo_Gene.21"/>
  <entry term="maize sesquiterpene synthase" name="maize sesquiterpene synthase" id="CM.eo_Gene.22"/>
  <entry term="microbial terpene synthase" name="microbial terpene synthase" id="CM.eo_Gene.23"/>
  <entry term="monoterpene synthase" name="monoterpene synthase" id="CM.eo_Gene.24"/>
