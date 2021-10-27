@@ -61,7 +61,7 @@
  <entry term="beta-amyrin synthase" name="beta-amyrin synthase" wikidataID="Q13417346" id="CM.eo_CAMSITps.41"/>
  <entry term="beta-caryophyllene synthase" name="beta-caryophyllene synthase" id="CM.eo_CAMSITps.42"/>
  <entry term="beta-curcumene synthase" name="beta-curcumene synthase" id="CM.eo_CAMSITps.43"/>
- <entry term="beta-eudesmol synthase" name="beta-eudesmol synthase" wikidataID "Q13405184" id="CM.eo_CAMSITps.44"/>
+ <entry term="beta-eudesmol synthase" name="beta-eudesmol synthase" wikidataID="Q13405184" id="CM.eo_CAMSITps.44"/>
  <entry term="beta-farnesene synthase" name="beta-farnesene synthase" wikidataID="Q13402085" id="CM.eo_CAMSITps.45"/>
  <entry term="beta-ketoacyl-acp synthase 2" name="beta-ketoacyl-acp synthase 2" id="CM.eo_CAMSITps.46"/>
    <synonym>kas2</synonym>
@@ -178,7 +178,7 @@
  <entry term="ent-kaurene synthase-5" name="ent-kaurene synthase-5" id="CM.eo_CAMSITps.152"/>
  <entry term="ent-kaurene synthase-6" name="ent-kaurene synthase-6" id="CM.eo_CAMSITps.153"/>
  <entry term="epicubenol synthase" name="epicubenol synthase" id="CM.eo_CAMSITps.154"/>
- <entry term="eugenol synthase" name="eugenol synthase" Wikidata ID="Q2756578" id="CM.eo_CAMSITps.155"/>
+ <entry term="eugenol synthase" name="eugenol synthase" WikidataID="Q2756578" id="CM.eo_CAMSITps.155"/>
  <entry term="exo-alpha-bergamotene synthase" name="exo-alpha-bergamotene synthase" wikidataID="Q13405209" id="CM.eo_CAMSITps.156"/>
  <entry term="farnesene synthase" name="farnesene synthase" id="CM.eo_CAMSITps.157"/>
  <entry term="farnesyl diphosphate synthase" name="farnesyl diphosphate synthase" wikidataID="Q5549893" id="CM.eo_CAMSITps.158"/>
@@ -247,7 +247,7 @@
  <entry term="polyketide synthase" name="polyketide synthases" wikipedia="polyketide synthase" wikidataID="Q75080406" id="CM.eo_CAMSITps.222"/>
  <entry term="porphobilinogen synthase" name="porphobilinogen synthase" id="CM.eo_CAMSITps.223"/>
  <entry term="preq1 synthase" name="preq1 synthase" wikidataID="Q3574891" id="CM.eo_CAMSITps.224"/>
- <entry term="pseudouridine synthase" name="pseudouridine synthase" Wikidata ID="Q106952206" id="CM.eo_CAMSITps.225"/>
+ <entry term="pseudouridine synthase" name="pseudouridine synthase" WikidataID="Q106952206" id="CM.eo_CAMSITps.225"/>
  <entry term="psoralen synthase" name="psoralen synthase" wikidataID="Q3987788" id="CM.eo_CAMSITps.226"/>
  <entry term="r-linalool synthase" name="r-linalool synthase" wikidataID="Q7273284" id="CM.eo_CAMSITps.227"/>
  <entry term="riboflavin synthase" name="riboflavin synthase" wikipedia="riboflavin synthase" wikidataID="Q7322387" id="CM.eo_CAMSITps.228"/>
@@ -259,7 +259,7 @@
  <entry term="sesquiterpene a-farnesene synthase" name="sesquiterpene a-farnesene synthase" id="CM.eo_CAMSITps.234"/>
  <entry term="sesquiterpene a-zingiberene synthase" name="sesquiterpene a-zingiberene synthase" id="CM.eo_CAMSITps.235"/>
  <entry term="sesquiterpene d-selinene synthase" name="sesquiterpene d-selinene synthases" id="CM.eo_CAMSITps.236"/>
- <entry term="sesquiterpene synthase" name="sesquiterpene synthase" Wikidata ID="Q106925595" id="CM.eo_CAMSITps.237"/>
+ <entry term="sesquiterpene synthase" name="sesquiterpene synthase" WikidataID="Q106925595" id="CM.eo_CAMSITps.237"/>
  <entry term="spermidine synthase" name="spermidine synthase" wikipedia="spermidine synthase" wikidataID="Q3966525" id="CM.eo_CAMSITps.239"/>
  <entry term="squalene synthase" name="squalene synthase" id="CM.eo_CAMSITps.240"/>
  <entry term="stilbene synthase" name="stilbene synthase" wikipedia="stilbene synthase" id="CM.eo_CAMSITps.241"/>
