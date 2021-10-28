@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="TPS_enzyme" version="0.0.1">
- <entry term="1,8-cineole synthase" name="1,8-cineole synthase" ID="Q13405276" id="CM.TPS_enzyme.0"/>
- <entry term="(+)-alpha-barbatene synthase" name="(+)-alpha-barbatene synthase" ID="Q13405184" id="CM.TPS_enzyme.1"/>
+ <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.TPS_enzyme.0"/>
+ <entry term="(+)-alpha-barbatene synthase" name="(+)-alpha-barbatene synthase" id="CM.TPS_enzyme.1"/>
  <entry term="(+)-alpha-pinene synthase" name="(+)-alpha-pinene synthase" id="CM.TPS_enzyme.2"/>
  <entry term="(+)-alpha-terpineol synthase" name="(+)-alpha-terpineol synthase" id="CM.TPS_enzyme.3"/>
- <entry term="(+)-bornyl diphosphate synthase" name="(+)-bornyl diphosphate synthase" Wikidata ID="Q4946163" id="CM.TPS_enzyme.4"/>
- <entry term="(+)-car-3-ene synthase" name="(+)-car-3-ene synthase" Wikidata ID="Q13405275" id="CM.TPS_enzyme.5"/>
+ <entry term="(+)-bornyl diphosphate synthase" name="(+)-bornyl diphosphate synthase" id="CM.TPS_enzyme.4"/>
+ <entry term="(+)-car-3-ene synthase" name="(+)-car-3-ene synthase" id="CM.TPS_enzyme.5"/>
  <entry term="(+)-copalyl diphosphate synthase 3" name="(+)-copalyl diphosphate synthase 3" id="CM.TPS_enzyme.6"/>
  <entry term="(+)-corvol ether a synthase" name="(+)-corvol ether a synthase" id="CM.TPS_enzyme.7"/>
  <entry term="(+)-corvol ether b synthase" name="(+)-corvol ether b synthase" id="CM.TPS_enzyme.8"/>
- <entry term="(+)-delta-cadinene synthase" name="(+)-delta-cadinene synthase" Wikidata ID="Q22324418" id="CM.TPS_enzyme.9"/>
- <entry term="(+)-gamma-cadinene synthase" name="(+)-gamma-cadinene synthase" Wikidata ID="Q13405247" id="CM.TPS_enzyme.11"/>
- <entry term="(+)-germacrene d synthase" name="(+)-germacrene d synthase" Wikidata ID="Q13405197" id="CM.TPS_enzyme.12"/>
+ <entry term="(+)-delta-cadinene synthase" name="(+)-delta-cadinene synthase" id="CM.TPS_enzyme.9"/>
+ <entry term="(+)-gamma-cadinene synthase" name="(+)-gamma-cadinene synthase" id="CM.TPS_enzyme.11"/>
+ <entry term="(+)-germacrene d synthase" name="(+)-germacrene d synthase" id="CM.TPS_enzyme.12"/>
  <entry term="(+)-limonene synthase" name="(+)-limonene synthase" id="CM.TPS_enzyme.13"/>
- <entry term="(+)-sabinene synthase" name="(+)-sabinene synthase" Wikidata ID="Q13406617" id="CM.TPS_enzyme.14"/>
- <entry term="(+)-t-muurolol synthase" name="(+)-t-muurolol synthase" Wikidata ID="Q13405257" id="CM.TPS_enzyme.15"/>
- <entry term="(-)-(e)-beta-caryophyllene synthase" name="(-)-(e)-beta-caryophyllene synthase" Wikidata ID="Q22324422" id="CM.TPS_enzyme.16"/>
+ <entry term="(+)-sabinene synthase" name="(+)-sabinene synthase" id="CM.TPS_enzyme.14"/>
+ <entry term="(+)-t-muurolol synthase" name="(+)-t-muurolol synthase" id="CM.TPS_enzyme.15"/>
+ <entry term="(-)-(e)-beta-caryophyllene synthase" name="(-)-(e)-beta-caryophyllene synthase" id="CM.TPS_enzyme.16"/>
  <entry term="(-)-a-terpineol synthase" name="(-)-a-terpineol synthase" id="CM.TPS_enzyme.17"/>
  <entry term="(-)-alpha-amorphene synthase" name="(-)-alpha-amorphene synthase" id="CM.TPS_enzyme.18"/>
- <entry term="(-)-alpha-pinene synthase" name="(-)-alpha-pinene synthase" Wikidata ID="Q13406627" id="CM.TPS_enzyme.19"/>
- <entry term="(-)-alpha-terpineol synthase" name="(-)-alpha-terpineol synthase" Wikidata ID="Q13406618" id="CM.TPS_enzyme.20"/>
- <entry term="(-)-beta-caryophyllene synthase" name="(-)-beta-caryophyllene synthase" Wikidata ID="Q22324422" id="CM.TPS_enzyme.21"/>
- <entry term="(-)-beta-pinene synthase" name="(-)-beta-pinene synthase" Wikidata ID="Q13406628" id="CM.TPS_enzyme.22"/>
+ <entry term="(-)-alpha-pinene synthase" name="(-)-alpha-pinene synthase" id="CM.TPS_enzyme.19"/>
+ <entry term="(-)-alpha-terpineol synthase" name="(-)-alpha-terpineol synthase" id="CM.TPS_enzyme.20"/>
+ <entry term="(-)-beta-caryophyllene synthase" name="(-)-beta-caryophyllene synthase" id="CM.TPS_enzyme.21"/>
+ <entry term="(-)-beta-pinene synthase" name="(-)-beta-pinene synthase" id="CM.TPS_enzyme.22"/>
  <entry term="(-)-camphene synthase" name="(-)-camphene synthase" id="CM.TPS_enzyme.23"/>
- <entry term="(-)-endo-fenchol synthase" name="(-)-endo-fenchol synthase" Wikidata ID="Q8171001" id="CM.TPS_enzyme.24"/>
- <entry term="(-)-gamma-cadinene synthase" name="(-)-gamma-cadinene synthase" Wikidata ID="Q13405173" id="CM.TPS_enzyme.25"/>
- <entry term="(-)-germacrene d synthase" name="(-)-germacrene d synthase" Wikidata ID="Q13405197" id="CM.TPS_enzyme.26"/>
- <entry term="(-)-kolavenyl diphosphate synthase" name="(-)-kolavenyl diphosphate synthase" Wikidata ID="Q33719556" id="CM.TPS_enzyme.27"/>
+ <entry term="(-)-endo-fenchol synthase" name="(-)-endo-fenchol synthase" id="CM.TPS_enzyme.24"/>
+ <entry term="(-)-gamma-cadinene synthase" name="(-)-gamma-cadinene synthase" id="CM.TPS_enzyme.25"/>
+ <entry term="(-)-germacrene d synthase" name="(-)-germacrene d synthase" id="CM.TPS_enzyme.26"/>
+ <entry term="(-)-kolavenyl diphosphate synthase" name="(-)-kolavenyl diphosphate synthase" id="CM.TPS_enzyme.27"/>
  <entry term="(-)-limonene synthase" name="(-)-limonene synthase" id="CM.TPS_enzyme.28"/>
  <entry term="(3s)-linalool synthase" name="(3s)-linalool synthase" id="CM.TPS_enzyme.29"/>
- <entry term="(3s-6e)-nerolidol synthase" name="(3s-6e)-nerolidol synthase" Wikidata ID="Q13402087" id="CM.TPS_enzyme.30"/>
- <entry term="(e)-beta-farnesene synthase" name="(e)-beta-farnesene synthase" Wikidata ID="Q34419156" id="CM.TPS_enzyme.31"/>
+ <entry term="(3s-6e)-nerolidol synthase" name="(3s-6e)-nerolidol synthase" id="CM.TPS_enzyme.30"/>
+ <entry term="(e)-beta-farnesene synthase" name="(e)-beta-farnesene synthase" id="CM.TPS_enzyme.31"/>
  <entry term="(e)-beta-ocimene synthase" name="(e)-beta-ocimene synthase" id="CM.TPS_enzyme.32"/>
- <entry term="(e)-nerolidol synthase" name="(e)-nerolidol synthase" Wikidata ID="Q27125374" id="CM.TPS_enzyme.33"/>
+ <entry term="(e)-nerolidol synthase" name="(e)-nerolidol synthase" id="CM.TPS_enzyme.33"/>
  <entry term="(ee)-geranyl linalool synthase" name="(ee)-geranyl linalool synthase" id="CM.TPS_enzyme.34"/>
- <entry term="(r)-limonene synthase" name="(r)-limonene synthase" Wikidata ID="Q22324426" id="CM.TPS_enzyme.35"/>
+ <entry term="(r)-limonene synthase" name="(r)-limonene synthase" id="CM.TPS_enzyme.35"/>
  <entry term="(r)-limonene synthase 1" name="(r)-limonene synthase 1" id="CM.TPS_enzyme.36"/>
- <entry term="(r)-linalool synthase" name="(r)-linalool synthase" Wikidata ID="Q16872170" id="CM.TPS_enzyme.37"/>
- <entry term="(s)-beta-bisabolene synthase" name="(s)-beta-bisabolene synthase" Wikidata ID="Q13402104" id="CM.TPS_enzyme.38"/>
- <entry term="(s)-beta-macrocarpene synthase" name="(s)-beta-macrocarpene synthase" Wikidata ID="Q13419062" id="CM.TPS_enzyme.39"/>
- <entry term="z-gamma-bisabolene synthase" name="z-gamma-bisabolene synthase" Wikidata ID="Q13402077" id="CM.TPS_enzyme.40"/>
+ <entry term="(r)-linalool synthase" name="(r)-linalool synthase" id="CM.TPS_enzyme.37"/>
+ <entry term="(s)-beta-bisabolene synthase" name="(s)-beta-bisabolene synthase" id="CM.TPS_enzyme.38"/>
+ <entry term="(s)-beta-macrocarpene synthase" name="(s)-beta-macrocarpene synthase" id="CM.TPS_enzyme.39"/>
+ <entry term="z-gamma-bisabolene synthase" name="z-gamma-bisabolene synthase" id="CM.TPS_enzyme.40"/>
  <entry term="10-epi-junenol synthase" name="10-epi-junenol synthase" id="CM.TPS_enzyme.41"/>
  <entry term="3-copal-8-ol diphosphate hydratase" name="3-copal-8-ol diphosphate hydratase" id="CM.TPS_enzyme.42"/>
  <entry term="3car" name="3car" id="CM.TPS_enzyme.43"/>
