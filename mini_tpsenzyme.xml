@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="mini_tpsenzyme" version="0.0.1">
- <entry term="&quot;1,8-cineole synthase&quot;" name="&quot;1,8-cineole synthase&quot;" id="CM.testtps.0"/>
- <entry term="( )-delta-cadinene synthase" name="( )-delta-cadinene synthase" id="CM.testtps.1"/>
+ <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.testtps.0"/>
+ <entry term="delta-cadinene synthase" name="delta-cadinene synthase" id="CM.testtps.1"/>
  <entry term="(+)-alpha-barbatene synthase " name="(+)-alpha-barbatene synthase " id="CM.testtps.2"/>
  <entry term="(+)-alpha-pinene synthase" name="(+)-alpha-pinene synthase" id="CM.testtps.3"/>
  <entry term="(+)-alpha-terpineol synthase" name="(+)-alpha-terpineol synthase" id="CM.testtps.4"/>
@@ -11,7 +11,6 @@
  <entry term="(+)-corvol ether a synthase" name="(+)-corvol ether a synthase" id="CM.testtps.8"/>
  <entry term="(+)-corvol ether b synthase" name="(+)-corvol ether b synthase" id="CM.testtps.9"/>
  <entry term="(+)-delta-cadinene synthase" name="(+)-delta-cadinene synthase" id="CM.testtps.10"/>
- <entry term="(+)-delta-cadinene synthase isozyme a os" name="(+)-delta-cadinene synthase isozyme a os" id="CM.testtps.11"/>
  <entry term="(+)-gamma-cadinene synthase" name="(+)-gamma-cadinene synthase" id="CM.testtps.12"/>
  <entry term="(+)-gamma-cadinene synthase-like" name="(+)-gamma-cadinene synthase-like" id="CM.testtps.13"/>
  <entry term="(+)-germacrene d synthase" name="(+)-germacrene d synthase" id="CM.testtps.14"/>
@@ -49,35 +48,33 @@
  <entry term="(s)-beta-bisabolene synthase" name="(s)-beta-bisabolene synthase" id="CM.testtps.46"/>
  <entry term="(s)-beta-macrocarpene synthase" name="(s)-beta-macrocarpene synthase" id="CM.testtps.47"/>
  <entry term="(z-gamma-bisabolene synthase" name="(z-gamma-bisabolene synthase" id="CM.testtps.48"/>
- <entry term="- (+)-delta-cadinene synthase " name="- (+)-delta-cadinene synthase " id="CM.testtps.49"/>
- <entry term="- (r)-limonene synthase " name="- (r)-limonene synthase " id="CM.testtps.50"/>
- <entry term="04 - alpha-humulene synthase " name="04 - alpha-humulene synthase " id="CM.testtps.51"/>
+ <entry term="-(+)-delta-cadinene synthase" name="-(+)-delta-cadinene synthase" id="CM.testtps.49"/>
+ <entry term="-(r)-limonene synthase" name="-(r)-limonene synthase" id="CM.testtps.50"/>
+ <entry term="alpha-humulene synthase" name="alpha-humulene synthase" id="CM.testtps.51"/>
  <entry term="10-epi-junenol synthase" name="10-epi-junenol synthase" id="CM.testtps.52"/>
- <entry term="3 - copal-8-ol diphosphate hydratase" name="3 - copal-8-ol diphosphate hydratase" id="CM.testtps.53"/>
+ <entry term="3-copal-8-ol diphosphate hydratase" name="3-copal-8-ol diphosphate hydratase" id="CM.testtps.53"/>
  <entry term="3car" name="3car" id="CM.testtps.54"/>
  <entry term="3r-linalool synthase" name="3r-linalool synthase" id="CM.testtps.55"/>
- <entry term="4 - geranyllinalool synthase" name="4 - geranyllinalool synthase" id="CM.testtps.56"/>
+ <entry term="4-geranyllinalool synthase" name="4-geranyllinalool synthase" id="CM.testtps.56"/>
  <entry term="4-epi-cubebol synthase" name="4-epi-cubebol synthase" id="CM.testtps.57"/>
- <entry term="5 - (-)-germacrene d synthase" name="5 - (-)-germacrene d synthase" id="CM.testtps.58"/>
- <entry term="5 - tricyclene synthase" name="5 - tricyclene synthase" id="CM.testtps.59"/>
+ <entry term="5-(-)-germacrene d synthase" name="5-(-)-germacrene d synthase" id="CM.testtps.58"/>
+ <entry term="5-tricyclene synthase" name="5-tricyclene synthase" id="CM.testtps.59"/>
  <entry term="5-epi-aristolochene synthase" name="5-epi-aristolochene synthase" id="CM.testtps.60"/>
- <entry term="5-epi-aristolochene synthase os" name="5-epi-aristolochene synthase os" id="CM.testtps.61"/>
  <entry term="5-epiaristolochene synthase" name="5-epiaristolochene synthase" id="CM.testtps.62"/>
  <entry term="5-epiaristolochene synthase " name="5-epiaristolochene synthase " id="CM.testtps.63"/>
- <entry term="5-epiaristolochene synthase os" name="5-epiaristolochene synthase os" id="CM.testtps.64"/>
  <entry term="5eas2_0" name="5eas2_0" id="CM.testtps.65"/>
  <entry term="5eas2_1" name="5eas2_1" id="CM.testtps.66"/>
  <entry term="5eas3" name="5eas3" id="CM.testtps.67"/>
  <entry term="5eas4_0" name="5eas4_0" id="CM.testtps.68"/>
  <entry term="5eas4_1" name="5eas4_1" id="CM.testtps.69"/>
- <entry term="6 - gamma-muurolene synthase" name="6 - gamma-muurolene synthase" id="CM.testtps.70"/>
- <entry term="6 - terpene synthase family" name="6 - terpene synthase family" id="CM.testtps.71"/>
- <entry term="7 - terpene synthase" name="7 - terpene synthase" id="CM.testtps.72"/>
+ <entry term="6-gamma-muurolene synthase" name="6-gamma-muurolene synthase" id="CM.testtps.70"/>
+ <entry term="6-terpene synthase family" name="6-terpene synthase family" id="CM.testtps.71"/>
+ <entry term="7-terpene synthase" name="7-terpene synthase" id="CM.testtps.72"/>
  <entry term="7-epi-alpha-eudesmol synthase" name="7-epi-alpha-eudesmol synthase" id="CM.testtps.73"/>
  <entry term="7-epi-alpha-selinene synthase" name="7-epi-alpha-selinene synthase" id="CM.testtps.74"/>
  <entry term="7-epi-sesquithujene synthase" name="7-epi-sesquithujene synthase" id="CM.testtps.75"/>
- <entry term="8 - (+)-epi-alpha-bisabolol synthase" name="8 - (+)-epi-alpha-bisabolol synthase" id="CM.testtps.76"/>
- <entry term="8 - beta-cubebene synthase" name="8 - beta-cubebene synthase" id="CM.testtps.77"/>
+ <entry term="8-(+)-epi-alpha-bisabolol synthase" name="8-(+)-epi-alpha-bisabolol synthase" id="CM.testtps.76"/>
+ <entry term="8-beta-cubebene synthase" name="8-beta-cubebene synthase" id="CM.testtps.77"/>
  <entry term="aatps2" name="aatps2" id="CM.testtps.78"/>
  <entry term="abietadiene synthase" name="abietadiene synthase" id="CM.testtps.79"/>
  <entry term="abs_1" name="abs_1" id="CM.testtps.80"/>
@@ -130,7 +127,6 @@
  <entry term="beta-phellandrene synthase" name="beta-phellandrene synthase" id="CM.testtps.127"/>
  <entry term="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" name="beta-phellandrene synthase (neryl-diphosphate-cyclizing)" id="CM.testtps.128"/>
  <entry term="beta-sesquiphellandrene synthase" name="beta-sesquiphellandrene synthase" id="CM.testtps.129"/>
- <entry term="beta-sesquiphellandrene synthase " name="beta-sesquiphellandrene synthase " id="CM.testtps.130"/>
  <entry term="cadinol synthase" name="cadinol synthase" id="CM.testtps.131"/>
  <entry term="camphene synthase" name="camphene synthase" id="CM.testtps.132"/>
  <entry term="cams1" name="cams1" id="CM.testtps.133"/>
