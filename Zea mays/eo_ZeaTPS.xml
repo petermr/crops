@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="eo_ZeaTPS" version="0.0.1">
  <metadata>added version; 2021-10-11; PMR</metadata>
- <entry term="(e)-beta farnesene synthase" name="(e)-beta farnesene synthase" Wikidata ID="Q34419156" id="CM.eo_Gene.0"/>
- <entry term="(e)beta caryophyllene synthase" name="(e)beta caryophyllene synthase" Wikidata ID="Q22324422" id="CM.eo_Gene.1"/>
- <entry term="(s)-beta macrocarpene synthase" name="(s)-beta macrocarpene synthase" Wikidata ID="Q13419062" id="CM.eo_Gene.2"/>
- <entry term="1,8-cineole synthase" name="1,8-cineole synthase" Wikidata ID="Q13405276" id="CM.eo_Gene.3"/>
- <entry term="1-deoxyxylulose-5-phosphate synthase" name="1-deoxyxylulose-5-phosphate synthase" Wikidata ID="Q2806588" id="CM.eo_Gene.4"/>
- <entry term="Exo-alpha-bergamotene synthase" name="Exo-alpha-bergamotene synthase" Wikidata ID="Q13405209" id="CM.eo_Gene.5"/>
- <entry term="beta-ocimene synthase" name="beta-ocimene synthase" Wikidata ID="Q13405274" id="CM.eo_Gene.6"/>
+ <entry term="(e)-beta farnesene synthase" wikidataID="Q34419156" id="CM.eo_Gene.0"/>
+ <entry term="(e)beta caryophyllene synthase" wikidataID="Q22324422" id="CM.eo_Gene.1"/>
+ <entry term="(s)-beta macrocarpene synthase" wikidataID="Q13419062" id="CM.eo_Gene.2"/>
+ <entry term="1,8-cineole synthase" wikidataID="Q13405276" id="CM.eo_Gene.3"/>
+ <entry term="1-deoxyxylulose-5-phosphate synthase" wikidataID="Q2806588" id="CM.eo_Gene.4"/>
+ <entry term="Exo-alpha-bergamotene synthase" wikidataID="Q13405209" id="CM.eo_Gene.5"/>
+ <entry term="beta-ocimene synthase" wikidataID="Q13405274" id="CM.eo_Gene.6"/>
  <entry term="beta-bisabolene synthase" name="beta-bisabolene synthase" Wikidata ID="Q13402104" id="CM.eo_Gene.7"/>
  <entry term="beta-curcumene synthase" name="beta-curcumene synthase" Wikidata ID="Q27125375" id="CM.eo_Gene.8"/>
  <entry term="beta-macrocarpene synthase" name="beta-macrocarpene synthase" Wikidata ID="Q13419062" id="CM.eo_Gene.9"/>
