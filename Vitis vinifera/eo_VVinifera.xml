@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="eo_Gene" version="0.0.1">
+<dictionary title="eo_VVinifera" version="0.0.1">
  <metadata>Added version attribute: 2021-10-11, PMR</metadata>
  <entry term="1,3-beta-glucan synthase" name="1,3-beta-glucan synthase" wikipedia="1,3-beta-glucan synthase" id="CM.eo_Gene.0"/>
  <entry term="1,8-cineole synthase" name="1,8-cineole synthase" id="CM.eo_Gene.1"/>
