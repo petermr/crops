@@ -8,35 +8,35 @@
  <entry term="1-deoxyxylulose-5-phosphate synthase" wikidataID="Q2806588" id="CM.eo_Gene.4"/>
  <entry term="Exo-alpha-bergamotene synthase" wikidataID="Q13405209" id="CM.eo_Gene.5"/>
  <entry term="beta-ocimene synthase" wikidataID="Q13405274" id="CM.eo_Gene.6"/>
- <entry term="beta-bisabolene synthase" name="beta-bisabolene synthase" Wikidata ID="Q13402104" id="CM.eo_Gene.7"/>
- <entry term="beta-curcumene synthase" name="beta-curcumene synthase" Wikidata ID="Q27125375" id="CM.eo_Gene.8"/>
- <entry term="beta-macrocarpene synthase" name="beta-macrocarpene synthase" Wikidata ID="Q13419062" id="CM.eo_Gene.9"/>
- <entry term="bornyldiphosphate synthase" name="bornyldiphosphate synthase" Wikidata ID="Q4946163" id="CM.eo_Gene.10"/>
- <entry term="(-)-caryophyllene synthase" name="(-)-caryophyllene synthase" Wikidata ID="Q13402109" id="CM.eo_Gene.11"/>
- <entry term="chalcone synthase" name="chalcone synthase" wikipedia="chalcone synthase" Wikidata ID="Q3870431" id="CM.eo_Gene.12"/>
- <entry term="copalyl diphosphate synthase" name="copalyl diphosphate synthase" Wikidata ID ="Q5168300" id="CM.eo_Gene.13"/>
- <entry term="diterpene synthase" name="diterpene synthase" Wikidata ID="Q23283546" id="CM.eo_Gene.14"/>
- <entry term="farnesyl diphosphate synthase" name="farnesyl diphosphate synthase" wikipedia="farnesyl diphosphate synthase" Wikidata ID="Q25113787" id="CM.eo_Gene.15">
+ <entry term="beta-bisabolene synthase" name="beta-bisabolene synthase" wikidataID="Q13402104" id="CM.eo_Gene.7"/>
+ <entry term="beta-curcumene synthase" name="beta-curcumene synthase" wikidataID="Q27125375" id="CM.eo_Gene.8"/>
+ <entry term="beta-macrocarpene synthase" name="beta-macrocarpene synthase" wikidataID="Q13419062" id="CM.eo_Gene.9"/>
+ <entry term="bornyldiphosphate synthase" name="bornyldiphosphate synthase" wikidataID="Q4946163" id="CM.eo_Gene.10"/>
+ <entry term="(-)-caryophyllene synthase" name="(-)-caryophyllene synthase" wikidataID="Q13402109" id="CM.eo_Gene.11"/>
+ <entry term="chalcone synthase" name="chalcone synthase" wikipedia="chalcone synthase" wikidataID="Q3870431" id="CM.eo_Gene.12"/>
+ <entry term="copalyl diphosphate synthase" name="copalyl diphosphate synthase" wikidataID ="Q5168300" id="CM.eo_Gene.13"/>
+ <entry term="diterpene synthase" name="diterpene synthase" wikidataID="Q23283546" id="CM.eo_Gene.14"/>
+ <entry term="farnesyl diphosphate synthase" name="farnesyl diphosphate synthase" wikipedia="farnesyl diphosphate synthase" wikidataID="Q25113787" id="CM.eo_Gene.15">
   <synonym>farnesyl pyrophosphate synthase</synonym>
  </entry>
- <entry term="isoprene synthase" name="isoprene synthase" Wikidata ID="Q11286661" id="CM.eo_Gene.17"/>
+ <entry term="isoprene synthase" name="isoprene synthase" wikidataID="Q11286661" id="CM.eo_Gene.17"/>
  <entry term="kaurene synthase 3" name="kaurene synthase 3" id="CM.eo_Gene.18"/>
  <entry term="kaurene synthase 4" name="kaurene synthase 4" id="CM.eo_Gene.19"/>
- <entry term="kaurene synthases" name="kaurene synthases" Wikidata ID="Q5380074" id="CM.eo_Gene.20"/>
- <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" Wikidata ID="Q16872170" id="CM.eo_Gene.21"/>
- <entry term="maize sesquiterpene synthase" name="maize sesquiterpene synthase" Wikidata ID="Q106925595" id="CM.eo_Gene.22"/>
+ <entry term="kaurene synthases" name="kaurene synthases" wikidataID="Q5380074" id="CM.eo_Gene.20"/>
+ <entry term="linalool synthase" name="linalool synthase" wikipedia="linalool synthase" wikidataID="Q16872170" id="CM.eo_Gene.21"/>
+ <entry term="maize sesquiterpene synthase" name="maize sesquiterpene synthase" wikidataID="Q106925595" id="CM.eo_Gene.22"/>
  <entry term="microbial terpene synthase" name="microbial terpene synthase" id="CM.eo_Gene.23"/>
- <entry term="monoterpene synthase" name="monoterpene synthase" Wikidata ID="Q91498371" id="CM.eo_Gene.24"/>
- <entry term="myrcene synthase" name="myrcene synthase" Wikidata ID="Q6948139" id="CM.eo_Gene.25"/>
- <entry term="beta-ocimene synthase activity" name="beta-ocimene synthase activity" Wikidata ID="Q22324429" id="CM.eo_Gene.26"/>
- <entry term="sabinene synthase" name="sabinene synthase" Wikidata ID="Q87483707" id="CM.eo_Gene.27"/>
- <entry term="sesquiterpene synthase activity" name="sesquiterpene synthase activity" Wikidata ID="Q22324414" id="CM.eo_Gene.28"/>
- <entry term="terpene synthase" name="terpene synthase" Wikidata ID="Q23279294" id="CM.eo_Gene.29"/>
+ <entry term="monoterpene synthase" name="monoterpene synthase" wikidataID="Q91498371" id="CM.eo_Gene.24"/>
+ <entry term="myrcene synthase" name="myrcene synthase" wikidataID="Q6948139" id="CM.eo_Gene.25"/>
+ <entry term="beta-ocimene synthase activity" name="beta-ocimene synthase activity" wikidataID="Q22324429" id="CM.eo_Gene.26"/>
+ <entry term="sabinene synthase" name="sabinene synthase" wikidataID="Q87483707" id="CM.eo_Gene.27"/>
+ <entry term="sesquiterpene synthase activity" name="sesquiterpene synthase activity" wikidataID="Q22324414" id="CM.eo_Gene.28"/>
+ <entry term="terpene synthase" name="terpene synthase" wikidataID="Q23279294" id="CM.eo_Gene.29"/>
  <entry term="terpene synthase 10" name="terpene synthase 10" id="CM.eo_Gene.30"/>
- <entry term="terpene synthase 11" name="terpene synthase 11" Wikidata ID="Q42653522" id="CM.eo_Gene.31"/>
+ <entry term="terpene synthase 11" name="terpene synthase 11" wikidataID="Q42653522" id="CM.eo_Gene.31"/>
  <entry term="terpene synthase 2" name="terpene synthase 2" id="CM.eo_Gene.32"/>
- <entry term="terpene synthase 23" name="terpene synthase 23" Wikidata ID="Q6821618" id="CM.eo_Gene.33"/>
- <entry term="terpene synthase 3" name="terpene synthase 3" Wikidata ID="Q27545884" id="CM.eo_Gene.34"/>
+ <entry term="terpene synthase 23" name="terpene synthase 23" wikidataID="Q6821618" id="CM.eo_Gene.33"/>
+ <entry term="terpene synthase 3" name="terpene synthase 3" wikidataID="Q27545884" id="CM.eo_Gene.34"/>
  <entry term="terpene synthase 6" name="terpene synthase 6" id="CM.eo_Gene.35"/>
  <entry term="terpene synthase 7" name="terpene synthase 7" id="CM.eo_Gene.36"/>
  <entry term="terpene synthase 8" name="terpene synthase 8" id="CM.eo_Gene.37"/>
@@ -47,21 +47,21 @@
  <entry term="terpene synthase e" name="terpene synthase e" id="CM.eo_Gene.42"/>
  <entry term="terpene synthase f" name="terpene synthase f" id="CM.eo_Gene.43"/>
  <entry term="terpene synthase g" name="terpene synthase g" id="CM.eo_Gene.44"/>
- <entry term="zea mays chalcone synthase 2" name="zea mays chalcone synthase 2" Wikidata ID="Q22323748" id="CM.eo_Gene.45"/>
- <entry term="zea mays eudesmanediol synthase" name="zea mays eudesmanediol synthase" Wikidata ID="Q96587580" id="CM.eo_Gene.46"/>
- <entry term="zea mays terpene synthase 1" name="zea mays terpene synthase 1" Wikidata ID="Q27543433" id="CM.eo_Gene.47"/>
+ <entry term="zea mays chalcone synthase 2" name="zea mays chalcone synthase 2" wikidataID="Q22323748" id="CM.eo_Gene.45"/>
+ <entry term="zea mays eudesmanediol synthase" name="zea mays eudesmanediol synthase" wikidataID="Q96587580" id="CM.eo_Gene.46"/>
+ <entry term="zea mays terpene synthase 1" name="zea mays terpene synthase 1" wikidataID="Q27543433" id="CM.eo_Gene.47"/>
  <entry term="zea mays terpene synthase 10-b75" name="zea mays terpene synthase 10-b75" id="CM.eo_Gene.48"/>
  <entry term="zea mays terpene synthase 11-b74" name="zea mays terpene synthase 11-b74" id="CM.eo_Gene.49"/>
  <entry term="zea mays terpene synthase 15-b76" name="zea mays terpene synthase 15-b76" id="CM.eo_Gene.50"/>
- <entry term="zea mays terpene synthase 20" name="zea mays terpene synthase 20" Wikidata ID="Q36303792" id="CM.eo_Gene.51"/>
- <entry term="zea mays terpene synthase 22" name="zea mays terpene synthase 22" Wikidata ID="Q88989992" id="CM.eo_Gene.52"/>
+ <entry term="zea mays terpene synthase 20" name="zea mays terpene synthase 20" wikidataID="Q36303792" id="CM.eo_Gene.51"/>
+ <entry term="zea mays terpene synthase 22" name="zea mays terpene synthase 22" wikidataID="Q88989992" id="CM.eo_Gene.52"/>
  </entry>
- <entry term="zea mays terpene synthase 26-b73" name="zea mays terpene synthase 26-b73" Wikidata ID="Q42030638" id="CM.eo_Gene.54"/>
+ <entry term="zea mays terpene synthase 26-b73" name="zea mays terpene synthase 26-b73" wikidataID="Q42030638" id="CM.eo_Gene.54"/>
  <entry term="zea mays terpene synthase 4-b73" name="zea mays terpene synthase 4-b73" id="CM.eo_Gene.55"/>
- <entry term="zea mays terpene synthase 5-del1" name="zea mays terpene synthase 5-del1" Wikidata ID="Q92958965" id="CM.eo_Gene.56"/>
+ <entry term="zea mays terpene synthase 5-del1" name="zea mays terpene synthase 5-del1" wikidataID="Q92958965" id="CM.eo_Gene.56"/>
  <entry term="zea mays terpene synthase 6" name="zea mays terpene synthase 6" id="CM.eo_Gene.57"/>
  <entry term="zea mays terpene synthase 6-b73" name="zea mays terpene synthase 6-b73" id="CM.eo_Gene.58"/>
  <entry term="zea mays terpene synthase 7" name="zea mays terpene synthase 7" id="CM.eo_Gene.59"/>
  <entry term="zea mays terpene synthase 8" name="zea mays terpene synthase 8" id="CM.eo_Gene.60"/>
- <entry term="zea mays terpene synthase 9-b77" name="zea mays terpene synthase 9-b77" Wikidata ID="Q57480419" id="CM.eo_Gene.61"/>
+ <entry term="zea mays terpene synthase 9-b77" name="zea mays terpene synthase 9-b77" wikidataID="Q57480419" id="CM.eo_Gene.61"/>
 </dictionary>
