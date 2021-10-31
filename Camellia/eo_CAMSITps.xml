@@ -221,7 +221,7 @@
  </entery>
  <entry term="ketoacyl-acp synthase-1" id="CM.eo_CAMSITps.195"/>
  <entry term="ketoacyl-acp synthase-2" id="CM.eo_CAMSITps.196"/>
- <entry term="ketoacyl-coa synthase" wikidataID=" id="CM.eo_CAMSITps.197"/>
+ <entry term="ketoacyl-coa synthase" id="CM.eo_CAMSITps.197"/>
  <entry term="2-isopropylmalate synthase" wikidataID="Q62966335" id="CM.eo_CAMSITps.198"/>
  <entry term="limonene synthase 1" id="CM.eo_CAMSITps.199"/>
  <entry term="linalool synthase 2" id="CM.eo_CAMSITps.200"/>
