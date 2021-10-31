@@ -1,309 +1,308 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="eo_CAMSITps">
- <entry term="1,3-beta-d-glucan synthase" name="1,3-beta-d-glucan synthase" wikidataID="Q62654464" id="CM.eo_CAMSITps.0"/>
- <entry term="1,8-cineole synthase" name="1,8-cineole synthase" wikidataID="Q13405276" id="CM.eo_CAMSITps.1"/>
- <entry term="1-aminocyclopropane-1-carboxylate synthase" name="1-aminocyclopropane-1-carboxylate synthase" wikidataID="Q3596759" id="CM.eo_CAMSITps.2">
+ <entry term="1,3-beta-d-glucan synthase" wikidataID="Q62654464" id="CM.eo_CAMSITps.0"/>
+ <entry term="1,8-cineole synthase" wikidataID="Q13405276" id="CM.eo_CAMSITps.1"/>
+ <entry term="1-aminocyclopropane-1-carboxylate synthase" wikidataID="Q3596759" id="CM.eo_CAMSITps.2">
    <synonym>ACC</synonym>
  </entry>
- <entry term="1-deoxy-d-xylulose-5-phosphate synthase" name="1-deoxy-d-xylulose-5-phosphate synthase" wikidataID="Q2806588" id="CM.eo_CAMSITps.3"/>
- <entry term="1-hydroxy-2-methyl-2-(e)-butenyl-4-diphosphate synthase" name="1-hydroxy-2-methyl-2-(e)-butenyl-4-diphosphate synthase" wikidataID="Q1436499" id="CM.eo_CAMSITps.4">
+ <entry term="1-deoxy-d-xylulose-5-phosphate synthase" wikidataID="Q2806588" id="CM.eo_CAMSITps.3"/>
+ <entry term="1-hydroxy-2-methyl-2-(e)-butenyl-4-diphosphate synthase" wikidataID="Q1436499" id="CM.eo_CAMSITps.4">
    <synonym>hds</synonym>
  </entry>
- <entry term="2-4-cyclodiphosphate synthase" name="2-4-cyclodiphosphate synthase" id="CM.eo_CAMSITps.5"/>
- <entry term="2-c-methyl-d-erythritol-2,4-cyclodiphosphate synthase" name="2-c-methyl-d-erythritol-2,4-cyclodiphosphate synthase" wikidataID="Q2813806" id="CM.eo_CAMSITps.7"/>
+ <entry term="2-4-cyclodiphosphate synthase" id="CM.eo_CAMSITps.5"/>
+ <entry term="2-c-methyl-d-erythritol-2,4-cyclodiphosphate synthase" wikidataID="Q2813806" id="CM.eo_CAMSITps.7"/>
    <synonym>mds</synonym>
  </entry>
- <entry term="2-pyrone synthase" name="2-pyrone synthase" id="CM.eo_CAMSITps.8"/>
- <entry term="3,4-dihydroxy-2-butanone-4-phosphate synthase" name="3,4-dihydroxy-2-butanone-4-phosphate synthase" wikipedia="3,4-dihydroxy-2-butanone-4-phosphate synthase" wikidataID="Q4634080" id="CM.eo_CAMSITps.9"/>
- <entry term="3-dehydroquinate synthase" name="3-dehydroquinate synthase" wikidataID="Q24741671" id="CM.eo_CAMSITps.10"/>
- <entry term="3-deoxy-7-phosphoheptulonate synthase" name="3-deoxy-7-phosphoheptulonate synthase" id="CM.eo_CAMSITps.11"/>
- <entry term="3-deoxy-d4-arabino-heptulosonate-7-phosphate synthase" name="3-deoxy-d4-arabino-heptulosonate-7-phosphate synthase" id="CM.eo_CAMSITps.12"/>
- <entry term="3-hydroxy-3-glutaryl coenzyme a synthase" name="3-hydroxy-3-glutaryl coenzyme a synthase" id="CM.eo_CAMSITps.13">
+ <entry term="2-pyrone synthase" id="CM.eo_CAMSITps.8"/>
+ <entry term="3,4-dihydroxy-2-butanone-4-phosphate synthase" wikipedia="3,4-dihydroxy-2-butanone-4-phosphate synthase" wikidataID="Q4634080" id="CM.eo_CAMSITps.9"/>
+ <entry term="3-dehydroquinate synthase" wikidataID="Q24741671" id="CM.eo_CAMSITps.10"/>
+ <entry term="3-deoxy-7-phosphoheptulonate synthase" id="CM.eo_CAMSITps.11"/>
+ <entry term="3-deoxy-d4-arabino-heptulosonate-7-phosphate synthase" id="CM.eo_CAMSITps.12"/>
+ <entry term="3-hydroxy-3-glutaryl coenzyme a synthase" id="CM.eo_CAMSITps.13">
    <synonym>hmgs</synonym>
  </entry>
- <entry term="3-hydroxy-3-methylglutaryl-coa synthase" name="3-hydroxy-3-methylglutaryl-coa synthase" wikidataID="Q409147" id="CM.eo_CAMSITps.14"/>
- <entry term="3-oxoacyl synthase" name="3-oxoacyl synthase" wikidataID="Q62701317" id="CM.eo_CAMSITps.15"/>
- <entry term="3s,6e-nerolidol synthase-1" name="3s,6e-nerolidol synthase-1" id="CM.eo_CAMSITps.16"/>
- <entry term="3s,6e-nerolidol synthase-2" name="3s,6e-nerolidol synthase-2" id="CM.eo_CAMSITps.17"/>
- <entry term="3s-linalool synthase-1" name="3s-linalool synthase-1" id="CM.eo_CAMSITps.18"/>
- <entry term="4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase" name="4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase" wikidataID="Q1436499" id="CM.eo_CAMSITps.19"/>
+ <entry term="3-hydroxy-3-methylglutaryl-coa synthase" wikidataID="Q409147" id="CM.eo_CAMSITps.14"/>
+ <entry term="3-oxoacyl synthase" wikidataID="Q62701317" id="CM.eo_CAMSITps.15"/>
+ <entry term="3s,6e-nerolidol synthase-1" id="CM.eo_CAMSITps.16"/>
+ <entry term="3s,6e-nerolidol synthase-2" id="CM.eo_CAMSITps.17"/>
+ <entry term="3s-linalool synthase-1"  id="CM.eo_CAMSITps.18"/>
+ <entry term="4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase" wikidataID="Q1436499" id="CM.eo_CAMSITps.19"/>
    <synonym>hds</synonym>
  </entry>
- <entry term="4-hydroxy-3-methylbut2-enyl-diphosphate synthase 2" name="4-hydroxy-3-methylbut2-enyl-diphosphate synthase 2" id="CM.eo_CAMSITps.20"/>
- <entry term="5-epi-aristolochene synthase" name="5-epi-aristolochene synthase" id="CM.eo_CAMSITps.21"/>
- <entry term="5-epi-aristolochene synthase-4" name="5-epi-aristolochene synthase-4" id="CM.eo_CAMSITps.22"/>
- <entry term="6,7-dimethyl-8-ribityllumazine synthase" name="6,7-dimethyl-8-ribityllumazine synthase" wikidataID="Q62883523" id="CM.eo_CAMSITps.23"/>
- <entry term="acyl-coa synthase" name="acyl-coa synthase" id="CM.eo_CAMSITps.24"/>
- <entry term="adenylosuccinate synthase" name="adenylosuccinate synthase" wikipedia="adenylosuccinate synthase" id="CM.eo_CAMSITps.25"/>
- <entry term="trans-nonaprenyl-diphosphate synthase" name="trans-nonaprenyl-diphosphate synthase" wikipedia="all-trans-nonaprenyl-diphosphate synthase" id="CM.eo_CAMSITps.26"/>
- <entry term="allene oxide synthase" name="allene oxide synthase" id="CM.eo_CAMSITps.27"/>
+ <entry term="4-hydroxy-3-methylbut2-enyl-diphosphate synthase 2" id="CM.eo_CAMSITps.20"/>
+ <entry term="5-epi-aristolochene synthase" id="CM.eo_CAMSITps.21"/>
+ <entry term="5-epi-aristolochene synthase-4" id="CM.eo_CAMSITps.22"/>
+ <entry term="6,7-dimethyl-8-ribityllumazine synthase" wikidataID="Q62883523" id="CM.eo_CAMSITps.23"/>
+ <entry term="acyl-coa synthase" id="CM.eo_CAMSITps.24"/>
+ <entry term="adenylosuccinate synthase" wikipedia="adenylosuccinate synthase" id="CM.eo_CAMSITps.25"/>
+ <entry term="trans-nonaprenyl-diphosphate synthase" wikipedia="all-trans-nonaprenyl-diphosphate synthase" id="CM.eo_CAMSITps.26"/>
+ <entry term="allene oxide synthase" id="CM.eo_CAMSITps.27"/>
    <synonym>aos</synonym>
  </entry>
- <entry term="alpha-bergamotene synthase" name="alpha-bergamotene synthase" id="CM.eo_CAMSITps.28"/>
+ <entry term="alpha-bergamotene synthase" id="CM.eo_CAMSITps.28"/>
    <synonym>abs</synonym>
  </entry>
- <entry term="alpha-beta-terpenoid synthase" name="alpha-beta-terpenoid synthase" id="CM.eo_CAMSITps.29"/>
- <entry term="alpha-bisabolol synthase" name="alpha-bisabolol synthase" id="CM.eo_CAMSITps.30"/>
- <entry term="alpha-copaene synthase" name="alpha-copaene synthase" wikidataID="Q13406644" id="CM.eo_CAMSITps.31"/>
- <entry term="alpha-farnesene synthase" name="alpha-farnesene synthase" wikidataID="Q13402084" id="CM.eo_CAMSITps.32"/>
+ <entry term="alpha-beta-terpenoid synthase" id="CM.eo_CAMSITps.29"/>
+ <entry term="alpha-bisabolol synthase" id="CM.eo_CAMSITps.30"/>
+ <entry term="alpha-copaene synthase" wikidataID="Q13406644" id="CM.eo_CAMSITps.31"/>
+ <entry term="alpha-farnesene synthase" wikidataID="Q13402084" id="CM.eo_CAMSITps.32"/>
    <synonym>afs</synonym>
  </entry>
- <entry term="alpha-humulene synthase" name="alpha-humulene synthase" wikidataID="Q13405265" id="CM.eo_CAMSITps.33"/>
- <entry term="alpha-pinene synthase" name="alpha-pinene synthase" id="CM.eo_CAMSITps.34"/>
- <entry term="alpha-terpineol synthase" name="alpha-terpineol synthase" id="CM.eo_CAMSITps.35"/>
- <entry term="alpha-zingiberene synthase" name="alpha-zingiberene synthase" id="CM.eo_CAMSITps.36"/>
- <entry term="amyrin synthase" name="amyrin synthase" id="CM.eo_CAMSITps.37"/>
- <entry term="anthocyanidin synthase" name="anthocyanidin synthase" id="CM.eo_CAMSITps.38"/>
+ <entry term="alpha-humulene synthase" wikidataID="Q13405265" id="CM.eo_CAMSITps.33"/>
+ <entry term="alpha-pinene synthase" id="CM.eo_CAMSITps.34"/>
+ <entry term="alpha-terpineol synthase" id="CM.eo_CAMSITps.35"/>
+ <entry term="alpha-zingiberene synthase" id="CM.eo_CAMSITps.36"/>
+ <entry term="amyrin synthase" id="CM.eo_CAMSITps.37"/>
+ <entry term="anthocyanidin synthase" id="CM.eo_CAMSITps.38"/>
    <synonym>ans</synonym>
  </entry>
- <entry term="asparagine synthase" name="asparagine synthase" wikidataID="Q61492158" id="CM.eo_CAMSITps.39"/>
- <entry term="bergamotene synthase" name="bergamotene synthase" id="CM.eo_CAMSITps.40"/>
- <entry term="beta-amyrin synthase" name="beta-amyrin synthase" wikidataID="Q13417346" id="CM.eo_CAMSITps.41"/>
- <entry term="beta-caryophyllene synthase" name="beta-caryophyllene synthase" id="CM.eo_CAMSITps.42"/>
- <entry term="beta-curcumene synthase" name="beta-curcumene synthase" id="CM.eo_CAMSITps.43"/>
- <entry term="beta-eudesmol synthase" name="beta-eudesmol synthase" wikidataID="Q13405184" id="CM.eo_CAMSITps.44"/>
- <entry term="beta-farnesene synthase" name="beta-farnesene synthase" wikidataID="Q13402085" id="CM.eo_CAMSITps.45"/>
- <entry term="beta-ketoacyl-acp synthase 2" name="beta-ketoacyl-acp synthase 2" id="CM.eo_CAMSITps.46"/>
+ <entry term="asparagine synthase" wikidataID="Q61492158" id="CM.eo_CAMSITps.39"/>
+ <entry term="bergamotene synthase" id="CM.eo_CAMSITps.40"/>
+ <entry term="beta-amyrin synthase" wikidataID="Q13417346" id="CM.eo_CAMSITps.41"/>
+ <entry term="beta-caryophyllene synthase" id="CM.eo_CAMSITps.42"/>
+ <entry term="beta-curcumene synthase" id="CM.eo_CAMSITps.43"/>
+ <entry term="beta-eudesmol synthase" wikidataID="Q13405184" id="CM.eo_CAMSITps.44"/>
+ <entry term="beta-farnesene synthase" wikidataID="Q13402085" id="CM.eo_CAMSITps.45"/>
+ <entry term="beta-ketoacyl-acp synthase 2" id="CM.eo_CAMSITps.46"/>
    <synonym>kas2</synonym>
  </entry>
- <entry term="beta-myrcene synthase" name="beta-myrcene synthase" id="CM.eo_CAMSITps.47"/>
+ <entry term="beta-myrcene synthase" id="CM.eo_CAMSITps.47"/>
    <synonym>mys</synonym>
  </entry>
- <entry term="beta-ocimene synthase" name="beta-ocimene synthase" wikidataID="Q13405274" id="CM.eo_CAMSITps.48"/>
+ <entry term="beta-ocimene synthase" wikidataID="Q13405274" id="CM.eo_CAMSITps.48"/>
    <synonym>ocs</synonym>
  </entry>
- <entry term="betabisabolene synthase" name="betabisabolene synthase" id="CM.eo_CAMSITps.49"/>
- <entry term="bicyclogermacrene synthase" name="bicyclogermacrene synthase" wikidataID="Q13405261" id="CM.eo_CAMSITps.50"/>
- <entry term="bornyl diphosphate synthase" name="bornyl diphosphate synthase" wikidataID="Q4946163" id="CM.eo_CAMSITps.51"/>
- <entry term="caffeine synthase" name="caffeine synthase" wikidataID="Q5017166" id="CM.eo_CAMSITps.52"/>
- <entry term="callose synthase" name="callose synthase" wikidataID="Q3596746" id="CM.eo_CAMSITps.53"/>
- <entry term="camellia sinensis terpene synthase 01" name="camellia sinensis terpene synthase 01" id="CM.eo_CAMSITps.54"/>
- <entry term="camellia sinensis terpene synthase 02" name="camellia sinensis terpene synthase 02" id="CM.eo_CAMSITps.55"/>
- <entry term="camellia sinensis terpene synthase 03" name="camellia sinensis terpene synthase 03" id="CM.eo_CAMSITps.56"/>
- <entry term="camellia sinensis terpene synthase 04" name="camellia sinensis terpene synthase 04" id="CM.eo_CAMSITps.57"/>
- <entry term="camellia sinensis terpene synthase 05" name="camellia sinensis terpene synthase 05" id="CM.eo_CAMSITps.58"/>
- <entry term="camellia sinensis terpene synthase 06" name="camellia sinensis terpene synthase 06" id="CM.eo_CAMSITps.59"/>
- <entry term="camellia sinensis terpene synthase 07" name="camellia sinensis terpene synthase 07" id="CM.eo_CAMSITps.60"/>
- <entry term="camellia sinensis terpene synthase 08" name="camellia sinensis terpene synthase 08" id="CM.eo_CAMSITps.61"/>
- <entry term="camellia sinensis terpene synthase 09" name="camellia sinensis terpene synthase 09" id="CM.eo_CAMSITps.62"/>
- <entry term="camellia sinensis terpene synthase 10" name="camellia sinensis terpene synthase 10" id="CM.eo_CAMSITps.63"/>
- <entry term="camellia sinensis terpene synthase 11" name="camellia sinensis terpene synthase 11" id="CM.eo_CAMSITps.64"/>
- <entry term="camellia sinensis terpene synthase 12" name="camellia sinensis terpene synthase 12" id="CM.eo_CAMSITps.65"/>
- <entry term="camellia sinensis terpene synthase 13" name="camellia sinensis terpene synthase 13" id="CM.eo_CAMSITps.66"/>
- <entry term="camellia sinensis terpene synthase 14" name="camellia sinensis terpene synthase 14" id="CM.eo_CAMSITps.67"/>
- <entry term="camellia sinensis terpene synthase 15" name="camellia sinensis terpene synthase 15" id="CM.eo_CAMSITps.68"/>
- <entry term="camellia sinensis terpene synthase 16" name="camellia sinensis terpene synthase 16" id="CM.eo_CAMSITps.69"/>
- <entry term="camellia sinensis terpene synthase 17" name="camellia sinensis terpene synthase 17" id="CM.eo_CAMSITps.70"/>
- <entry term="camellia sinensis terpene synthase 18" name="camellia sinensis terpene synthase 18" id="CM.eo_CAMSITps.71"/>
- <entry term="camellia sinensis terpene synthase 19" name="camellia sinensis terpene synthase 19" id="CM.eo_CAMSITps.72"/>
- <entry term="camellia sinensis terpene synthase 20" name="camellia sinensis terpene synthase 20" id="CM.eo_CAMSITps.73"/>
- <entry term="camellia sinensis terpene synthase 21" name="camellia sinensis terpene synthase 21" id="CM.eo_CAMSITps.74"/>
- <entry term="camellia sinensis terpene synthase 22" name="camellia sinensis terpene synthase 22" id="CM.eo_CAMSITps.75"/>
- <entry term="camellia sinensis terpene synthase 23" name="camellia sinensis terpene synthase 23" id="CM.eo_CAMSITps.76"/>
- <entry term="camellia sinensis terpene synthase 24" name="camellia sinensis terpene synthase 24" id="CM.eo_CAMSITps.77"/>
- <entry term="camellia sinensis terpene synthase 25" name="camellia sinensis terpene synthase 25" id="CM.eo_CAMSITps.78"/>
- <entry term="camellia sinensis terpene synthase 26" name="camellia sinensis terpene synthase 26" id="CM.eo_CAMSITps.79"/>
- <entry term="camellia sinensis terpene synthase 27" name="camellia sinensis terpene synthase 27" id="CM.eo_CAMSITps.80"/>
- <entry term="camellia sinensis terpene synthase 28" name="camellia sinensis terpene synthase 28" id="CM.eo_CAMSITps.81"/>
- <entry term="camellia sinensis terpene synthase 29" name="camellia sinensis terpene synthase 29" id="CM.eo_CAMSITps.82"/>
- <entry term="camellia sinensis terpene synthase 30" name="camellia sinensis terpene synthase 30" id="CM.eo_CAMSITps.83"/>
- <entry term="camellia sinensis terpene synthase 31" name="camellia sinensis terpene synthase 31" id="CM.eo_CAMSITps.84"/>
- <entry term="camellia sinensis terpene synthase 32" name="camellia sinensis terpene synthase 32" id="CM.eo_CAMSITps.85"/>
- <entry term="camellia sinensis terpene synthase 33" name="camellia sinensis terpene synthase 33" id="CM.eo_CAMSITps.86"/>
- <entry term="camellia sinensis terpene synthase 34" name="camellia sinensis terpene synthase 34" id="CM.eo_CAMSITps.87"/>
- <entry term="camellia sinensis terpene synthase 35" name="camellia sinensis terpene synthase 35" id="CM.eo_CAMSITps.88"/>
- <entry term="camellia sinensis terpene synthase 36" name="camellia sinensis terpene synthase 36" id="CM.eo_CAMSITps.89"/>
- <entry term="camellia sinensis terpene synthase 37" name="camellia sinensis terpene synthase 37" id="CM.eo_CAMSITps.90"/>
- <entry term="camellia sinensis terpene synthase 38" name="camellia sinensis terpene synthase 38" id="CM.eo_CAMSITps.91"/>
- <entry term="camellia sinensis terpene synthase 39" name="camellia sinensis terpene synthase 39" id="CM.eo_CAMSITps.92"/>
- <entry term="camellia sinensis terpene synthase 40" name="camellia sinensis terpene synthase 40" id="CM.eo_CAMSITps.93"/>
- <entry term="camellia sinensis terpene synthase 41" name="camellia sinensis terpene synthase 41" id="CM.eo_CAMSITps.94"/>
- <entry term="camellia sinensis terpene synthase 42" name="camellia sinensis terpene synthase 42" id="CM.eo_CAMSITps.95"/>
- <entry term="camellia sinensis terpene synthase 43" name="camellia sinensis terpene synthase 43" id="CM.eo_CAMSITps.96"/>
- <entry term="camellia sinensis terpene synthase 44" name="camellia sinensis terpene synthase 44" id="CM.eo_CAMSITps.97"/>
- <entry term="camellia sinensis terpene synthase 45" name="camellia sinensis terpene synthase 45" id="CM.eo_CAMSITps.98"/>
- <entry term="camellia sinensis terpene synthase 46" name="camellia sinensis terpene synthase 46" id="CM.eo_CAMSITps.99"/>
- <entry term="camellia sinensis terpene synthase 47" name="camellia sinensis terpene synthase 47" id="CM.eo_CAMSITps.100"/>
- <entry term="camellia sinensis terpene synthase 48" name="camellia sinensis terpene synthase 48" id="CM.eo_CAMSITps.101"/>
- <entry term="camellia sinensis terpene synthase 49" name="camellia sinensis terpene synthase 49" id="CM.eo_CAMSITps.102"/>
- <entry term="camellia sinensis terpene synthase 50" name="camellia sinensis terpene synthase 50" id="CM.eo_CAMSITps.103"/>
- <entry term="camellia sinensis terpene synthase 51" name="camellia sinensis terpene synthase 51" id="CM.eo_CAMSITps.104"/>
- <entry term="camellia sinensis terpene synthase 52" name="camellia sinensis terpene synthase 52" id="CM.eo_CAMSITps.105"/>
- <entry term="camellia sinensis terpene synthase 53" name="camellia sinensis terpene synthase 53" id="CM.eo_CAMSITps.106"/>
- <entry term="camellia sinensis terpene synthase 54" name="camellia sinensis terpene synthase 54" id="CM.eo_CAMSITps.107"/>
- <entry term="camellia sinensis terpene synthase 55" name="camellia sinensis terpene synthase 55" id="CM.eo_CAMSITps.108"/>
- <entry term="camellia sinensis terpene synthase 56" name="camellia sinensis terpene synthase 56" id="CM.eo_CAMSITps.109"/>
- <entry term="camellia sinensis terpene synthase 57" name="camellia sinensis terpene synthase 57" id="CM.eo_CAMSITps.110"/>
- <entry term="camellia sinensis terpene synthase 58" name="camellia sinensis terpene synthase 58" id="CM.eo_CAMSITps.111"/>
- <entry term="camellia sinensis terpene synthase 59" name="camellia sinensis terpene synthase 59" id="CM.eo_CAMSITps.112"/>
- <entry term="camellia sinensis terpene synthase 60" name="camellia sinensis terpene synthase 60" id="CM.eo_CAMSITps.113"/>
- <entry term="camellia sinensis terpene synthase 61" name="camellia sinensis terpene synthase 61" id="CM.eo_CAMSITps.114"/>
- <entry term="camellia sinensis terpene synthase 62" name="camellia sinensis terpene synthase 62" id="CM.eo_CAMSITps.115"/>
- <entry term="camellia sinensis terpene synthase 63" name="camellia sinensis terpene synthase 63" id="CM.eo_CAMSITps.116"/>
- <entry term="camellia sinensis terpene synthase 64" name="camellia sinensis terpene synthase 64" id="CM.eo_CAMSITps.117"/>
- <entry term="camellia sinensis terpene synthase 65" name="camellia sinensis terpene synthase 65" id="CM.eo_CAMSITps.118"/>
- <entry term="camellia sinensis terpene synthase 66" name="camellia sinensis terpene synthase 66" id="CM.eo_CAMSITps.119"/>
- <entry term="camellia sinensis terpene synthase 67" name="camellia sinensis terpene synthase 67" id="CM.eo_CAMSITps.120"/>
- <entry term="camellia sinensis terpene synthase 68" name="camellia sinensis terpene synthase 68" id="CM.eo_CAMSITps.121"/>
- <entry term="camellia sinensis terpene synthase 69" name="camellia sinensis terpene synthase 69" id="CM.eo_CAMSITps.122"/>
- <entry term="camellia sinensis terpene synthase 70" name="camellia sinensis terpene synthase 70" id="CM.eo_CAMSITps.123"/>
- <entry term="camellia sinensis terpene synthase 71" name="camellia sinensis terpene synthase 71" id="CM.eo_CAMSITps.124"/>
- <entry term="camellia sinensis terpene synthase 72" name="camellia sinensis terpene synthase 72" id="CM.eo_CAMSITps.125"/>
- <entry term="camellia sinensis terpene synthase 73" name="camellia sinensis terpene synthase 73" id="CM.eo_CAMSITps.126"/>
- <entry term="camellia sinensis terpene synthase 74" name="camellia sinensis terpene synthase 74" id="CM.eo_CAMSITps.127"/>
- <entry term="camellia sinensis terpene synthase 75" name="camellia sinensis terpene synthase 75" id="CM.eo_CAMSITps.128"/>
- <entry term="camellia sinensis terpene synthase 76" name="camellia sinensis terpene synthase 76" id="CM.eo_CAMSITps.129"/>
- <entry term="camellia sinensis terpene synthase 77" name="camellia sinensis terpene synthase 77" id="CM.eo_CAMSITps.130"/>
- <entry term="camellia sinensis terpene synthase 78" name="camellia sinensis terpene synthase 78" id="CM.eo_CAMSITps.131"/>
- <entry term="camellia sinensis terpene synthase 79" name="camellia sinensis terpene synthase 79" id="CM.eo_CAMSITps.132"/>
- <entry term="camellia sinensis terpene synthase 80" name="camellia sinensis terpene synthase 80" id="CM.eo_CAMSITps.133"/>
- <entry term="camelliol c synthase" name="camelliol c synthase" wikidataID="Q13417345" id="CM.eo_CAMSITps.134"/>
- <entry term="canadine synthase" name="canadine synthase" id="CM.eo_CAMSITps.135"/>
- <entry term="cellulose synthase" name="cellulose synthase" id="CM.eo_CAMSITps.136"/>
- <entry term="chalcone synthase" name="chalcone synthase" wikipedia="chalcone synthase" wikidataID="Q3870431" id="CM.eo_CAMSITps.137"/>
- <entry term="chitin synthase" name="chitin synthase" id="CM.eo_CAMSITps.138"/>
- <entry term="chorismate synthase" name="chorismate synthase" wikidataID="Q62990068" id="CM.eo_CAMSITps.139"/>
- <entry term="cis-muuroladiene synthase" name="cis-muuroladiene synthase" wikidataID="Q13405182" id="CM.eo_CAMSITps.140"/>
- <entry term="cytosolic nerolidol synthase" name="cytosolic nerolidol synthase" id="CM.eo_CAMSITps.141"/>
- <entry term="delta cadinene synthase" name="delta cadinene synthase" wikidataID="Q5254534" id="CM.eo_CAMSITps.142"/>
- <entry term="delta selinene synthase" name="delta-selinene synthase" id="CM.eo_CAMSITps.143"/>
- <entry term="deoxy-d-xylulose 5-phosphate synthase" name="deoxy-d-xylulose 5-phosphate synthase" id="CM.eo_CAMSITps.144"/>
- <entry term="diterpene synthase" name="diterpene synthase" id="CM.eo_CAMSITps.145"/>
- <entry term="ent-copalyl diphosphate synthase" name="ent-copalyl diphosphate synthase" wikipedia="ent-copalyl diphosphate synthase" wikidataID="Q5380073" id="CM.eo_CAMSITps.146"/>
- <entry term="ent-kaur-16-ene synthase" name="ent-kaur-16-ene synthase" id="CM.eo_CAMSITps.147"/>
- <entry term="ent-kaurene synthase-1" name="ent-kaurene synthase-1" id="CM.eo_CAMSITps.148"/>
- <entry term="ent-kaurene synthase-2" name="ent-kaurene synthase-2" id="CM.eo_CAMSITps.149"/>
- <entry term="ent-kaurene synthase-3" name="ent-kaurene synthase-3" id="CM.eo_CAMSITps.150"/>
- <entry term="ent-kaurene synthase-4" name="ent-kaurene synthase-4" id="CM.eo_CAMSITps.151"/>
- <entry term="ent-kaurene synthase-5" name="ent-kaurene synthase-5" id="CM.eo_CAMSITps.152"/>
- <entry term="ent-kaurene synthase-6" name="ent-kaurene synthase-6" id="CM.eo_CAMSITps.153"/>
- <entry term="epicubenol synthase" name="epicubenol synthase" id="CM.eo_CAMSITps.154"/>
- <entry term="eugenol synthase" name="eugenol synthase" WikidataID="Q2756578" id="CM.eo_CAMSITps.155"/>
- <entry term="exo-alpha-bergamotene synthase" name="exo-alpha-bergamotene synthase" wikidataID="Q13405209" id="CM.eo_CAMSITps.156"/>
- <entry term="farnesene synthase" name="farnesene synthase" id="CM.eo_CAMSITps.157"/>
- <entry term="farnesyl diphosphate synthase" name="farnesyl diphosphate synthase" wikidataID="Q5549893" id="CM.eo_CAMSITps.158"/>
- <entry term="farnesyl pyrophosphate synthase" name="farnesyl pyrophosphate synthase" wikipedia="farnesyl pyrophosphate synthase" wikidataID="Q61526565" id="CM.eo_CAMSITps.159"/>
- <entry term="fatty acid synthase" name="fatty acid synthase" wikipedia="fatty acid synthase" wikidataID="Q106916817" id="CM.eo_CAMSITps.160"/>
- <entry term="flavone synthase" name="flavone synthase" wikidataID="Q1085516" id="CM.eo_CAMSITps.161"/>
- <entry term="flavonol synthase" name="flavonol synthase" wikidataID="Q1085500" id="CM.eo_CAMSITps.162"/>
- <entry term="fumitremorgin c synthase" name="fumitremorgin c synthase" id="CM.eo_CAMSITps.163"/>
- <entry term="gamma-bisabolene synthase" name="gamma-bisabolene synthase" id="CM.eo_CAMSITps.164"/>
- <entry term="gamma-cadinene synthase" name="gamma-cadinene synthase" id="CM.eo_CAMSITps.165"/>
- <entry term="gamma-humulene synthase" name="gamma-humulene synthase" wikidataID="Q13402108" id="CM.eo_CAMSITps.166"/>
- <entry term="geraniol isomerase synthase" name="geraniol isomerase synthase" id="CM.eo_CAMSITps.167"/>
- <entry term="geranyl diphosphate synthase" name="geranyl diphosphate synthase" id="CM.eo_CAMSITps.168"/>
- <entry term="geranyl linalool synthase" name="geranyl diphosphate synthase" id="CM.eo_CAMSITps.169"/>
- <entry term="geranyl pyrophosphate synthase" name="geranyl pyrophosphate synthase" id="CM.eo_CAMSITps.170"/>
- <entry term="geranylgeranyl diphosphate synthase 12" name="geranylgeranyl diphosphate synthase 12" id="CM.eo_CAMSITps.171"/>
- <entry term="germacradienol synthase" name="germacradienol synthase" wikidataID="Q13402042" id="CM.eo_CAMSITps.172"/>
- <entry term="germacrene a synthase" name="germacrene a synthase" wikidataID="Q5550969"  id="CM.eo_CAMSITps.173"/>
- <entry term="germacrene d synthase" name="germacrene d synthase" id="CM.eo_CAMSITps.174"/>
- <entry term="gibberellin 2-oxidase" name="gibberellin 2-oxidase" wikidataID="Q3763970" id="CM.eo_CAMSITps.175"/>
- <entry term="gibberellin 3-beta-dioxygenase" name="gibberellin 3-beta-dioxygenase" id="CM.eo_CAMSITps.176"/>
- <entry term="glutamate synthase" name="glutamate synthase" wikidataID="Q5572440" id="CM.eo_CAMSITps.177"/>
- <entry term="glutathione synthase" name="glutathione synthase" wikidataID="Q106950316" id="CM.eo_CAMSITps.178"/>
- <entry term="geranyl pyrophosphate synthase" name="geranyl pyrophosphate synthase" id="CM.eo_CAMSITps.179"/>
- <entry term="hedycaryol synthase" name="hedycaryol synthase" id="CM.eo_CAMSITps.180"/>
- <entry term="heptaprenyl diphosphate synthase" name="heptaprenyl diphosphate synthase" id="CM.eo_CAMSITps.181"/>
- <entry term="hydroxy-methyl-glutaryl-coa synthase" name="hydroxy-methyl-glutaryl-coa synthase" id="CM.eo_CAMSITps.182"/>
- <entry term="hydroxy-methylbut-enyl diphosphate synthase" name="hydroxy-methylbut-enyl diphosphate synthase" id="CM.eo_CAMSITps.183"/>
+ <entry term="betabisabolene synthase" id="CM.eo_CAMSITps.49"/>
+ <entry term="bicyclogermacrene synthase" wikidataID="Q13405261" id="CM.eo_CAMSITps.50"/>
+ <entry term="bornyl diphosphate synthase" wikidataID="Q4946163" id="CM.eo_CAMSITps.51"/>
+ <entry term="caffeine synthase" wikidataID="Q5017166" id="CM.eo_CAMSITps.52"/>
+ <entry term="callose synthase" wikidataID="Q3596746" id="CM.eo_CAMSITps.53"/>
+ <entry term="camellia sinensis terpene synthase 01" id="CM.eo_CAMSITps.54"/>
+ <entry term="camellia sinensis terpene synthase 02" id="CM.eo_CAMSITps.55"/>
+ <entry term="camellia sinensis terpene synthase 03" id="CM.eo_CAMSITps.56"/>
+ <entry term="camellia sinensis terpene synthase 04" id="CM.eo_CAMSITps.57"/>
+ <entry term="camellia sinensis terpene synthase 05" id="CM.eo_CAMSITps.58"/>
+ <entry term="camellia sinensis terpene synthase 06" id="CM.eo_CAMSITps.59"/>
+ <entry term="camellia sinensis terpene synthase 07" id="CM.eo_CAMSITps.60"/>
+ <entry term="camellia sinensis terpene synthase 08" id="CM.eo_CAMSITps.61"/>
+ <entry term="camellia sinensis terpene synthase 09" id="CM.eo_CAMSITps.62"/>
+ <entry term="camellia sinensis terpene synthase 10" id="CM.eo_CAMSITps.63"/>
+ <entry term="camellia sinensis terpene synthase 11" id="CM.eo_CAMSITps.64"/>
+ <entry term="camellia sinensis terpene synthase 12" id="CM.eo_CAMSITps.65"/>
+ <entry term="camellia sinensis terpene synthase 13" id="CM.eo_CAMSITps.66"/>
+ <entry term="camellia sinensis terpene synthase 14" id="CM.eo_CAMSITps.67"/>
+ <entry term="camellia sinensis terpene synthase 15" id="CM.eo_CAMSITps.68"/>
+ <entry term="camellia sinensis terpene synthase 16" id="CM.eo_CAMSITps.69"/>
+ <entry term="camellia sinensis terpene synthase 17" id="CM.eo_CAMSITps.70"/>
+ <entry term="camellia sinensis terpene synthase 18" 18" id="CM.eo_CAMSITps.71"/>
+ <entry term="camellia sinensis terpene synthase 19" id="CM.eo_CAMSITps.72"/>
+ <entry term="camellia sinensis terpene synthase 20" id="CM.eo_CAMSITps.73"/>
+ <entry term="camellia sinensis terpene synthase 21" id="CM.eo_CAMSITps.74"/>
+ <entry term="camellia sinensis terpene synthase 22" id="CM.eo_CAMSITps.75"/>
+ <entry term="camellia sinensis terpene synthase 23" id="CM.eo_CAMSITps.76"/>
+ <entry term="camellia sinensis terpene synthase 24" id="CM.eo_CAMSITps.77"/>
+ <entry term="camellia sinensis terpene synthase 25" id="CM.eo_CAMSITps.78"/>
+ <entry term="camellia sinensis terpene synthase 26" id="CM.eo_CAMSITps.79"/>
+ <entry term="camellia sinensis terpene synthase 27" id="CM.eo_CAMSITps.80"/>
+ <entry term="camellia sinensis terpene synthase 28" id="CM.eo_CAMSITps.81"/>
+ <entry term="camellia sinensis terpene synthase 29" id="CM.eo_CAMSITps.82"/>
+ <entry term="camellia sinensis terpene synthase 30" id="CM.eo_CAMSITps.83"/>
+ <entry term="camellia sinensis terpene synthase 31" id="CM.eo_CAMSITps.84"/>
+ <entry term="camellia sinensis terpene synthase 32" id="CM.eo_CAMSITps.85"/>
+ <entry term="camellia sinensis terpene synthase 33" id="CM.eo_CAMSITps.86"/>
+ <entry term="camellia sinensis terpene synthase 34" id="CM.eo_CAMSITps.87"/>
+ <entry term="camellia sinensis terpene synthase 35" id="CM.eo_CAMSITps.88"/>
+ <entry term="camellia sinensis terpene synthase 36" id="CM.eo_CAMSITps.89"/>
+ <entry term="camellia sinensis terpene synthase 37" id="CM.eo_CAMSITps.90"/>
+ <entry term="camellia sinensis terpene synthase 38" id="CM.eo_CAMSITps.91"/>
+ <entry term="camellia sinensis terpene synthase 39" id="CM.eo_CAMSITps.92"/>
+ <entry term="camellia sinensis terpene synthase 40" id="CM.eo_CAMSITps.93"/>
+ <entry term="camellia sinensis terpene synthase 41" id="CM.eo_CAMSITps.94"/>
+ <entry term="camellia sinensis terpene synthase 42" id="CM.eo_CAMSITps.95"/>
+ <entry term="camellia sinensis terpene synthase 43" id="CM.eo_CAMSITps.96"/>
+ <entry term="camellia sinensis terpene synthase 44" id="CM.eo_CAMSITps.97"/>
+ <entry term="camellia sinensis terpene synthase 45" id="CM.eo_CAMSITps.98"/>
+ <entry term="camellia sinensis terpene synthase 46" id="CM.eo_CAMSITps.99"/>
+ <entry term="camellia sinensis terpene synthase 47" id="CM.eo_CAMSITps.100"/>
+ <entry term="camellia sinensis terpene synthase 48" id="CM.eo_CAMSITps.101"/>
+ <entry term="camellia sinensis terpene synthase 49" id="CM.eo_CAMSITps.102"/>
+ <entry term="camellia sinensis terpene synthase 50" id="CM.eo_CAMSITps.103"/>
+ <entry term="camellia sinensis terpene synthase 51" id="CM.eo_CAMSITps.104"/>
+ <entry term="camellia sinensis terpene synthase 52" id="CM.eo_CAMSITps.105"/>
+ <entry term="camellia sinensis terpene synthase 53" id="CM.eo_CAMSITps.106"/>
+ <entry term="camellia sinensis terpene synthase 54" id="CM.eo_CAMSITps.107"/>
+ <entry term="camellia sinensis terpene synthase 55" id="CM.eo_CAMSITps.108"/>
+ <entry term="camellia sinensis terpene synthase 56" id="CM.eo_CAMSITps.109"/>
+ <entry term="camellia sinensis terpene synthase 57" id="CM.eo_CAMSITps.110"/>
+ <entry term="camellia sinensis terpene synthase 58" id="CM.eo_CAMSITps.111"/>
+ <entry term="camellia sinensis terpene synthase 59" id="CM.eo_CAMSITps.112"/>
+ <entry term="camellia sinensis terpene synthase 60" id="CM.eo_CAMSITps.113"/>
+ <entry term="camellia sinensis terpene synthase 61" id="CM.eo_CAMSITps.114"/>
+ <entry term="camellia sinensis terpene synthase 62" id="CM.eo_CAMSITps.115"/>
+ <entry term="camellia sinensis terpene synthase 63" id="CM.eo_CAMSITps.116"/>
+ <entry term="camellia sinensis terpene synthase 64" id="CM.eo_CAMSITps.117"/>
+ <entry term="camellia sinensis terpene synthase 65" id="CM.eo_CAMSITps.118"/>
+ <entry term="camellia sinensis terpene synthase 66" id="CM.eo_CAMSITps.119"/>
+ <entry term="camellia sinensis terpene synthase 67" id="CM.eo_CAMSITps.120"/>
+ <entry term="camellia sinensis terpene synthase 68" id="CM.eo_CAMSITps.121"/>
+ <entry term="camellia sinensis terpene synthase 69" id="CM.eo_CAMSITps.122"/>
+ <entry term="camellia sinensis terpene synthase 70" id="CM.eo_CAMSITps.123"/>
+ <entry term="camellia sinensis terpene synthase 71" id="CM.eo_CAMSITps.124"/>
+ <entry term="camellia sinensis terpene synthase 72" id="CM.eo_CAMSITps.125"/>
+ <entry term="camellia sinensis terpene synthase 73" id="CM.eo_CAMSITps.126"/>
+ <entry term="camellia sinensis terpene synthase 74" id="CM.eo_CAMSITps.127"/>
+ <entry term="camellia sinensis terpene synthase 75" id="CM.eo_CAMSITps.128"/>
+ <entry term="camellia sinensis terpene synthase 76" id="CM.eo_CAMSITps.129"/>
+ <entry term="camellia sinensis terpene synthase 77" id="CM.eo_CAMSITps.130"/>
+ <entry term="camellia sinensis terpene synthase 78" id="CM.eo_CAMSITps.131"/>
+ <entry term="camellia sinensis terpene synthase 79" id="CM.eo_CAMSITps.132"/>
+ <entry term="camellia sinensis terpene synthase 80" id="CM.eo_CAMSITps.133"/>
+ <entry term="camelliol c synthase" wikidataID="Q13417345" id="CM.eo_CAMSITps.134"/>
+ <entry term="canadine synthase" id="CM.eo_CAMSITps.135"/>
+ <entry term="cellulose synthase" id="CM.eo_CAMSITps.136"/>
+ <entry term="chalcone synthase" wikipedia="chalcone synthase" wikidataID="Q3870431" id="CM.eo_CAMSITps.137"/>
+ <entry term="chitin synthase" id="CM.eo_CAMSITps.138"/>
+ <entry term="chorismate synthase" wikidataID="Q62990068" id="CM.eo_CAMSITps.139"/>
+ <entry term="cis-muuroladiene synthase"  wikidataID="Q13405182" id="CM.eo_CAMSITps.140"/>
+ <entry term="cytosolic nerolidol synthase" id="CM.eo_CAMSITps.141"/>
+ <entry term="delta cadinene synthase" wikidataID="Q5254534" id="CM.eo_CAMSITps.142"/>
+ <entry term="delta selinene synthase" id="CM.eo_CAMSITps.143"/>
+ <entry term="deoxy-d-xylulose 5-phosphate synthase" id="CM.eo_CAMSITps.144"/>
+ <entry term="diterpene synthase" id="CM.eo_CAMSITps.145"/>
+ <entry term="ent-copalyl diphosphate synthase" wikipedia="ent-copalyl diphosphate synthase" wikidataID="Q5380073" id="CM.eo_CAMSITps.146"/>
+ <entry term="ent-kaur-16-ene synthase" id="CM.eo_CAMSITps.147"/>
+ <entry term="ent-kaurene synthase-1" id="CM.eo_CAMSITps.148"/>
+ <entry term="ent-kaurene synthase-2" id="CM.eo_CAMSITps.149"/>
+ <entry term="ent-kaurene synthase-3" id="CM.eo_CAMSITps.150"/>
+ <entry term="ent-kaurene synthase-4" id="CM.eo_CAMSITps.151"/>
+ <entry term="ent-kaurene synthase-5" id="CM.eo_CAMSITps.152"/>
+ <entry term="ent-kaurene synthase-6" id="CM.eo_CAMSITps.153"/>
+ <entry term="epicubenol synthase" id="CM.eo_CAMSITps.154"/>
+ <entry term="eugenol synthase" WikidataID="Q2756578" id="CM.eo_CAMSITps.155"/>
+ <entry term="exo-alpha-bergamotene synthase" wikidataID="Q13405209" id="CM.eo_CAMSITps.156"/>
+ <entry term="farnesene synthase" id="CM.eo_CAMSITps.157"/>
+ <entry term="farnesyl diphosphate synthase" wikidataID="Q5549893" id="CM.eo_CAMSITps.158"/>
+ <entry term="farnesyl pyrophosphate synthase" wikipedia="farnesyl pyrophosphate synthase" wikidataID="Q61526565" id="CM.eo_CAMSITps.159"/>
+ <entry term="fatty acid synthase" wikipedia="fatty acid synthase" wikidataID="Q106916817" id="CM.eo_CAMSITps.160"/>
+ <entry term="flavone synthase"wikidataID="Q1085516" id="CM.eo_CAMSITps.161"/>
+ <entry term="flavonol synthase" wikidataID="Q1085500" id="CM.eo_CAMSITps.162"/>
+ <entry term="fumitremorgin c synthase" id="CM.eo_CAMSITps.163"/>
+ <entry term="gamma-bisabolene synthase" id="CM.eo_CAMSITps.164"/>
+ <entry term="gamma-cadinene synthase" id="CM.eo_CAMSITps.165"/>
+ <entry term="gamma-humulene synthase" wikidataID="Q13402108" id="CM.eo_CAMSITps.166"/>
+ <entry term="geraniol isomerase synthase" id="CM.eo_CAMSITps.167"/>
+ <entry term="geranyl diphosphate synthase" id="CM.eo_CAMSITps.168"/>
+ <entry term="geranyl linalool synthase" id="CM.eo_CAMSITps.169"/>
+ <entry term="geranyl pyrophosphate synthase" id="CM.eo_CAMSITps.170"/>
+ <entry term="geranylgeranyl diphosphate synthase 12" id="CM.eo_CAMSITps.171"/>
+ <entry term="germacradienol synthase" wikidataID="Q13402042" id="CM.eo_CAMSITps.172"/>
+ <entry term="germacrene a synthase" wikidataID="Q5550969"  id="CM.eo_CAMSITps.173"/>
+ <entry term="germacrene d synthase" id="CM.eo_CAMSITps.174"/>
+ <entry term="gibberellin 2-oxidase" wikidataID="Q3763970" id="CM.eo_CAMSITps.175"/>
+ <entry term="gibberellin 3-beta-dioxygenase" id="CM.eo_CAMSITps.176"/>
+ <entry term="glutamate synthase" wikidataID="Q5572440" id="CM.eo_CAMSITps.177"/>
+ <entry term="glutathione synthase" wikidataID="Q106950316" id="CM.eo_CAMSITps.178"/>
+ <entry term="geranyl pyrophosphate synthase" id="CM.eo_CAMSITps.179"/>
+ <entry term="hedycaryol synthase" id="CM.eo_CAMSITps.180"/>
+ <entry term="heptaprenyl diphosphate synthase" id="CM.eo_CAMSITps.181"/>
+ <entry term="hydroxy-methyl-glutaryl-coa synthase" id="CM.eo_CAMSITps.182"/>
+ <entry term="hydroxy-methylbut-enyl diphosphate synthase" id="CM.eo_CAMSITps.183"/>
     <synonym>hdr</synonym>
  </entry>
- <entry term="hydroxyl methyl glutarylcoa synthase" name="hydroxyl methyl glutarylcoa synthase" id="CM.eo_CAMSITps.184"/>
- <entry term="indole-3-glycerolphosphate synthase" name="indole-3-glycerolphosphate synthase" id="CM.eo_CAMSITps.188"/>
- <entry term="inducible nitric oxide synthase" name="inducible nitric oxide synthase" id="CM.eo_CAMSITps.189"/>
- <entry term="inositol-3-phosphate synthase" name="inositol-3-phosphate synthase" wikidataID="Q6036623" id="CM.eo_CAMSITps.190"/>
- <entry term="isochorismate synthase 1" name="isochorismate synthase 1" id="CM.eo_CAMSITps.191"/>
- <entry term="isoprene synthase" name="isoprene synthase" wikidataID="Q11286661" id="CM.eo_CAMSITps.192"/>
- <entry term="isoprenoid synthase" name="isoprenoid synthase" id="CM.eo_CAMSITps.193"/>
- <entry term="isoprenyl diphosphate synthases" name="isoprenyl diphosphate synthases" id="CM.eo_CAMSITps.194"/>
+ <entry term="hydroxyl methyl glutarylcoa synthase" id="CM.eo_CAMSITps.184"/>
+ <entry term="indole-3-glycerolphosphate synthase" id="CM.eo_CAMSITps.188"/>
+ <entry term="inducible nitric oxide synthase" id="CM.eo_CAMSITps.189"/>
+ <entry term="inositol-3-phosphate synthase" wikidataID="Q6036623" id="CM.eo_CAMSITps.190"/>
+ <entry term="isochorismate synthase 1" id="CM.eo_CAMSITps.191"/>
+ <entry term="isoprene synthase" wikidataID="Q11286661" id="CM.eo_CAMSITps.192"/>
+ <entry term="isoprenoid synthase" id="CM.eo_CAMSITps.193"/>
+ <entry term="isoprenyl diphosphate synthases" id="CM.eo_CAMSITps.194"/>
    <synonym>idss</synonym>
  </entery>
- <entry term="ketoacyl-acp synthase-1" name="ketoacyl-acp synthase-1" id="CM.eo_CAMSITps.195"/>
- <entry term="ketoacyl-acp synthase-2" name="ketoacyl-acp synthase-2" id="CM.eo_CAMSITps.196"/>
- <entry term="ketoacyl-coa synthase" name="ketoacyl-coa synthase" wikidataID=" id="CM.eo_CAMSITps.197"/>
- <entry term="2-isopropylmalate synthase" name="2-isopropylmalate synthase wikidataID="Q62966335" id="CM.eo_CAMSITps.198"/>
- <entry term="limonene synthase 1" name="limonene synthase 1" id="CM.eo_CAMSITps.199"/>
- <entry term="linalool synthase 2" name="linalool synthase 2" id="CM.eo_CAMSITps.200"/>
- <entry term="linoleate-diol synthase" name="linoleate-diol synthase" wikidataID="Q3784716" id="CM.eo_CAMSITps.201"/>
- <entry term="lipid-a-disaccharide synthase" name="lipid-a-disaccharide synthase" wikidataID="Q6556348" id="CM.eo_CAMSITps.202"/>
- <entry term="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" name="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" wikidataID="Q2813806" id="CM.eo_CAMSITps.203"/>
- <entry term="momilactone-a synthase" name="momilactone-a synthase" wikidataID="Q2679795" id="CM.eo_CAMSITps.204"/>
- <entry term="monoterpene synthase" name="monoterpene synthase" id="CM.eo_CAMSITps.205"/>
- <entry term="myrcene synthase" name="myrcene synthase" wikidataID="Q6948139" id="CM.eo_CAMSITps.206"/>
- <entry term="neomenthol synthase-1" name="neomenthol synthase-1" id="CM.eo_CAMSITps.207"/>
- <entry term="neomenthol synthase-2" name="neomenthol synthase-2" id="CM.eo_CAMSITps.208"/>
- <entry term="neomenthol synthase-3" name="neomenthol synthase-3" id="CM.eo_CAMSITps.209"/>
- <entry term="nerolidol synthase" name="nerolidol synthase" id="CM.eo_CAMSITps.210"/>
- <entry term="nicotianamine synthase" name="nicotianamine synthase" id="CM.eo_CAMSITps.211"/>
- <entry term="ocimene synthase" name="ocimene synthase" wikidataID="Q13405274" id="CM.eo_CAMSITps.212"/>
- <entry term="octaketide synthase" name="octaketide synthase" id="CM.eo_CAMSITps.213"/>
- <entry term="orsellinic acid synthase" name="orsellinic acid synthase" id="CM.eo_CAMSITps.214"/>
- <entry term="pentaketide chromone synthase" name="pentaketide chromone synthase" id="CM.eo_CAMSITps.215"/>
- <entry term="pheromone synthase " name="pheromone synthase " id="CM.eo_CAMSITps.217"/>
- <entry term="phytoene synthase" name="phytoene synthase" id="CM.eo_CAMSITps.218"/>
- <entry term="pinene synthase" name="pinene synthase" wikidataID="Q7195539" id="CM.eo_CAMSITps.220"/>
- <entry term="polycis-polyprenyl diphosphate synthase" name="polycis-polyprenyl diphosphate synthase" id="CM.eo_CAMSITps.221"/>
- <entry term="polyketide synthase" name="polyketide synthases" wikipedia="polyketide synthase" wikidataID="Q75080406" id="CM.eo_CAMSITps.222"/>
- <entry term="porphobilinogen synthase" name="porphobilinogen synthase" id="CM.eo_CAMSITps.223"/>
- <entry term="preq1 synthase" name="preq1 synthase" wikidataID="Q3574891" id="CM.eo_CAMSITps.224"/>
- <entry term="pseudouridine synthase" name="pseudouridine synthase" WikidataID="Q106952206" id="CM.eo_CAMSITps.225"/>
- <entry term="psoralen synthase" name="psoralen synthase" wikidataID="Q3987788" id="CM.eo_CAMSITps.226"/>
- <entry term="r-linalool synthase" name="r-linalool synthase" wikidataID="Q7273284" id="CM.eo_CAMSITps.227"/>
- <entry term="riboflavin synthase" name="riboflavin synthase" wikipedia="riboflavin synthase" wikidataID="Q7322387" id="CM.eo_CAMSITps.228"/>
- <entry term="s-norcoclaurine synthase" name="s-norcoclaurine synthase" id="CM.eo_CAMSITps.229"/>
- <entry term="sabinene synthase" name="sabinene synthase" wikidataID="Q87483707" id="CM.eo_CAMSITps.230"/>
- <entry term="santalene synthase" name="santalene synthase" id="CM.eo_CAMSITps.231"/>
- <entry term="selinene synthase" name="selinene synthase" id="CM.eo_CAMSITps.232"/>
- <entry term="sesqui-terpenoid synthase" name="sesqui-terpenoid synthase" id="CM.eo_CAMSITps.233"/>
- <entry term="sesquiterpene a-farnesene synthase" name="sesquiterpene a-farnesene synthase" id="CM.eo_CAMSITps.234"/>
- <entry term="sesquiterpene a-zingiberene synthase" name="sesquiterpene a-zingiberene synthase" id="CM.eo_CAMSITps.235"/>
- <entry term="sesquiterpene d-selinene synthase" name="sesquiterpene d-selinene synthases" id="CM.eo_CAMSITps.236"/>
- <entry term="sesquiterpene synthase" name="sesquiterpene synthase" WikidataID="Q106925595" id="CM.eo_CAMSITps.237"/>
- <entry term="spermidine synthase" name="spermidine synthase" wikipedia="spermidine synthase" wikidataID="Q3966525" id="CM.eo_CAMSITps.239"/>
- <entry term="squalene synthase" name="squalene synthase" id="CM.eo_CAMSITps.240"/>
- <entry term="stilbene synthase" name="stilbene synthase" wikipedia="stilbene synthase" id="CM.eo_CAMSITps.241"/>
- <entry term="strictosidine synthase" name="strictosidine synthase" wikidataID="Q2356161" id="CM.eo_CAMSITps.242"/>
- <entry term="stylopine synthase" name="stylopine synthase" id="CM.eo_CAMSITps.243"/>
- <entry term="sucrose synthase" name="sucrose synthase" id="CM.eo_CAMSITps.244"/>
- <entry term="sucrose-phosphate synthase" name="sucrose-phosphate synthase" wikipedia="sucrose-phosphate synthase" wikidataID="Q3944398" id="CM.eo_CAMSITps.245"/>
- <entry term="taxadiene synthase" name="taxadiene synthase" wikidataID="Q7689495" id="CM.eo_CAMSITps.246"/>
- <entry term="terpenoid synthase" name="terpenoid synthase" id="CM.eo_CAMSITps.247"/>
- <entry term="tps04" name="tps04" id="CM.eo_CAMSITps.248"/>
- <entry term="tps07" name="tps07" id="CM.eo_CAMSITps.249"/>
- <entry term="tps08" name="tps08" id="CM.eo_CAMSITps.250"/>
- <entry term="tps1" name="tps1" id="CM.eo_CAMSITps.251"/>
- <entry term="tps11" name="tps11" id="CM.eo_CAMSITps.252"/>
- <entry term="tps12" name="tps12" id="CM.eo_CAMSITps.253"/>
- <entry term="tps13" name="tps13" id="CM.eo_CAMSITps.254"/>
- <entry term="tps14" name="tps14" id="CM.eo_CAMSITps.255"/>
- <entry term="tps18" name="tps18" id="CM.eo_CAMSITps.256"/>
- <entry term="tps2" name="tps2" id="CM.eo_CAMSITps.257"/>
- <entry term="tps20" name="tps20" id="CM.eo_CAMSITps.258"/>
- <entry term="tps3" name="tps3" id="CM.eo_CAMSITps.259"/>
- <entry term="tps4" name="tps4" id="CM.eo_CAMSITps.260"/>
- <entry term="tps49" name="tps49" id="CM.eo_CAMSITps.261"/>
- <entry term="tps5" name="tps5" id="CM.eo_CAMSITps.262"/>
- <entry term="tps53" name="tps53" id="CM.eo_CAMSITps.263"/>
- <entry term="tps57" name="tps57" id="CM.eo_CAMSITps.264"/>
- <entry term="tps6" name="tps6" id="CM.eo_CAMSITps.265"/>
- <entry term="tpsa" name="tpsa" id="CM.eo_CAMSITps.266"/>
- <entry term="tpsb" name="tpsb" id="CM.eo_CAMSITps.267"/>
- <entry term="tpsc" name="tpsc" id="CM.eo_CAMSITps.268"/>
- <entry term="tpsd" name="tpsd" id="CM.eo_CAMSITps.269"/>
- <entry term="tpsd1" name="tpsd1" id="CM.eo_CAMSITps.270"/>
- <entry term="tpse" name="tpse" id="CM.eo_CAMSITps.271"/>
- <entry term="tpsf" name="tpsf" id="CM.eo_CAMSITps.272"/>
- <entry term="tpsg" name="tpsg" id="CM.eo_CAMSITps.273"/>
- <entry term="tpsh" name="tpsh" id="CM.eo_CAMSITps.274"/>
- <entry term="trichodiene synthase" name="trichodiene synthase" wikidataID="Q7840763" id="CM.eo_CAMSITps.275"/>
- <entry term="tricyclene synthase" name="tricyclene synthase" wikidataID="Q13405269" id="CM.eo_CAMSITps.276"/>
- <entry term="triphosphoribosyl-dephospho-coa synthase" name="triphosphoribosyl-dephospho-coa synthase" wikidataID="Q7843294" id="CM.eo_CAMSITps.277"/>
- <entry term="triterpene synthase" name="triterpene synthase" id="CM.eo_CAMSITps.278"/>
- <entry term="tryptophan synthase" name="tryptophan synthase" wikipedia="tryptophan synthase" wikidataID="Q2307998" id="CM.eo_CAMSITps.279"/>
- <entry term="uroporphyrinogen-3 synthase" name="uroporphyrinogen-3 synthase" id="CM.eo_CAMSITps.280"/>
- <entry term="valencene synthase" name="valencene synthase" wikidataID="Q13405193" id="CM.eo_CAMSITps.281"/>
- <entry term="valerianol synthase" name="valerianol synthase" id="CM.eo_CAMSITps.282"/>
- <entry term="vetispiradiene synthase 2" name="vetispiradiene synthase 2" id="CM.eo_CAMSITps.283"/>
- <entry term="viridiflorene synthase" name="viridiflorene synthase" wikidataID="Q13405237" id="CM.eo_CAMSITps.284"/>
+ <entry term="ketoacyl-acp synthase-1" id="CM.eo_CAMSITps.195"/>
+ <entry term="ketoacyl-acp synthase-2" id="CM.eo_CAMSITps.196"/>
+ <entry term="ketoacyl-coa synthase" wikidataID=" id="CM.eo_CAMSITps.197"/>
+ <entry term="2-isopropylmalate synthase" wikidataID="Q62966335" id="CM.eo_CAMSITps.198"/>
+ <entry term="limonene synthase 1" id="CM.eo_CAMSITps.199"/>
+ <entry term="linalool synthase 2" id="CM.eo_CAMSITps.200"/>
+ <entry term="linoleate-diol synthase" wikidataID="Q3784716" id="CM.eo_CAMSITps.201"/>
+ <entry term="lipid-a-disaccharide synthase" wikidataID="Q6556348" id="CM.eo_CAMSITps.202"/>
+ <entry term="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" wikidataID="Q2813806" id="CM.eo_CAMSITps.203"/>
+ <entry term="momilactone-a synthase" wikidataID="Q2679795" id="CM.eo_CAMSITps.204"/>
+ <entry term="monoterpene synthase" id="CM.eo_CAMSITps.205"/>
+ <entry term="myrcene synthase" wikidataID="Q6948139" id="CM.eo_CAMSITps.206"/>
+ <entry term="neomenthol synthase-1" id="CM.eo_CAMSITps.207"/>
+ <entry term="neomenthol synthase-2" id="CM.eo_CAMSITps.208"/>
+ <entry term="neomenthol synthase-3" id="CM.eo_CAMSITps.209"/>
+ <entry term="nerolidol synthase" id="CM.eo_CAMSITps.210"/>
+ <entry term="nicotianamine synthase" id="CM.eo_CAMSITps.211"/>
+ <entry term="ocimene synthase" wikidataID="Q13405274" id="CM.eo_CAMSITps.212"/>
+ <entry term="octaketide synthase" id="CM.eo_CAMSITps.213"/>
+ <entry term="orsellinic acid synthase" id="CM.eo_CAMSITps.214"/>
+ <entry term="pentaketide chromone synthase" id="CM.eo_CAMSITps.215"/>
+ <entry term="pheromone synthase " id="CM.eo_CAMSITps.217"/>
+ <entry term="phytoene synthase" id="CM.eo_CAMSITps.218"/>
+ <entry term="pinene synthase" wikidataID="Q7195539" id="CM.eo_CAMSITps.220"/>
+ <entry term="polycis-polyprenyl diphosphate synthase" id="CM.eo_CAMSITps.221"/>
+ <entry term="polyketide synthase" wikidataID="Q75080406" id="CM.eo_CAMSITps.222"/>
+ <entry term="porphobilinogen synthase" id="CM.eo_CAMSITps.223"/>
+ <entry term="preq1 synthase" wikidataID="Q3574891" id="CM.eo_CAMSITps.224"/>
+ <entry term="pseudouridine synthase" WikidataID="Q106952206" id="CM.eo_CAMSITps.225"/>
+ <entry term="psoralen synthase" wikidataID="Q3987788" id="CM.eo_CAMSITps.226"/>
+ <entry term="r-linalool synthase" wikidataID="Q7273284" id="CM.eo_CAMSITps.227"/>
+ <entry term="riboflavin synthase" wikipedia="riboflavin synthase" wikidataID="Q7322387" id="CM.eo_CAMSITps.228"/>
+ <entry term="s-norcoclaurine synthase" id="CM.eo_CAMSITps.229"/>
+ <entry term="sabinene synthase" wikidataID="Q87483707" id="CM.eo_CAMSITps.230"/>
+ <entry term="santalene synthase" id="CM.eo_CAMSITps.231"/>
+ <entry term="selinene synthase" id="CM.eo_CAMSITps.232"/>
+ <entry term="sesqui-terpenoid synthase" id="CM.eo_CAMSITps.233"/>
+ <entry term="sesquiterpene a-farnesene synthase" id="CM.eo_CAMSITps.234"/>
+ <entry term="sesquiterpene a-zingiberene synthase" id="CM.eo_CAMSITps.235"/>
+ <entry term="sesquiterpene d-selinene synthase" id="CM.eo_CAMSITps.236"/>
+ <entry term="sesquiterpene synthase" WikidataID="Q106925595" id="CM.eo_CAMSITps.237"/>
+ <entry term="spermidine synthase" wikipedia="spermidine synthase" wikidataID="Q3966525" id="CM.eo_CAMSITps.239"/>
+ <entry term="squalene synthase" id="CM.eo_CAMSITps.240"/>
+ <entry term="stilbene synthase"  wikipedia="stilbene synthase" id="CM.eo_CAMSITps.241"/>
+ <entry term="strictosidine synthase" wikidataID="Q2356161" id="CM.eo_CAMSITps.242"/>
+ <entry term="stylopine synthase" id="CM.eo_CAMSITps.243"/>
+ <entry term="sucrose synthase" id="CM.eo_CAMSITps.244"/>
+ <entry term="sucrose-phosphate wikipedia="sucrose-phosphate synthase" wikidataID="Q3944398" id="CM.eo_CAMSITps.245"/>
+ <entry term="taxadiene synthase" wikidataID="Q7689495" id="CM.eo_CAMSITps.246"/>
+ <entry term="terpenoid synthase" id="CM.eo_CAMSITps.247"/>
+ <entry term="tps04" id="CM.eo_CAMSITps.248"/>
+ <entry term="tps07" id="CM.eo_CAMSITps.249"/>
+ <entry term="tps08" id="CM.eo_CAMSITps.250"/>
+ <entry term="tps1" id="CM.eo_CAMSITps.251"/>
+ <entry term="tps11" id="CM.eo_CAMSITps.252"/>
+ <entry term="tps12" id="CM.eo_CAMSITps.253"/>
+ <entry term="tps13" id="CM.eo_CAMSITps.254"/>
+ <entry term="tps14" id="CM.eo_CAMSITps.255"/>
+ <entry term="tps18" id="CM.eo_CAMSITps.256"/>
+ <entry term="tps2"  id="CM.eo_CAMSITps.257"/>
+ <entry term="tps20" id="CM.eo_CAMSITps.258"/>
+ <entry term="tps3" id="CM.eo_CAMSITps.259"/>
+ <entry term="tps4" id="CM.eo_CAMSITps.260"/>
+ <entry term="tps49" id="CM.eo_CAMSITps.261"/>
+ <entry term="tps5" id="CM.eo_CAMSITps.262"/>
+ <entry term="tps53" id="CM.eo_CAMSITps.263"/>
+ <entry term="tps57" id="CM.eo_CAMSITps.264"/>
+ <entry term="tps6" id="CM.eo_CAMSITps.265"/>
+ <entry term="tpsa" id="CM.eo_CAMSITps.267"/>
+ <entry term="tpsc" id="CM.eo_CAMSITps.268"/>
+ <entry term="tpsd" id="CM.eo_CAMSITps.269"/>
+ <entry term="tpsd1" id="CM.eo_CAMSITps.270"/>
+ <entry term="tpse" id="CM.eo_CAMSITps.271"/>
+ <entry term="tpsf" id="CM.eo_CAMSITps.272"/>
+ <entry term="tpsg" id="CM.eo_CAMSITps.273"/>
+ <entry term="tpsh" id="CM.eo_CAMSITps.274"/>
+ <entry term="trichodiene synthase" wikidataID="Q7840763" id="CM.eo_CAMSITps.275"/>
+ <entry term="tricyclene synthase" wikidataID="Q13405269" id="CM.eo_CAMSITps.276"/>
+ <entry term="triphosphoribosyl-dephospho-coa synthase" wikidataID="Q7843294" id="CM.eo_CAMSITps.277"/>
+ <entry term="triterpene synthase" id="CM.eo_CAMSITps.278"/>
+ <entry term="tryptophan synthase" wikipedia="tryptophan synthase" wikidataID="Q2307998" id="CM.eo_CAMSITps.279"/>
+ <entry term="uroporphyrinogen-3 synthase" id="CM.eo_CAMSITps.280"/>
+ <entry term="valencene synthase" wikidataID="Q13405193" id="CM.eo_CAMSITps.281"/>
+ <entry term="valerianol synthase" id="CM.eo_CAMSITps.282"/>
+ <entry term="vetispiradiene synthase 2" id="CM.eo_CAMSITps.283"/>
+ <entry term="viridiflorene synthase" wikidataID="Q13405237" id="CM.eo_CAMSITps.284"/>
 </dictionary>
