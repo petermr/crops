@@ -9,6 +9,9 @@
     -  Anjali Shekhawat
     -  Kumari Rageshwari
     -  Prachi Singh
+   
+## Title
+Wikidata supporting open student research projects in plant chemistry
 ## Abstract
 At India's National Institute for Plant Genome Research we are developing Wikidata as a central tool to mine the plant chemistry literature. As part of our regular student intern program, especially during the pandemic, students from all over India join us in short internships to do research in a collaborative Open Notebook-based project (CEVOpen). We create mini-ontologies from Wikidata as search and annotation tools, which then link back to Wikimedia resources. 
 
