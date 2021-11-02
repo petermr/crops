@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="mini_tomatotps" version="0.0.1">
+ <entry term="(3s)-linalool synthase" id="CM.eo_tomato.0"/>
+ <entry term="(4s)-limonene synthase" id="CM.eo_tomato.1"/>
+ <entry term="(e)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase" id="CM.eo_tomato.2"/>
+ <entry term="(e,e)-farnesyl diphosphate synthase" id="CM.eo_tomato.3"/>
+ <entry term="(e,e,e)-geranylgeranyl diphosphate synthase" id="CM.eo_tomato.4"/>
+ <entry term="(r)-limonene synthase" WikidataID="Q22324426" id="CM.eo_tomato.5"/>
+ <entry term="1-deoxy-d-xylulose-5-phosphate synthase" id="CM.eo_tomato.6"/>
+   <synonym>dxs</synonym>
+ <entry term="3-hydroxy-3-methylglutaryl coa reductase" id="CM.eo_tomato.7"/>
+ <entry term="4-hydroxy-3-methylbut-2-enyl diphosphate reductase" id="CM.eo_tomato.8"/>
+ <entry term="acetyl-coa-acetyltransferase" id="CM.eo_tomato.9"/>
+   <synonym>aact</synonym>
+ <entry term="abieta-7,13-diene synthase" id="CM.eo_tomato.10"/>
+ <entry term="allene oxide synthase" id="CM.eo_tomato.11"/>
+   <synonym>aos</synonym>
+ <entry term="alpha-humulene synthase" id="CM.eo_tomato.12"/>
+ <entry term="beta caryophyllene synthase" id="CM.eo_tomato.13"/>
+ <entry term="beta-farnesene synthase" wikidataID="Q34419156" id="CM.eo_tomato.14"/>
+ <entry term="bornyldiphosphate synthase" id="CM.eo_tomato.15"/>
+ <entry term="c-acetyltransferase" id="CM.eo_tomato.16"/>
+ <entry term="cis-prenyl diphosphate synthase" id="CM.eo_tomato.17"/>
+ <entry term="4-diphosphocytidyl-2-c-methyl-d-erythritol kinase" id="CM.eo_tomato.18"/>
+   <synonym>cmk</synonym>
+ <entry term="copalyldiphosphate synthase" id="CM.eo_tomato.19"/>
+ <entry term="delta-cadinene synthase" wikidataID="Q22324418" id="CM.eo_tomato.20"/>
+ <entry term="1-deoxy-d-xylulose-5-phosphate synthase" id="CM.eo_tomato.21"/>
+   <synonym>dxs</synonym>
+ <entry term="ent-cassa-12,15-diene synthase" id="CM.eo_tomato.22"/>
+ <entry term="ent-copalyldiphosphate synthase" id="CM.eo_tomato.23"/>
+ <entry term="ent-kaurene synthase" id="CM.eo_tomato.24"/>
+ <entry term="ent-pimara-8(14),15-diene synthase" id="CM.eo_tomato.25"/>
+ <entry term="ent-sandaracopimaradiene synthase" id="CM.eo_tomato.26"/>
+ <entry term="epi-aristolochene synthase" id="CM.eo_tomato.27"/>
+ <entry term="farnesyl diphosphate synthase" wikidataID="Q5549893" id="CM.eo_tomato.28"/>
+   <synonym>fpps</synonym>
+ <entry term="geraniol synthase" id="CM.eo_tomato.29"/>
+ <entry term="geranyl-diphosphate synthase" id="CM.eo_tomato.30"/>
+ <entry term="geranylgeranyl pyrophosphate synthase 1" id="CM.eo_tomato.31"/>
+ <entry term="geranyllinalool synthase" id="CM.eo_tomato.32"/>
+ <entry term="germacradienol synthase" wikidataID="Q13402042" id="CM.eo_tomato.33"/>
+ <entry term="germacrene a synthase" wikidataID="Q5550969" id="CM.eo_tomato.34"/>
+ <entry term="germacrene c synthase" wikidataID="Q13405171" id="CM.eo_tomato.35"/>
+ <entry term="germacrene synthases" id="CM.eo_tomato.36"/>
+ <entry term="hydroxymethylglutaryl-coa synthase" wikidataID="Q409147" id="CM.eo_tomato.37"/>
+   <synonym>hmgs</synonym>
+ <entry term="isopentenyl-diphosphate delta-isomerase" wikidataID="Q411913" id="CM.eo_tomato.39"/>
+   <synonym>ippi</synonym>
+ <entry term="isopentenyl diphosphate isomerase" id="CM.eo_tomato.40"/>
+ <entry term="isoprenoid synthase" id="CM.eo_tomato.41"/>
+ <entry term="kaurene synthase" id="CM.eo_tomato.42"/>
+ <entry term="lactoperoxidase" wikipedia="lactoperoxidase" id="CM.eo_tomato.43"/>
+ <entry term="levopimaradiene synthase" wikidataID="Q13402066" id="CM.eo_tomato.44"/>
+ <entry term="linalool synthase" wikipedia="linalool synthase" id="CM.eo_tomato.45"/>
+ <entry term="linalool/nerolidol synthase" id="CM.eo_tomato.46"/>
+ <entry term="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase" wikidataID="Q2813806" id="CM.eo_tomato.47"/>
+   <synonym>mcs</synonym>
+ <entry term="2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase" wikidataID="Q24739954" id="CM.eo_tomato.48"/>
+   <synonym>mct</synonym>
+ <entry term="mevalonate disphosphate decarboxylase" id="CM.eo_tomato.49"/>
+ <entry term="mevalonate kinase" id="CM.eo_tomato.50"/>
+   <synonym>mk</synonym>
+ <entry term="monoterpene synthase" id="CM.eo_tomato.51"/>
+ <entry term="diphosphomevalonate decarboxylase" id="CM.eo_tomato.52"/>
+   <synonym>mpd</synonym>
+ <entry term="myrcene/ocimene synthase" id="CM.eo_tomato.53"/>
+ <entry term="neryl diphosphate synthase 1" id="CM.eo_tomato.55"/>
+   <synonym>ndps1</synonym>
+ <entry term="neryneryl diphosphate synthase" id="CM.eo_tomato.56"/>
+ <entry term="phellandrene synthase" wikidataID="Q13402096" id="CM.eo_tomato.57"/>
+ <entry term="phenylalanine ammonia-lyase" wikidataID="Q413910" id="CM.eo_tomato.58"/>
+ <entry term="phenylalanine ammonia-lyase 2" id="CM.eo_tomato.59"/>
+ <entry term="phosphomevalonate kinase" id="CM.eo_tomato.60"/>
+   <synonym>pmk</synonym>
+ <entry term="sesquiterpene synthase" id="CM.eo_tomato.61"/>
+ <entry term="sltps12" id="CM.eo_tomato.62"/>
+ <entry term="sltps14" id="CM.eo_tomato.63"/>
+ <entry term="sltps15" id="CM.eo_tomato.64"/>
+ <entry term="sltps16" id="CM.eo_tomato.65"/>
+ <entry term="sltps17" id="CM.eo_tomato.66"/>
+ <entry term="sltps20" id="CM.eo_tomato.67"/>
+ <entry term="sltps25" id="CM.eo_tomato.68"/>
+ <entry term="sltps3" id="CM.eo_tomato.69"/>
+ <entry term="sltps31" id="CM.eo_tomato.70"/>
+ <entry term="sltps40" id="CM.eo_tomato.71"/>
+ <entry term="sltps5" id="CM.eo_tomato.72"/>
+ <entry term="sltps9" id="CM.eo_tomato.73"/>
+ <entry term="stemar-13-ene synthase" wikidataID="Q13402068" id="CM.eo_tomato.74"/>
+ <entry term="stemod-13(17)-ene synthase" wikidataID="Q13419048" id="CM.eo_tomato.75"/>
+ <entry term="syn-copalyl-diphosphate synthase" id="CM.eo_tomato.76"/>
+ <entry term="syn-pimara-7,15-diene synthase" wikidataID="Q13402072" id="CM.eo_tomato.77"/>
+ <entry term="terpene synthase family,tps" id="CM.eo_tomato.78"/>
+ <entry term="tps1" id="CM.eo_tomato.79"/>
+ <entry term="tps18" id="CM.eo_tomato.80"/>
+ <entry term="tps19/20" id="CM.eo_tomato.81"/>
+ <entry term="tps2" id="CM.eo_tomato.82"/>
+ <entry term="tps21" id="CM.eo_tomato.83"/>
+ <entry term="tps22" id="CM.eo_tomato.84"/>
+ <entry term="tps24" id="CM.eo_tomato.85"/>
+ <entry term="tps25" id="CM.eo_tomato.86"/>
+ <entry term="tps26" id="CM.eo_tomato.87"/>
+ <entry term="tps27" id="CM.eo_tomato.88"/>
+ <entry term="tps28" id="CM.eo_tomato.89"/>
+ <entry term="tps29" id="CM.eo_tomato.90"/>
+ <entry term="tps30" id="CM.eo_tomato.91"/>
+ <entry term="tps32" id="CM.eo_tomato.92"/>
+ <entry term="tps33" id="CM.eo_tomato.93"/>
+ <entry term="tps35" id="CM.eo_tomato.94"/>
+ <entry term="tps36" id="CM.eo_tomato.95"/>
+ <entry term="tps37" id="CM.eo_tomato.96"/>
+ <entry term="tps38" id="CM.eo_tomato.97"/>
+ <entry term="tps39" id="CM.eo_tomato.98"/>
+ <entry term="tps4" wikidataID="Q13402092" id="CM.eo_tomato.99"/>
+   <synonym>beta-phellandrene synthase</synonym>
+ <entry term="tps41" id="CM.eo_tomato.100"/>
+ <entry term="tps42" id="CM.eo_tomato.101"/>
+ <entry term="tps43" id="CM.eo_tomato.102"/>
+ <entry term="tps46" id="CM.eo_tomato.103"/>
+ <entry term="tps47" id="CM.eo_tomato.104"/>
+ <entry term="tps48" id="CM.eo_tomato.105"/>
+ <entry term="tps51" id="CM.eo_tomato.106"/>
+ <entry term="tps52" id="CM.eo_tomato.107"/>
+ <entry term="tps6" id="CM.eo_tomato.108"/>
+ <entry term="tps7" id="CM.eo_tomato.109"/>
+ <entry term="tps8" id="CM.eo_tomato.110"/>
+ <entry term="vetispiradiene synthase" wikidataID="Q7923744" id="CM.eo_tomato.111"/>
+</dictionary>
