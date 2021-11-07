@@ -6,17 +6,21 @@ The tools (Python3) are accessible for everyone, especially early career researc
 
 # Presentation Structure
 The order of the presentation would be: 
-- PMR (Introduction, importance of TDM with examples)
+- PMR (Content Mining: Applications, Tools, Wikidata, examples)
 - *Shweata and KARYA Interns (a. Why mine plant chemistry literature? b. Intro to dictionaries and its use in searching the literature)
 - *Ayush (`pygetpapers`demo)
-- PMR
+- PMR (Image mining)
 - *Anuv (Extracting biosynthetic pathways from images)
-- PMR
+- PMR (Conclusion and opportunity)
 
 *Pre-recorded sections of the presentation
 
 # Links to pre-recorded session
-
+- Shweata and KARYA Interns: https://youtu.be/9G8cfrDZgp4
+- Ayush: https://www.youtube.com/watch?v=pUjiNzLVHLY&ab_channel=AyushGarg
+- Anuv: https://youtu.be/prkOmTazjgA
 # Slides
 - Shweata and KARYA Interns:
 [[PDF]](https://github.com/petermr/crops/blob/main/outreach/WikidataCon2021/wikidata_con_combined_presentation_v5.pdf) [[PPT]](https://github.com/petermr/crops/blob/main/outreach/WikidataCon2021/wikidata_con_combined_presentation_v5.pptx)
+- Ayush 
+- Anuv 
