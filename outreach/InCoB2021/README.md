@@ -20,7 +20,8 @@ The order of the presentation would be:
 - Ayush: https://www.youtube.com/watch?v=pUjiNzLVHLY&ab_channel=AyushGarg
 - Anuv: https://youtu.be/prkOmTazjgA
 # Slides
+- PMR [[PPT]](https://github.com/petermr/crops/blob/main/outreach/InCoB2021/pmr_incob_2021.pptx)
 - Shweata and KARYA Interns:
 [[PDF]](https://github.com/petermr/crops/blob/main/outreach/WikidataCon2021/wikidata_con_combined_presentation_v5.pdf) [[PPT]](https://github.com/petermr/crops/blob/main/outreach/WikidataCon2021/wikidata_con_combined_presentation_v5.pptx)
-- Ayush 
-- Anuv 
+- Ayush [[PDF]](https://github.com/petermr/crops/blob/main/outreach/InCoB2021/pygetpapers_incob_2021.pdf)
+- Anuv [[PPT]](https://github.com/petermr/crops/blob/main/outreach/InCoB2021/Extraction_of_Biosynthetic_pathways_InCoB_2021.pptx)
