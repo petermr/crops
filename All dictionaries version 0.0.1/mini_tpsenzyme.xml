@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="mini_tpsenzyme" version="0.0.2">
- <entry term="1,8-cineole synthase" wikidataID="Q13405276" id="CM.TPS_enzyme.0"/>
+ <entry term="1,8-cineole synthase" wikidataID="Q13405276" id="CM.TPS_enzyme.0">
+  <synonym role="EC enzyme number" roleID="wd:P591">EC 4.2.3.108</synonym> 
+ </entry>
  <entry term="(+)-alpha-barbatene synthase" wikidataID="Q13405184" id="CM.TPS_enzyme.1"/>
- <entry term="(+)-alpha-pinene synthase" id="CM.TPS_enzyme.2"/>
+ <entry term="(+)-alpha-pinene synthase" wikidataID="Q13406629" id="CM.TPS_enzyme.2"/>
  <entry term="(+)-alpha-terpineol synthase" id="CM.TPS_enzyme.3"/>
  <entry term="(+)-bornyl diphosphate synthase" wikidataID="Q4946163" id="CM.TPS_enzyme.4"/>
  <entry term="(+)-car-3-ene synthase" wikidataID="Q13405275" id="CM.TPS_enzyme.5"/>
@@ -1016,11 +1018,15 @@
  <entry term="geranyl-diphosphate synthase" id="CM.eo_tomato.30"/>
  <entry term="geranyllinalool synthase" id="CM.eo_tomato.32"/>
  <entry term="germacrene c synthase" wikidataID="Q13405171" id="CM.eo_tomato.35"/>
- <entry term="germacrene synthases" id="CM.eo_tomato.36"/>
+ <entry term="germacrene synthase" id="CM.eo_tomato.36">
+  <related role ="narrower">(+)-germacrene d synthase</related>
+  <related role ="narrower">germacrene c synthase</related>
+ </entry>
  <entry term="hydroxymethylglutaryl-coa synthase" wikidataID="Q409147" id="CM.eo_tomato.37"/>
    <synonym>hmgs</synonym>
- <entry term="isopentenyl-diphosphate delta-isomerase" wikidataID="Q411913" id="CM.eo_tomato.39"/>
+ <entry term="isopentenyl-diphosphate delta-isomerase" wikidataID="Q411913" id="CM.eo_tomato.39">
    <synonym>ippi</synonym>
+ </entry>
  <entry term="isopentenyl diphosphate isomerase" id="CM.eo_tomato.40"/>
  <entry term="isoprenoid synthase" id="CM.eo_tomato.41"/>
  <entry term="lactoperoxidase" wikipedia="lactoperoxidase" id="CM.eo_tomato.43"/>
