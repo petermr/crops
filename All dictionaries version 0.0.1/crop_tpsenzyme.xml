@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- added synonyms -->
-<dictionary title="mini_tpsenzyme" version="0.0.2">
+<dictionary title="crop_tpsenzyme" version="0.0.2">
  <entry term="1,8-cineole synthase" wikidataID="Q13405276" id="CM.TPS_enzyme.0">
   <synonym role="EC enzyme number" roleID="wd:P591">EC 4.2.3.108</synonym> 
  </entry>
