@@ -1,4 +1,4 @@
-**1. This folder contains all 21 xml dictionaries created from 2020-2021. Please refer https://github.com/petermr/CEVOpen/tree/master/dictionary  https://github.com/petermr/CEVOpen/wiki/Intern-Dictionaries
+**1. This folder contains all 21 xml dictionaries created from 2020-2021. Please refer** https://github.com/petermr/CEVOpen/tree/master/dictionary  https://github.com/petermr/CEVOpen/wiki/Intern-Dictionaries
 
 **2. Dictionaries that are named as mini_ : created by DST-KARYA interns by scoping the crop specific terpenes synthase corpus.**
 
