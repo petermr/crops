@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- added synonyms -->
+<dictionary title="tpsimage" version="0.0.1">
+ <entry term="monoterpene" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="dimethylallylpyrophosphate" wikidataID="Q417398" id="CM.TPS_enzyme.0">
+  <synonym>Dimethylallyl-PP, Dimethylallyl Diphosphate, DMAPP, DMADP</synonym>
+ </entry>
+ <entry term="mevalonic acid" wikidataID="Q241678" id="CM.TPS_enzyme.0">
+  <synonym>(3R)-3,5-Dihydroxy-3-methylpentanoic acid, (R)-Mevalonic acid, (R)-mevalonate 3,5-Dihydroxy-3-methylvaleric acid, Mevalonic acid, (R)-3,5-dihydroxy-3-methylvaleric acid</synonym>
+ </entry>
+ <entry term="pyruvate" wikidataID="Q27089397" id="CM.TPS_enzyme.0">
+  <synonym>pyruvates, 2-oxopropanoic acid, ion(1-)</synonym>
+ </entry>
+ <entry term="sesquiterpene" wikidataID="Q80218" id="CM.TPS_enzyme.0">
+  <synonym>sesquiterpenes</synonym>
+ </entry>
+ <entry term="citidine diphosphate" id="CM.TPS_enzyme.0">
+  <synonym>citidine diphosphates</synonym>
+ </entry>
+ <entry term="diphosphate" wikidataID="Q55506489" id="CM.TPS_enzyme.0">
+  <synonym>diphosphates, pyrophosphates, pyrophosphate, diphosphates</synonym>
+ </entry>
+ <entry term="diterpene" wikidataID="Q59447" id="CM.TPS_enzyme.0">
+  <synonym>diterpenes, C20 isoprenoids</synonym>
+ </entry>
+ <entry term="squalene" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>all-trans-squalene, spinacene, trans-squalene, (all-E)-2,6,10,15,19,23-hexamethyl-2,6,10,14,18,22-tetracosahexaene, (14E)-2,6,10,15,19,23-hexamethyltetracosa-2,6,10,14,18,22-hexaene, (E,E,E,E)-Squalene, (6Z,10E,14E,18E)-2,6,10,15,19,23-hexamethyltetracosa-2,6,10,14,18,22-hexaene, 2,6,10,15,19,23-Hexamethyl-2,6,10,14,18,22-tetracosahexaene, Spinacen, Nikko Squalane EX, Squalen, Squalene, (all-e)-2,6,10,15,19,23-Hexamethyl-2,6,10,14,18,22-tetracosahexaene, Spinacene, Supraene</synonym>
+ </entry>
+ <entry term="phosphates" wikidataID="Q46220103" id="CM.TPS_enzyme.0">
+ </entry>
+ <entry term="sterol" wikidataID="Q143623" id="CM.TPS_enzyme.0">
+  <synonym>sterols, sterol lipids</synonym>
+ </entry>
+ <entry term="triterpene" wikidataID="Q2915788" id="CM.TPS_enzyme.0">
+  <synonym>triterpenes</synonym>
+ </entry>
+ <entry term="terpene" wikidataID="Q212364" id="CM.TPS_enzyme.0">
+  <synonym>terpenes</synonym>
+ </entry>
+ <entry term="carotenoid" wikidataID="Q191907" id="CM.TPS_enzyme.0">
+  <synonym>carotenoids</synonym>
+ </entry>
+ <entry term="kaurene" wikidataID="Q106040544" id="CM.TPS_enzyme.0">
+  <synonym>(4R,9R,10R,13S,14S)-5,5,9,14-tetramethyltetracyclo[11.2.1.01,10.04,9]hexadec-7-ene</synonym>
+ </entry>
+ <entry term="phenylalanine" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>L-Phe, (S)-2-Amino-3-phenylpropionic acid, (S)-alpha-Amino-beta-phenylpropionic acid, 3-phenyl-L-alanine, beta-Phenyl-L-alanine, Phenylalanine, β-phenyl-L-alanine</synonym>
+ </entry>
+ <entry term="farnesyl pyrophosphate" wikidataID="Q2699676" id="CM.TPS_enzyme.0">
+  <synonym>(E,E)-farnesyl diphosphate, all-trans-farnesyl pyrophosphate, farnesyl diphosphate, FPP, trans-farnesyl pyrophosphate, (all-E)-farnesyl diphosphate, (E,E)-farnesyl pyrophosphate, (2E,6E)-farnesyl diphosphate, (2E,6E)-farnesyl pyrophosphate, (2E,6E)-farnesol diphosphate, {[hydroxy({[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-yl]oxy})phosphoryl]oxy}phosphonic acid, trans-trans-Farnesyl pyrophosphate, Farnesyl-PP, famesyl-PP, Farnesyl diphosphate, Farnesyl pyrophosphate, (2E,6E)-Farnesyl diphosphate, FARNESYL DIPHOSPHATE</synonym>
+ </entry>
+ <entry term="acetoactyl co-a" id="CM.TPS_enzyme.0">
+ </entry>
+ <entry term="kaurenoic acid" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ </entry>
+ <entry term="glucose" wikidataID="Q37525" id="CM.TPS_enzyme.0">
+ </entry>
+ <entry term="tryptophan" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>L-Trp, (-)-Tryptophan, (2S)-2-amino-3-(1H-indol-3-yl)Propanoic acid, (S)-alpha-amino-1H-indole-3-propanoic acid, (S)-alpha-Amino-beta-(3-indolyl)-propionic acid, (S)-Tryptophan, (S)-α-amino-1H-indole-3-propanoic acid, L-(-)-Tryptophan, L-(−)-tryptophan, L-beta-3-Indolylalanine, L-β-3-indolylalanine, Trp, Tryptophan, (2S)-2-amino-3-(1H-indol-3-yl)propanoic acid, L(-)-Tryptophan, (S)-2-Amino-3-(1H-indol-3-yl)propanoic acid, Indole-3-alanine, L-alpha-Amino-3-indolepropionic acid, tryptophan</synonym>
+ </entry>
+ <entry term="ubiquinone" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="3-hydroxyl-3-methylglutaryl-coenzyme A" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="isopentenyl pyrophosphate" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="brassinosteroids" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="fatty acids" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="glyceraldehyde" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="isoprene" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="phosphomevalonic acid" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="2,3-oxidosqualene" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="dolichols" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="jasmonic acids" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="steroids" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="cysteine" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="indole" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="aldehydes" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="cycloartenol" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="geranyl diphosphate" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+<entry term="methionine" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ <entry term="plastoquinone" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+  <synonym>monoterpenes</synonym>
+ </entry>
+ </entry>
+</dictionary>
