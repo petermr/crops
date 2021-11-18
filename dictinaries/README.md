@@ -2,3 +2,6 @@
 
 **2. crop_tpsenzyme is created by combining all crop specific mini_TPS dictionaries.**
 
+**3. tpsimage dictionary is created to extract terms from images from any scientific paper.**
+
+
