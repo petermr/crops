@@ -1,4 +1,5 @@
-This folder contains following files:
+# This folder contains following files:
+
 A) **S. lycopersicum TPS.xlsx**: Excel file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.
 
 B) **eo_tomato.xml**: Dictionary created
