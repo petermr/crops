@@ -4,13 +4,17 @@
 
 **2. DST-KARYA interns have created wikipages in this repository and have also uploaded their crop specific dictionaries into respective folder. Citrus, Malus and Oryza  dictionaries are not created.**
 
-**3. This repository also contains files such as 
-binomial abbreviation (for abbreviation of scientific name) and 
-TPS_EC (for TPS enzyme commission number) dictionaries**
+**3. "dictionaries" folder created by Sagar Jadhav and it contains README and xml dictionaries.**
 
 **4. "metadata analysis" folder created by Shweata Hegde and it contains README and metadata_analysis.py files.**
 
-**5. "outreach" folder created by Shweata Hegde and it contains InCOB and Wikidata Conference presentations**
+**5. Sagar Jadhav ran metadata_analysis.py file and generated TPS sentences full search result.csv (present in this repo). Please, also refer https://github.com/petermr/CEVOpen/wiki/Scoping-through-TPS-Corpus for metadata analysis.
+
+**6. This repository also contains files such as  
+TPS_EC (for TPS enzyme commission number) dictionaries and
+binomial abbreviation (for abbreviation of scientific name)**
+
+**6. "outreach" folder created by Shweata Hegde and contains InCOB and Wikidata Conference presentations**
 
 
 ****
