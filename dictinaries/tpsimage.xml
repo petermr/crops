@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- added synonyms -->
+<!-- adding synonyms wikidata IDs new terms-->
 <dictionary title="tpsimage" version="0.0.1">
  <entry term="monoterpene" wikidataID="Q32528" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
@@ -57,64 +57,64 @@
  </entry>
  <entry term="glucose" wikidataID="Q37525" id="CM.TPS_enzyme.0">
  </entry>
- <entry term="tryptophan" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="tryptophan" wikidataID="Q181003" id="CM.TPS_enzyme.0">
   <synonym>L-Trp, (-)-Tryptophan, (2S)-2-amino-3-(1H-indol-3-yl)Propanoic acid, (S)-alpha-amino-1H-indole-3-propanoic acid, (S)-alpha-Amino-beta-(3-indolyl)-propionic acid, (S)-Tryptophan, (S)-α-amino-1H-indole-3-propanoic acid, L-(-)-Tryptophan, L-(−)-tryptophan, L-beta-3-Indolylalanine, L-β-3-indolylalanine, Trp, Tryptophan, (2S)-2-amino-3-(1H-indol-3-yl)propanoic acid, L(-)-Tryptophan, (S)-2-Amino-3-(1H-indol-3-yl)propanoic acid, Indole-3-alanine, L-alpha-Amino-3-indolepropionic acid, tryptophan</synonym>
  </entry>
- <entry term="ubiquinone" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="ubiquinone" wikidataID="Q2472771" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="3-hydroxyl-3-methylglutaryl-coenzyme A" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="3-hydroxyl-3-methylglutaryl-coenzyme A" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="isopentenyl pyrophosphate" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="isopentenyl pyrophosphate" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="brassinosteroids" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="brassinosteroids" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="fatty acids" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="fatty acids" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="glyceraldehyde" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="glyceraldehyde" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="isoprene" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="isoprene" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="phosphomevalonic acid" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="phosphomevalonic acid" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="2,3-oxidosqualene" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="2,3-oxidosqualene" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="dolichols" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="dolichols" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="jasmonic acids" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="jasmonic acids" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="steroids" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="steroids" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="cysteine" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="cysteine" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="indole" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="indole" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="aldehydes" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="aldehydes" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="cycloartenol" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="cycloartenol" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="geranyl diphosphate" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="geranyl diphosphate" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
-<entry term="methionine" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+<entry term="methionine" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
- <entry term="plastoquinone" wikidataID="Q32528" id="CM.TPS_enzyme.0">
+ <entry term="plastoquinone" wikidataID="" id="CM.TPS_enzyme.0">
   <synonym>monoterpenes</synonym>
  </entry>
  </entry>
