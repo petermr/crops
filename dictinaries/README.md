@@ -1,0 +1,4 @@
+**This folder contains all 21 xml dictionaries created from 2020-2021. mini_tps dictionaries are created by DST-KARYA interns by scoping the crop specific terpenes synthase corpus.**
+
+**crop_tpsenzyme is created by combining all minidictionaries.** 
+
