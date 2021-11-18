@@ -1,7 +1,9 @@
-**1. This folder contains all 21 xml dictionaries created from 2020-2021. mini_tps dictionaries are created by DST-KARYA interns by scoping the crop specific terpenes synthase corpus.**
+**1. This folder contains all 21 xml dictionaries created from 2020-2021. Please refer https://github.com/petermr/CEVOpen/tree/master/dictionary  https://github.com/petermr/CEVOpen/wiki/Intern-Dictionaries
 
-**2. crop_tpsenzyme is created by combining all crop specific mini_TPS dictionaries.**
+**2. Dictionaries that are named as mini_ : created by DST-KARYA interns by scoping the crop specific terpenes synthase corpus.**
 
-**3. tpsimage dictionary is created to extract terms from images from any scientific paper.**
+**3. Sagar Jadhav combined all crop specific mini_TPS dictionaries and created crop_tpsenzyme dictionary.**
+
+**4. tpsimage dictionary is created to extract terms from images from any scientific paper.**
 
 
