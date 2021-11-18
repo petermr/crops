@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="mini_eoplant" version="0.0.1">
+<dictionary title="eo_plant" version="0.0.1">
 	<desc>conformance edited by PM-R</desc>
 	<desc>A dictionary of 1508 essential oil plant names extracted mentioned in the oil186(minicorpus-https://github.com/petermr/CEVOpen/tree/master/searches/oil186) test articles downloaded from PubMed including description, terms, wikidataURL and tagged with corresponding Wikidata IDs.</desc>
 	<entry description="species of plant" name="Calamintha nepeta" term="Calamintha nepeta" wikidataURL="http://www.wikidata.org/entity/Q164271" wikidataID="Q164271">
