@@ -12,9 +12,9 @@ Among volatile organic compounds, plant terpenes account for a larger proportion
 
 **4. "metadata analysis" folder created by Shweata Hegde and it contains README and metadata_analysis.py files.**
 
-**5. This repository also contains following csv files:**
+**5. This repository also contains following csv files created by Sagar Jadhav:**
 
-A) Sagar Jadhav ran metadata_analysis.py file and generated **TPS_sentences_full_search_result.csv**. Please also refer https://github.com/petermr/CEVOpen/wiki/Scoping-through-TPS-Corpus 
+A) Ran metadata_analysis.py file and generated **TPS_sentences_full_search_result.csv**. Please also refer https://github.com/petermr/CEVOpen/wiki/Scoping-through-TPS-Corpus 
 
 B) **TPS_EC** (for TPS enzyme commission number) csv file contain TPS enzyme names and EC number.
 
