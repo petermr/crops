@@ -8,7 +8,7 @@ binomial abbreviation (for abbreviation of scientific name) and
 TPS_EC (for TPS enzyme commission number) dictionaries**
 
 ****
-**SUMMRY TABLE**
+# SUMMRY TABLE
 
 | Intern Name|Crop| Papers available (Research article)|Wikipage|
    | --- | --- | --- |--- |
@@ -17,7 +17,8 @@ TPS_EC (for TPS enzyme commission number) dictionaries**
    | Prachi Singh, Prathmesh Sharma|Zea mays | 157 (**123**) metadata analysis|Testing error java https://github.com/petermr/crops/blob/main/Zea%20mays/eo_ZeaTPS.xml|
    | Rageshwari Singh, Utkarsha Pande |Vitis vinifera | 211 (**163**) |https://github.com/petermr/crops/blob/main/Vitis%20vinifera/eo_VVinifera.xml|
    |Anuv Chakraborty | Citrus sinensis|metadata analysis|https://github.com/petermr/CEVOpen/wiki/Activities-Summary:-Anuv|
-
+   |Sagar Jadhav | Combined above mini_tps dictionaries|metadata analysis|https://github.com/petermr/crops/blob/main/dictinaries/crop_tpsenzyme.xml|
+  
 # Important links
 https://github.com/petermr/CEVOpen/wiki/crop5      
 https://github.com/petermr/openVirus/wiki/Documentation-of-getpapers-&-ami       https://github.com/petermr/pygetpapers/blob/main/README.md      
