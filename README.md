@@ -2,7 +2,7 @@
 
 **1. This repository contain different folders named basing on crop name and so each of them contain excel file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.**
 
-**2. DST-KARYA interns have created wikipages in this repository and have also uploaded their crop specific dictionaries into respective folder. Citrus, Malus and Oryza  dictionaries are not created.
+**2. DST-KARYA interns have created wikipages in this repository and have also uploaded their crop specific dictionaries into respective folder. Citrus, Malus and Oryza  dictionaries are not created.**
 
 **3. This folder also contains files such as 
 binomial abbreviation (for abbreviation of scientific name) and 
