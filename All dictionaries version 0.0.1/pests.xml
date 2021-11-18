@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="mini_pests" version="0.0.1">
+<dictionary title="pests" version="0.0.1">
 <desc> A dictionary of 1032 terms for two categories of insects: A) Insect vectors of human pathogens sourced from https://en.wikipedia.org/wiki/Category:Insect_vectors_of_human_pathogens, and B) Winged insects soursed from https://www.insectidentification.org/winged-insect-key.asp.</desc>
 <lastupdate> 2020-03-25</lastupdate>
 <entry id="id.PST01" term="mesquite bug" wikidata="Q1006091" description="family of insects"/>
