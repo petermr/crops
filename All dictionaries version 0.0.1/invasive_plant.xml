@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="mini_invasiveplant" version="0.0.1">
+<dictionary title="invasive_plant" version="0.0.1">
  <desc>Dictionary containing 469 Invasive plant species with their respective wikidataIDs</desc>
  <metadata role="query">Invasive plant species</metadata>
  <entry name="Scaevola sericea" term="Scaevola sericea" wikidataURL="http://www.wikidata.org/entity/Q73291738" wikipediaPage="https://en.wikipedia.org/wiki/Scaevola_sericea" wikidataID="Q73291738">
