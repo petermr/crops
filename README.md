@@ -30,7 +30,7 @@ C) **wiki_binomial_abbreviation** (for abbreviation of scientific name) csv file
    | Rageshwari Singh |Vitis vinifera | **163** |https://github.com/petermr/crops/blob/main/Vitis%20vinifera/eo_VVinifera.xml|
    |Shweata Hegde |metadata_analysis |TPS terms extraction from corpus|https://github.com/petermr/crops/tree/main/metadata_analysis |
    |Anuv Chakraborty | Citrus sinensis|metadata analysis|https://github.com/petermr/CEVOpen/wiki/Activities-Summary:-Anuv|
-   |Sagar Jadhav | Combined above mini_tps dictionaries, Created tpsimage dictionary|metadata analysis|https://github.com/petermr/crops/blob/main/dictinaries/crop_tpsenzyme.xml  https://github.com/petermr/crops/blob/main/dictinaries/tpsimage.xml |
+   |Sagar Jadhav | Combined above mini_tps dictionaries, Created tpsimage dictionary, Ran metadata analysis on 620 papers|crop tps dictionary, metadata analysis|https://github.com/petermr/crops/blob/main/dictinaries/crop_tpsenzyme.xml  https://github.com/petermr/crops/blob/main/dictinaries/tpsimage.xml https://github.com/petermr/crops/blob/main/TPS%20sentences_full_search_result.csv|
   
 # Important links
 https://github.com/petermr/CEVOpen/wiki/crop5      
