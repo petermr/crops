@@ -5,7 +5,7 @@
 
 **This folder also contains files such as 
 binomial abbreviation (for abbreviation of scientific name) and 
-TPS_EC (for TPS enzyme commission number) dictionaries. 
+TPS_EC (for TPS enzyme commission number) dictionaries**
 
 ****
 **SUMMRY TABLE**
