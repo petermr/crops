@@ -1,7 +1,7 @@
 # Mining crop literature for genes and enzyme products (terpenes)
 
 # Introduction
-Among volatile organic compounds, plant terpenes account for a larger proportion and these terpenes are mainly synthesized by methylerythritol phosphate (MEP) and mevalonic acid (MVA) pathways. Terpene synthase **(TPS)** enzymes from these 2 pathways play a crucial role in modifying one terpene to another. Here, we attempt to collect and classify all TPS genes that are available from genomics studies
+Among volatile organic compounds, plant terpenes account for a larger proportion and these terpenes are mainly synthesized by methylerythritol phosphate (MEP) and mevalonic acid (MVA) pathways. Terpene synthase **(TPS)** enzymes from these 2 pathways play a crucial role in modifying one terpene to another. Here, we attempt to collect and classify all TPS genes that are available from genomics studies. EC numbers and Wikidata IDs were also collected for them.
 
 ##
 **1. This "Crops" repository contain different folders named basing on crop name and so each of them contain excel file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.**
