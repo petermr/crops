@@ -1,0 +1,994 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Catal</journal-id><journal-id journal-id-type="iso-abbrev">ACS Catal</journal-id><journal-id journal-id-type="publisher-id">cs</journal-id><journal-id journal-id-type="coden">accacs</journal-id><journal-title-group><journal-title>ACS Catalysis</journal-title></journal-title-group><issn pub-type="epub">2155-5435</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5617326</article-id><article-id pub-id-type="doi">10.1021/acscatal.7b01924</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Structural Basis of Catalysis in the Bacterial Monoterpene
+Synthases Linalool Synthase and 1,8-Cineole Synthase</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Karuppiah</surname><given-names>Vijaykumar</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Ranaghan</surname><given-names>Kara E.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Leferink</surname><given-names>Nicole G. H.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Johannissen</surname><given-names>Linus O.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Shanmugam</surname><given-names>Muralidharan</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>N&#x000ed; Cheallaigh</surname><given-names>Aisling</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Bennett</surname><given-names>Nathan J.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Kearsey</surname><given-names>Lewis J.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Takano</surname><given-names>Eriko</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Gardiner</surname><given-names>John M.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>van der Kamp</surname><given-names>Marc W.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath12"><name><surname>Hay</surname><given-names>Sam</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath13"><name><surname>Mulholland</surname><given-names>Adrian J.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath14"><name><surname>Leys</surname><given-names>David</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath15"><name><surname>Scrutton</surname><given-names>Nigel S.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>BBSRC/EPSRC
+Manchester Synthetic Biology Research Centre for Fine and Specialty
+Chemicals (SYNBIOCHEM), Manchester Institute of Biotechnology, School
+of Chemistry, Faculty of Science and Engineering, <institution>University of Manchester</institution>, 131 Princess Street, Manchester M1 7DN, <country>U.K.</country></aff><aff id="aff2"><label>&#x02021;</label>Centre
+for Computational Chemistry, School of Chemistry, <institution>University of Bristol</institution>, Cantock&#x02019;s Close, Bristol BS8 1TS, <country>U.K.</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>nigel.scrutton@manchester.ac.uk</email>; Tel.: <phone>+ 44 161 306 5152</phone>.</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>08</month><year>2017</year></pub-date><pub-date pub-type="ppub"><day>01</day><month>09</month><year>2017</year></pub-date><volume>7</volume><issue>9</issue><fpage>6268</fpage><lpage>6282</lpage><history><date date-type="received"><day>13</day><month>06</month><year>2017</year></date><date date-type="rev-recd"><day>04</day><month>08</month><year>2017</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2017 American Chemical Society</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Attribution (CC-BY) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html">License</ext-link>, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0010" id="ab-d30e236"/></p><p>Terpenoids form the
+largest and stereochemically most diverse class
+of natural products, and there is considerable interest in producing
+these by biocatalysis with whole cells or purified enzymes, and by
+metabolic engineering. The monoterpenes are an important class of
+terpenes and are industrially important as flavors and fragrances.
+We report here structures for the recently discovered <italic>Streptomyces clavuligerus</italic> monoterpene synthases linalool
+synthase (bLinS) and 1,8-cineole synthase (bCinS), and we show that
+these are active biocatalysts for monoterpene production using biocatalysis
+and metabolic engineering platforms. In metabolically engineered monoterpene-producing <italic>E. coli</italic> strains, use of bLinS leads to 300-fold higher
+linalool production compared with the corresponding plant monoterpene
+synthase. With bCinS, 1,8-cineole is produced with 96% purity compared
+to 67% from plant species. Structures of bLinS and bCinS, and their
+complexes with fluorinated substrate analogues, show that these bacterial
+monoterpene synthases are similar to previously characterized sesquiterpene
+synthases. Molecular dynamics simulations suggest that these monoterpene
+synthases do not undergo large-scale conformational changes during
+the reaction cycle, making them attractive targets for structured-based
+protein engineering to expand the catalytic scope of these enzymes
+toward alternative monoterpene scaffolds. Comparison of the bLinS
+and bCinS structures indicates how their active sites steer reactive
+carbocation intermediates to the desired acyclic linalool (bLinS)
+or bicyclic 1,8-cineole (bCinS) products. The work reported here provides
+the analysis of structures for this important class of monoterpene
+synthase. This should now guide exploitation of the bacterial enzymes
+as gateway biocatalysts for the production of other monoterpenes and
+monoterpenoids.</p></abstract><kwd-group><kwd>monoterpene synthase</kwd><kwd>monoterpenoids</kwd><kwd>sesquiterpene
+synthase</kwd><kwd>terpenes</kwd><kwd>protein crystallography</kwd><kwd>molecular dynamics simulations</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>cs7b01924</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>cs-2017-019242</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Terpenoids
+are the most abundant and largest class (&#x0003e;75000) of
+natural products. Most are commonly found in plants, and their biological
+roles range from interspecies communication to intracellular signaling
+and defense against predatory species.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Their use is wide ranging as pharmaceuticals, herbicides, flavorings,
+fragrances, and biofuels.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Despite the
+commercial interest in terpenoids, efforts to produce these in high
+yields have been hampered by lack of availability of sufficiently
+robust and high-activity terpene synthase enzymes, although efforts
+to synthesize terpenoids by synthetic biology routes have gathered
+pace in recent years.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>Terpenoids are synthesized from the isoprene building blocks
+dimethylallyl
+pyrophosphate (DMAPP) and isopentenyl pyrophosphate (IPP). Combination
+of DMAPP and IPP generates pyrophosphate substrates of varying carbon
+lengths, which are then utilized by terpene synthases to produce either
+monoterpenes (C10), sesquiterpenes (C15), diterpenes (C20), and others.
+Geranyl pyrophosphate (GPP), the substrate used by monoterpene synthases
+is formed by coupling one molecule of DMAPP with IPP, while farnesyl
+pyrophosphate (FPP), the substrate for sesquiterpenes, is synthesized
+by coupling three individual isoprene precursors.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>The class I terpene synthases share a common &#x003b1;-helical
+fold
+and use a cluster of three Mg<sup>2+</sup> ions to assist with substrate
+ionization and release of the pyrophosphate moiety (PP<sub>i</sub>). This generates a reactive allylic carbocation and triggers a cyclization
+cascade that likely involves multiple carbocation intermediates.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> In many cases, substrate and Mg<sup>2+</sup> binding lead to a closed active site conformation, which guides
+substrate orientation and protects the carbocation intermediates from
+premature quenching.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> The exact architecture
+and mobility of the active site is thought to control the cyclization
+cascade to the final carbocation intermediate with high fidelity.
+The latter is usually subject to deprotonation or addition of a water
+molecule, leading to formation of a single product. However, some
+natural terpene synthases and engineered variant forms have been shown
+to form multiple reaction products.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>To date,
+available crystallographic structures for the monoterpene
+cyclases/synthases (mTC/S) that accept GPP as the substrate has been
+derived only for plant enzymes. Structures have been reported for
+bornyl diphosphate synthase (<italic>Salvia officinalis</italic>),<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> limonene synthase (<italic>Mentha spicata</italic><sup><xref ref-type="bibr" rid="ref15">15</xref></sup> and <italic>Citrus sinensis</italic>),<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> 1,8-cineole
+synthase (<italic>Salvia fruticosa</italic>),<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> and &#x003b3;-terpinene synthase (<italic>Thymus vulgaris</italic>).<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Without
+exception, plant mTC/S contains two domains: a C-terminal &#x003b1;-helical
+catalytic domain that belongs to the class I terpenoid fold, and a
+N-terminal &#x003b1;-barrel domain with unclear function and that appears
+to be relictual. Though the overall sequence conservation is low,
+the structure of the &#x003b1;-helical fold is highly conserved. The
+active site has two conserved regions, the aspartate-rich (DDXX(X)(D,E))
+motif and the NSE (NDXXSXX(R,K)(E,D)) triad, required for binding
+three catalytically essential Mg<sup>2+</sup> ions. Structures of
+bornyl diphosphate synthase and limonene synthases have been solved
+in complex with substrate analogues. In each case, GPP-analogues bind
+with their pyrophosphate moieties coordinated by the Mg<sup>2+</sup> ions and a network of residues that are proposed to assist with
+catalysis.</p><p>Recent reports have shown that terpene synthases
+are also widely
+distributed in bacteria, but the majority of these accept FPP as substrate
+and produce sesquiterpenes.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> Ohnishi and co-workers
+characterized two bacterial mTC/S from <italic>Streptomyces
+calvuligerus</italic>, namely, 1,8-cineole synthase<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> and linalool/nerolidol synthase, which can accept
+either GPP or FPP as substrate, leading to linalool or nerolidol products,
+respectively.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Heterologous expression
+of these enzymes in <italic>Streptomyces avermitilis</italic> resulted in 1,8-cineole synthase (bCinS) producing 1,8-cineole and
+linalool/nerolidol synthase (bLinS) producing only linalool, indicating
+that bLinS is likely to function only as a mTC/S in this host.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> The sequences of both bCinS and bLinS reveal
+they comprise &#x0223c;330 amino acids in a single catalytic domain
+and lack the additional N-terminal &#x003b1;-barrel domain characteristic
+of plant enzymes. Surprisingly, no closely related homologues of both
+enzymes have been found in other bacteria.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> The bacterial mTC/S 2-methylisoborneol synthase is present in many
+bacteria. It accepts 2-methyl-GPP as substrate to produce 2-methylisoborneol.
+Unlike the bacterial mTC/S reported here, 2-methylisoborneol synthase
+has a considerably longer amino acid sequence (&#x0223c;400&#x02013;500),
+and crystal structures have revealed a N-terminal proline-rich domain
+that is disordered along with a class I terpenoid fold C-terminal
+domain.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup></p><p>Linalool is mainly used
+as a fragrance material in 60&#x02013;80%
+of perfumed hygiene products. It is widely used in cosmetic products
+like perfumes, lotions, soaps, and shampoos and also in noncosmetic
+products like detergents and cleaning agents. Furthermore, during
+the manufacturing process of Vitamin E, linalool is a vital intermediate.
+As an important ingredient in a wide range of commercial products,
+the worldwide use of linalool exceeds 1000 metric tonnes per annum.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> Both <italic>R</italic> and <italic>S</italic> isomers of linalool are found in nature with <italic>R</italic>-(&#x02212;)-linalool
+being the most widely distributed in plant and flower extracts. To
+our knowledge, for industrial use as a fragrance, the isomeric mixture
+is used. 1,8-Cineole (also called eucalyptol) is used as a flavoring
+in food products, in cosmetics, and also has medicinal properties.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup></p><p>This study integrates synthetic biology
+with biocatalysis and analysis
+of enzyme structures and mechanisms. Here we describe high-resolution
+crystal structures of bLinS and bCinS from <italic>Streptomyces
+calvuligerus</italic> and complexes with fluorinated substrate
+analogues. These structures define the active site architectures required
+to steer reactive carbocation intermediates to the desired product
+outcomes. Expression of bLinS and bCinS in <italic>E. coli</italic> monoterpene-producing strains leads to improved production of linalool
+and 1,8-cineole compared with plant monoterpene synthases, and the
+structures help to both rationalize product outcomes and guide future
+exploitation of these enzymes in monoterpene/monoterpenoid production.</p></sec><sec id="sec2"><title>Experimental
+Section</title><sec id="sec2.1"><title>Expression and Purification of bCinS and bLinS</title><p>The
+full-length genes coding for 1,8-Cineole synthase (bCinS; WP_003952918)
+and Linalool synthase (bLinS; WP_0003957954) from <italic>Streptomyces
+clavuligerus</italic> ATCC 27064 were codon optimized and synthesized
+from GeneArt (Life Technologies). The genes were amplified using PCR
+and subcloned into pETM11 vector digested with NcoI and XhoI using
+Infusion cloning (Clontech). The final construct coded for either
+1,8-Cineole synthase (bCinS) or Linalool synthase (bLinS) with a 6X-His
+tag followed by a TEV protease cleavage site at the N-terminus. The
+expression and purification method explained below was identical for
+both the proteins. The plasmid was transformed into <italic>E. coli</italic> ArcticExpress (DE3) cells (Agilent), and
+a few colonies were inoculated into 100 mL of 2X-YT media containing
+40 &#x003bc;g/mL of kanamycin and 20 &#x003bc;g/mL of gentamycin and grown
+for 3&#x02013;4 h at 37 <bold>&#x000b0;</bold>C. The culture was diluted
+into 3 L of fresh 2X-YT media containing 40 &#x003bc;g/mL of kanamycin
+and allowed to grow at 37 <bold>&#x000b0;</bold>C until the OD at 600
+nm reached 0.6&#x02013;0.8. At this stage, the temperature was reduced
+to 16<bold>&#x000b0;</bold>C and 0.1 mM Isopropyl &#x003b2;-D-1-thiogalactopyranoside
+(IPTG) was added and incubated for 14&#x02013;18 h. The cells were
+harvested by centrifugation at 6000<italic>g</italic> for 10 min,
+and the pellet was resuspended in buffer A (25 mM Tris pH 8.0, 150
+mM NaCl, 1 mM DTT, 4 mM MgCl<sub>2</sub>, and 5% (v/v) glycerol).
+The cells were lysed by sonication, and the debris was removed by
+centrifugation at 30&#x0202f;000<italic>g</italic> for 30 min. The
+supernatant was filtered through a 0.2 &#x003bc;m filter and loaded
+onto a 5 mL HisTrap column (GE Healthcare) pre-equilibrated with buffer
+A. The column was washed with buffer A containing 10 mM imidazole
+(pH 8.0) and increasing up to 40 mM imidazole by step gradients with
+3 column volume for each concentration. Increasing the concentration
+of imidazole to 200&#x02013;500 mM eluted the protein. The purified
+protein was desalted using a Centripure P100 column (emp Biotech GmbH)
+equilibrated with buffer A. To remove the His tag, TEV protease was
+added (1:1000 (w/w)) to the protein and incubated at 4 <bold>&#x000b0;</bold>C with gentle mixing for 24 h. The TEV protease was removed by passing
+the protein mixture through a 5 mL HisTrap column, and the flow through
+was collected. The His-tag removed protein was concentrated and loaded
+onto a Hiload Superdex (26/60) S75 column (GE Healthcare) pre-equilibrated
+with buffer A. Pure fractions from the gel filtration column were
+concentrated to 13&#x02013;15 mg/mL and stored at &#x02212;80 <bold>&#x000b0;</bold>C as aliquots. Samples for EPR experiments were prepared
+as explained above except buffer A was lacking MgCl<sub>2</sub>.</p></sec><sec id="sec2.2"><title>Biotransformations</title><p>Biotransformation reactions (0.25
+mL) were prepared using buffer A and set up in glass vials containing
+2 mM GPP and 20 &#x003bc;M of bCinS or bLinS. The vials were incubated
+at 25 <bold>&#x000b0;</bold>C with gentle shaking for 16 h. The vials
+were cooled to 4 &#x000b0;C, and 0.25 mL of ethyl acetate containing
+0.01% (v/v) <italic>sec</italic>-butyl benzene as internal standard
+was added. The samples were vortexed for 2 min and then spun at 18&#x0202f;000<italic>g</italic> for 5 min. Supernatant fractions containing the ethyl
+acetate layer were removed and dried over anhydrous magnesium sulfate.
+Samples were analyzed by GC-MS.</p></sec><sec id="sec2.3"><title>Monoterpenoid Production
+in <italic>E. coli</italic></title><p>Both bLinS and
+bCinS genes, including RBS, were amplified
+from their respective pETM-11 expression vectors using primers pET_IF_Fw
+(5&#x02032;-CAT CCC CAC TAC TGA GAA TC-3&#x02032;) and pET_IF_Rv (5&#x02032;-
+GGT GGT GGT GCT CGA GTT A-3&#x02032;) and cloned using InFusion (Takara)
+into plasmid pGPPSmTC/S15 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Table S1</ext-link>), which
+was PCR linearized using the primer pair Vector_IF_Fw (5&#x02032;-TAA
+CTC GAG CAC CAC CAC CAC C-3&#x02032;) and Vector_IF_Rv (5&#x02032;-TCA
+GTA GTG GGG ATG TCG TAA TCG-3&#x02032;) resulting in plasmids pGPPSmTC/S38
+and pGPPSmTC/S39, respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Table S1</ext-link>). Correct insertion was confirmed by automated sequencing (Eurofins).</p><p>For monoterpenoid production, the pGPPSmTC/S plasmids were cotransformed
+with pMVA into <italic>E. coli</italic> DH5&#x003b1; and
+grown as described before.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Briefly, expression
+strains were inoculated in terrific broth (TB) supplemented with 0.4%
+glucose in glass screw capped vials, and induced for 72 h at 30 &#x000b0;C
+with 50 &#x003bc;M IPTG and 25 nM anhydro-tetracycline. A 20% <italic>n</italic>-nonane layer was added to capture the volatile terpenoids
+products. After induction, the nonane overlay was collected, dried
+over anhydrous MgSO<sub>4</sub>, and mixed at a 1:1 ratio with ethyl
+acetate containing 0.1% (v/v) <italic>sec</italic>-butyl benzene as
+internal standard.</p></sec><sec id="sec2.4"><title>GC-MS Analysis</title><p>Samples were injected
+onto an Agilent
+Technologies 7890B GC equipped with an Agilent Technologies 5977A
+MSD. The products were separated on a DB-WAX column (30 m &#x000d7; 0.32
+mm i.d., 0.25 &#x003bc;m film thickness, Agilent Technologies). The
+injector temperature was set at 240 &#x000b0;C with a split ratio of
+20:1 (1 &#x003bc;L injection). The carrier gas was helium with a flow
+rate of 1 mL/min and a pressure of 5.1 psi. The following oven program
+was used: 50 &#x000b0;C (1 min hold), ramp to 68 &#x000b0;C at 5 &#x000b0;C/min
+(2 min hold), and ramp to 230 &#x000b0;C at 25 &#x000b0;C/min (2 min hold).
+The ion source temperature of the mass spectrometer (MS) was set to
+230 &#x000b0;C, and spectra were recorded from <italic>m</italic>/<italic>z</italic> 50 to <italic>m</italic>/<italic>z</italic> 250. Compound
+identification was carried out using authentic standards and comparison
+to reference spectra in the NIST library of MS spectra and fragmentation
+patterns as described previously.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup></p></sec><sec id="sec2.5"><title>GC Analysis</title><p>To determine the chirality of linalool
+and nerolidol produced by bLinS, samples were analyzed by gas chromatography
+on an Agilent Technologies 7890A GC system equipped with an FID detector,
+a 7693 autosampler, and a CP-Chirasil-DEX-CB column (25 m &#x000d7; 0.25
+mm i.d., 0.25 &#x003bc;m film thickness). The biotransformation samples
+and isomers of linalool and nerolidol standards were analyzed using
+GC. In this method, the injector temperature was at 180 &#x000b0;C, and
+1 &#x003bc;L of sample was injected split-less. The carrier gas was
+helium with a flow rate of 1 mL/min and a pressure of 11.3 psi. For
+nerolidol-containing samples, the program began at a temperature of
+70 &#x000b0;C and then increased to 150 &#x000b0;C at 8 &#x000b0;C/min (2 min
+hold). This was followed by an increase in temperature to 190 &#x000b0;C
+at 10 &#x000b0;C/min (3 min hold). For linalool-containing samples, the
+program began at a temperature of 70 &#x000b0;C which was then increased
+to 90 &#x000b0;C at 8 &#x000b0;C/min. This was followed by an increase in
+temperature to 150 &#x000b0;C at a rate of 2 &#x000b0;C/min and then to
+190 &#x000b0;C at 40 &#x000b0;C/min (1 min hold). The FID detector was maintained
+at a temperature of 200 &#x000b0;C with a flow of hydrogen at 30 mL/min.</p></sec><sec id="sec2.6"><title>Chemical Synthesis of Fluorinated Substrate Analogues</title><p>Unless
+otherwise stated, all reactions were carried out in oven-dried
+glassware. Reactions were monitored by thin-layer chromatography (TLC)
+on silica gel 60 F<sub>254</sub> plates, visualized with phosphomolybdic
+acid stain (10 g of phosphomolybdic acid in 100 mL of ethanol). Column
+chromatography was performed on Merck silica Gel 60 (particle size
+40&#x02013;63 &#x003bc;m). <sup>1</sup>H NMR, <sup>13</sup>C NMR, <sup>31</sup>P, and <sup>19</sup>F spectra were obtained using a combination
+of 400 and 500 MHz spectrometers and are reported as chemical shift
+on the parts per million scale. Multiplicity abbreviated (br = broad,
+s = singlet, d = doublet, dd = double doublet, t = triplet, m = multiplet,
+etc.) and coupling constants were obtained in Hertz. Assignments were
+aided by COSY and HSQC. All mass spectrometry results are reported
+as the mass to charge ratio and are reported with % abundance against
+the base peak (100%).</p><sec id="sec2.6.1"><title>Synthesis of 2-Fluorogeraniol and 2-Fluoronerol</title><p>Sodium
+hydride (538 mg, 60% dispersion, 13.5 mmol) was washed with petroleum
+ether and suspended in THF (40 mL). The suspension was cooled to 0
+&#x000b0;C, and a solution of the ethyl (diethoxyphosphoryl) fluoroacetate
+(2.48 mL, 12.2 mmol) in THF (13.4 mL) was added dropwise over 10 min.
+The reaction was stirred for 30 min before adding 6-methyl-5-hepten-2-one
+(1.5 mL, 10.2 mmol) dropwise over 30 min. The reaction was stirred
+overnight at room temperature. The reaction was cooled back to 0 &#x000b0;C
+and quenched by pouring on to ice water. The product was extracted
+with diethyl ether (3 &#x000d7; 30 mL), dried over MgSO<sub>4</sub> and
+then reduced to dryness. The crude product was then dissolved in THF
+(64 mL), cooled to 0 &#x000b0;C, and LiAlH<sub>4</sub> (541 mg, 14.3
+mmol) was added. The reaction was stirred at room temperature for
+3 h then quenched with the addition of saturated aqueous NH<sub>4</sub>Cl. The solution was extracted with diethyl ether (3 &#x000d7; 30 mL)
+and the subsequent combined organic phases were washed with brine
+(30 mL). The product was purified by column chromatography (hexane/diethyl
+ether, 95/5, v/v) to give 2-fluorogeraniol (783 mg, 41%) and 2-fluoronerol
+(856 mg, 45%) with a total yield of 86%<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Scheme S1</ext-link>). <bold>2-fluorogeraniol</bold>: <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 5.17&#x02013;5.05
+(m, 1H, H7), 4.24 (dd, <italic>J</italic> = 22.3, 3.2 Hz, 2H, H1),
+2.10 (m, 4H, H5, H6), 1.68 (s, 3H, H4), 1.67 (d, <italic>J</italic> = 2.9 Hz, 3H, H9/10), 1.61 (s, 3H, H9/10). <sup>13</sup>C NMR (101
+MHz, CDCl<sub>3</sub>) &#x003b4; 132.2, 123.6, 116.1 (d, <italic>J</italic> = 16.2 Hz), 58.2 (d, <italic>J</italic> = 29.3 Hz), 29.8 (d, <italic>J</italic> = 7.07 Hz), 25.9 (d, <italic>J</italic> = 4.0 Hz), 25.7,
+17.6, 15.4 (d, <italic>J</italic> = 6.01 Hz). <sup>19</sup>F NMR (471
+MHz, CDCl<sub>3</sub>) &#x003b4; &#x02212;121.3 (t, <italic>J</italic> = 22.4 Hz) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Figure S1a&#x02013;e</ext-link>). <bold>2-fluoronerol:</bold><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x003b4; 5.16&#x02013;5.02 (m, 1H, H7), 4.19 (dd, <italic>J</italic> = 22.9, 5.3 Hz, 2H, H1), 2.16&#x02013;2.00 (m, 4H, H5, H6), 1.70
+(s, 3H, H4), 1.60 (s, 3H, H9/10), 1.57 (s, 3H, H9/10). <sup>13</sup>C NMR (101 MHz, CDCl<sub>3</sub>) &#x003b4; 133.3, 123.5, 115.9 (d, <italic>J</italic> = 14.1 Hz), 58.0 (d, <italic>J</italic> = 29.2 Hz), 31.9
+(d, <italic>J</italic> = 5.1 Hz), 26.6 (d, <italic>J</italic> = 5.1
+Hz), 25.8, 17.9, 13.7 (d, <italic>J</italic> = 9.1 Hz). <sup>19</sup>F NMR (471 MHz, CDCl<sub>3</sub>) &#x003b4; &#x02013; 119.4 (t, <italic>J</italic> = 22.6 Hz) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Figure S2a&#x02013;e</ext-link>).</p></sec><sec id="sec2.6.2"><title>Synthesis of 2-Fluorogeranyl Pyrophosphate (FGPP) and 2-Fluoroneryl
+Pyrophosphate (FNPP)</title><p>Acetonitrile (60 mL) was added to 2-fluorogeraniol
+or 2-fluoronerol (400 mg, 2.3 mmol). To this, trichloroacetonitrile
+(2 mL) was added followed by H<sub>3</sub>PO<sub>4</sub>(Et<sub>3</sub>N)<sub>2</sub> salt (2.1 g). The reaction was stirred overnight.
+It was then poured on to diethyl ether (50 mL) and washed with concentrated
+aqueous ammonia (3 &#x000d7; 100 mL). The ammonia washes were combined
+and washed once with diethyl ether (50 mL). The aqueous phase was
+reduced to dryness. The crude product was loaded on to a silica gel
+column, and the starting material was recovered using petroleum ether/diethyl
+ether (9/1, v/v). The eluent system was then switched to propanol/concentrated
+aqueous ammonia/water (7/2/1, v/v/v) to isolate mono and pyrophosphate
+derivatives (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Scheme S1</ext-link>). When 2-fluorogeraniol
+was used, 2-fluorogeranyl monophosphate (93 mg, 0.37 mmol, 16%) and
+2-fluorogeranyl pyrophosphate (74 mg, 0.2 mmol, 10%) were obtained.
+When 2-fluoronerol was used, 2-fluoroneryl monophosphate (117 mg,
+0.47 mmol, 20%) and 2-fluoro neryl pyrophosphate (200 mg, 0.54 mmol,
+27%) were obtained. <bold>2-fluorogeraniol pyrophosphate</bold>: <sup>1</sup>H NMR (500 MHz, D<sub>2</sub>O) &#x003b4; 5.29&#x02013;5.15 (m,
+1H, H7), 4.59 (dd, <italic>J</italic> = 23.6, 6.2 Hz, 2H, H1), 2.22&#x02013;2.09
+(m, 4H, H5, H6), 1.72 (d, <italic>J</italic> = 2.8 Hz, 3H, H4), 1.69
+(s, 3H, H9/10), 1.62 (s, 3H, H9/10). <sup>13</sup>C NMR (126 MHz,
+D<sub>2</sub>O) &#x003b4; 133.9 (s), 123.7 (s), 119.5 (d, <italic>J</italic> = 15.0 Hz), 60.9 (dd, <italic>J</italic> = 31.6, 5.0 Hz), 29.1 (d, <italic>J</italic> = 6.4 Hz), 25.1 (s), 24.8 (s), 16.9 (s), 14.6 (d, <italic>J</italic> = 4.9 Hz). <sup>31</sup>P NMR (162 MHz, D<sub>2</sub>O)
+&#x003b4; &#x02013; 8.37 (d, <italic>J</italic> = 21.5 Hz), &#x02013;
+10.95 (d, <italic>J</italic> = 21.6 Hz). <sup>19</sup>F NMR (471 MHz,
+D<sub>2</sub>O) &#x003b4; &#x02212;120.44 (t, <italic>J</italic> = 23.6
+Hz). HRMS ESI C<sub>10</sub>H<sub>18</sub>FO<sub>7</sub>P<sub>2</sub> [M&#x02013;H]<sup>&#x02212;</sup> calculated: 331.0512, found: 331.0517
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Figure S3a&#x02013;g</ext-link>). Data was found to
+be in accordance with the literature.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup><bold>2-fluoronerol
+pyrophosphate</bold>: <sup>1</sup>H NMR (400 MHz, D<sub>2</sub>O)
+&#x003b4; 5.14&#x02013;5.06 (m, 1H, H7), 4.50 (dd, <italic>J</italic> = 23.6, 6.1 Hz, 2H, H1), 2.07 (br s, 4H, H5, H6), 1.62 (s, 6H, H4,
+H9/10), 1.54 (s, 3H, H9/10). <sup>13</sup>C NMR (126 MHz, D<sub>2</sub>O) &#x003b4; 134.3 (s), 123.3 (s), 119.1 (d, <italic>J</italic> = 13.2
+Hz), 60.4 (dd, <italic>J</italic> = 31.0, 4.3 Hz), 30.8 (d, <italic>J</italic> = 4.6 Hz), 25.7 (d, <italic>J</italic> = 2.7 Hz), 24.8
+(s), 16.9 (s), 12.8 (d, <italic>J</italic> = 8.6 Hz) <sup>31</sup>P NMR (162 MHz, D<sub>2</sub>O) &#x003b4; &#x02013; 7.64 (d, <italic>J</italic> = 21.4 Hz), &#x02013; 10.93 (d, <italic>J</italic> = 20.9
+Hz) <sup>19</sup>F NMR (471 MHz, D<sub>2</sub>O) &#x003b4; &#x02013;
+119.13 (t, <italic>J</italic> = 23.1 Hz). HRMS ESI C<sub>10</sub>H<sub>18</sub>FO<sub>7</sub>P<sub>2</sub> [M&#x02013;H]<sup>&#x02212;</sup> calculated: 331.0512, found: 331.0517 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Figure S4a&#x02013;h</ext-link>). Data was found to be in accordance with the
+literature.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup></p></sec></sec><sec id="sec2.7"><title>Crystallization of bCinS
+and bLinS</title><p>Crystallization
+trials containing 200 nl of protein and 200 nl of precipitant solution
+were set up in 3-well swissci plates using a mosquito robot (TTP Labtech).
+Five commercial screens, namely, Morpheus I and II, JCSG+, PACT premier
+and SG1 (Molecular Dimensions Ltd.) were used in initial trails. For
+both enzymes, three distinct samples were screened: the <italic>apo</italic>-enzyme, the enzyme in the presence of 2 mM FGPP, and the enzyme
+in the presence of 2 mM FNPP. The bCinS-FNPP crystallized in Morpheus
+II A4 condition (90 mM of LiNaK (0.3 M lithium sulfate, 0.3 M sodium
+sulfate, 0.3 M potassium sulfate), 0.1 M of buffer system 4 (1 M MOPSO,
+1 M Bis-Tris) pH 6.5 and 50% precipitant mix 8 (10% PEG 20000, 50%
+trimethylpropane, 2% NDSB 195)). The bLinS-FGPP crystallized in Morpheus
+D7 condition (0.12 M Alcohols (0.2 M 1,6-hexanediol, 0.2 M 1-nutanol,
+0.2 M 1,2-propanediol, 0.2 M 2-propanol, 0.2 M 1,4-butanediol, 0.2
+M 1,3-propanediol), 0.1 M Buffer System 2 (1.0 M sodium HEPES, MOPS
+(acid)) pH 7.5 and 50% v/v precipitant Mix 3 (40% v/v glycerol, 20%
+w/v PEG 4000)). The <italic>apo</italic>-LinS crystallized in SG1
+E2 condition (25% w/v PEG3350). Although <italic>apo</italic>-bCinS
+crystallized, optimization of growth conditions failed to produce
+single crystals of sufficient size for further study. In an attempt
+to obtain the bCinS-FGPP structure, bCinS-FNPP crystals were soaked
+overnight in the presence of 2 mM FGPP prior to cryo-cooling. The <italic>apo</italic>-bLinS crystals were cryo-protected by soaking in mother
+liquor supplemented with 20% glycerol. For all FGPP and FNPP complexes,
+the ligands were included in the cryo-solution.</p></sec><sec id="sec2.8"><title>Structure Solution</title><p>All data were collected at Diamond
+Light Source (DLS). Diffraction images were integrated and scaled
+by xia2<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> automated data processing pipeline,
+using XDS<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> and XSCALE. Crystals of bCinS
+contained two molecules in the asymmetrical unit and belonged to P1
+space group. Crystals of bLinS belonged to the tetragonal system (spacegroup <italic>I</italic>4) and also contained two molecules in asymmetrical unit.
+The bLinS structures (<italic>apo</italic>-bLinS and bLinS-FGPP) were
+solved by molecular replacement using the Pentalenene synthase structure
+(PDB: 1PS1(<xref ref-type="bibr" rid="ref32">32</xref>)) as the search model in Phaser.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> The bCinS-FNPP structure was solved by model replacement
+using the <italic>apo</italic>-bLinS structure as the search model.
+The <italic>apo</italic>-bLinS, bLinS-FGPP, bCinS-FNPP and bCinS-FNPP/FGPP
+models were built using Autobuild in Phenix.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> The structures were completed using iterative rounds of manual model
+building in coot<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> and refinement in phenix.refine.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The structures were analyzed using PDB_REDO<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> and validated using molprobity tools.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The refinement statistics are provided in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. The atomic coordinates
+and structure factors have been deposited in the Protein Data Bank
+with accession codes 5NX4, 5NX5, 5NX6 and 5NX7.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>X-ray Data Collection and Refinement
+Statistics</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">bLinS (apo)</th><th style="border:none;" align="center">bLinS-FGPP</th><th style="border:none;" align="center">bCinS-FNPP</th><th style="border:none;" align="center">bCinS-FNPP/FGPP</th></tr><tr><th style="border:none;" align="center">data collection</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th></tr></thead><tbody><tr><td style="border:none;" align="left">space group</td><td style="border:none;" align="left"><italic>I</italic>4</td><td style="border:none;" align="left"><italic>I</italic>4</td><td style="border:none;" align="left"><italic>P</italic>1</td><td style="border:none;" align="left"><italic>P</italic>1</td></tr><tr><td style="border:none;" align="left">unit cell dimensions</td><td style="border:none;" align="left"><italic>a</italic> = <italic>b</italic> = 140.15 &#x000c5;, <italic>c</italic>&#x000a0;=&#x000a0;87.18</td><td style="border:none;" align="left"><italic>a</italic> = <italic>b</italic> = 139.37 &#x000c5;, <italic>c</italic>&#x000a0;=&#x000a0;86.06</td><td style="border:none;" align="left"><italic>a</italic>&#x000a0;=&#x000a0;60.81 &#x000c5;, <italic>b</italic>&#x000a0;=&#x000a0;60.83 &#x000c5;,</td><td style="border:none;" align="left"><italic>a</italic>&#x000a0;=&#x000a0;60.75 &#x000c5;, <italic>b</italic>&#x000a0;=&#x000a0;60.83 &#x000c5;,</td></tr><tr><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000c5;; &#x003b1; = &#x003b2;
+= &#x003b3; = 90&#x000b0;</td><td style="border:none;" align="left">&#x000c5;; &#x003b1; = &#x003b2;
+= &#x003b3; = 90&#x000b0;</td><td style="border:none;" align="left"><italic>c</italic>&#x000a0;=&#x000a0;64.10 &#x000c5;;
+&#x003b1; = 90.04&#x000b0;,</td><td style="border:none;" align="left"><italic>c</italic>&#x000a0;=&#x000a0;64.26 &#x000c5;;
+&#x003b1; = 92.67&#x000b0;,</td></tr><tr><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x003b2;&#x000a0;=&#x000a0;92.89&#x000b0;,&#x000a0;&#x003b3;&#x000a0;=&#x000a0;101.98&#x000b0;</td><td style="border:none;" align="left">&#x003b2;&#x000a0;=&#x000a0;89.98&#x000b0;,&#x000a0;&#x003b3;&#x000a0;=&#x000a0;101.77&#x000b0;</td></tr><tr><td style="border:none;" align="left">X-ray source</td><td style="border:none;" align="left">DLS I04-1</td><td style="border:none;" align="left">DLS I04</td><td style="border:none;" align="left">DLS I04</td><td style="border:none;" align="left">DLS I04</td></tr><tr><td style="border:none;" align="left">wavelength (&#x000c5;)</td><td style="border:none;" align="left">0.92819</td><td style="border:none;" align="left">0.99</td><td style="border:none;" align="left">0.99</td><td style="border:none;" align="left">0.9795</td></tr><tr><td style="border:none;" align="left">resolution range
+(&#x000c5;)</td><td style="border:none;" align="left">50.90&#x02013;2.38 (2.42&#x02013;2.38)</td><td style="border:none;" align="left">36.62&#x02013;1.82 (1.85&#x02013;1.82)</td><td style="border:none;" align="left">32.27&#x02013;1.63 (1.66&#x02013;1.63)</td><td style="border:none;" align="left">64.19&#x02013;1.51 (1.53&#x02013;1.51)</td></tr><tr><td style="border:none;" align="left">multiplicity</td><td style="border:none;" align="left">4.5&#x000a0;(3.9)</td><td style="border:none;" align="left">6.8&#x000a0;(6.9)</td><td style="border:none;" align="left">1.8&#x000a0;(1.8)</td><td style="border:none;" align="left">2&#x000a0;(2)</td></tr><tr><td style="border:none;" align="left"><italic>I</italic>/&#x003c3; <italic>I</italic></td><td style="border:none;" align="left">14.6&#x000a0;(1.7)</td><td style="border:none;" align="left">18.2&#x000a0;(1.4)</td><td style="border:none;" align="left">6.7&#x000a0;(1.2)</td><td style="border:none;" align="left">10&#x000a0;(2.1)</td></tr><tr><td style="border:none;" align="left">completeness (%)</td><td style="border:none;" align="left">99.7&#x000a0;(99.7)</td><td style="border:none;" align="left">100&#x000a0;(100)</td><td style="border:none;" align="left">96&#x000a0;(94.6)</td><td style="border:none;" align="left">95.9&#x000a0;(93.4)</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>merge</sub></td><td style="border:none;" align="left">0.082&#x000a0;(0.766)</td><td style="border:none;" align="left">0.057&#x000a0;(1.371)</td><td style="border:none;" align="left">0.09&#x000a0;(0.639)</td><td style="border:none;" align="left">0.035&#x000a0;(0.315)</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>meas</sub></td><td style="border:none;" align="left">0.093&#x000a0;(0.889)</td><td style="border:none;" align="left">0.062&#x000a0;(1.483)</td><td style="border:none;" align="left">0.127&#x000a0;(0.904)</td><td style="border:none;" align="left">0.047&#x000a0;(0.428)</td></tr><tr><td style="border:none;" align="left"><italic>R</italic><sub>pim</sub></td><td style="border:none;" align="left">0.043&#x000a0;(0.44)</td><td style="border:none;" align="left">0.024&#x000a0;(0.563)</td><td style="border:none;" align="left">0.09&#x000a0;(0.639)</td><td style="border:none;" align="left">0.032&#x000a0;(0.287)</td></tr><tr><td style="border:none;" align="left"><italic>CC</italic><sub>1/2</sub></td><td style="border:none;" align="left">0.998&#x000a0;(0.576)</td><td style="border:none;" align="left">0.999&#x000a0;(0.51)</td><td style="border:none;" align="left">0.987&#x000a0;(0.479)</td><td style="border:none;" align="left">0.999&#x000a0;(0.824)</td></tr><tr><td style="border:none;" align="left">total observations</td><td style="border:none;" align="left">152818&#x000a0;(6641)</td><td style="border:none;" align="left">502331&#x000a0;(25222)</td><td style="border:none;" align="left">193529&#x000a0;(9539)</td><td style="border:none;" align="left">270436&#x000a0;(13510)</td></tr><tr><td style="border:none;" align="left">total
+unique</td><td style="border:none;" align="left">33849&#x000a0;(1697)</td><td style="border:none;" align="left">73739&#x000a0;(3654)</td><td style="border:none;" align="left">107492&#x000a0;(5258)</td><td style="border:none;" align="left">136704&#x000a0;(6737)</td></tr></tbody></table><table frame="hsides" rules="groups" border="0"><colgroup><col/><col/><col/><col/><col/></colgroup><thead><tr><th style="border:none;" align="center">refinement</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th></tr></thead><tbody><tr><td style="border:none;">R-work</td><td style="border:none;">0.1850</td><td style="border:none;">0.1667</td><td style="border:none;">0.1662</td><td style="border:none;">0.1492</td></tr><tr><td style="border:none;">R-free</td><td style="border:none;">0.2240</td><td style="border:none;">0.1950</td><td style="border:none;">0.20</td><td style="border:none;">0.1830</td></tr><tr><td style="border:none;">RMS (bonds)</td><td style="border:none;">0.002</td><td style="border:none;">0.009</td><td style="border:none;">0.013</td><td style="border:none;">0.008</td></tr><tr><td style="border:none;">RMS (angles)</td><td style="border:none;">0.45</td><td style="border:none;">0.94</td><td style="border:none;">1.15</td><td style="border:none;">0.96</td></tr><tr><td style="border:none;">average B-factor (&#x000c5;<sup>2</sup>)</td><td style="border:none;">52.5</td><td style="border:none;">42.8</td><td style="border:none;">24.8</td><td style="border:none;">27.8</td></tr></tbody></table><table frame="hsides" rules="groups" border="0"><colgroup><col/><col/><col/><col/><col/></colgroup><thead><tr><th style="border:none;" align="center">Ramachandran
+plot</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th></tr></thead><tbody><tr><td style="border:none;">favored</td><td style="border:none;">98.94</td><td style="border:none;">99.29</td><td style="border:none;">98.98</td><td style="border:none;">98.45</td></tr><tr><td style="border:none;">allowed</td><td style="border:none;">1.06</td><td style="border:none;">0.71</td><td style="border:none;">1.02</td><td style="border:none;">1.35</td></tr><tr><td style="border:none;">outliers</td><td style="border:none;">0</td><td style="border:none;">0</td><td style="border:none;">0</td><td style="border:none;">0.2</td></tr><tr><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td></tr></tbody></table></table-wrap></sec><sec id="sec2.9"><title>EPR Spectroscopy</title><p>Electron paramagnetic
+resonance (EPR)
+measurements were carried out using a Bruker ELEXSYS-500 X-band EPR
+spectrometer operating in both cw and pulsed modes, equipped with
+an Oxford variable-temperature unit and ESR900 cryostat with Super
+High-Q resonator. All EPR samples were prepared in the quartz capillary
+tubes (outer diameter; 4.0 mm, inner diameter 3.0 mm) and frozen in
+liquid N<sub>2</sub>. The X-band EPR tubes were then transferred into
+the EPR probe head, which was precooled to 20 K. The low-temperature
+EPR spectra were measured at 20 K as a frozen solution. A microwave
+power of 36 dB (50 mW) and modulation of 5 G appear to be optimal
+for recording the EPR spectrum of the bLinS and bCinS protein samples
+prepared using various ratios of protein to Mn<sup>2+</sup> concentration
+in the presence of 10-fold excess of FGPP. The concentrations of the
+proteins (bLinS and bCinS) and FGPP in all the samples were 0.400
+mM and 1.5 mM, respectively, whereas the ratio to the Mn<sup>2+</sup> concentration was systematically varied from 1 to 6. The low-temperature
+EPR spectra were acquired using the following conditions: sweep time
+of 84 s, microwave power of 50 mW, time constant of 41 ms, and modulation
+amplitude of 5 G. All the spectra have been normalized to account
+for the different numbers of scans accumulated for each sample. The
+data analysis was performed using EasySpin toolbox for the Matlab
+program package.</p></sec><sec id="sec2.10"><title>Simulations of <italic>Apo</italic>-bCinS
+and bLinS</title><p>Molecular dynamics (MD) simulations of <italic>apo</italic>-bCinS
+and bLinS were carried out in AMBER14 using the CHARMM27 force field.<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> The protonation states of titratable residues were estimated using
+the PDB 2PQR server with proPKA, and the enzymes were solvated using a box of
+minimum 12 &#x000c5; around the protein with counterions added. Two sets
+of isothermal&#x02013;isobaric ensemble (NPT) MD simulations were performed
+at 298 K for each enzyme, using different starting velocities, following
+the system setup. Langevin dynamics was used for temperature control
+(collision frequency of 5 ps<sup>&#x02013;1</sup> for equilibration
+and 2 ps<sup>&#x02013;1</sup> for production), and pressure was controlled
+by coupling to an external bath (AMBER14 default settings) for NPT
+conditions. The system setup consisted of: (i) energy minimization
+of the solvent; (ii) 50 ps of (NPT) solvent equilibration; (iii) energy
+minimization of the entire system with positional restraints of 5
+kcal mol<sup>&#x02013;1</sup> &#x000c5;<sup>&#x02013;2</sup> applied to
+all C&#x003b1; atoms; (iv) canonical ensemble (NVT) thermalisation to
+298 K over 20 ps with positional restraints of 5 kcal mol<sup>&#x02013;1</sup> &#x000c5;<sup>&#x02013;2</sup> on C&#x003b1; atoms; (v) 40 ps of NPT equilibration
+with decreasing restraints on the C&#x003b1; atoms; (vi) 1 ns unconstrained
+NPT equilibration; (vii) 100 ns production simulation. Average linkage
+hierarchical clustering (after alignment of structures based on C&#x003b1;
+positions) was used to identify representative structures to illustrate
+protein conformational sampling during the simulations.</p></sec><sec id="sec2.11"><title>Simulations
+of the Ternary Complexes of bCinS with Three Mg<sup>2+</sup> Ions
+and GPP or NPP</title><p>The protonation states of titratable
+residues were estimated using PropKA3.1,<sup><xref ref-type="bibr" rid="ref41">41</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> and the enzyme was solvated using a box of TIP3P<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> water molecules (with a minimum buffer or 13 &#x000c5; around
+the protein) using the solvate plugin of the VMD package.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> Counterions were added to neutralize the system
+using autoionize plugin of VMD.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> The CHARMM27
+forcefield<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> was used to describe the protein
+with parameters for GPP and NPP that were adapted from those used
+for FPP in the work of van der Kamp et al.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> The position of the GPP or NPP substrate was based on the position
+of the fluorinated analogue resolved in the crystal structure. Due
+to the minimal differences in the structure of the inhibitor and substrate
+(F vs H), the position in the crystal structure was considered a suitable
+starting point for the simulations. It has been suggested that many
+terpene cyclase/synthase structures contain substrates bound in unreactive
+conformations;<sup><xref ref-type="bibr" rid="ref46">46</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup> however, structures containing
+the larger and more flexible FPP, the building block for sesquiterpenes
+are more prevalent than monoterpenes. The parameter set developed
+by Allner et al.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> was used to describe
+the three Mg<sup>2+</sup> ions. The setup of the model consisted of
+the following: (i) minimization of the positions of the hydrogen atoms
+(all heavy atoms fixed); (ii) minimization of the solvent (with all
+protein heavy atoms fixed); (iii) energy minimization of the entire
+system with positional restraints of 5 kcal mol<sup>&#x02013;1</sup> &#x000c5;<sup>&#x02013;2</sup> applied to all C&#x003b1; atoms; (iv) canonical
+ensemble (NVT) thermalisation to 300 K over 20 ps with positional
+restraints of 5 kcal mol<sup>&#x02013;1</sup> &#x000c5;<sup>&#x02013;2</sup> on C&#x003b1; atoms; (v) thermal equilibration at 300 K for 100 ps
+with positional restraints of 5 kcal mol<sup>&#x02013;1</sup> &#x000c5;<sup>&#x02013;2</sup> on C&#x003b1; atoms; (vi) 140 ps of NPT equilibration
+with decreasing restraints on the C&#x003b1; atoms; (vi) 100 ns production
+simulation. Two sets of isothermal&#x02013;isobaric ensemble (NPT)
+MD simulations were performed at 300 K for each enzyme, repeating
+steps (iv)&#x02013;(vi) to obtain two models with different initial
+conditions. MD simulations were carried out on GPUs using the PMEMD
+code<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> of AMBER16.<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> Langevin dynamics was used for temperature control (collision frequency
+of 5 ps<sup>&#x02013;1</sup> for equilibration and 2 ps<sup>&#x02013;1</sup> for production), and pressure was controlled by coupling to an external
+bath (AMBER16 default settings) for NPT conditions. Average linkage
+hierarchical clustering (after alignment of structures based on positions
+of active site residues) was carried out using the CPPTRAJ utility
+of AMBERTOOLS 16<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> to identify representative
+structures of the ternary complex over the course of the simulations.</p></sec><sec id="sec2.12"><title>Simulations of the Ternary Complexes of bLinS with Three Mg<sup>2+</sup> Ions and GPP or FPP</title><p>The models of bLinS were built
+from the coordinates of chain B of the protein, with positions of
+the Mg<sup>2+</sup> ions determined on the basis of alignment with
+the structures of sesquiterpene synthases aristocholene synthase (ATAS,
+PDB 4KUX<sup>51</sup>) and Epi-isozizaene synthase (PDB 3KB9(<xref ref-type="bibr" rid="ref52">52</xref>)). GPP was built into the model on the basis of the position
+of the phosphate ion observed in the bLinS chain B structure and using
+the geometry of FGPP observed in the bCinS-FGPP structure. The FPP
+model was generated on the basis of the position of farnesyl thiolodiphosphate
+FSPP in ATAS.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> Some positional restraints
+were then applied to the Mg<sup>2+</sup> ions and coordinating protein
+residues in the NSD and DDXXD motifs in order to form the correct
+binding pattern. The Mg<sup>2+</sup> to oxygen atom distance (for
+Asn218, Ser222, Asp226 and Asp79) was restrained to a value of 2.3
+&#x000c5; with a force constant <italic>k</italic> = 20 kcal mol<sup>&#x02013;1</sup> &#x000c5;<sup>&#x02013;2</sup>. The same procedure as
+used for the bCinS models was then followed to perform the MD simulations
+of bLinS with GPP and FPP.</p></sec></sec><sec id="sec3"><title>Results and Discussion</title><sec id="sec3.1"><title>Linalool
+and 1,8-Cineole Production in <italic>E. coli</italic></title><p>Biotransformation reactions showed that purified bLinS
+and bCinS produced linalool and 1,8-cineole, respectively, when supplied
+with GPP. No byproducts were observed when analyzed by GC-MS (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). To investigate
+the suitability of both enzymes for monoterpenoid production in engineered <italic>E. coli</italic> strains, bLinS and bCinS were inserted in
+an <italic>E. coli</italic> &#x0201c;plug-and-play&#x0201d;
+monoterpenoid production platform, which consists of two gene modules.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> The first module (pMVA) contains a hybrid mevalonate
+(MVA) pathway under regulation of IPTG-inducible promoters,<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> and the second (plasmid series pGPPSmTC/S, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Table S1</ext-link>) comprises a refactored, N-terminally
+truncated geranyl diphosphate synthase (GPPS) gene from <italic>Abies grandis</italic> (AgtrGPPS2) followed by an mTC/S gene
+(in this case bLinS or bCinS, respectively) under control of a tetracycline-inducible
+promoter. Strains containing both the pMVA and pGPPS-bLinS or pGPPS-bCinS
+plasmids, respectively, were grown in a two-phase shake flask system
+using glucose as the feedstock and <italic>n</italic>-nonane as an
+organic phase to facilitate product capture. Products accumulated
+in the organic phase were identified and quantified by GC-MS analysis.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>GC-MS
+analysis of bCinS and bLinS. (A) bCinS product profile when
+inserted in an engineered <italic>E. coli</italic> strain
+capable of overproducing GPP. (B) bCinS conversion of GPP (2 mM) <italic>in vitro</italic>. (C) bCinS conversion of NPP (2 mM) <italic>in
+vitro</italic>. D) 1,8-cineole standard (0.1 mg/mL). E) bLinS product
+profile when inserted in an engineered <italic>E. coli</italic> strain capable of overproducing GPP. F) bLinS conversion of GPP
+(2 mM) <italic>in vitro</italic>. G) <italic>R-(</italic>&#x02212;)-linalool
+standard (0.1 mg/mL). H) <italic>cis</italic>- and <italic>trans</italic>-nerolidol standards (0.1 mg/mL). IS = internal standard (<italic>sec</italic>-butyl benzene).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0001" id="gr1" position="float"/></fig><p>Product profiles and titers obtained with bLinS and bCinS
+were
+compared with previously obtained profiles using mTC/S enzymes obtained
+from plants (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>), i.e. LinS from <italic>Artemisia annua</italic> (RLinS_Aa)
+and CinS from <italic>Salvia fruticosa</italic> (CinS_Sf), <italic>Arabidopsis thaliana</italic> (CinS_At), and <italic>Citrus unshiu</italic> (CinS_Cu).<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Both bacterial enzymes outperformed the plant enzymes: bLinS produced
+about 300-fold more linalool than RLinS_Aa (363.3 &#x000b1; 57.9 versus
+1.3 mg L<sub>org</sub><sup>&#x02013;1</sup>). With bCinS, 1,8-cineole
+was produced in considerably purer form compared to that produced
+using the plant enzymes. Strains containing bCinS produced 116.8 &#x000b1;
+36.4 mg L<sub>org</sub><sup>&#x02013;1</sup> (96% pure); this compares
+to 118.2 mg L<sub>org</sub><sup>&#x02013;1</sup> (67% pure) for CinS_Sf,
+46.6 mg L<sub>org</sub><sup>&#x02013;1</sup> (42% pure) for CinS_At,
+and 18.2 (63% pure) for CinS_Cu for the strains containing the corresponding
+plant CinS enzymes.</p><p>As well as GPP formation catalyzed by the
+heterologous GPPS, the
+engineered <italic>E. coli</italic> strains also produce
+the sesquiterpene precursor farnesyl diphosphate (FPP) from native
+host encoded enzymes.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> Strains containing
+bLinS were able to convert FPP to nerolidol (159.1 &#x000b1; 7.3 mg L<sub>org</sub><sup>&#x02013;1</sup>), indicating that bLinS acts as both
+a monoterpene and sesquiterpene synthase. We demonstrated that bLinS
+makes <italic>R</italic>-(&#x02212;)-linalool and <italic>trans</italic>-nerolidol with GPP and FPP, respectively (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Figure S5a&#x02013;f</ext-link>). In contrast, no sesquiterpene products were
+detected with <italic>E. coli</italic> strains containing
+bCinS indicating it is restricted to the production of monoterpene
+products. With each of the strains, geraniol and farnesol (and their
+derivatives) were detected in organic overlays of cultures alongside
+the expected terpenoids. An unidentified endogenous <italic>E. coli</italic> pathway has previously been shown to convert
+both GPP and FPP into geraniol and farnesol respectively,<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> which are subsequently converted into oxidative
+byproducts by endogenous dehydrogenation and isomerization reactions.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> In particular, <italic>E. coli</italic> PhoA phosphatase was implicated in converting GPP to geraniol<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> and two integral membrane phosphatases (PgpB
+and YbjG) were shown to convert FPP to farnesol.<sup><xref ref-type="bibr" rid="ref57">57</xref></sup></p><p>The reported product profiles and yields suggest
+that bacterial
+monoterpene synthases are better suited compared to the corresponding
+plant enzymes for monoterpenoid production using engineered <italic>E. coli</italic> strains. Armed with this information we set
+out to determine the structures of bLinS and bCinS, in both ligand-free
+and complexed with fluorinated substrate analogues, with the objective
+of informing on mechanism, and guiding future engineering/exploitation
+in biocatalysis and metabolic engineering programmes.</p></sec><sec id="sec3.2"><title>Structure of
+the bCinS FNPP Complex</title><p>Crystals of bCinS
+were obtained when cocrystallized with 2-fluoro neryl pyrophosphate
+(FNPP), a fluorinated GPP isomer. Unfortunately, bCinS crystallized
+poorly when not bound to a substrate analogue. This suggests a conformational
+change occurs between an open (<italic>apo</italic>)-form and a closed
+(substrate-inhibitor bound) complex similar to that seen with other
+terpene cyclases.<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup> Previous studies have indicated
+that some terpene cyclases/synthases can also accept neryl pyrophosphate
+(NPP) as substrate.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> In the case of bCinS,
+incubation with NPP also leads to 1,8 cineole (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). As observed with other terpene synthases,
+fluorination of the substrate blocks the key ionization step, blocking
+diphosphate release and formation of the geranyl/neryl cation.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> The bCinS-FNPP structure was determined to 1.63
+&#x000c5; and reveals the enzyme is a dimer of a typical class I terpenoid
+&#x003b1;-helical domain, with the active sites oriented in an antiparallel
+fashion (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a).
+Analysis of the bCinS dimer revealed a total buried surface area of
+4114 &#x000c5;<sup>2</sup>, indicating the oligomeric state is biologically
+relevant (using PISA<sup><xref ref-type="bibr" rid="ref59">59</xref></sup>). Both monomers
+are similar in structure (rmsd of 0.25 &#x000c5; over 315 C&#x003b1; atoms),
+with residues that constitute one of the loops close to the active
+site disordered. The bound FNPP is clearly defined in the electron
+density of both active sites, with no significant differences in conformation
+between both monomers (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b). The pyrophosphate moiety of FNPP makes extensive interactions
+with residues in the active site, in addition to coordination by two
+Mg<sup>2+</sup> ions and interactions with several water molecules.
+While one Mg<sup>2+</sup> is bound by the conserved NSE motif (Mg<sup>2+</sup> B), the other is bound by the aspartate rich motif (Mg<sup>2+</sup> A). No clear density could be observed that corresponds
+to the location of the third metal ion (Mg<sup>2+</sup> C).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Structure of
+bCinS in complex with FNPP. (A) Cartoon representation
+of the bCinS dimer with the solvent accessible surface shown color
+coded per monomer. (B) Stereoview of the FNPP-Mg<sup>2+</sup> ion
+binding site. Key polar interactions are shown by dotted lines. The
+electron density indicates multiple positions of the diphosphate moiety
+as well as several Mg<sup>2+</sup> binding residues. (C) Stereoview
+of the FNPP hydrophobic binding pocket. A single water molecule is
+present, located close to the C6 atom.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0002" id="gr2" position="float"/></fig></sec><sec id="sec3.3"><title>EPR Reveals Binding of 3 Mn<sup>2+</sup> Ions to bCinS</title><p>To
+ascertain whether bCinS binds to two or three Mg<sup>2+</sup> ions,
+we employed EPR spectroscopy by titrating bCinS purified in the absence
+of MgCl<sub>2</sub> with Mn<sup>2+</sup>. The Mn<sup>2+</sup> ion
+serves as a valuable probe of the Mg<sup>2+</sup> ion binding sites.<sup><xref ref-type="bibr" rid="ref60">60</xref>&#x02212;<xref ref-type="bibr" rid="ref62">62</xref></sup> This substitution allowed application of cw-EPR spectroscopy to
+investigate the number of potential metal binding sites in bCinS.
+Comparison of the EPR spectra of the aqueous MnCl<sub>2</sub> and
+bCinS with and without the inhibitor FGPP indicates that the spectrum
+of the 1:1 bCinS-FGPP:Mn<sup>2+</sup> sample contains a highly resolved
+multiplet structure (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a; red spectrum). This multiplet structure is the<sup><xref ref-type="bibr" rid="ref55">55</xref></sup>Mn hyperfine coupling which is due to the interaction
+of electron spin (S = 5/2) of the Mn<sup>2+</sup> ion with the nuclear
+spin (I = 5/2) of <sup>55</sup> Mn nucleus. It is a characteristic
+signature of binding of FGPP to Mn<sup>2+</sup> ion, which is centered
+at <italic>g</italic> &#x0223c; 2.0. This multiplet feature increases
+in intensity only until the ratio of Mn<sup>2+</sup> ion concentration
+relative to bCinS-FGPP reaches 3. However, where the relative concentration
+of Mn<sup>2+</sup> ion is greater than 3, the EPR spectra show overall
+increase in intensity due to the contribution from free/unbound Mn<sup>2+</sup> ion. The EPR spectrum of the 1:6 bCinS-FGPP:Mn<sup>2+</sup> sample (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a;
+magenta spectrum) can be simulated (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a; cyan spectrum) by 1:1 addition of the
+EPR spectra of 1:3 bCinS-FGPP:Mn<sup>2+</sup> sample with (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a; blue spectrum)
+the 1:3 bCinS:Mn<sup>2+</sup> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a; black spectrum). This indicates that there are 3
+potential metal binding sites available in bCinS. Detailed analysis
+and assignment of the various transitions in the EPR spectra (Figures
+S6a,b and S7a,b) are provided in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Supporting Information</ext-link>.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>EPR confirms binding of 3 Mn<sup>2+</sup> in solution.
+cw-EPR spectra
+of &#x02018;Mn<sup>2+</sup>&#x02019; substituted bCinS (A) and bLinS
+(B) protein samples with varying equivalents of Mn<sup>2+</sup> concentration
+with or without FGPP measured as a frozen solution along with standard
+MnCl<sub>2</sub>. The plot shows the multiplet EPR signal arise from
+the Mn<sup>2+</sup> ion around the <italic>g</italic> = 2 region (from
+250 to 400 mT).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0003" id="gr3" position="float"/></fig></sec><sec id="sec3.4"><title>Structure of the bCinS-FGPP
+Complex and bCinS Mechanism</title><p>Soaking of the bCinS-FNPP crystals
+with FGPP led to the partial exchange
+of the inhibitor in both monomers (structure determined to 1.51 &#x000c5;
+resolution). Besides the obvious reorientation of the carbon skeleton,
+the presence of FGPP does not lead to active site reconfiguration.
+However, the soaking protocol used has led to clear electron density
+of a partially occupied third Mg<sup>2+</sup> ion (Mg<sup>2+</sup> C; <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). This
+in turn is accompanied by a modest change in conformation of the E155
+region (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a),
+bringing the E155 side chain into close contact with water molecules
+ligating Mg<sup>2+</sup> C. Given the partial occupancy of the inhibitors
+and of the E155/Mg<sup>2+</sup> C, it is unclear whether there is
+a direct link between the nature of the ligand bound in the active
+site and the binding of Mg<sup>2+</sup> C. However, as both GPP and
+NPP act as substrates for bCinS, presumably both requiring binding
+of three Mg<sup>2+</sup> ions, it seems plausible the soaking procedure
+used is responsible for the observed changes in the E155 region and
+the associated Mg<sup>2+</sup> C binding.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Structure of bCinS in
+complex with FGPP. (A) Cartoon representation
+of an overlay of the bCinS-FNPP complex structure (in gray) with the
+bCinS-FGPP/FNPP structure obtained by soaking bCinS-FNPP with GFPP
+(in blue). A loop region C-terminal to D85 as well as the region surrounding
+E155 adopt distinct conformations in response to binding of Mg<sup>2+</sup> C, these regions are colored in red. (B) Stereoview of the
+FGPP/FNPP-Mg<sup>2+</sup> ion binding site. Key polar interactions
+are shown by dotted lines.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0004" id="gr4" position="float"/></fig><p>On the basis of the bCinS-FNPP and bCinsS-FGPP/FNPP structures,
+a mechanism for the bacterial 1,8-cineole synthesis can be proposed,
+by analogy to observations made with plant monoterpene synthases<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>). Unlike FGPP, the carbon chain conformation of FNPP (and
+by extension the NPP substrate) is compatible with cyclization of
+the initial carbocation (in this case linalyl) derived from substrate
+ionization to form the (<italic>R</italic>)-terpinyl cation. Indeed,
+the FNPP C1 and C6 atoms are placed at a distance of &#x0223c;3.6 &#x000c5;.
+In contrast, steric constraints require the FGPP carbon skeleton to
+undergo an isomerization step following substrate ionization and geranyl
+carbocation formation prior to cyclization. For other monoterpene
+cyclase enzymes, this has been proposed to occur via transient formation
+of linalyldiphosphate and concomitant change from the transoid to
+cisoid configuration.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> A second substrate ionization
+step then generates the linalyl carbocation species, which can proceed
+to the cyclization step. The fact that both GPP and NPP result in
+the same product suggests the exact configuration of the respective
+linalyl carbocation species (GPP versus NPP derived) and resulting
+terpinyl carbocation are similar, resembling the carbon chain configuration
+of the FNPP inhibitor. However, recent solution studies using labeled
+GPP have suggested bCinS proceeds via the (<italic>S</italic>)-terpinyl
+cation, in contrast to the (<italic>R</italic>)-terpinyl configuration
+proposed on the basis of the bCinS-FNPP crystal structure.<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> Following formation of the terpinyl carbocation,
+conversion via the final cyclization step to the 1,8-cineol product
+is proposed to occur via a <italic>syn</italic> addition.<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> With the exception of a single water molecule,
+coordinated by Trp58 and Asn305, the hydrophobic binding pocket is
+devoid of solvent. This water molecule is placed at a distance of
+&#x0223c;3.6 &#x000c5; to the C6 of FNPP (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c), and thus appears the most likely candidate
+for nucleophilic attack on the terpinyl cation. MD simulations show
+that this water molecule remains at an average distance of 3.84 (&#x000b1;0.45
+run1, (&#x000b1;0.53 run2) &#x000c5; from C7 of GPP throughout the 100 ns
+simulation (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>). The water molecule interacts with Asn305, but no longer interacts
+with Trp58. <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>A&#x02013;C show the different positions of the hydrocarbon tail of
+GPP and NPP in the representative structure from the dominant cluster
+for the 100 ns simulations. The hydrocarbon tail of NPP occupies the
+position adopted by the side chain of Phe77 in the simulations of
+bCinS with GPP. There are more water molecules near to C7 of NPP and
+the shortest distance is not with a single water molecule throughout
+the entire simulation, as was observed for GPP. However, simulations
+with NPP show that the average position of the water molecule is more
+distant than in the bCinS/GPP system with an average C7&#x02013;WAT
+O distance of 4.26 &#x000b1; 0.59 &#x000c5; run1 and 4.42 &#x000b1; 0.59 &#x000c5;
+in run2 (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d,e).
+Formation of the neutral &#x003b1;-terpineol through deprotonation is
+avoided by the lack of any suitable acid&#x02013;base group in close
+proximity of this water molecule. Production of the bicyclic 1,8-cineole
+from the protonated &#x003b1;-terpineol species is proposed to occur
+via intramolecular proton transfer to C2, followed by C2&#x02013;O
+bond formation leading to formation of the second cycle. Considering
+the relative position of the water molecule and the C2 atom in the
+FNPP structure, this scenario will require some conformational changes
+to occur. This is distinct from the proposed mechanism for the plant
+1,8 cineole synthase, for which a <italic>syn</italic> addition of
+water is proposed, requiring no significant conformational changes
+prior the ensuing heterocyclization step.<sup><xref ref-type="bibr" rid="ref64">64</xref></sup></p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Mechanistic
+proposal for bCinS. A schematic outline of a putative
+mechanism for the conversion of GPP and NPP to the 1,8 cineole product
+by bCinS. Taking into account the observed position and orientation
+of the bCinS ligands and adjacent water molecules, we propose that
+the (<italic>R</italic>)-terpinyl carbocation intermediate is formed,
+followed by the <italic>anti</italic>-addition of water, requiring
+a rotation step prior to hetercyclization.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0005" id="gr5" position="float"/></fig><fig id="fig6" position="float"><label>Figure 6</label><caption><p>MD of bCinS with three Mg<sup>2+</sup> ions and GPP or NPP. (A)
+Active site of bCinS in the dominant cluster from MD simulations with
+of bCinS/GPP (purple) and bCinS/NPP (cyan). Water molecules within
+5 &#x000c5; of GPP are shown in stick form and the closest water molecule
+to C7, the site of attack by the water molecule, is colored in purple
+for bCinS/GPP and cyan for bCinS/NPP. (B) and (C) show the same view
+of bCinS/GPP and bCinS/NPP alone, respectively. (D) The distance between
+C7 and O of WAT364 over the course of two 100 ns MD simulations of
+bCinS/GPP. (E) The distance between C7 and O of the closest water
+molecule to C7 of NPP over the course of two 100 ns MD simulations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0006" id="gr6" position="float"/></fig></sec><sec id="sec3.5"><title>Structures of <italic>Apo</italic>-bLinS and bLinS-FGPP Complex</title><p>The bLinS could be crystallized
+in both the <italic>apo</italic> form (2.4 &#x000c5;) as well as in complex
+with the substrate analogue
+FGPP (1.82 &#x000c5;, <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). The bLinS structure reveals a dimer in the asymmetric unit,
+but the monomer interface is distinct to that observed for the bCinS
+enzyme (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a).
+The individual bLinS monomers overlay with rmsd of 0.83 &#x000c5; for
+293 C&#x003b1; atoms, with a small shift in position of the N-terminal
+region encompassing the first two alpha helices (residues 1&#x02013;62)
+located furthest away from the dimer interface. Co-crystallization
+with FGPP leads to crystals with similar packing. Unexpectedly, clear
+electron density corresponding to FGPP is only present in monomer
+A (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b). In contrast,
+electron density occupying the active site of monomer B is weak, and
+only a single phosphate ion could be modeled that might be associated
+with a disordered binding of the FGPP diphosphate moiety (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c).</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Structure of bLinS in <italic>apo</italic> and FGPP complex form.
+(A) Cartoon representation of the <italic>apo</italic> bLinS dimer,
+with one monomer colored in green and the second monomer in blue.
+The latter is overlaid with the first monomer (in gray) revealing
+small changes in conformation occur distant from the dimer interface.
+(B) Cartoon representation of monomer A bound to FGPP. The N-terminal
+region is shown in blue and the (here disordered) C-terminal region
+in red. (C) Cartoon representation of the monomer B bound to phosphate.
+Orientation and color coding are as in panel B. The ordering of the
+C-terminus and the partial closing of the N-terminal regions occludes
+the phosphate from solvent, in contrast to the solvent exposed nature
+of the diphosphate group in monomer A. (D) Stereoview of the active
+site of bLinS monomer A in complex with FGPP. Key polar interactions
+are shown by black dotted lines. (E) Stereoview of the active site
+of bLinS monomer B (in blue) in overlay with the active site of bCinS
+in complex with FGPP/FNPP (in gray).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0007" id="gr7" position="float"/></fig><p>The FGPP is bound to the bLinS active site of chain A in
+an extended
+conformation compared to the FGPP/FNPP configuration observed in the
+bCinS structures (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>d). Only one Mg<sup>2+</sup> ion coordinating the pyrophosphate
+moiety could be unambiguously modeled. This Mg<sup>2+</sup> ion sits
+on the concave side of the PP<sub>i</sub> moiety and hydrogen bonds
+with Asp80 of the aspartate-rich motif in helix D. The direct interactions
+between the diphosphate moiety of FGPP and bLinS are limited to a
+polar interaction with Lys225. The hydrophobic moiety of FGPP is located
+in a predominantly hydrophobic pocket at the core of the bLinS structure,
+with a polar interaction observed between Asn218 of the Mg<sup>2+</sup> B binding NSE motif and the FGPP fluorine atom. The lack of Mg<sup>2+</sup> binding to the NSE motif, and the unusual position of the
+diphosphate moiety, suggests the FGPP is bound in a noncatalytic mode.
+We again used EPR to establish bLinS binds to three Mn<sup>2+</sup> ions (and by extension three Mg<sup>2+</sup>) in solution, similar
+to other terpene synthases (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b). While the electron density in the active site of
+bLinS monomer B corresponds to a disordered species, the position
+of the single phosphate that is visible is more akin to what can be
+expected for the catalytic binding mode when superimposing bLinS on
+the bCinS ligand complex structures (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>e). The phosphate in the bLinS monomer B
+establishes a network of polar contacts with the C-terminal region
+(R308, Y309) that is disordered in the <italic>apo</italic>-bLinS
+structure. It is furthermore positioned adjacent to the NSE motif,
+although a Mg<sup>2+</sup> B ion could not be unambiguously located
+in this area. The ordering of the C-terminal region is incompatible
+with crystal packing for bLinS monomer A, possibly contributing to
+the noncatalytic conformation observed for the bound FGPP in the corresponding
+active site. A comparison with the <italic>apo</italic>-bLinS structure
+reveals the overall conformation for both monomers is similar, with
+the notable exception of the C-terminal region. However, class I terpenoid
+synthase structures have been found to alternate between an &#x0201c;open&#x0201d;
+state (i.e., <italic>apo</italic>) and a &#x0201c;closed&#x0201d; (i.e.,
+ligand) bound state<sup><xref ref-type="bibr" rid="ref58">58</xref></sup>.<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> This calls into question whether the <italic>apo</italic>-bLinS structure is reflective of the open state, or whether the
+bLinS-FGPP complex corresponds to the closed state. The fact neither
+of the monomers in the bLinS-FGPP complex binds to the required three
+metal ions strongly suggests both <italic>apo</italic> bLinS and the
+bLinS-FGPP structures are in the open state, possibly stabilized by
+crystal packing contacts.</p><p>MD simulations suggest that, unlike
+other terpene synthases, neither
+bLinS nor bCinS undergo major conformational changes to between &#x0201c;open&#x0201d;
+and &#x0201c;closed&#x0201d; states, (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Figures S8a&#x02013;c and S9a&#x02013;c</ext-link>). Although bLinS-FGPP is likely to correspond
+to the open state, the carbon chain of the bound FGPP (in monomer
+A) occupies a similar region as observed in the bCinS-FGPP/FNPP complexes
+(<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>e). This likely
+indicates the position of the active site hydrophobic pocket in bLinS,
+and might even reflect the corresponding conformation of carbon chain
+of the bound FGPP in the closed state. As linalool is an acyclic monoterpene
+product, the bLinS catalytic mechanism does not require a cyclization
+process. Instead, the geranyl cation attacks a nearby water molecule
+leading to linalool following deprotonation (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a). In the bLinS-FNPP structure, several
+water molecules are located within a distance of &#x0223c;4.5 &#x000c5;
+from the FGPP (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>d), and representing likely candidates for this process in case the
+FGPP carbon chain conformation is reflective of the catalytically
+relevant species. In contrast to the closed nature of the bCinS structure,
+the bLinS is relatively open, and we cannot rule out further closure
+might occur upon substrate binding in solution. Keeping this caveat
+in mind, the most likely candidate for the water attack is the molecule
+that is coordinated by Asp79 and Arg172 and is at a distance of 3.6
+&#x000c5; from C3 of FGPP. The position of the water molecule with respect
+to FGPP suggests production of <italic>R</italic>-(&#x02212;)-linalool,
+which matches with the biochemical characterization. MD simulations
+show that the closest water molecule to C3 of GPP remains at an average
+distance of 3.29 (&#x000b1;0.21) &#x000c5; in run1 and 3.93 (&#x000b1;0.52)
+&#x000c5; in run2 (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>c). MD simulations of bLinS in complex with FPP (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Figure S9</ext-link>), the precursor to sesquiterpenes, shows that the
+active site is sufficiently large to accommodate a sesquiterpene,
+explaining the fact bLinS also accepts FPP as a substrate.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup></p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Mechanistic proposal for bLinS and MD of bLinS with GPP
+and three
+Mg<sup>2+</sup> ions. (A) Schematic outline representing the conversion
+of GPP to the linalool product by bLinS. (B) Active site of bLinS
+in the dominant cluster from MD simulations with GPP and three Mg<sup>2+</sup> ions. GPP is shown with cyan carbon atoms, bLinS is shown
+in purple in cartoon form and the Mg<sup>2+</sup> ions are shown as
+green spheres. Water molecules within 5 &#x000c5; of GPP are shown in
+stick form, with the water molecule closest to C3 of GPP shown in
+red. (C) The distance between C3 and O of WAT430 over the course of
+two 100 ns MD simulations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0008" id="gr8" position="float"/></fig></sec><sec id="sec3.6"><title>Bacterial mTC/S Are Structurally Similar to Sesquiterpene Synthases</title><p>The bLinS and bCinS are single domain (&#x003b1;) enzymes, whereas
+the plant mTC(S) typically contain two domains (&#x003b1; and &#x003b2;).
+This makes them structurally more similar to the sesquiterpene synthases
+(<xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref>a), which
+are also usually composed of only a single class I terpenoid fold
+domain.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> It is notable that genome mining
+for bacterial terpene synthase-like genes followed by heterologous
+expression revealed the majority of these enzymes made sesquiterpenes
+as products.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> So far, bLinS and bCinS
+are the only characterized bacterial mTC(S) that accept GPP as substrate
+and thus lead to monoterpene formation. The bCinS-FNPP complex is
+specifically compared to the structures of plant limonene synthases<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> and bornyl diphosphate synthase<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> for
+which complexes with the substrate analogues are available. When comparing
+the corresponding C-terminal catalytic domains with the bCinS complexes,
+it is clear that the orientation of GPP/NPP analogue in bCinS is such
+that the beta phosphate occupies the location comparable to the alpha
+phosphate binding site in the plant enzymes and <italic>vice versa</italic>, and resembles the orientation observed in sesquiterpene synthase
+complex. For the functionally analogous plant 1,8-cineole synthase
+(Sf-CinS1), only the apoenzyme structure is available. Furthermore,
+superimposition of the bCinS and Sf-CinS1 reveals distinct active
+site architectures. In Sf-CinS1, Asn338, which coordinates a water
+molecule, was found to be crucial for the synthesis of 1,8-cineole.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Mutation of Asn338 to Ile resulted in the formation
+of sabinene as the major product but no &#x003b1;-terpineol and 1,8-cineole,
+establishing the role of Asn338 in water capture. In bCinS, as mentioned
+before, residues Trp58 and Asn305 coordinate the water molecule proposed
+to be involved in the water attack. Though Asn305 in bCinS resides
+in a different helix and region of the active site compared to Asn338
+in Sf-CinS1, Asn305 might play a similar role to that proposed for
+the plant enzyme (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Figure S10</ext-link>). Analysis
+using DALI<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> and PDBefold<sup><xref ref-type="bibr" rid="ref67">67</xref></sup> servers showed many sesquiterpene synthases including pentalenene
+synthase (PDB 1 ps1),<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> germacradienol
+synthase (PDB 5i1u),<sup><xref ref-type="bibr" rid="ref68">68</xref></sup> hedycaryol synthase (PDB 4mc3),<sup><xref ref-type="bibr" rid="ref69">69</xref></sup> geosmin synthase (PDB 5dz2),<sup><xref ref-type="bibr" rid="ref70">70</xref></sup> epi-isozizaene
+synthase (PDB 4ltv),<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> selinadiene synthase (40kz),<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> and aristolochene synthase (PDB 4kwd)<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> are very similar to bLinS and bCinS structures (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">Table S2</ext-link>).</p><fig id="fig9" position="float"><label>Figure 9</label><caption><p>bLinS and bCinS are related to bacterial
+sesquiterpene synthases.
+(A) Stereoview of a cartoon representation of a structural overlay
+of bLinS (monomer B; in green), bCinS FGPP/FNPP (in blue) and aristolochene
+synthase (ATAS) (PDB code 4KUX) in complex with a C15 substrate analogue (in magenta).
+(B) Active site overlay of bCinS and ATAS, color coding as in panel
+A. (C) Active site overlay of bLinS (monomer B) and ATAS, color coding
+as in panel A.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs-2017-019242_0009" id="gr9" position="float"/></fig><p>Two sesquiterpene synthase
+structures have been reported in complex
+with substrate analogues: <italic>Aspergillus terreus</italic> aristocholene synthase (ATAS) with farnesyl thiolodiphosphate (FSPP;
+PDB 4KUX) and
+selinadiene synthase (SdS) with dihydrofarnesyl diphosphate (DHFPP;
+PDB 4OKZ). A
+comparison of these structures with bLinS and bCinS might allow pinpointing
+of those active site differences that play a role in determining substrate
+specificity (C<sub>10</sub> versus C<sub>15</sub>). Since the Mg<sup>2+</sup> and pyrophosphate binding regions are highly conserved,
+most variations in the active site architecture are restricted to
+hydrophobic cavity surrounding the substrate carbon chain. In bCinS,
+two phenylalanines (Phe 77 and Phe 179) constrict the substrate-binding
+site when compared to the ATAS-FSPP and SdS-DHFPP structures, and
+they would clash with a putative FPP substrate (<xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref>b). Phe179 resides in the kink region of
+the helix G1/2 of bCinS, and is replaced by Gly174 in ATAS and Ala183
+in SdS. The bCinS Phe77 resides in helix D and is homologous to Leu80
+in ATAS/Leu78 in SdS, with the latter both adopting a conformation
+that is pointing away from the active site. This suggests bCinS evolved
+from a sesquiterpene synthase by restricting active site volume.</p><p>Interestingly, bLinS contains nonaromatic residues at positions
+equivalent to bCinS Phe77 and Phe179 (Thr75 and Cys177 in bLinS),
+and thus resembles ATAS and SdS (<xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref>c). This provides a rationale for the fact
+bLinS can accept both GPP and FPP as substrates but bCinS can only
+convert GPP.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup></p></sec></sec><sec id="sec4"><title>Conclusions</title><p>We
+have shown that expression of <italic>Streptomyces clavuligerus</italic> linalool synthase and 1,8-cineole synthase in an <italic>E. coli</italic> geranyl diphosphate producing strain leads
+to higher levels of production (linalool) or more enriched product
+profiles (1,8-cineole) than previously reported. Crystal structures
+of both <italic>S. clavuligerus</italic> monoterpene
+synthases reveal the bacterial monoterpene synthases are more similar
+to previously characterized sesquiterpene synthases. A comparison
+with the sesquiterpene synthases allowed identification of key residues
+that can be exploited for rational design and switching of activity
+between the two classes. These results provide a basis for application
+of the bacterial monoterpene synthases to generate diverse monoterpene
+scaffolds and employ synthetic biology approaches for large-scale
+monoterpenoid production.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acscatal.7b01924">10.1021/acscatal.7b01924</ext-link>.<list id="silist" list-type="simple"><list-item><p>Extended EPR results
+and discussion, Scheme S1, Figures
+S1&#x02013;S10, Tables S1&#x02013;S2 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscatal.7b01924/suppl_file/cs7b01924_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cs7b01924_si_001.pdf"><caption><p>cs7b01924_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes-3"><p>The authors
+declare the following competing financial interest(s): Patent pending
+for the use of bLinS and bCinS in production of monoterpenes using
+biocatalysis and synthetic biology methods.</p></notes><ack><title>Acknowledgments</title><p>We
+thank Colin Levy, Manchester Protein Structure Facility
+(MPSF) for help with X-ray data collection, Matthew J. Cliff for NMR
+analysis of synthetic compounds and Derren J. Heyes for project management.
+We thank Diamond Light Source for access to beamlines I04 and I04-1
+(proposal number mx12788). This work was funded by the U.K. Biotechnology
+and Biological Sciences Research Council (BBSRC; BB/M000354/1, BB/M017702/1
+and BB/L027593/1:ERA-IB2 TERPENOSOME). D.L. is a Royal Society Wolfson
+Merit Award holder. M.W.v.d.K. is a BBSRC David Phillips Fellow. N.S.S.
+was a Royal Society Wolfson Merit Award holder and is an Engineering
+and Physical Sciences Research Council (EPSRC; EP/J020192/1) Established
+Career Fellow.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Tholl</surname><given-names>D.</given-names></name>
+<source>Adv. Biochem. Eng./Biotechnol.</source>
+<year>2015</year>, <volume>148</volume>, <fpage>63</fpage>&#x02013;<lpage>106</lpage>. <pub-id pub-id-type="doi">10.1007/10_2014_295</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>George</surname><given-names>K. W.</given-names></name>; <name><surname>Alonso-Gutierrez</surname><given-names>J.</given-names></name>; <name><surname>Keasling</surname><given-names>J. D.</given-names></name>; <name><surname>Lee</surname><given-names>T. S.</given-names></name>
+<source>Adv. Biochem. Eng./Biotechnol.</source>
+<year>2015</year>, <volume>148</volume>, <fpage>355</fpage>&#x02013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1007/10_2014_288</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Leferink</surname><given-names>N. G. H.</given-names></name>; <name><surname>Jervis</surname><given-names>A. J.</given-names></name>; <name><surname>Zebec</surname><given-names>Z.</given-names></name>; <name><surname>Toogood</surname><given-names>H. S.</given-names></name>; <name><surname>Hay</surname><given-names>S.</given-names></name>; <name><surname>Takano</surname><given-names>E.</given-names></name>; <name><surname>Scrutton</surname><given-names>N. S.</given-names></name>
+<source>Chemistryselect</source>
+<year>2016</year>, <volume>1</volume>, <fpage>1893</fpage>&#x02013;<lpage>1896</lpage>. <pub-id pub-id-type="doi">10.1002/slct.201600563</pub-id>.<pub-id pub-id-type="pmid">29756025</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Peralta-Yahya</surname><given-names>P. P.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>; <name><surname>del Cardayre</surname><given-names>S. B.</given-names></name>; <name><surname>Keasling</surname><given-names>J. D.</given-names></name>
+<source>Nature</source>
+<year>2012</year>, <volume>488</volume>, <fpage>320</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1038/nature11478</pub-id>.<pub-id pub-id-type="pmid">22895337</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Jongedijk</surname><given-names>E.</given-names></name>; <name><surname>Cankar</surname><given-names>K.</given-names></name>; <name><surname>Buchhaupt</surname><given-names>M.</given-names></name>; <name><surname>Schrader</surname><given-names>J.</given-names></name>; <name><surname>Bouwmeester</surname><given-names>H.</given-names></name>; <name><surname>Beekwilder</surname><given-names>J.</given-names></name>
+<source>Appl. Microbiol.
+Biotechnol.</source>
+<year>2016</year>, <volume>100</volume>, <fpage>2927</fpage>&#x02013;<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1007/s00253-016-7337-7</pub-id>.<pub-id pub-id-type="pmid">26915992</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Zebec</surname><given-names>Z.</given-names></name>; <name><surname>Wilkes</surname><given-names>J.</given-names></name>; <name><surname>Jervis</surname><given-names>A. J.</given-names></name>; <name><surname>Scrutton</surname><given-names>N. S.</given-names></name>; <name><surname>Takano</surname><given-names>E.</given-names></name>; <name><surname>Breitling</surname><given-names>R.</given-names></name>
+<source>Curr. Opin. Chem. Biol.</source>
+<year>2016</year>, <volume>34</volume>, <fpage>37</fpage>&#x02013;<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1016/j.cbpa.2016.06.002</pub-id>.<pub-id pub-id-type="pmid">27315341</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Ort</surname><given-names>D. R.</given-names></name>; <name><surname>Yuan</surname><given-names>J. S.</given-names></name>
+<source>Plant Biotechnol J.</source>
+<year>2015</year>, <volume>13</volume>, <fpage>137</fpage>&#x02013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1111/pbi.12343</pub-id>.<pub-id pub-id-type="pmid">25626473</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Formighieri</surname><given-names>C.</given-names></name>; <name><surname>Melis</surname><given-names>A.</given-names></name>
+<source>Photosynth.
+Res.</source>
+<year>2016</year>, <volume>130</volume>, <fpage>123</fpage>&#x02013;<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1007/s11120-016-0233-2</pub-id>.<pub-id pub-id-type="pmid">26895437</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Oldfield</surname><given-names>E.</given-names></name>; <name><surname>Lin</surname><given-names>F. Y.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>1124</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201103110</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Gao</surname><given-names>Y.</given-names></name>; <name><surname>Honzatko</surname><given-names>R. B.</given-names></name>; <name><surname>Peters</surname><given-names>R. J.</given-names></name>
+<source>Nat. Prod. Rep.</source>
+<year>2012</year>, <volume>29</volume>, <fpage>1153</fpage>&#x02013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1039/c2np20059g</pub-id>.<pub-id pub-id-type="pmid">22907771</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Aaron</surname><given-names>J. A.</given-names></name>; <name><surname>Christianson</surname><given-names>D. W.</given-names></name>
+<source>Pure Appl. Chem.</source>
+<year>2010</year>, <volume>82</volume>, <fpage>1585</fpage>&#x02013;<lpage>1597</lpage>. <pub-id pub-id-type="doi">10.1351/PAC-CON-09-09-37</pub-id>.<pub-id pub-id-type="pmid">21562622</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Srividya</surname><given-names>N.</given-names></name>; <name><surname>Davis</surname><given-names>E. M.</given-names></name>; <name><surname>Croteau</surname><given-names>R. B.</given-names></name>; <name><surname>Lange</surname><given-names>B. M.</given-names></name>
+<source>Proc. Natl. Acad. Sci.
+U. S. A.</source>
+<year>2015</year>, <volume>112</volume>, <fpage>3332</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1501203112</pub-id>.<pub-id pub-id-type="pmid">25733883</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Hyatt</surname><given-names>D. C.</given-names></name>; <name><surname>Croteau</surname><given-names>R.</given-names></name>
+<source>Arch. Biochem. Biophys.</source>
+<year>2005</year>, <volume>439</volume>, <fpage>222</fpage>&#x02013;<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.abb.2005.05.017</pub-id>.<pub-id pub-id-type="pmid">15978541</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Whittington</surname><given-names>D. A.</given-names></name>; <name><surname>Wise</surname><given-names>M. L.</given-names></name>; <name><surname>Urbansky</surname><given-names>M.</given-names></name>; <name><surname>Coates</surname><given-names>R. M.</given-names></name>; <name><surname>Croteau</surname><given-names>R. B.</given-names></name>; <name><surname>Christianson</surname><given-names>D. W.</given-names></name>
+<source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2002</year>, <volume>99</volume>, <fpage>15375</fpage>&#x02013;<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.232591099</pub-id>.<pub-id pub-id-type="pmid">12432096</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Hyatt</surname><given-names>D. C.</given-names></name>; <name><surname>Youn</surname><given-names>B.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Santhamma</surname><given-names>B.</given-names></name>; <name><surname>Coates</surname><given-names>R. M.</given-names></name>; <name><surname>Croteau</surname><given-names>R. B.</given-names></name>; <name><surname>Kang</surname><given-names>C.</given-names></name>
+<source>Proc. Natl. Acad.
+Sci. U.
+S. A.</source>
+<year>2007</year>, <volume>104</volume>, <fpage>5360</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0700915104</pub-id>.<pub-id pub-id-type="pmid">17372193</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Kumar</surname><given-names>R. P.</given-names></name>; <name><surname>Morehouse</surname><given-names>B. R.</given-names></name>; <name><surname>Matos</surname><given-names>J. O.</given-names></name>; <name><surname>Malik</surname><given-names>K.</given-names></name>; <name><surname>Lin</surname><given-names>H.</given-names></name>; <name><surname>Krauss</surname><given-names>I. J.</given-names></name>; <name><surname>Oprian</surname><given-names>D. D.</given-names></name>
+<source>Biochemistry</source>
+<year>2017</year>, <volume>56</volume>, <fpage>1716</fpage>&#x02013;<lpage>1725</lpage>. <pub-id pub-id-type="doi">10.1021/acs.biochem.7b00144</pub-id>.<pub-id pub-id-type="pmid">28272876</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Morehouse</surname><given-names>B. R.</given-names></name>; <name><surname>Kumar</surname><given-names>R. P.</given-names></name>; <name><surname>Matos</surname><given-names>J. O.</given-names></name>; <name><surname>Olsen</surname><given-names>S. N.</given-names></name>; <name><surname>Entova</surname><given-names>S.</given-names></name>; <name><surname>Oprian</surname><given-names>D. D.</given-names></name>
+<source>Biochemistry</source>
+<year>2017</year>, <volume>56</volume>, <fpage>1706</fpage>&#x02013;<lpage>1715</lpage>. <pub-id pub-id-type="doi">10.1021/acs.biochem.7b00143</pub-id>.<pub-id pub-id-type="pmid">28272875</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Kampranis</surname><given-names>S. C.</given-names></name>; <name><surname>Ioannidis</surname><given-names>D.</given-names></name>; <name><surname>Purvis</surname><given-names>A.</given-names></name>; <name><surname>Mahrez</surname><given-names>W.</given-names></name>; <name><surname>Ninga</surname><given-names>E.</given-names></name>; <name><surname>Katerelos</surname><given-names>N. A.</given-names></name>; <name><surname>Anssour</surname><given-names>S.</given-names></name>; <name><surname>Dunwell</surname><given-names>J. M.</given-names></name>; <name><surname>Degenhardt</surname><given-names>J.</given-names></name>; <name><surname>Makris</surname><given-names>A. M.</given-names></name>; <name><surname>Goodenough</surname><given-names>P. W.</given-names></name>; <name><surname>Johnson</surname><given-names>C. B.</given-names></name>
+<source>Plant Cell</source>
+<year>2007</year>, <volume>19</volume>, <fpage>1994</fpage>&#x02013;<lpage>2005</lpage>. <pub-id pub-id-type="doi">10.1105/tpc.106.047779</pub-id>.<pub-id pub-id-type="pmid">17557809</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Rudolph</surname><given-names>K.</given-names></name>; <name><surname>Parthier</surname><given-names>C.</given-names></name>; <name><surname>Egerer-Sieber</surname><given-names>C.</given-names></name>; <name><surname>Geiger</surname><given-names>D.</given-names></name>; <name><surname>Muller</surname><given-names>Y. A.</given-names></name>; <name><surname>Kreis</surname><given-names>W.</given-names></name>; <name><surname>Muller-Uri</surname><given-names>F.</given-names></name>
+<source>Acta Crystallogr.,
+Sect. F: Struct. Biol.
+Commun.</source>
+<year>2016</year>, <volume>72</volume>, <fpage>16</fpage>&#x02013;<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1107/S2053230X15023043</pub-id>.<pub-id pub-id-type="pmid">26750479</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Yamada</surname><given-names>Y.</given-names></name>; <name><surname>Kuzuyama</surname><given-names>T.</given-names></name>; <name><surname>Komatsu</surname><given-names>M.</given-names></name>; <name><surname>Shin-Ya</surname><given-names>K.</given-names></name>; <name><surname>Omura</surname><given-names>S.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Ikeda</surname><given-names>H.</given-names></name>
+<source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2015</year>, <volume>112</volume>, <fpage>857</fpage>&#x02013;<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1422108112</pub-id>.<pub-id pub-id-type="pmid">25535391</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Yamada</surname><given-names>Y.</given-names></name>; <name><surname>Arima</surname><given-names>S.</given-names></name>; <name><surname>Nagamitsu</surname><given-names>T.</given-names></name>; <name><surname>Johmoto</surname><given-names>K.</given-names></name>; <name><surname>Uekusa</surname><given-names>H.</given-names></name>; <name><surname>Eguchi</surname><given-names>T.</given-names></name>; <name><surname>Shin-ya</surname><given-names>K.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Ikeda</surname><given-names>H.</given-names></name>
+<source>J. Antibiot.</source>
+<year>2015</year>, <volume>68</volume>, <fpage>385</fpage>&#x02013;<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1038/ja.2014.171</pub-id>.<pub-id pub-id-type="pmid">25605043</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Nakano</surname><given-names>C.</given-names></name>; <name><surname>Kim</surname><given-names>H. K.</given-names></name>; <name><surname>Ohnishi</surname><given-names>Y.</given-names></name>
+<source>ChemBioChem</source>
+<year>2011</year>, <volume>12</volume>, <fpage>1988</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1002/cbic.201100330</pub-id>.<pub-id pub-id-type="pmid">21726035</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Nakano</surname><given-names>C.</given-names></name>; <name><surname>Kim</surname><given-names>H. K.</given-names></name>; <name><surname>Ohnishi</surname><given-names>Y.</given-names></name>
+<source>ChemBioChem</source>
+<year>2011</year>, <volume>12</volume>, <fpage>2403</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1002/cbic.201100501</pub-id>.<pub-id pub-id-type="pmid">21910204</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Dickschat</surname><given-names>J. S.</given-names></name>
+<source>Nat. Prod. Rep.</source>
+<year>2016</year>, <volume>33</volume>, <fpage>87</fpage>&#x02013;<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1039/C5NP00102A</pub-id>.<pub-id pub-id-type="pmid">26563452</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Koksal</surname><given-names>M.</given-names></name>; <name><surname>Chou</surname><given-names>W. K.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Christianson</surname><given-names>D. W.</given-names></name>
+<source>Biochemistry</source>
+<year>2012</year>, <volume>51</volume>, <fpage>3011</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1021/bi201827a</pub-id>.<pub-id pub-id-type="pmid">22455514</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Lapczynski</surname><given-names>A.</given-names></name>; <name><surname>Letizia</surname><given-names>C. S.</given-names></name>; <name><surname>Api</surname><given-names>A. M.</given-names></name>
+<source>Food Chem. Toxicol.</source>
+<year>2008</year>, <volume>46</volume>, <fpage>S190</fpage>&#x02013;<lpage>2</lpage>. <pub-id pub-id-type="doi">10.1016/j.fct.2008.06.087</pub-id>.<pub-id pub-id-type="pmid">19097259</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Seol</surname><given-names>G. H.</given-names></name>; <name><surname>Kim</surname><given-names>K. Y.</given-names></name>
+<source>Adv. Exp. Med. Biol.</source>
+<year>2016</year>, <volume>929</volume>, <fpage>389</fpage>&#x02013;<lpage>398</lpage>. <pub-id pub-id-type="doi">10.1007/978-3-319-41342-6_18</pub-id>.<pub-id pub-id-type="pmid">27771935</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Karp</surname><given-names>F.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Santhamma</surname><given-names>B.</given-names></name>; <name><surname>Assink</surname><given-names>B.</given-names></name>; <name><surname>Coates</surname><given-names>R. M.</given-names></name>; <name><surname>Croteau</surname><given-names>R. B.</given-names></name>
+<source>Arch. Biochem. Biophys.</source>
+<year>2007</year>, <volume>468</volume>, <fpage>140</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.abb.2007.09.008</pub-id>.<pub-id pub-id-type="pmid">17949678</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Dixit</surname><given-names>V. M.</given-names></name>; <name><surname>Laskovics</surname><given-names>F. M.</given-names></name>; <name><surname>Noall</surname><given-names>W. I.</given-names></name>; <name><surname>Poulter</surname><given-names>C. D.</given-names></name>
+<source>J. Org. Chem.</source>
+<year>1981</year>, <volume>46</volume>, <fpage>1967</fpage>&#x02013;<lpage>1969</lpage>. <pub-id pub-id-type="doi">10.1021/jo00322a060</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Winter</surname><given-names>G.</given-names></name>; <name><surname>Lobley</surname><given-names>C. M.</given-names></name>; <name><surname>Prince</surname><given-names>S. M.</given-names></name>
+<source>Acta Crystallogr.,
+Sect. D: Biol. Crystallogr.</source>
+<year>2013</year>, <volume>69</volume>, <fpage>1260</fpage>&#x02013;<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1107/S0907444913015308</pub-id>.<pub-id pub-id-type="pmid">23793152</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Kabsch</surname><given-names>W.</given-names></name>
+<source>Acta Crystallogr.,
+Sect. D: Biol. Crystallogr.</source>
+<year>2010</year>, <volume>66</volume>, <fpage>125</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1107/S0907444909047337</pub-id>.<pub-id pub-id-type="pmid">20124692</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Lesburg</surname><given-names>C. A.</given-names></name>; <name><surname>Zhai</surname><given-names>G.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Christianson</surname><given-names>D. W.</given-names></name>
+<source>Science</source>
+<year>1997</year>, <volume>277</volume>, <fpage>1820</fpage>&#x02013;<lpage>1824</lpage>. <pub-id pub-id-type="doi">10.1126/science.277.5333.1820</pub-id>.<pub-id pub-id-type="pmid">9295272</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>McCoy</surname><given-names>A. J.</given-names></name>; <name><surname>Grosse-Kunstleve</surname><given-names>R. W.</given-names></name>; <name><surname>Adams</surname><given-names>P. D.</given-names></name>; <name><surname>Winn</surname><given-names>M. D.</given-names></name>; <name><surname>Storoni</surname><given-names>L. C.</given-names></name>; <name><surname>Read</surname><given-names>R. J.</given-names></name>
+<source>J. Appl. Crystallogr.</source>
+<year>2007</year>, <volume>40</volume>, <fpage>658</fpage>&#x02013;<lpage>674</lpage>. <pub-id pub-id-type="doi">10.1107/S0021889807021206</pub-id>.<pub-id pub-id-type="pmid">19461840</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Adams</surname><given-names>P. D.</given-names></name>; <name><surname>Afonine</surname><given-names>P. V.</given-names></name>; <name><surname>Bunkoczi</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>V. B.</given-names></name>; <name><surname>Davis</surname><given-names>I. W.</given-names></name>; <name><surname>Echols</surname><given-names>N.</given-names></name>; <name><surname>Headd</surname><given-names>J. J.</given-names></name>; <name><surname>Hung</surname><given-names>L. W.</given-names></name>; <name><surname>Kapral</surname><given-names>G. J.</given-names></name>; <name><surname>Grosse-Kunstleve</surname><given-names>R. W.</given-names></name>; <name><surname>McCoy</surname><given-names>A. J.</given-names></name>; <name><surname>Moriarty</surname><given-names>N. W.</given-names></name>; <name><surname>Oeffner</surname><given-names>R.</given-names></name>; <name><surname>Read</surname><given-names>R. J.</given-names></name>; <name><surname>Richardson</surname><given-names>D. C.</given-names></name>; <name><surname>Richardson</surname><given-names>J. S.</given-names></name>; <name><surname>Terwilliger</surname><given-names>T. C.</given-names></name>; <name><surname>Zwart</surname><given-names>P. H.</given-names></name>
+<source>Acta Crystallogr., Sect. D: Biol. Crystallogr.</source>
+<year>2010</year>, <volume>66</volume>, <fpage>213</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1107/S0907444909052925</pub-id>.<pub-id pub-id-type="pmid">20124702</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Emsley</surname><given-names>P.</given-names></name>; <name><surname>Lohkamp</surname><given-names>B.</given-names></name>; <name><surname>Scott</surname><given-names>W. G.</given-names></name>; <name><surname>Cowtan</surname><given-names>K.</given-names></name>
+<source>Acta Crystallogr., Sect. D:
+Biol. Crystallogr.</source>
+<year>2010</year>, <volume>66</volume>, <fpage>486</fpage>&#x02013;<lpage>501</lpage>. <pub-id pub-id-type="doi">10.1107/S0907444910007493</pub-id>.<pub-id pub-id-type="pmid">20383002</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Afonine</surname><given-names>P. V.</given-names></name>; <name><surname>Grosse-Kunstleve</surname><given-names>R. W.</given-names></name>; <name><surname>Echols</surname><given-names>N.</given-names></name>; <name><surname>Headd</surname><given-names>J. J.</given-names></name>; <name><surname>Moriarty</surname><given-names>N. W.</given-names></name>; <name><surname>Mustyakimov</surname><given-names>M.</given-names></name>; <name><surname>Terwilliger</surname><given-names>T. C.</given-names></name>; <name><surname>Urzhumtsev</surname><given-names>A.</given-names></name>; <name><surname>Zwart</surname><given-names>P. H.</given-names></name>; <name><surname>Adams</surname><given-names>P. D.</given-names></name>
+<source>Acta Crystallogr., Sect.
+D: Biol. Crystallogr.</source>
+<year>2012</year>, <volume>68</volume>, <fpage>352</fpage>&#x02013;<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1107/S0907444912001308</pub-id>.<pub-id pub-id-type="pmid">22505256</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Joosten</surname><given-names>R. P.</given-names></name>; <name><surname>Long</surname><given-names>F.</given-names></name>; <name><surname>Murshudov</surname><given-names>G. N.</given-names></name>; <name><surname>Perrakis</surname><given-names>A.</given-names></name>
+<source>IUCrJ</source>
+<year>2014</year>, <volume>1</volume>, <fpage>213</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1107/S2052252514009324</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Chen</surname><given-names>V. B.</given-names></name>; <name><surname>Arendall</surname><given-names>W. B.</given-names><suffix>3rd</suffix></name>; <name><surname>Headd</surname><given-names>J. J.</given-names></name>; <name><surname>Keedy</surname><given-names>D. A.</given-names></name>; <name><surname>Immormino</surname><given-names>R. M.</given-names></name>; <name><surname>Kapral</surname><given-names>G. J.</given-names></name>; <name><surname>Murray</surname><given-names>L. W.</given-names></name>; <name><surname>Richardson</surname><given-names>J. S.</given-names></name>; <name><surname>Richardson</surname><given-names>D. C.</given-names></name>
+<source>Acta Crystallogr., Sect. D: Biol. Crystallogr.</source>
+<year>2010</year>, <volume>66</volume>, <fpage>12</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1107/S0907444909042073</pub-id>.<pub-id pub-id-type="pmid">20057044</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>MacKerell</surname><given-names>A. D.</given-names></name>; <name><surname>Bashford</surname><given-names>D.</given-names></name>; <name><surname>Bellott</surname><given-names>M.</given-names></name>; <name><surname>Dunbrack</surname><given-names>R. L.</given-names></name>; <name><surname>Evanseck</surname><given-names>J. D.</given-names></name>; <name><surname>Field</surname><given-names>M. J.</given-names></name>; <name><surname>Fischer</surname><given-names>S.</given-names></name>; <name><surname>Gao</surname><given-names>J.</given-names></name>; <name><surname>Guo</surname><given-names>H.</given-names></name>; <name><surname>Ha</surname><given-names>S.</given-names></name>; <name><surname>Joseph-McCarthy</surname><given-names>D.</given-names></name>; <name><surname>Kuchnir</surname><given-names>L.</given-names></name>; <name><surname>Kuczera</surname><given-names>K.</given-names></name>; <name><surname>Lau</surname><given-names>F. T. K.</given-names></name>; <name><surname>Mattos</surname><given-names>C.</given-names></name>; <name><surname>Michnick</surname><given-names>S.</given-names></name>; <name><surname>Ngo</surname><given-names>T.</given-names></name>; <name><surname>Nguyen</surname><given-names>D. T.</given-names></name>; <name><surname>Prodhom</surname><given-names>B.</given-names></name>; <name><surname>Reiher</surname><given-names>W. E.</given-names></name>; <name><surname>Roux</surname><given-names>B.</given-names></name>; <name><surname>Schlenkrich</surname><given-names>M.</given-names></name>; <name><surname>Smith</surname><given-names>J. C.</given-names></name>; <name><surname>Stote</surname><given-names>R.</given-names></name>; <name><surname>Straub</surname><given-names>J.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>; <name><surname>Wiorkiewicz-Kuczera</surname><given-names>J.</given-names></name>; <name><surname>Yin</surname><given-names>D.</given-names></name>; <name><surname>Karplus</surname><given-names>M.</given-names></name>
+<source>J. Phys. Chem. B</source>
+<year>1998</year>, <volume>102</volume>, <fpage>3586</fpage>&#x02013;<lpage>3616</lpage>. <pub-id pub-id-type="doi">10.1021/jp973084f</pub-id>.<pub-id pub-id-type="pmid">24889800</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Foloppe</surname><given-names>N.</given-names></name>; <name><surname>MacKerell</surname><given-names>A. D.</given-names></name>
+<source>J. Comput. Chem.</source>
+<year>2000</year>, <volume>21</volume>, <fpage>86</fpage>&#x02013;<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1002/(SICI)1096-987X(20000130)21:2&#x0003c;86::AID-JCC2&#x0003e;3.0.CO;2-G</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Olsson</surname><given-names>M. H. M.</given-names></name>; <name><surname>Sondergaard</surname><given-names>C. R.</given-names></name>; <name><surname>Rostkowski</surname><given-names>M.</given-names></name>; <name><surname>Jensen</surname><given-names>J. H.</given-names></name>
+<source>J. Chem. Theory Comput.</source>
+<year>2011</year>, <volume>7</volume>, <fpage>525</fpage>&#x02013;<lpage>537</lpage>. <pub-id pub-id-type="doi">10.1021/ct100578z</pub-id>.<pub-id pub-id-type="pmid">26596171</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Sondergaard</surname><given-names>C. R.</given-names></name>; <name><surname>Olsson</surname><given-names>M. H. M.</given-names></name>; <name><surname>Rostkowski</surname><given-names>M.</given-names></name>; <name><surname>Jensen</surname><given-names>J. H.</given-names></name>
+<source>J. Chem. Theory Comput.</source>
+<year>2011</year>, <volume>7</volume>, <fpage>2284</fpage>&#x02013;<lpage>2295</lpage>. <pub-id pub-id-type="doi">10.1021/ct200133y</pub-id>.<pub-id pub-id-type="pmid">26606496</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Jorgensen</surname><given-names>W. L.</given-names></name>; <name><surname>Chandrasekhar</surname><given-names>J.</given-names></name>; <name><surname>Madura</surname><given-names>J. D.</given-names></name>; <name><surname>Impey</surname><given-names>R. W.</given-names></name>; <name><surname>Klein</surname><given-names>M. L.</given-names></name>
+<source>J. Chem. Phys.</source>
+<year>1983</year>, <volume>79</volume>, <fpage>926</fpage>&#x02013;<lpage>935</lpage>. <pub-id pub-id-type="doi">10.1063/1.445869</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Humphrey</surname><given-names>W.</given-names></name>; <name><surname>Dalke</surname><given-names>A.</given-names></name>; <name><surname>Schulten</surname><given-names>K.</given-names></name>
+<source>J. Mol. Graphics</source>
+<year>1996</year>, <volume>14</volume>, <fpage>33</fpage>&#x02013;<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1016/0263-7855(96)00018-5</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>van
+der Kamp</surname><given-names>M. W.</given-names></name>; <name><surname>Sirirak</surname><given-names>J.</given-names></name>; <name><surname>Zurek</surname><given-names>J.</given-names></name>; <name><surname>Allemann</surname><given-names>R. K.</given-names></name>; <name><surname>Mulholland</surname><given-names>A. J.</given-names></name>
+<source>Biochemistry</source>
+<year>2013</year>, <volume>52</volume>, <fpage>8094</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1021/bi400898k</pub-id>.<pub-id pub-id-type="pmid">24106830</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Major</surname><given-names>D. T.</given-names></name>; <name><surname>Freud</surname><given-names>Y.</given-names></name>; <name><surname>Weitman</surname><given-names>M.</given-names></name>
+<source>Curr. Opin. Chem. Biol.</source>
+<year>2014</year>, <volume>21</volume>, <fpage>25</fpage>&#x02013;<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.cbpa.2014.03.010</pub-id>.<pub-id pub-id-type="pmid">24735749</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>O&#x02019;Brien</surname><given-names>T. E.</given-names></name>; <name><surname>Bertolani</surname><given-names>S. J.</given-names></name>; <name><surname>Tantillo</surname><given-names>D. J.</given-names></name>; <name><surname>Siegel</surname><given-names>J. B.</given-names></name>
+<source>Chem. Sci.</source>
+<year>2016</year>, <volume>7</volume>, <fpage>4009</fpage>&#x02013;<lpage>4015</lpage>. <pub-id pub-id-type="doi">10.1039/C6SC00635C</pub-id>.<pub-id pub-id-type="pmid">30155043</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Allner</surname><given-names>O.</given-names></name>; <name><surname>Nilsson</surname><given-names>L.</given-names></name>; <name><surname>Villa</surname><given-names>A.</given-names></name>
+<source>J. Chem. Theory Comput.</source>
+<year>2012</year>, <volume>8</volume>, <fpage>1493</fpage>&#x02013;<lpage>1502</lpage>. <pub-id pub-id-type="doi">10.1021/ct3000734</pub-id>.<pub-id pub-id-type="pmid">26596759</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>G&#x000f6;tz</surname><given-names>A. W.</given-names></name>; <name><surname>Williamson</surname><given-names>M. J.</given-names></name>; <name><surname>Xu</surname><given-names>D.</given-names></name>; <name><surname>Poole</surname><given-names>D.</given-names></name>; <name><surname>Le Grand</surname><given-names>S.</given-names></name>; <name><surname>Walker</surname><given-names>R. C.</given-names></name>
+<source>J. Chem. Theory Comput.</source>
+<year>2012</year>, <volume>8</volume>, <fpage>1542</fpage>&#x02013;<lpage>1555</lpage>. <pub-id pub-id-type="doi">10.1021/ct200909j</pub-id>.<pub-id pub-id-type="pmid">22582031</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="computer-program" id="cit50"><person-group person-group-type="allauthors"><name><surname>Case</surname><given-names>D. A.</given-names></name>; <name><surname>Betz</surname><given-names>R. M.</given-names></name>; <name><surname>Cerutti</surname><given-names>D. S.</given-names></name>; <name><surname>Cheatham</surname><given-names>T. E.</given-names><suffix>III</suffix></name>; <name><surname>Darden</surname><given-names>T. A.</given-names></name>; <name><surname>Duke</surname><given-names>R. E.</given-names></name>; <name><surname>Giese</surname><given-names>T. J.</given-names></name>; <name><surname>Gohlke</surname><given-names>H.</given-names></name>; <name><surname>Goetz</surname><given-names>A. W.</given-names></name>; <name><surname>Homeyer</surname><given-names>N.</given-names></name>; <name><surname>Izadi</surname><given-names>S.</given-names></name>; <name><surname>Janowski</surname><given-names>P.</given-names></name>; <name><surname>Kaus</surname><given-names>J.</given-names></name>; <name><surname>Kovalenko</surname><given-names>A.</given-names></name>; <name><surname>Lee</surname><given-names>T. S.</given-names></name>; <name><surname>LeGrand</surname><given-names>S.</given-names></name>; <name><surname>Li</surname><given-names>P.</given-names></name>; <name><surname>Lin</surname><given-names>C.</given-names></name>; <name><surname>Luchko</surname><given-names>T.</given-names></name>; <name><surname>Luo</surname><given-names>R.</given-names></name>; <name><surname>Madej</surname><given-names>B.</given-names></name>; <name><surname>Mermelstein</surname><given-names>D.</given-names></name>; <name><surname>Merz</surname><given-names>K. M.</given-names></name>; <name><surname>Monard</surname><given-names>G.</given-names></name>; <name><surname>Nguyen</surname><given-names>H.</given-names></name>; <name><surname>Nguyen</surname><given-names>H. T.</given-names></name>; <name><surname>Omelyan</surname><given-names>I.</given-names></name>; <name><surname>Onufriev</surname><given-names>A.</given-names></name>; <name><surname>Roe</surname><given-names>D.
+R.</given-names></name>; <name><surname>Roitberg</surname><given-names>A.</given-names></name>; <name><surname>Sagui</surname><given-names>C.</given-names></name>; <name><surname>Simmerling</surname><given-names>C. L.</given-names></name>; <name><surname>Botello-Smith</surname><given-names>W. M.</given-names></name>; <name><surname>Swails</surname><given-names>J.</given-names></name>; <name><surname>Walker</surname><given-names>R. C.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Wolf</surname><given-names>R. M.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Xiao</surname><given-names>L.</given-names></name>; <name><surname>Kollman</surname><given-names>P. A.</given-names></name></person-group><source>Amber</source>; <publisher-name>University
+of California</publisher-name>: <publisher-loc>San Francisco</publisher-loc>, <year>2016</year>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Chen</surname><given-names>M.</given-names></name>; <name><surname>Al-lami</surname><given-names>N.</given-names></name>; <name><surname>Janvier</surname><given-names>M.</given-names></name>; <name><surname>D&#x02019;Antonio</surname><given-names>E. L.</given-names></name>; <name><surname>Faraldos</surname><given-names>J. A.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Allemann</surname><given-names>R. K.</given-names></name>; <name><surname>Christianson</surname><given-names>D. W.</given-names></name>
+<source>Biochemistry</source>
+<year>2013</year>, <volume>52</volume>, <fpage>5441</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1021/bi400691v</pub-id>.<pub-id pub-id-type="pmid">23905850</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Aaron</surname><given-names>J. A.</given-names></name>; <name><surname>Lin</surname><given-names>X.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Christianson</surname><given-names>D. W.</given-names></name>
+<source>Biochemistry</source>
+<year>2010</year>, <volume>49</volume>, <fpage>1787</fpage>&#x02013;<lpage>1797</lpage>. <pub-id pub-id-type="doi">10.1021/bi902088z</pub-id>.<pub-id pub-id-type="pmid">20131801</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Alonso-Gutierrez</surname><given-names>J.</given-names></name>; <name><surname>Chan</surname><given-names>R.</given-names></name>; <name><surname>Batth</surname><given-names>T. S.</given-names></name>; <name><surname>Adams</surname><given-names>P. D.</given-names></name>; <name><surname>Keasling</surname><given-names>J. D.</given-names></name>; <name><surname>Petzold</surname><given-names>C. J.</given-names></name>; <name><surname>Lee</surname><given-names>T. S.</given-names></name>
+<source>Metab. Eng.</source>
+<year>2013</year>, <volume>19</volume>, <fpage>33</fpage>&#x02013;<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymben.2013.05.004</pub-id>.<pub-id pub-id-type="pmid">23727191</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Fujisaki</surname><given-names>S.</given-names></name>; <name><surname>Nishino</surname><given-names>T.</given-names></name>; <name><surname>Katsuki</surname><given-names>H.</given-names></name>
+<source>J. Biochem.</source>
+<year>1986</year>, <volume>99</volume>, <fpage>1327</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1093/oxfordjournals.jbchem.a135600</pub-id>.<pub-id pub-id-type="pmid">3519603</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Yoon</surname><given-names>S. H.</given-names></name>; <name><surname>Jang</surname><given-names>H. J.</given-names></name>; <name><surname>Choi</surname><given-names>E. S.</given-names></name>; <name><surname>Kim</surname><given-names>S. W.</given-names></name>
+<source>J. Biotechnol.</source>
+<year>2014</year>, <volume>169</volume>, <fpage>42</fpage>&#x02013;<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1016/j.jbiotec.2013.11.009</pub-id>.<pub-id pub-id-type="pmid">24269531</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Liu</surname><given-names>W.</given-names></name>; <name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>Tian</surname><given-names>N.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Cao</surname><given-names>Y.</given-names></name>; <name><surname>Xian</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>
+<source>Bioengineered</source>
+<year>2015</year>, <volume>6</volume>, <fpage>288</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1080/21655979.2015.1062188</pub-id>.<pub-id pub-id-type="pmid">26091008</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Wang</surname><given-names>C. L.</given-names></name>; <name><surname>Park</surname><given-names>J. E.</given-names></name>; <name><surname>Choi</surname><given-names>E. S.</given-names></name>; <name><surname>Kim</surname><given-names>S. W.</given-names></name>
+<source>Biotechnol. J.</source>
+<year>2016</year>, <volume>11</volume>, <fpage>1291</fpage>&#x02013;<lpage>1297</lpage>. <pub-id pub-id-type="doi">10.1002/biot.201600250</pub-id>.<pub-id pub-id-type="pmid">27440491</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Baer</surname><given-names>P.</given-names></name>; <name><surname>Rabe</surname><given-names>P.</given-names></name>; <name><surname>Fischer</surname><given-names>K.</given-names></name>; <name><surname>Citron</surname><given-names>C. A.</given-names></name>; <name><surname>Klapschinski</surname><given-names>T. A.</given-names></name>; <name><surname>Groll</surname><given-names>M.</given-names></name>; <name><surname>Dickschat</surname><given-names>J. S.</given-names></name>
+<source>Angew. Chem., Int. Ed.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>7652</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201403648</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Krissinel</surname><given-names>E.</given-names></name>; <name><surname>Henrick</surname><given-names>K.</given-names></name>
+<source>J. Mol. Biol.</source>
+<year>2007</year>, <volume>372</volume>, <fpage>774</fpage>&#x02013;<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmb.2007.05.022</pub-id>.<pub-id pub-id-type="pmid">17681537</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Morrissey</surname><given-names>S. R.</given-names></name>; <name><surname>Horton</surname><given-names>T. E.</given-names></name>; <name><surname>DeRose</surname><given-names>V. J.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2000</year>, <volume>122</volume>, <fpage>3473</fpage>&#x02013;<lpage>3481</lpage>. <pub-id pub-id-type="doi">10.1021/ja992989z</pub-id>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>DeRose</surname><given-names>V. J.</given-names></name>
+<source>Curr. Opin. Struct.
+Biol.</source>
+<year>2003</year>, <volume>13</volume>, <fpage>317</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/S0959-440X(03)00077-0</pub-id>.<pub-id pub-id-type="pmid">12831882</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Stich</surname><given-names>T. A.</given-names></name>; <name><surname>Lahiri</surname><given-names>S.</given-names></name>; <name><surname>Yeagle</surname><given-names>G.</given-names></name>; <name><surname>Dicus</surname><given-names>M.</given-names></name>; <name><surname>Brynda</surname><given-names>M.</given-names></name>; <name><surname>Gunn</surname><given-names>A.</given-names></name>; <name><surname>Aznar</surname><given-names>C.</given-names></name>; <name><surname>Derose</surname><given-names>V. J.</given-names></name>; <name><surname>Britt</surname><given-names>R. D.</given-names></name>
+<source>Appl. Magn. Reson.</source>
+<year>2007</year>, <volume>31</volume>, <fpage>321</fpage>&#x02013;<lpage>341</lpage>. <pub-id pub-id-type="doi">10.1007/BF03166263</pub-id>.<pub-id pub-id-type="pmid">22190766</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Rinkel</surname><given-names>J.</given-names></name>; <name><surname>Rabe</surname><given-names>P.</given-names></name>; <name><surname>Zur Horst</surname><given-names>L.</given-names></name>; <name><surname>Dickschat</surname><given-names>J. S.</given-names></name>
+<source>Beilstein J. Org.
+Chem.</source>
+<year>2016</year>, <volume>12</volume>, <fpage>2317</fpage>&#x02013;<lpage>2324</lpage>. <pub-id pub-id-type="doi">10.3762/bjoc.12.225</pub-id>.<pub-id pub-id-type="pmid">28144299</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Wise</surname><given-names>M. L.</given-names></name>; <name><surname>Urbansky</surname><given-names>M.</given-names></name>; <name><surname>Helms</surname><given-names>G. L.</given-names></name>; <name><surname>Coates</surname><given-names>R. M.</given-names></name>; <name><surname>Croteau</surname><given-names>R.</given-names></name>
+<source>J. Am. Chem. Soc.</source>
+<year>2002</year>, <volume>124</volume>, <fpage>8546</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1021/ja0265714</pub-id>.<pub-id pub-id-type="pmid">12121093</pub-id></mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Li</surname><given-names>R.</given-names></name>; <name><surname>Chou</surname><given-names>W. K.</given-names></name>; <name><surname>Himmelberger</surname><given-names>J. A.</given-names></name>; <name><surname>Litwin</surname><given-names>K. M.</given-names></name>; <name><surname>Harris</surname><given-names>G. G.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Christianson</surname><given-names>D. W.</given-names></name>
+<source>Biochemistry</source>
+<year>2014</year>, <volume>53</volume>, <fpage>1155</fpage>&#x02013;<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1021/bi401643u</pub-id>.<pub-id pub-id-type="pmid">24517311</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Holm</surname><given-names>L.</given-names></name>; <name><surname>Rosenstrom</surname><given-names>P.</given-names></name>
+<source>Nucleic Acids Res.</source>
+<year>2010</year>, <volume>38</volume>, <fpage>W545</fpage>&#x02013;<lpage>W549</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkq366</pub-id>.<pub-id pub-id-type="pmid">20457744</pub-id></mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Krissinel</surname><given-names>E.</given-names></name>; <name><surname>Henrick</surname><given-names>K.</given-names></name>
+<source>Acta Crystallogr., Sect. D:
+Biol. Crystallogr.</source>
+<year>2004</year>, <volume>60</volume>, <fpage>2256</fpage>&#x02013;<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1107/S0907444904026460</pub-id>.<pub-id pub-id-type="pmid">15572779</pub-id></mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Grundy</surname><given-names>D. J.</given-names></name>; <name><surname>Chen</surname><given-names>M.</given-names></name>; <name><surname>Gonzalez</surname><given-names>V.</given-names></name>; <name><surname>Leoni</surname><given-names>S.</given-names></name>; <name><surname>Miller</surname><given-names>D. J.</given-names></name>; <name><surname>Christianson</surname><given-names>D. W.</given-names></name>; <name><surname>Allemann</surname><given-names>R. K.</given-names></name>
+<source>Biochemistry</source>
+<year>2016</year>, <volume>55</volume>, <fpage>2112</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1021/acs.biochem.6b00115</pub-id>.<pub-id pub-id-type="pmid">26998816</pub-id></mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name><surname>Baer</surname><given-names>P.</given-names></name>; <name><surname>Rabe</surname><given-names>P.</given-names></name>; <name><surname>Citron</surname><given-names>C. A.</given-names></name>; <name><surname>de Oliveira Mann</surname><given-names>C. C.</given-names></name>; <name><surname>Kaufmann</surname><given-names>N.</given-names></name>; <name><surname>Groll</surname><given-names>M.</given-names></name>; <name><surname>Dickschat</surname><given-names>J. S.</given-names></name>
+<source>ChemBioChem</source>
+<year>2014</year>, <volume>15</volume>, <fpage>213</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1002/cbic.201300708</pub-id>.<pub-id pub-id-type="pmid">24399794</pub-id></mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="journal" id="cit70"><name><surname>Harris</surname><given-names>G. G.</given-names></name>; <name><surname>Lombardi</surname><given-names>P. M.</given-names></name>; <name><surname>Pemberton</surname><given-names>T. A.</given-names></name>; <name><surname>Matsui</surname><given-names>T.</given-names></name>; <name><surname>Weiss</surname><given-names>T. M.</given-names></name>; <name><surname>Cole</surname><given-names>K. E.</given-names></name>; <name><surname>Koksal</surname><given-names>M.</given-names></name>; <name><surname>Murphy</surname><given-names>F. V. t.</given-names></name>; <name><surname>Vedula</surname><given-names>L. S.</given-names></name>; <name><surname>Chou</surname><given-names>W. K.</given-names></name>; <name><surname>Cane</surname><given-names>D. E.</given-names></name>; <name><surname>Christianson</surname><given-names>D. W.</given-names></name>
+<source>Biochemistry</source>
+<year>2015</year>, <volume>54</volume>, <fpage>7142</fpage>&#x02013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1021/acs.biochem.5b01143</pub-id>.<pub-id pub-id-type="pmid">26598179</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,639 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6131416</article-id><article-id pub-id-type="doi">10.1111/pbi.12914</article-id><article-id pub-id-type="publisher-id">PBI12914</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>The rice terpene synthase gene <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> functions as an (<italic>S</italic>)&#x02010;limonene synthase <italic>in planta,</italic> and its overexpression leads to enhanced resistance to the blast fungus <italic>Magnaporthe oryzae</italic>
+</article-title><alt-title alt-title-type="left-running-head"><italic>Xujun Chen</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12914-cr-0001" contrib-type="author" corresp="yes"><name><surname>Chen</surname><given-names>Xujun</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3612-1416</contrib-id><address><email>chenxj@cau.edu.cn</email></address><xref ref-type="aff" rid="pbi12914-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="pbi12914-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="pbi12914-cr-0002" contrib-type="author"><name><surname>Chen</surname><given-names>Hao</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="pbi12914-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="pbi12914-cr-0003" contrib-type="author"><name><surname>Yuan</surname><given-names>Joshua S.</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pbi12914-cr-0004" contrib-type="author"><name><surname>K&#x000f6;llner</surname><given-names>Tobias G.</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="pbi12914-cr-0005" contrib-type="author"><name><surname>Chen</surname><given-names>Yuying</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12914-cr-0006" contrib-type="author"><name><surname>Guo</surname><given-names>Yufen</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12914-cr-0007" contrib-type="author"><name><surname>Zhuang</surname><given-names>Xiaofeng</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12914-cr-0008" contrib-type="author"><name><surname>Chen</surname><given-names>Xinlu</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12914-cr-0009" contrib-type="author"><name><surname>Zhang</surname><given-names>Yong&#x02010;jun</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="pbi12914-cr-0010" contrib-type="author"><name><surname>Fu</surname><given-names>Jianyu</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="pbi12914-cr-0011" contrib-type="author"><name><surname>Nebenf&#x000fc;hr</surname><given-names>Andreas</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="pbi12914-cr-0012" contrib-type="author"><name><surname>Guo</surname><given-names>Zejian</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12914-cr-0013" contrib-type="author"><name><surname>Chen</surname><given-names>Feng</given-names></name><xref ref-type="aff" rid="pbi12914-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="pbi12914-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Plant Pathology</named-content>
+<named-content content-type="organisation-division">Department of Plant Pathology</named-content>
+<institution>China Agricultural University</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12914-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Plant Sciences</named-content>
+<institution>University of Tennessee</institution>
+<named-content content-type="city">Knoxville</named-content>
+<named-content content-type="country-part">TN</named-content>
+<country country="US">USA</country>
+</aff><aff id="pbi12914-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Plant Pathology and Microbiology</named-content>
+<institution>Texas A&#x00026;M University</institution>
+<named-content content-type="city">College Station</named-content>
+<named-content content-type="country-part">TX</named-content>
+<country country="US">USA</country>
+</aff><aff id="pbi12914-aff-0004">
+<label><sup>4</sup></label>
+<institution>Max Planck Institute for Chemical Ecology</institution>
+<named-content content-type="city">Jena</named-content>
+<country country="DE">Germany</country>
+</aff><aff id="pbi12914-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory for Biology of Plant Diseases and Insect Pests</named-content>
+<named-content content-type="organisation-division">Institute of Plant Protection</named-content>
+<institution>Chinese Academy of Agricultural Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12914-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Tea Research Institute</named-content>
+<institution>Chinese Academy of Agricultural Sciences</institution>
+<named-content content-type="city">Hangzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12914-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Biochemistry and Cellular and Molecular Biology</named-content>
+<institution>University of Tennessee</institution>
+<named-content content-type="city">Knoxville</named-content>
+<named-content content-type="country-part">TN</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +86 10 62734962; fax +86 10 62734962; email <email>chenxj@cau.edu.cn</email>)</corresp><fn fn-type="equal" id="pbi12914-note-1001"><label>&#x02020;</label><p>These authors contributed equally to the article.</p></fn></author-notes><pub-date pub-type="epub"><day>06</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2018</year></pub-date><volume>16</volume><issue>10</issue><issue-id pub-id-type="doi">10.1111/pbi.2018.16.issue-10</issue-id><fpage>1778</fpage><lpage>1787</lpage><history><date date-type="received"><day>14</day><month>8</month><year>2017</year></date><date date-type="rev-recd"><day>11</day><month>2</month><year>2018</year></date><date date-type="accepted"><day>24</day><month>2</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-16-1778.pdf"/><abstract id="pbi12914-abs-0001"><title>Summary</title><p>Rice blast disease, caused by the fungus <italic>Magnaporthe oryzae</italic>, is the most devastating disease of rice. In our ongoing characterization of the defence mechanisms of rice plants against <italic>M.&#x000a0;oryzae</italic>, a terpene synthase gene <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> was identified as a candidate defence gene. Here, we report the functional characterization of <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic>, which is up&#x02010;regulated by <italic>M.&#x000a0;oryzae</italic> infection. Overexpression of <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> in rice plants enhanced resistance against <italic>M.&#x000a0;oryzae</italic>, while <italic>Os<styled-content style="fixed-case">TPS</styled-content>19 </italic>
+<styled-content style="fixed-case">RNA</styled-content>i lines were more susceptible to the pathogen. Metabolic analysis revealed that the production of a monoterpene (<italic>S</italic>)&#x02010;limonene was increased and decreased in <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> overexpression and <styled-content style="fixed-case">RNA</styled-content>i lines, respectively, suggesting that Os<styled-content style="fixed-case">TPS</styled-content>19 functions as a limonene synthase <italic>in planta</italic>. This notion was further supported by <italic>in&#x000a0;vitro</italic> enzyme assays with recombinant Os<styled-content style="fixed-case">TPS</styled-content>19, in which Os<styled-content style="fixed-case">TPS</styled-content>19 had both sesquiterpene activity and monoterpene synthase activity, with limonene as a major product. Furthermore, in a subcellular localization experiment, Os<styled-content style="fixed-case">TPS</styled-content>19 was localized in plastids. Os<styled-content style="fixed-case">TPS</styled-content>19 has a highly homologous paralog, Os<styled-content style="fixed-case">TPS</styled-content>20, which likely resulted from a recent gene duplication event. We found that the variation in Os<styled-content style="fixed-case">TPS</styled-content>19 and Os<styled-content style="fixed-case">TPS</styled-content>20 enzyme activities was determined by a single amino acid in the active site cavity. The expression of <italic>Os<styled-content style="fixed-case">TPS</styled-content>20</italic> was not affected by <italic>M.&#x000a0;oryzae</italic> infection. This indicates functional divergence of Os<styled-content style="fixed-case">TPS</styled-content>19 and Os<styled-content style="fixed-case">TPS</styled-content>20. Lastly, (<italic>S</italic>)&#x02010;limonene inhibited the germination of <italic>M.&#x000a0;oryzae</italic> spores <italic>in&#x000a0;vitro</italic>. Os<styled-content style="fixed-case">TPS</styled-content>19 was determined to function as an (<italic>S</italic>)&#x02010;limonene synthase in rice and plays a role in defence against <italic>M.&#x000a0;oryzae,</italic> at least partly, by inhibiting spore germination.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12914-kwd-0001"><italic>Oryza sativa</italic></kwd><kwd id="pbi12914-kwd-0002">limonene synthase</kwd><kwd id="pbi12914-kwd-0003">disease resistance</kwd></kwd-group><funding-group><award-group><funding-source>Natural Science Foundation of China</funding-source><award-id>31571947</award-id></award-group><award-group><funding-source>The 111 Project</funding-source><award-id>B13006</award-id></award-group><award-group><funding-source>An Innovation Fund from the University of Tennessee, Institute of Agriculture</funding-source></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="10"/><word-count count="7411"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12914</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.7.1 mode:remove_FC converted:11.09.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pbi12914-sec-0001"><title>Introduction</title><p>Rice blast disease caused by <italic>Magnaporthe oryzae</italic>, one of the top 10 fungal pathogens (Dean <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0010" ref-type="ref">2012</xref>), is the most devastating rice disease, causing severe loss of production. As a model system for molecular studies, rice and <italic>M.&#x000a0;oryzae</italic> have been investigated for pathogenicity, host resistance and their interactions. The basal resistance triggered by pathogen&#x02010;associated molecular patterns and specific effector&#x02010;triggered immunity is associated with a similar network and activate innate immune responses, including global transcriptional reprogramming (Zhang and Zhou, <xref rid="pbi12914-bib-0041" ref-type="ref">2010</xref>). Rice defences, which are activated by blast resistance (called <italic>Pi</italic>) genes, often break down in practical applications because the pathogen effectors evolve rapidly to evade recognition by the corresponding <italic>Pi</italic> genes. Therefore, efforts have been undertaken to dissect the molecular processes as well as metabolites related to plant defences and provide useful resources for breeding of durable disease resistance. Recently, a natural allele of a C<sub>2</sub>H<sub>2</sub>&#x02010;type transcription factor in the rice cultivar Digu was found to confer nonrace&#x02010;specific resistance against blast fungi (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0020" ref-type="ref">2017</xref>). In addition to innate immune responses, plants also established an inducible immune response system, including systemic acquired resistance (SAR). Plant&#x02010;synthesized metabolites, such as salicylic acid (SA), pipecolic acid, azelaic acid and glycerol&#x02010;3&#x02010;phosphate, function as signal molecules in SAR (Fu and Dong, <xref rid="pbi12914-bib-0014" ref-type="ref">2013</xref>). It was recently reported that volatile monoterpenes, particularly pinenes, promote SAR within and between <italic>Arabidopsis</italic> plants (Riedlmeier <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0028" ref-type="ref">2017</xref>).</p><p>Upon pathogen infection, plants produce low&#x02010;molecular weight compounds with antimicrobial activities, such as phenolics, terpenoids and glucosinolates. Most of them are categorized as secondary metabolites. In the case of blast fungal attack, rice plants accumulate several types of diterpenoids and the flavonoid sakuranetin (methylated naringenin) as phytoalexins (Ahuja <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0002" ref-type="ref">2012</xref>). To develop strategies to protect plants from biotic stresses, efforts have also been devoted to regulate the accumulation of defence chemicals, especially by identifying the genes responsible for metabolite biosynthesis. In rice, many such genes have been identified, such as the terpene synthase genes and SA methyltransferase genes involved in the production of insect&#x02010;induced volatiles (Yuan <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0040" ref-type="ref">2008</xref>; Zhao <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0042" ref-type="ref">2010</xref>). An increase in neomenthol and menthol contents confers pepper and <italic>Arabidopsis</italic> resistance against bacterial and fungal pathogens (Choi <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0008" ref-type="ref">2008</xref>).</p><p>A number of terpene synthases (TPSs) from a range of plant species have been characterized, and some of them have been used for metabolic manipulation (Aharoni <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0001" ref-type="ref">2006</xref>; Yu and Utsumi, <xref rid="pbi12914-bib-0039" ref-type="ref">2009</xref>). Ectopic expression of lemon &#x003b1;&#x02010;zingiberene synthase, a sesquiterpene synthase gene, increased the accumulation of &#x003b1;&#x02010;zingiberene and other sesquiterpenes and monoterpenes in tomato (Davidovich&#x02010;Rikanati <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0009" ref-type="ref">2008</xref>). (<italic>E</italic>)&#x02010;&#x003b2;&#x02010;caryophyllene in rice and maize has been shown to play a role in the attraction of parasitoid wasps of <italic>Anagrus nilaparvatae</italic> or entomopathogenic nematodes (Cheng <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0007" ref-type="ref">2007</xref>; Degenhardt <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0011" ref-type="ref">2009</xref>). Genetic modification has also been applied to change the composition of essential oils, primarily composed of monoterpenes and sesquiterpenes. The compound mixtures are used as fragrances, flavours and chemopreventive agents to protect plants from pathogen infection (Gershenzon and Dudareva, <xref rid="pbi12914-bib-0016" ref-type="ref">2007</xref>). For example, overexpression of a limonene synthase gene from spearmint (<italic>Mentha spicata</italic>) altered the monoterpene composition of developing leaves of transgenic spike lavender (Mu&#x000f1;oz&#x02010;Bertomeu <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0025" ref-type="ref">2008</xref>). In addition, heterologous expression of monoterpene synthase genes from lemon altered the fragrance of tobacco plants (L&#x000fc;cker <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0024" ref-type="ref">2004</xref>). The monocyclic monoterpene limonene has been found to be released from rice plants constitutively, and its emission is enhanced under abiotic and biotic stress conditions (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0018" ref-type="ref">2015</xref>, <xref rid="pbi12914-bib-0019" ref-type="ref">2016</xref>; Lou <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0023" ref-type="ref">2006</xref>; Obara <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0026" ref-type="ref">2002</xref>; Yuan <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0040" ref-type="ref">2008</xref>).</p><p>Two recently duplicated terpene synthase genes, <italic>OsTPS19</italic> (<italic>Os04g27190</italic>) and <italic>OsTPS20</italic> (<italic>Os04g27340</italic>), were ascribed different functions as reported by Taniguchi <italic>et&#x000a0;al</italic>. (<xref rid="pbi12914-bib-0032" ref-type="ref">2014</xref>) and Lee <italic>et&#x000a0;al</italic>. (<xref rid="pbi12914-bib-0018" ref-type="ref">2015</xref>, <xref rid="pbi12914-bib-0019" ref-type="ref">2016</xref>), respectively<italic>. OsTPS20</italic> was found to be induced by oxidative stress or the bacterial pathogen <italic>Xanthomonas oryzae</italic> pv. <italic>oryzae</italic> (<italic>Xoo</italic>) (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0018" ref-type="ref">2015</xref>, <xref rid="pbi12914-bib-0019" ref-type="ref">2016</xref>). The recombinant OsTPS20 protein has been shown to produce many monoterpenes including (<italic>S</italic>)&#x02010;limonene (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0018" ref-type="ref">2015</xref>). In another report, <italic>OsTPS19</italic> was characterized as a sesquiterpene &#x003b2;&#x02010;elemene synthase gene (Taniguchi <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0032" ref-type="ref">2014</xref>). In our previous studies, <italic>OsTPS19</italic> was induced remarkably in rice plants by fall armyworm (<italic>Spodoptera frugiperda,</italic> FAW) infestation (Yuan <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0040" ref-type="ref">2008</xref>). Accumulated data indicate that transcription factors, such as WRKYs family members, play important roles in regulation of primary and secondary metabolic pathways (Akagi <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0003" ref-type="ref">2014</xref>; Han <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0017" ref-type="ref">2014</xref>; Liang <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0021" ref-type="ref">2017</xref>; Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0037" ref-type="ref">2004</xref>). In searching for potential target genes of the transcription factor OsWRKY89, <italic>OsTPS19</italic> was found to be up&#x02010;regulated in <italic>OsWRKY89</italic> overexpression lines, which enhanced resistance to the rice blast fungus <italic>M.&#x000a0;oryzae</italic> and <italic>S.&#x000a0;furcifera</italic> (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0034" ref-type="ref">2007</xref>). In this article, we are interested in identifying genes of secondary metabolism that are involved in <italic>OsWRKY89</italic>&#x02010;mediated rice defence again <italic>M.&#x000a0;oryzae</italic>. Here, we provide biochemical, subcellular localization and transgenic evidence to support that <italic>OsTPS19</italic> functions as a limonene synthase <italic>in planta</italic>. Overexpression of <italic>OsTPS19</italic> in rice led to enhance the resistance against <italic>M.&#x000a0;oryzae</italic>.</p></sec><sec id="pbi12914-sec-0002"><title>Results</title><sec id="pbi12914-sec-0003"><title>Induced expression of <italic>OsTPS19</italic> in relation to rice defence against <italic>M.&#x000a0;oryzae</italic> infection</title><p>Transcription of <italic>OsTPS19</italic> was increased in transcription factor <italic>OsWRKY89</italic> overexpression plants, according to the microarray analysis data. To confirm this result, specific primers were designed to distinguish <italic>OsTPS19</italic> and <italic>OsTPS20</italic>, two close homologs with an amino acid identity of 95.5% (nucleotide identity of 97.3% in the open reading frame region) on chromosome 4. As shown in Figure&#x000a0;<xref rid="pbi12914-fig-0001" ref-type="fig">1</xref>a, the level of <italic>OsTPS19</italic> mRNA accumulation was markedly increased in the <italic>OsWRKY89</italic> overexpression plants (OW89&#x02010;S13, Figure&#x000a0;<xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S1</xref>), whereas the transcription level of <italic>OsTPS20</italic> did not change significantly.</p><fig fig-type="Figure" xml:lang="en" id="pbi12914-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Expression of <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> was increased in the <italic>Os<styled-content style="fixed-case">WRKY</styled-content>89</italic> overexpression line and was induced by the rice blast fungus. (a) Expression of <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> and <italic>Os<styled-content style="fixed-case">TPS</styled-content>20</italic> in the <italic>Os<styled-content style="fixed-case">WRKY</styled-content>89</italic> overexpression rice line (<styled-content style="fixed-case">OW</styled-content>89&#x02010;S13). (b) Induction of <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> and <italic>Os<styled-content style="fixed-case">TPS</styled-content>20</italic> transcription by inoculation of the virulent rice blast fungus <italic>M.&#x000a0;oryzae </italic>
+<styled-content style="fixed-case">SZ</styled-content> (<styled-content style="fixed-case">SZ</styled-content>). The transcription level of each gene was normalized with rice <italic>ubiquitin</italic> gene (<italic><styled-content style="fixed-case">UBQ</styled-content></italic>). <styled-content style="fixed-case">WT</styled-content> represents the wild&#x02010;type control plants; Mock represents the control treatments. Values presented are the means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> of three separate analyses for each <styled-content style="fixed-case">RNA</styled-content> template; similar results were obtained from each duplicate. Asterisks indicate statistically significant differences (Student's <italic>t</italic> test; *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 and **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01).</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-16-1778-g001"/></fig><p>Induction of <italic>OsTPS19</italic> and <italic>OsTPS20</italic> was analysed in three&#x02010;week&#x02010;old rice seedlings inoculated with <italic>M.&#x000a0;oryzae</italic>, a causal agent of rice blast fungus. As shown in Figure&#x000a0;<xref rid="pbi12914-fig-0001" ref-type="fig">1</xref>b, only <italic>OsTPS19</italic> transcription was induced by a virulent <italic>M.&#x000a0;oryzae</italic> SZ strain in comparison with the mock treatment. As there was a significant induction of <italic>OsTPS19</italic> in the mock treatment (Figure&#x000a0;<xref rid="pbi12914-fig-0001" ref-type="fig">1</xref>b), we speculate that expression of <italic>OsTPS19</italic> was related to diurnal rhythms because some volatile terpenoids are released in a fluctuating pattern (Cheng <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0007" ref-type="ref">2007</xref>; Yazaki <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0038" ref-type="ref">2017</xref>). <italic>OsTPS19</italic> transcription showed an oscillating pattern with the shifting of dark/light periods, that is an increase during the dark period, reaching a peak at the switching point of the dark/light periods (Figure&#x000a0;<xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S2</xref>). The induction pattern of <italic>OsTPS19</italic> expression gave an explanation for increase its transcription in the mock treatment of pathogen infection in which the rice seedlings were kept in the dark for 24&#x000a0;h under high humidity (Figure&#x000a0;<xref rid="pbi12914-fig-0001" ref-type="fig">1</xref>b).</p></sec><sec id="pbi12914-sec-0004"><title>Altered expression of <italic>OsTPS19</italic> led to changes in rice resistance against <italic>M.&#x000a0;oryzae</italic>
+</title><p>To verify the <italic>in planta</italic> function of <italic>OsTPS19</italic>, transgenic rice plants were generated by means of overexpression or RNAi knock&#x02010;down of both <italic>OsTPS19</italic> and <italic>OsTPS20</italic> due to their high similarity. Transgenic rice plants did not exhibit any apparent morphological changes. Three independent overexpression (S4, S5 and S11) and double RNAi (d30, d31 and d51) lines were selected for experimental analyses. First, the expression of <italic>OsTPS19</italic> in transgenic and wild&#x02010;type rice plants was measured using quantitative RT&#x02010;PCR (qRT&#x02010;PCR). <italic>OsTPS19</italic> transcription levels in all three overexpression lines were increased over 100&#x02010;fold compared to those in wild&#x02010;type plants, while the expression of <italic>OsTPS19</italic> or <italic>OsTPS20</italic> was decreased in double RNAi lines (Figures&#x000a0;<xref rid="pbi12914-fig-0002" ref-type="fig">2</xref>a and <xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S3</xref>a). To further evaluate RNAi efficiency, the RNAi lines and wild&#x02010;type rice seedlings were subjected to tight diurnal rhythm acclimatization or treated with methyl jasmonate (MeJA), an important signal molecule in plant defence responses. Samples from two time points were collected for the diurnal rhythm treatments when <italic>OsTPS19</italic> expression was at its peak (8&#x000a0;am) and was low in the afternoon (4&#x000a0;pm). Stronger suppression of <italic>OsTPS19</italic> expression was observed in all three RNAi lines of the 8&#x000a0;am samples in relation to the 4&#x000a0;pm samples (Figure&#x000a0;<xref rid="pbi12914-fig-0002" ref-type="fig">2</xref>b). Additionally, the MeJA&#x02010;induced <italic>OsTPS19</italic> expressions were remarkably inhibited in the RNAi lines compared with wild&#x02010;type plants (Figure&#x000a0;<xref rid="pbi12914-fig-0002" ref-type="fig">2</xref>c). Silencing of <italic>OsTPS20</italic> was also observed in the diurnal rhythms and MeJA treatment (Figure&#x000a0;<xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S3</xref>b and c).</p><fig fig-type="Figure" xml:lang="en" id="pbi12914-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Alternation of <italic>Os<styled-content style="fixed-case">TPS</styled-content></italic> transcription changed resistance against the rice blast fungus. (a) <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> transcription in transgenic plants overexpressing <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> (S4, S5 and S11) and in the double <styled-content style="fixed-case">RNA</styled-content>i lines (d30, d31 and d51) at 4&#x000a0;pm. Expression of <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> under the short day condition (10/14&#x02010;h light/dark) (b) and Me<styled-content style="fixed-case">JA</styled-content> treatment (c) in the double <styled-content style="fixed-case">RNA</styled-content>i lines. Samples were collected at designated times. Values presented are the means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> of three separate analyses for each <styled-content style="fixed-case">RNA</styled-content> template. Asterisks indicate statistically significant differences (Student's <italic>t</italic> test; *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 and ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001). (d) Histograms showing the percentage lesion area categorized into three levels (0&#x02013;5, 5&#x02013;10 and higher than 10% of total leaf area). Three&#x02010;week&#x02010;old transgenic and wild&#x02010;type (<styled-content style="fixed-case">WT</styled-content>) plants were sprayed with conidial suspensions of <italic>M.&#x000a0;oryzae </italic>
+<styled-content style="fixed-case">SZ</styled-content> (10<sup>5</sup> spores/<styled-content style="fixed-case">mL</styled-content>). Lesions were measured on the third leaves of 14 plants per line. (e) Leaves of inoculated plants were photographed 6&#x000a0;days after infection. Bar&#x000a0;=&#x000a0;5&#x000a0;mm. Experiments were repeated three times with similar results.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-16-1778-g002"/></fig><p>The availability of transgenic rice plants with altered expression of <italic>OsTPS19</italic> made it possible to determine the biological function of OsTPS19. In this study, we were particularly interested in the possible role of OsTPS19 in defence against the microbial pathogen <italic>M.&#x000a0;oryzae</italic>. Six days after the inoculation of <italic>M.&#x000a0;oryzae</italic> SZ, the sizes of the lesions on individual leaf blades were quantified. The lesion areas on <italic>OsTPS19</italic> overexpression plants were smaller than those on wild&#x02010;type plants. By contrast, the lesions areas on RNAi lines were larger than those on wild&#x02010;type plants (Figure&#x000a0;<xref rid="pbi12914-fig-0002" ref-type="fig">2</xref>d and e). Spot inoculation of the pathogen showed similar results (Figure&#x000a0;<xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S4</xref>), suggesting that OsTPS19 might play a role in the defence reaction of rice. Nevertheless, the contribution of OsTPS20 should not be ignored even though its transcription level is relatively low.</p></sec><sec id="pbi12914-sec-0005"><title>Transgenic rice plants with altered <italic>OsTPS19</italic> transcription showed altered levels of limonene emission</title><p>To understand the mechanisms underlying the <italic>OsTPS19</italic>&#x02010;related defence against the fungus, we performed metabolic profiling of the transgenic plants. As OsTPS19 has been reported as a &#x003b2;&#x02010;elemene/&#x003b2;&#x02010;bisabolene synthase <italic>in&#x000a0;vitro</italic> (Taniguchi <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0032" ref-type="ref">2014</xref>), we measured the headspace of transgenic and wild&#x02010;type rice plants to determine the metabolic changes. There were low levels of &#x003b2;&#x02010;elemene<italic>,</italic> &#x003b2;&#x02010;bisabolene and sabinene emissions among the wild&#x02010;type and transgenic lines. Surprisingly, the emission rates of limonene were significantly increased in the overexpression lines but decreased in the RNAi lines (Figure&#x000a0;<xref rid="pbi12914-fig-0003" ref-type="fig">3</xref>). These data indicate that OsTPS19 produces limonene <italic>in planta</italic>.</p><fig fig-type="Figure" xml:lang="en" id="pbi12914-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Alternation of <italic>Os<styled-content style="fixed-case">TPS</styled-content></italic> transcription showed altered levels of limonene emission. Limonene emission was measured in three&#x02010;week&#x02010;old wild&#x02010;type (<styled-content style="fixed-case">WT</styled-content>) and transgenic seedlings using <styled-content style="fixed-case">GC</styled-content>&#x02010;<styled-content style="fixed-case">MS</styled-content>. <styled-content style="fixed-case">ND</styled-content> indicates not detectable due to low amounts. Significant differences between <styled-content style="fixed-case">WT</styled-content> and transgenic lines were analysed using Student's <italic>t</italic> test (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 and **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01).</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-16-1778-g003"/></fig><p>Limonene is a chiral molecule. Two enantiomers of limonene are known to be produced biologically: (<italic>R</italic>)&#x02010;limonene and (<italic>S</italic>)&#x02010;limonene. In our previous study, rice plants were shown to release elevated levels of limonene when exposed to fall armyworm larvae (Yuan <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0040" ref-type="ref">2008</xref>). In this study, volatiles released from rice plants infested with fall armyworm larvae were collected as previously described. The mixture of volatiles was analysed using chiral gas chromatography&#x02010;mass spectrometry (GC&#x02010;MS). In comparison with authentic standards, the limonene produced by rice plants was determined to be (<italic>S</italic>)&#x02010;limonene (Figure&#x000a0;<xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S5</xref>).</p></sec><sec id="pbi12914-sec-0006"><title>OsTPS19 has both monoterpene synthase and sesquiterpene synthase activities <italic>in&#x000a0;vitro</italic>
+</title><p>To examine the catalytic activities of the OsTPS19 protein, the cDNA of the gene was expressed in <italic>Escherichia coli</italic>, and the recombinant protein was used for the determination of terpene synthase activity. Crude extracts from <italic>E.&#x000a0;coli</italic> harbouring only the vector without any <italic>OsTPS</italic> gene inserted were assayed as a negative control.</p><p>OsTPS19 was first assayed with geranyl diphosphate, the substrate for monoterpene synthases. OsTPS19 catalysed the formation of 16 monoterpenes, including &#x003b1;&#x02010;thujene, &#x003b1;&#x02010;pinene, sabinene, myrcene, &#x003b1;&#x02010;phellandrene, &#x003b1;&#x02010;terpinene, (<italic>S</italic>)&#x02010;limonene, <italic>cis</italic>&#x02010;ocimene, <italic>trans</italic>&#x02010;ocimene, &#x003b3;&#x02010;terpinene, <italic>trans</italic>&#x02010;sabinene hydrate, &#x003b1;&#x02010;terpinolene, <italic>cis</italic>&#x02010;sabinene hydrate, neo alloocimene, terpinen&#x02010;4&#x02010;ol, and &#x003b1;&#x02010;terpineol hydrate (Figures&#x000a0;<xref rid="pbi12914-fig-0004" ref-type="fig">4</xref>a and <xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S5</xref>). However, (<italic>S</italic>)&#x02010;limonene was the predominant compound.</p><fig fig-type="Figure" xml:lang="en" id="pbi12914-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Activities of recombinant Os<styled-content style="fixed-case">TPS</styled-content>19. Chromatograms showing the <styled-content style="fixed-case">GC</styled-content>&#x02010;<styled-content style="fixed-case">MS</styled-content> analysis of terpenes produced by recombinant Os<styled-content style="fixed-case">TPS</styled-content>19 using geranyl diphosphate (a) and farnesyl diphosphate (b) as substrates. 1, &#x003b1;&#x02010;thujene*; 2, &#x003b1;&#x02010;pinene*; 3, sabinene*; 4, myrcene*; 5, &#x003b1;&#x02010;phellandrene*; 6, &#x003b1;&#x02010;terpinene*; 7, limonene*; 8, <italic>cis</italic>&#x02010;ocimene; 9, <italic>trans</italic>&#x02010;ocimene; 10, &#x003b3;&#x02010;terpinene*; 11, <italic>trans</italic>&#x02010;sabinene hydrate*; 12, &#x003b1;&#x02010;terpinolene*; 13, <italic>cis</italic>&#x02010;sabinene hydrate; 14, neo alloocimene; 15, terpinen&#x02010;4&#x02010;ol, 16, &#x003b1;&#x02010;terpineol; 17, &#x003b4;&#x02010;elemene; 18, &#x003b2;&#x02010;elemene; 19, (<italic>E</italic>)&#x02010;&#x003b1;&#x02010;bergamotene*; 21, unknown; 22, (<italic>E</italic>)&#x02010;&#x003b2;&#x02010;farnesene*; 23, &#x003b3;&#x02010;curcumene; 24, unknown; 25, zingiberene; 26, (<italic>E,E</italic>)&#x02010;&#x003b1;&#x02010;farnesene; 27, &#x003b2;&#x02010;bisabolene*; 29, sesquiphellandrene; and 31, nerolidol. Compounds marked with asterisks (*) were identified using authentic standards. All other compounds were tentatively identified by comparison of their mass spectra with the <styled-content style="fixed-case">WILEY</styled-content> and <styled-content style="fixed-case">NIST</styled-content> mass spec libraries.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-16-1778-g004"/></fig><p>OsTPS19 was then assayed for sesquiterpene synthase activities. Using farnesyl diphosphate as a substrate, OsTPS19 catalysed the formation of 12 sesquiterpenes with &#x003b2;&#x02010;bisabolene as the most abundant product (Figure&#x000a0;<xref rid="pbi12914-fig-0004" ref-type="fig">4</xref>b).</p></sec><sec id="pbi12914-sec-0007"><title>OsTPS19 is targeted to plastids</title><p>
+<italic>OsTPS19</italic> was constructed to the 5&#x02032; end of <italic>GFP,</italic> and the fused gene was controlled by a CaMV35 promoter (<italic>CaMV35S:OsTPS19&#x02010;GFP</italic>). Fluorescence of GFP was observed in 2&#x02010;week&#x02010;old root cells of <italic>CaMV35S:OsTPS19&#x02010;GFP</italic> transgenic rice plants of T<sub>1</sub> progeny (Figure&#x000a0;<xref rid="pbi12914-fig-0005" ref-type="fig">5</xref>) and was colocalized with red autofluorescence of chlorophylls, indicating that the OsTPS19&#x02010;GFP protein is targeted to plastids. Additionally, expression of <italic>OsTPS19&#x02010;GFP</italic> was performed transiently in leaves of <italic>Nicotiana benthamiana</italic> by agroinfiltration. Colocalization of GFP with red autofluorescence of chlorophylls confirmed the plastidial target of OsTPS19&#x02010;GFP (Figure&#x000a0;<xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S6</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12914-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Plastid localization of Os<styled-content style="fixed-case">TPS</styled-content>19. The root cells of two&#x02010;week&#x02010;old <italic>Ca<styled-content style="fixed-case">MV</styled-content>35S:Os<styled-content style="fixed-case">TPS</styled-content>19&#x02010;<styled-content style="fixed-case">GFP</styled-content></italic> plants were used for fluorescence signal detection by confocal microscopy. The fluorescence pattern of the subcellular localization of the Os<styled-content style="fixed-case">TPS</styled-content>19&#x02010;<styled-content style="fixed-case">GFP</styled-content> fusion protein (top left panel) completely matched the chloroplast autofluorescence in the merged image (bottom right panel).</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-16-1778-g005"/></fig></sec><sec id="pbi12914-sec-0008"><title>Functional variation of OsTPS19 and OsTPS20 is determined by a single amino acid</title><p>The high sequence similarity and the close locations of <italic>OsTPS19</italic> and <italic>OsTPS20</italic> suggest that these two genes resulted from a recent gene duplication event. Similar to OsTPS19, OsTPS20 also showed monoterpene synthase and sesquiterpene synthase activities <italic>in&#x000a0;vitro</italic> and is targeted to plastids (Figures <xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S7 and S8</xref>). In addition to the difference in limonene production, OsTPS19 and OsTPS20 also showed differences in the relative proportions of other minor products. For instance, &#x003b1;&#x02010;terpinolene was the second most abundant product of OsTPS19, while OsTPS20 formed <italic>cis</italic>&#x02010;sabinene hydrate as the second most abundant product (Figures&#x000a0;<xref rid="pbi12914-fig-0004" ref-type="fig">4</xref>a and <xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S7</xref>a).</p><p>To understand the structural basis underlying the functional divergence of OsTPS19 and OsTPS20, we generated a homology&#x02010;based structural model of OsTPS19 and identified active site residues that differed between OsTPS19 and OsTPS20. Among all the variations between the two proteins, only one residue (alanine 567 in OsTPS19) was localized in the active site cavity (Figure&#x000a0;<xref rid="pbi12914-fig-0006" ref-type="fig">6</xref>a). This amino acid variation was hypothesized to be responsible for the different product specificities of OsTPS19 and OsTPS20.</p><fig fig-type="Figure" xml:lang="en" id="pbi12914-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>One amino acid is responsible for the different product specificities of Os<styled-content style="fixed-case">TPS</styled-content>19 and Os<styled-content style="fixed-case">TPS</styled-content>20. (a) Three&#x02010;dimensional model of Os<styled-content style="fixed-case">TPS</styled-content>19 showing the active site cavity and the position of alanine 567. (b) Enzyme activity of Os<styled-content style="fixed-case">TPS</styled-content>19, Os<styled-content style="fixed-case">TPS</styled-content>20 and their mutants. The traces of the <styled-content style="fixed-case">MS</styled-content> detector are shown for the wild&#x02010;type enzymes Os<styled-content style="fixed-case">TPS</styled-content>19 and Os<styled-content style="fixed-case">TPS</styled-content>20 and their mutants Os<styled-content style="fixed-case">TPS</styled-content>19&#x02010;A567S and Os<styled-content style="fixed-case">TPS</styled-content>20&#x02010;S567A.</p></caption><graphic id="nlm-graphic-11" xlink:href="PBI-16-1778-g006"/></fig><p>To test this hypothesis, two mutants, OsTPS19<sup>A567S</sup> and OsTPS20<sup>S567A</sup>, were created, and the mutant proteins were tested for activity using geranyl diphosphate. The product profile of OsTPS19<sup>A567S</sup> was highly similar to that of the native OsTPS20, while the product profile of OsTPS20<sup>S567A</sup> was highly similar to that of the native OsTPS19 (Figure&#x000a0;<xref rid="pbi12914-fig-0006" ref-type="fig">6</xref>b). Thus, the functional variation between OsTPS19 and OsTPS20 was determined by a single amino acid change.</p><p>To determine whether <italic>OsTPS19</italic> and <italic>OsTPS20</italic> are differentially regulated in the process of subfunctionalization, we examined their transcription in dsOW62/76&#x02010;108 plants, which harbour an RNAi construct to knock down both <italic>OsWRKY62</italic> and <italic>OsWRKY76</italic> and show high resistance to <italic>M.&#x000a0;oryzae</italic> and bacterial blight pathogen <italic>Xanthomonas oryzae</italic> pv. <italic>oryzae</italic> (<italic>Xoo</italic>) (Liu <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0022" ref-type="ref">2016</xref>). Interestingly, the transcription of <italic>OsTPS19</italic> was down&#x02010;regulated, whereas the level of <italic>OsTPS20</italic> mRNA was remarkably enhanced (Figure&#x000a0;<xref rid="pbi12914-fig-0007" ref-type="fig">7</xref>a). On the other hand, the induction of <italic>OsTPS20</italic> was higher in comparison with <italic>OsTPS19</italic> in rice leaves treated with MeJA (Figure&#x000a0;<xref rid="pbi12914-fig-0007" ref-type="fig">7</xref>b). Additionally, we noticed that the basal transcription level of <italic>OsTPS19</italic> was several fold higher than that of <italic>OsTPS20</italic> in wild&#x02010;type plants. These results suggest that <italic>OsTPS19</italic> and <italic>OsTPS20</italic>, two recently duplicated genes, have evolved to respond differently to environmental stimuli.</p><fig fig-type="Figure" xml:lang="en" id="pbi12914-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Transcription of <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> and <italic>Os<styled-content style="fixed-case">TPS</styled-content>20</italic> was differently regulated. (a) Expression of <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> and <italic>Os<styled-content style="fixed-case">TPS</styled-content>20</italic> in <italic>Os<styled-content style="fixed-case">WRKY</styled-content>62</italic> and <italic>Os<styled-content style="fixed-case">WRKY</styled-content>76</italic> knock&#x02010;down plants (ds<styled-content style="fixed-case">OW</styled-content>62/76&#x02010;108). (b) Induction of <italic>Os<styled-content style="fixed-case">TPS</styled-content>19</italic> and <italic>Os<styled-content style="fixed-case">TPS</styled-content>20</italic> transcriptions by foliar treatment of methyl jasmonate (Me<styled-content style="fixed-case">JA</styled-content>). The transcription level of each gene was normalized using rice <italic><styled-content style="fixed-case">UBQ</styled-content></italic>. <styled-content style="fixed-case">WT</styled-content> represents wild&#x02010;type control plants; mock represents the control treatments. Values presented are the means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> of three separate analyses for each <styled-content style="fixed-case">RNA</styled-content> template; similar results were obtained from each duplicate. Differences between the mock, and the treatment were analysed using Student's <italic>t</italic> test (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 and ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001).</p></caption><graphic id="nlm-graphic-13" xlink:href="PBI-16-1778-g007"/></fig></sec><sec id="pbi12914-sec-0009"><title>(<italic>S</italic>)&#x02010;Limonene has an inhibitory effect on the germination of <italic>M.&#x000a0;oryzae</italic> spores</title><p>To assess the effect of (<italic>S</italic>)&#x02010;limonene on the pathogen, the germination of <italic>M.&#x000a0;oryzae</italic> spores was examined at different concentrations of (<italic>S</italic>)&#x02010;limonene. Spore germination was decreased by treatment with (<italic>S</italic>)&#x02010;limonene and was even completely inhibited under increased (<italic>S</italic>)&#x02010;limonene concentrations (Figure&#x000a0;<xref rid="pbi12914-fig-0008" ref-type="fig">8</xref>). The results imply that (<italic>S</italic>)&#x02010;limonene might have a direct role in the suppression of fungal infection.</p><fig fig-type="Figure" xml:lang="en" id="pbi12914-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Inhibitory effect of (<italic>S</italic>)&#x02010;limonene on the spore germination of <italic>M.&#x000a0;oryzae</italic>. An aliquot of 0.1 <styled-content style="fixed-case">mL</styled-content> of <italic>M.&#x000a0;oryzae</italic> spore suspension (5&#x000a0;&#x000d7;&#x000a0;10<sup>5</sup> spores/<styled-content style="fixed-case">mL</styled-content>) was placed on separate water agar plates that contained various concentrations of (<italic>S</italic>)&#x02010;(&#x02010;)&#x02010;limonene (0, 20, 50, 80 and 100&#x000a0;mmol/L). Each concentration had three repeats. Approximately 200 spores were counted, and the spore germination percentage was calculated (a) and photographed (b) after 5&#x000a0;h of incubation at 28&#x000b0;C. ND indicates not detectable due to no spore germination. S&#x02010;50 represents the treatment, in the presence of 50&#x000a0;mmol/L (<italic>S</italic>)&#x02010;(&#x02010;)&#x02010;limonene. Asterisks show statistically differences between the mock and treatment (Student's <italic>t</italic> test; *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 and ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001).</p></caption><graphic id="nlm-graphic-15" xlink:href="PBI-16-1778-g008"/></fig></sec></sec><sec id="pbi12914-sec-0010"><title>Discussion</title><sec id="pbi12914-sec-0011"><title>OsTPS19 is a rice (<italic>S</italic>)&#x02010;limonene synthase gene <italic>in planta</italic>
+</title><p>Among numerous metabolites that may prevent pathogen invasion by forming chemical barriers, terpenoids are the major contributors to the chemical arsenal of plants and play roles in pollinator attraction and signalling to other plants (Dudareva <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0013" ref-type="ref">2006</xref>). A number of TPSs from a variety of plant species have been well studied, and some of them have been applied for metabolic manipulation (Aharoni <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0001" ref-type="ref">2006</xref>; Yu and Utsumi, <xref rid="pbi12914-bib-0039" ref-type="ref">2009</xref>). Sequence comparison indicates that OsTPS19 is identical to AK071447, which has recently been reported as a sesquiterpene synthase in rice (Taniguchi <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0032" ref-type="ref">2014</xref>). Jasmonic acid treatment of rice plants resulted in a significant up&#x02010;regulation of AK071447 expression, correlating with enhanced levels of &#x003b2;&#x02010;elemene, one of the <italic>in&#x000a0;vitro</italic> sesquiterpene products of recombinant AK071447 (Taniguchi <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0032" ref-type="ref">2014</xref>). Here, we found that the <italic>OsTPS20</italic> gene was induced more than <italic>OsTPS19</italic> by MeJA treatment using gene&#x02010;specific primers (Figure&#x000a0;<xref rid="pbi12914-fig-0007" ref-type="fig">7</xref>b). In addition, OsTPS19 acts as a monoterpene synthase <italic>in planta</italic> (Figure&#x000a0;<xref rid="pbi12914-fig-0003" ref-type="fig">3</xref>). The emission level of limonene was increased less than 10&#x02010;fold in transgenic rice plants, likely due to photosynthetic limitations (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0035" ref-type="ref">2016</xref>). OsTPS19 was reported to be localized in the cytosol or other organelles other than plastids (Taniguchi <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0032" ref-type="ref">2014</xref>). However, in our study, for OsTPS19 with almost identical N&#x02010;terminal sequences, the subcellular localization was confirmed to be plastidial based on the root cells of stable transformants (Figure&#x000a0;<xref rid="pbi12914-fig-0005" ref-type="fig">5</xref>). Further, the level of limonene, not &#x003b2;&#x02010;elemene, increased in overexpression rice plants. The fact that &#x003b2;&#x02010;elemene was induced after JA treatment (Taniguchi <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0032" ref-type="ref">2014</xref>) could be explained by the presence and up&#x02010;regulation of a distinct &#x003b2;&#x02010;elemene synthase gene. Additional support that OsTPS19 functions as a monoterpene synthase is based on the functional characterization of OsTPS20, which has been shown to also function as an (<italic>S</italic>)&#x02010;limonene synthase (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0018" ref-type="ref">2015</xref>). OsTPS20 and OsTPS19 are close homologs and are hypothesized to be derived from a relatively recent gene duplication event. It is interesting that OsTPS20 was previously shown to have no sesquiterpene synthase activity (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0018" ref-type="ref">2015</xref>). By contrast, our analysis demonstrated that OsTPS20 can catalyse the biosynthesis of sesquiterpenes in <italic>in&#x000a0;vitro</italic> assays, similar to OsTPS19.</p></sec><sec id="pbi12914-sec-0012"><title>The biological functions of OsTPS19</title><p>The list of plant terpene synthases with characterized biochemical functions has grown rapidly. Many terpenoids have antimicrobial activities (Ahuja <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0002" ref-type="ref">2012</xref>). For example, limonene has both antifungal (Tao <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0033" ref-type="ref">2014</xref>) and bactericidal (Diao <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0012" ref-type="ref">2013</xref>; Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0019" ref-type="ref">2016</xref>) activities. <italic>OsTPS19</italic>, identified as a limonene synthase, was characterized to play a role in the defence of rice plants against the fungal pathogen <italic>M.&#x000a0;oryzae</italic>. The significant differences in the lesion sizes (Figures&#x000a0;<xref rid="pbi12914-fig-0002" ref-type="fig">2</xref> and <xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S4</xref>) indicate that the <italic>OsTPS19</italic> overexpressors had a stronger resistance to <italic>M.&#x000a0;oryzae</italic> than wild&#x02010;type rice plants, and the <italic>OsTPSs</italic>&#x02010;RNAi lines had a weaker resistance to <italic>M.&#x000a0;oryzae</italic>. It is sensible to attribute the different levels of resistance of transgenic and wild&#x02010;type rice plants against <italic>M.&#x000a0;oryzae</italic> to the different levels of (<italic>S</italic>)&#x02010;limonene they produced (Figures&#x000a0;<xref rid="pbi12914-fig-0002" ref-type="fig">2</xref> and <xref rid="pbi12914-fig-0003" ref-type="fig">3</xref>). Limonene was one of the volatiles released from pathogen (<italic>M.&#x000a0;oryzae</italic> and <italic>Xoo</italic>)&#x02010;infected rice seedlings (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0019" ref-type="ref">2016</xref>; Obara <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0026" ref-type="ref">2002</xref>) and be induced dramatically under oxidative abiotic stresses (UV&#x02010;B, &#x003b3;&#x02010;rays, and H<sub>2</sub>O<sub>2</sub>) (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0018" ref-type="ref">2015</xref>). The spore germination of <italic>M.&#x000a0;oryzae</italic> was inhibited by the presence of monoterpene (<italic>S</italic>)&#x02010;limonene (Figure&#x000a0;<xref rid="pbi12914-fig-0008" ref-type="fig">8</xref>). Additionally, limonene might be oxidized to limonene hydroperoxide, which acts as an active oxygen species to initiate wide defence responses (Ben&#x02010;Yehoshua <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0004" ref-type="ref">2008</xref>). Some nontarget pathways and products of metabolites (Pasoreck <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0027" ref-type="ref">2016</xref>) may also be involved in the increased resistance against rice blast fungus in <italic>OsTPS19</italic> overexpression rice plants.</p></sec><sec id="pbi12914-sec-0013"><title>Evolutionary implications of limonene synthase genes</title><p>As described previously, most limonene synthases from angiosperms belong to the TPS&#x02010;b subfamily (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0006" ref-type="ref">2011</xref>). The identification of the two members of the TPS&#x02010;a subfamily in rice encoding limonene synthase raises an interesting question about the evolution of limonene synthase genes in angiosperms. OsTPS19 and OsTPS20 were reported as different types of terpene synthases by Taniguchi <italic>et&#x000a0;al</italic>. (<xref rid="pbi12914-bib-0032" ref-type="ref">2014</xref>) and Lee <italic>et&#x000a0;al</italic>. (<xref rid="pbi12914-bib-0018" ref-type="ref">2015</xref>, <xref rid="pbi12914-bib-0019" ref-type="ref">2016</xref>), respectively<italic>. OsTPS20</italic> was found to be induced by oxidative stress or the bacterial pathogen <italic>Xoo</italic> and produces many monoterpenes including (S)&#x02010;limonene <italic>in&#x000a0;vitro</italic> (Lee <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0018" ref-type="ref">2015</xref>, <xref rid="pbi12914-bib-0019" ref-type="ref">2016</xref>).</p><p>We hypothesize that the (<italic>S</italic>)&#x02010;limonene synthase genes in rice have evolved from an ancestral sesquiterpene synthase gene of the TPS&#x02010;a subfamily. Such functional evolution would have involved the change in subcellular localization; that is, the acquisition of a transit peptide by a sesquiterpene synthase would change its biological function to that of a monoterpene synthase. This conclusion is also supported by the fact that in <italic>in&#x000a0;vitro</italic> assays, both OsTPS19 and OsTPS20 catalysed the formation of sesquiterpenes from farnesyl diphosphate (Figures&#x000a0;<xref rid="pbi12914-fig-0004" ref-type="fig">4</xref>b and <xref rid="pbi12914-sup-0001" ref-type="supplementary-material">S7</xref>b). It remains to be determined whether the lack of the TPS&#x02010;b subfamily in rice is the cause or the outcome of the evolution of limonene synthase genes from an ancestral sesquiterpene synthase gene.</p><p>After its evolution, the (<italic>S</italic>)&#x02010;limonene synthase gene underwent duplication, which resulted in two highly homologous members, that is <italic>OsTPS19</italic> and <italic>OsTPS20</italic>. Their functional divergence occurred at the biochemical level (Figure&#x000a0;<xref rid="pbi12914-fig-0006" ref-type="fig">6</xref>). The mechanism responsible for their functional divergence is the same as that observed previously (for example, Zhuang <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0043" ref-type="ref">2012</xref>): the change in one or a few key amino acid residues in the active site cavity alters the product specificity. It is equally interesting to observe that functional divergence of <italic>OsTPS19</italic> and <italic>OsTPS20</italic> also occurred at the gene expression level: <italic>OsTPS19</italic> is constitutively expressed and induced by the rice blast fungus, while <italic>OsTPS20</italic> is highly induced by MeJA. The transcription level of <italic>OsTPS19</italic> was increased in the <italic>OsWRKY89</italic> overexpression line but decreased in the <italic>OsWRKY62/76</italic> knock&#x02010;down line. By contrast, the expression level of <italic>OsTPS20</italic> was increased in the <italic>OsWRKY62/76</italic> knock&#x02010;down line (Figure&#x000a0;<xref rid="pbi12914-fig-0007" ref-type="fig">7</xref>). However, whether the different patterns of <italic>OsTPS19</italic> and <italic>OsTPS20</italic> transcripts in the WRKY transgenic plants resulted from the direct regulation of the transcription factors or are the consequence of endogenous phytohormone changes needs to be clarified. Nevertheless, the <italic>OsTPS19</italic> and <italic>OsTPS20</italic> genes diverged in response to stresses over a wide spatiotemporal range.</p></sec></sec><sec id="pbi12914-sec-0014"><title>Experimental procedures</title><sec id="pbi12914-sec-0015"><title>Plant growth and treatments</title><p>Rice seeds of wild&#x02010;type (<italic>Oryza sativa</italic> L. Zhonghua 17, ZH17 or Xiushui 11, XS11) and transgenic progenies were germinated, and the seedlings were grown in vermiculite at approximately 28&#x000b0;C under a 14/10&#x02010;h (light/dark) photoperiod in a greenhouse. For circadian rhythm treatment, a short day condition of 10/14&#x02010;h (light/dark) cycle was used (Cai <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0005" ref-type="ref">2014</xref>). For MeJA treatment, three&#x02010;week&#x02010;old rice seedlings were treated with 100&#x000a0;&#x003bc;<sc>m</sc> MeJA (dissolved in 10&#x000a0;m<sc>m</sc> 4&#x02010;morpholine ethanosulphonic acid buffer, pH 5.6) by foliar spray. Treated leaves were sampled at 1, 3, 6, 12 and 24&#x000a0;h after treatment for RNA isolation.</p></sec><sec id="pbi12914-sec-0016"><title>Terpene synthase enzyme assays</title><p>Full&#x02010;length cDNAs for <italic>OsTPS19</italic> and <italic>OsTPS20</italic> were cloned using RT&#x02010;PCR. The primers used were 5&#x02032;&#x02010;atgtcaacttccatccctctc&#x02010;3&#x02032; and 5&#x02032;&#x02010;ctaaagggtgacaggattcac&#x02010;3&#x02032; (reverse, TPS19r) for <italic>OsTPS19</italic> and 5&#x02032;&#x02010;atgtctacttccatccctctc&#x02010;3&#x02032; and 5&#x02032;&#x02010;ctagatggggacaggattcac&#x02010;3&#x02032; (reverse, TPS20r) for <italic>OsTPS20</italic>. After cloning the full&#x02010;length cDNAs, forward primers of 5&#x02032;&#x02010;atgcgacaaagcagtgcgcatc&#x02010;3&#x02032; and 5&#x02032;&#x02010;atgcgacaaagcaatgcgcatc&#x02010;3&#x02032; paired with TPS19r and TPS20r, respectively, were used to amplify the truncated forms of OsTPS19 and OsTPS20. Expression of OsTPS19 and OsTPS20 in <italic>E.&#x000a0;coli</italic> and <italic>in&#x000a0;vitro</italic> terpene synthase enzyme assays using farnesyl diphosphate and geranyl diphosphate as substrates were performed as previously described (Yuan <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0040" ref-type="ref">2008</xref>).</p></sec><sec id="pbi12914-sec-0017"><title>Generation of transgenic plants</title><p>
+<italic>OsTPS19</italic> was amplified using the forward primer 5&#x02032;&#x02010;tattggatcccaagggaaatatactagtatg&#x02010;3&#x02032; and the reverse primer 5&#x02032;&#x02010;tgttggtacctcgagttctaaagggtgacaggat&#x02010;3&#x02032;, and the PCR product was ligated into a T&#x02010;vector (pMD&#x02010;<italic>OsTPS19</italic>). The coding region of <italic>OsTPS19</italic> was obtained by enzyme digestion and was cloned into a modified pCambia1301 vector in which <italic>OsTPS19</italic> is under the control of a maize <italic>ubiquitin</italic> promoter (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0034" ref-type="ref">2007</xref>). To knock down <italic>OsTPS19</italic>/<italic>20</italic> transcription, a fragment of the <italic>OsTPS19</italic> gene, which was highly similar to <italic>OsTPS20,</italic> was obtained by PCR amplification using the primer pair 5&#x02032;&#x02010;aggaggatccgcaaacacagtagagtgct&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;tgttggtacctcgagttctaaagggtgacaggat&#x02010;3&#x02032; (reverse). The RNAi construct was placed under the control of the cauliflower mosaic virus promoter (CaMV35S).</p><p>For the determination of OsTPS19 subcellular localization, the chimeric gene of <italic>OsTPS19</italic> and the green fluorescent protein (GFP) gene were used to generate the <italic>CaMV35S:OsTPS19&#x02010;GFP</italic> construct.</p><p>Transgenic plants were obtained by the <italic>Agrobacterium</italic>&#x02010;mediated transformation method using Zhonghua 17 as the donor. For each construct, more than 10 independent transgenic lines were screened for hygromycin resistance, and the antibiotic resistant lines were used for experiments.</p><p>To detect the subcellular localization of OsTPS20, the cDNA of <italic>OsTPS20</italic> was amplified using PCR with two primers: 5&#x02032;&#x02010;gctagcatgtctacttccat&#x02010;3&#x02032; (forward), 5&#x02032;&#x02010;cgcggatccgatggggacaggatt&#x02010;3&#x02032; (reverse). The verified PCR product was cloned into the vector pAN581 to generate a C&#x02010;terminal fusion of OsTPS20 to YFP.</p></sec><sec id="pbi12914-sec-0018"><title>Headspace collection of rice plants and volatile analysis using GC&#x02010;MS</title><p>The collection of volatiles emitted from 3&#x02010;week&#x02010;old rice plants was performed using a previously described open headspace system (Sun <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0031" ref-type="ref">2017</xref>). In brief, volatiles were collected for 24&#x000a0;h on 50&#x000a0;mg of 60/80 mesh Tenax&#x02010;TA (Shanghai ANPEL Scientific Instrument Company, Shanghai, China). The collected volatiles were extracted with 300&#x000a0;&#x003bc;L of HPLC&#x02010;grade hexane (Fisher Scientific, New Jersey), to which 25.95&#x000a0;ng ethyl decanoate (Sigma&#x02010;Aldrich, Oakville, ON) was added as an internal standard. One microlitre of each sample was analysed using a Shimadzu GC&#x02010;MS (GC&#x02010;MS&#x02010;QP2010 SE, Japan) on an Rxi&#x02010;5Sil MS column (30&#x000a0;m&#x000a0;&#x000d7;&#x000a0;0.250&#x000a0;mm&#x000d7;0.25&#x000a0;&#x003bc;m, Restek, Bad Homburg, Germany). The GC oven temperature program was 40&#x000b0;C for 1&#x000a0;min followed by an increase to 130&#x000b0;C at a rate of 4&#x000b0;C/min (5&#x02010;min hold) and then to 250&#x000b0;C at a rate of 10&#x000b0;C/min (5&#x02010;min hold). Chiral GC&#x02010;MS analysis of limonene was performed using an Rt<sup>&#x02122;</sup>&#x02010;&#x003b2; DEXsm column (Restek, Bad Homburg, Germany) and a temperature program of 40&#x000b0;C (1&#x02010;min hold) followed by an increase to 100&#x000b0;C at a rate of 1&#x000b0;C/min and then to 240&#x000b0;C at a rate of 10&#x000b0;C/min (2&#x02010;min hold). The flow rate of the carrier gas (helium) was 1&#x000a0;mL/min. Limonene standards were obtained from Sigma.</p></sec><sec id="pbi12914-sec-0019"><title>Subcellular localization of OsTPS19 and OsTPS20</title><p>Localization of OsTPS19 was analysed using <italic>CaMV35S:OsTPS19&#x02010;GFP</italic> transgenic rice seedlings. The seeds of the transgenic progenies were germinated on solid half&#x02010;strength MS medium for 2&#x000a0;weeks at 28&#x000b0;C under a 14/10&#x02010;h light/dark cycle. The cells of 2&#x02010;week&#x02010;old rice roots were examined using a confocal laser scanning microscope (Eclipse TE2000, Nikon, Beijing, China). For transient expression, the <italic>CaMV35S:OsTPS19&#x02010;GFP</italic> plasmid was introduced into the leaves of 4&#x02010;week&#x02010;old <italic>N.&#x000a0;benthamiana</italic> by agroinfiltration. Fluorescence was visualized using the confocal laser scanning microscope.</p><p>The plasmid coding for the OsTPS20&#x02010;YFP fusion was co&#x02010;introduced together with the plastid&#x02010;targeted plasmid (pt&#x02010;r), which codes for a plastid&#x02010;targeted variant of mCherry, into onion epidermal cells by PDS&#x02010;1000 biolistic particle delivery system (Bio&#x02010;Rad, Hercules, CA). Fluorescence in the epidermal cells was examined 16&#x000a0;h postbombardment using fluorescence microscopy on a Zeiss Axiovert 200M (<ext-link ext-link-type="uri" xlink:href="http://www.zeiss.com">http://www.zeiss.com</ext-link>) with a 20&#x000a0;&#x000d7;&#x000a0; objective and appropriate filters (Chroma set 69308; <ext-link ext-link-type="uri" xlink:href="http://www.chroma.com">http://www.chroma.com</ext-link>).</p></sec><sec id="pbi12914-sec-0020"><title>Real&#x02010;time quantitative RT&#x02010;PCR</title><p>DNase&#x02010;treated RNA (2&#x000a0;&#x003bc;g) was reverse&#x02010;transcribed for analysis of gene expression. Quantitative RT&#x02010;PCR (qRT&#x02010;PCR) was performed in a 15&#x02010;&#x003bc;L reaction volume using SYBR Green dye. The level of rice <italic>ubiquitin</italic> gene (<italic>UBQ</italic>) expression was used to normalize the expression of other genes. Primer sequences used for the qRT&#x02010;PCR analysis were 5&#x02032;&#x02010;gcttgctcttcaactcttggga&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;aagattggtcagctttttagtgtctc&#x02010;3&#x02032; (reverse) for <italic>OsWRKY89,</italic> 5&#x02032;&#x02010;gagtgctatatcaatgagcac&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;acagattcccaacatttccc&#x02010;3&#x02032; (reverse) for <italic>OsTPS19</italic>, 5&#x02032;&#x02010;cactgtagagtgctatatg&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;caaacagatccccaacaatc&#x02010;3&#x02032; (reverse) for <italic>OsTPS20</italic>, and 5&#x02032;&#x02010;gtggtggccagtaagtcctc&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;ggacacaatgattagggatca&#x02010;3&#x02032; (reverse) for <italic>UBQ</italic>.</p></sec><sec id="pbi12914-sec-0021"><title>Pathogen inoculation</title><p>To test disease resistance capability, the wild&#x02010;type plants (ZH17) and three&#x02010;week&#x02010;old transgenic lines were inoculated with the spore solution (10<sup>5</sup> conidia per millilitre containing 0.02% silwet&#x02010;L77) by spraying or spot inoculation as described previously (Fujisaki <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0015" ref-type="ref">2015</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0034" ref-type="ref">2007</xref>). The area of lesions formed 6&#x000a0;days postinoculation was measured using an image analysis method. For spot inoculation, the vertical length of disease lesions was measured 6&#x000a0;days after inoculation.</p></sec><sec id="pbi12914-sec-0022"><title>Spore germination assay</title><p>An aliquot of 0.1&#x000a0;mL of <italic>M.&#x000a0;oryzae</italic> spore suspension (5&#x000a0;&#x000d7;&#x000a0;10<sup>5</sup> spores/mL) was placed on separate water agar plates containing various concentrations of (<italic>S</italic>)&#x02010;(&#x02010;)&#x02010;limonene. Each concentration had three repeats. Approximately 200 spores were counted, and the spore germination percentage was calculated after 5&#x000a0;h of incubation at 28&#x000b0;C.</p></sec><sec id="pbi12914-sec-0023"><title>Homology&#x02010;based structural modelling</title><p>The Swiss&#x02010;Model Server (<ext-link ext-link-type="uri" xlink:href="http://www.expasy.org">http://www.expasy.org</ext-link>; Schwede <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0029" ref-type="ref">2003</xref>) was used to generate three&#x02010;dimensional structural models of OsTPS19 and OsTPS20. For modelling purposes, the protein sequences of OsTPS19 and OsTPS20 were fitted to the crystal structure of the tobacco 5&#x02010;<italic>epi</italic>&#x02010;aristolochene synthase mutant C440W (Starks <italic>et&#x000a0;al</italic>., <xref rid="pbi12914-bib-0030" ref-type="ref">1997</xref>; PDB ID, 1HXCA). The quality of the models was assessed using the program ProSA&#x02010;web (Wiederstein and Sippl, <xref rid="pbi12914-bib-0036" ref-type="ref">2007</xref>) as well as the assessment tools provided by the Swiss&#x02010;Model Server. The program PyMOL (<ext-link ext-link-type="uri" xlink:href="http://www.pymol.org">http://www.pymol.org</ext-link>) was used for visualization of the resulting structural models.</p></sec><sec id="pbi12914-sec-0024"><title>Site&#x02010;directed mutagenesis</title><p>The primers used for generating OsTPS19 A567S and OsTPS20 S567A were 5&#x02032;&#x02010;ttttgaacttggccgtagcagtgccattcttttacgat&#x02010;3&#x02032; and 5&#x02032;&#x02010;tcgtaaaagaatggcactgctacggccaagttcaaaa&#x02010;3&#x02032;, respectively. After confirmation by sequencing, the mutant proteins were expressed in <italic>E.&#x000a0;coli</italic>. Terpene synthase activity assays were performed as described in the previous subsection.</p></sec></sec><sec id="pbi12914-sec-0026"><title>Author contributions</title><p>X.C., H.C. J.S.Y, Z.G. and F.C. designed experiments; X.C., H.C. J.S.Y., T.G.K., Z.L.,Y.C., Y.G., X. Z., X. C., Y&#x02010;J, Z, J.F. and A.N. conducted experiments and analysed the data; X. C., H.C., Z.G. and F.C. wrote the manuscript.</p></sec><sec id="pbi12914-sec-0027"><title>Conflict of interest</title><p>The authors declare that they have no competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12914-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> Transcription level of <italic>OsWRKY89</italic>.</p><p>
+<bold>Figure&#x000a0;S2</bold> Expression of <italic>OsTPS19</italic> was related to diurnal rhythms.</p><p>
+<bold>Figure&#x000a0;S3</bold> Suppression of <italic>OsTPS20</italic> transcription in the double RNAi plants.</p><p>
+<bold>Figure&#x000a0;S4</bold> Overexpression of <italic>OsTPS19</italic> enhanced resistance against rice blast fungus through spot inoculation.</p><p>
+<bold>Figure&#x000a0;S5</bold> Chiral GC&#x02010;MS analysis of limonene emitted from rice seedlings.</p><p>
+<bold>Figure&#x000a0;S6</bold> Plastid localization of OsTPS19 in tobacco leaf.</p><p>
+<bold>Figure&#x000a0;S7</bold> Recombinant OsTPS20 exhibited monoterpene and sesquiterpene synthase activities.</p><p>
+<bold>Figure&#x000a0;S8</bold> Plastid localization of OsTPS20.</p></caption><media xlink:href="PBI-16-1778-s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12914-sec-0025"><title>Acknowledgements</title><p>This work was supported by the Natural Science Foundation of China (Grant no. 31571947) (to X.C.), the 111 Project (Grant no. B13006) (to X.C.) and an Innovation Fund from the University of Tennessee, Institute of Agriculture (to F.C.). We thank Shengyang He (Michigan State University) for manuscript improving.</p></ack><ref-list content-type="cited-references" id="pbi12914-bibl-0001"><title>References</title><ref id="pbi12914-bib-0001"><mixed-citation publication-type="journal" id="pbi12914-cit-0001">
+<string-name>
+<surname>Aharoni</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jongsma</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>T.Y.</given-names>
+</string-name>, <string-name>
+<surname>Ri</surname>, <given-names>M.B.</given-names>
+</string-name>, <string-name>
+<surname>Giri</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name>
+<surname>Verstappen</surname>, <given-names>F.W.A.</given-names>
+</string-name>, <string-name>
+<surname>Schwab</surname>, <given-names>W.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2006</year>) <article-title>Metabolic engineering of terpenoid biosynthesis in plants</article-title>. <source xml:lang="en">Phytochem. Rev.</source>
+<volume>5</volume>, <fpage>49</fpage>&#x02013;<lpage>58</lpage>.</mixed-citation></ref><ref id="pbi12914-bib-0002"><mixed-citation publication-type="journal" id="pbi12914-cit-0002">
+<string-name>
+<surname>Ahuja</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Kissen</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Bones</surname>, <given-names>A.M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Phytoalexins in defense against pathogens</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>17</volume>, <fpage>73</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">22209038</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0003"><mixed-citation publication-type="journal" id="pbi12914-cit-0003">
+<string-name>
+<surname>Akagi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fukushima</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nakayama</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shimono</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>WRKY45&#x02010;dependent priming of diterpenoid phytoalexin biosynthesis in rice and the role of cytokinin in triggering the reaction</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>86</volume>, <fpage>171</fpage>&#x02013;<lpage>183</lpage>.<pub-id pub-id-type="pmid">25033935</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0004"><mixed-citation publication-type="journal" id="pbi12914-cit-0004">
+<string-name>
+<surname>Ben&#x02010;Yehoshua</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rodov</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Nafussi</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Yen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Koltai</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Nelkenbaum</surname>, <given-names>U.</given-names>
+</string-name> (<year>2008</year>) <article-title>Involvement of limonene hydroperoxides formed after oid gland injury in the induction of defense response against <italic>Penicillium digitatum</italic> in lemon fruit</article-title>. <source xml:lang="en">J. Agr. Food. Chem.</source>
+<volume>56</volume>, <fpage>1889</fpage>&#x02013;<lpage>1895</lpage>.<pub-id pub-id-type="pmid">18298064</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0005"><mixed-citation publication-type="journal" id="pbi12914-cit-0005">
+<string-name>
+<surname>Cai</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.J.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>, <given-names>Q.K.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>C.H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Dlf1, a WRKY Transcription Factor, Is Involved in the Control of Flowering Time and Plant Height in Rice</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <fpage>e102529</fpage>.<pub-id pub-id-type="pmid">25036785</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0006"><mixed-citation publication-type="journal" id="pbi12914-cit-0006">
+<string-name>
+<surname>Chen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Tholl</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bohlmann</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Pichersky</surname>, <given-names>E.</given-names>
+</string-name> (<year>2011</year>) <article-title>The family of terpene synthases in plants: a mid&#x02010;size family of genes for specialized metabolism that is highly diversified throughout the kingdom</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>66</volume>, <fpage>212</fpage>&#x02013;<lpage>229</lpage>.<pub-id pub-id-type="pmid">21443633</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0007"><mixed-citation publication-type="journal" id="pbi12914-cit-0007">
+<string-name>
+<surname>Cheng</surname>, <given-names>A.X.</given-names>
+</string-name>, <string-name>
+<surname>Xiang</surname>, <given-names>C.Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.X.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>C.Q.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Lou</surname>, <given-names>Y.G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>The rice (E)&#x02010;beta&#x02010;caryophyllene synthase (OsTPS3) accounts for&#x000a0;the major inducible volatile sesquiterpenes</article-title>. <source xml:lang="en">Phytochemistry</source>, <volume>68</volume>, <fpage>1632</fpage>&#x02013;<lpage>1641</lpage>.<pub-id pub-id-type="pmid">17524436</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0008"><mixed-citation publication-type="journal" id="pbi12914-cit-0008">
+<string-name>
+<surname>Choi</surname>, <given-names>H.W.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>B.G.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>N.H.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>C.W.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>H.K.</given-names>
+</string-name> and <string-name>
+<surname>Hwang</surname>, <given-names>B.K.</given-names>
+</string-name> (<year>2008</year>) <article-title>A role for a menthone reductase in resistance against microbial pathogens in plants</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>148</volume>, <fpage>383</fpage>&#x02013;<lpage>401</lpage>.<pub-id pub-id-type="pmid">18599651</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0009"><mixed-citation publication-type="journal" id="pbi12914-cit-0009">
+<string-name>
+<surname>Davidovich&#x02010;Rikanati</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lewinsohn</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bar</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Iijima</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Pichersky</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Sitrit</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2008</year>) <article-title>Overexpression of the lemon basil alpha&#x02010;zingiberene synthase gene increases both mono&#x02010; and sesquiterpene contents in tomato fruit</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>56</volume>, <fpage>228</fpage>&#x02013;<lpage>238</lpage>.<pub-id pub-id-type="pmid">18643974</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0010"><mixed-citation publication-type="journal" id="pbi12914-cit-0010">
+<string-name>
+<surname>Dean</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Van Kan</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Pretorius</surname>, <given-names>Z.A.</given-names>
+</string-name>, <string-name>
+<surname>Hammond&#x02010;Kosack</surname>, <given-names>K.E.</given-names>
+</string-name>, <string-name>
+<surname>Di Pietro</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Spanu</surname>, <given-names>P.D.</given-names>
+</string-name>, <string-name>
+<surname>Rudd</surname>, <given-names>J.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>The Top 10 fungal pathogens in molecular plant pathology</article-title>. <source xml:lang="en">Mol. Plant Pathol.</source>
+<volume>13</volume>, <fpage>414</fpage>&#x02013;<lpage>430</lpage>.<pub-id pub-id-type="pmid">22471698</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0011"><mixed-citation publication-type="journal" id="pbi12914-cit-0011">
+<string-name>
+<surname>Degenhardt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kollner</surname>, <given-names>T.G.</given-names>
+</string-name> and <string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>) <article-title>Monoterpene and sesquiterpene synthases and the origin of terpene skeletal diversity in plants</article-title>. <source xml:lang="en">Phytochemistry</source>, <volume>70</volume>, <fpage>1621</fpage>&#x02013;<lpage>1637</lpage>.<pub-id pub-id-type="pmid">19793600</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0012"><mixed-citation publication-type="journal" id="pbi12914-cit-0012">
+<string-name>
+<surname>Diao</surname>, <given-names>W.R.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Q.P.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>S.S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W.Q.</given-names>
+</string-name> and <string-name>
+<surname>Xu</surname>, <given-names>J.G.</given-names>
+</string-name> (<year>2013</year>) <article-title>Chemical composition and antibacterial activity of the essential oil from green huajiao (<italic>Zanthoxylumschinifolium</italic>) against selected foodborne pathogens</article-title>. <source xml:lang="en">J. Agri. Food. Chem.</source>
+<volume>61</volume>, <fpage>6044</fpage>&#x02013;<lpage>6049</lpage>.</mixed-citation></ref><ref id="pbi12914-bib-0013"><mixed-citation publication-type="journal" id="pbi12914-cit-0013">
+<string-name>
+<surname>Dudareva</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Negre</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Nagegowda</surname>, <given-names>D.A.</given-names>
+</string-name> and <string-name>
+<surname>Orlova</surname>, <given-names>I.</given-names>
+</string-name> (<year>2006</year>) <article-title>Plant volatiles: recent advances and future perspectives</article-title>. <source xml:lang="en">Crit. Rev. Plant Sci.</source>
+<volume>25</volume>, <fpage>417</fpage>&#x02013;<lpage>440</lpage>.</mixed-citation></ref><ref id="pbi12914-bib-0014"><mixed-citation publication-type="journal" id="pbi12914-cit-0014">
+<string-name>
+<surname>Fu</surname>, <given-names>Z.Q.</given-names>
+</string-name> and <string-name>
+<surname>Dong</surname>, <given-names>X.</given-names>
+</string-name> (<year>2013</year>) <article-title>Systemic acquired resistance: Turning local infection into global defense</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>64</volume>, <fpage>839</fpage>&#x02013;<lpage>863</lpage>.<pub-id pub-id-type="pmid">23373699</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0015"><mixed-citation publication-type="journal" id="pbi12914-cit-0015">
+<string-name>
+<surname>Fujisaki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Abe</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Saitoh</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kanzaki</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kanzaki</surname>, <given-names>E.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Rice Exo70 interacts with a fungal effector, AVR&#x02010;Pii, and is required for AVR&#x02010;Pii&#x02010;triggered immunity</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>83</volume>, <fpage>875</fpage>&#x02013;<lpage>887</lpage>.<pub-id pub-id-type="pmid">26186703</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0016"><mixed-citation publication-type="journal" id="pbi12914-cit-0016">
+<string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Dudareva</surname>, <given-names>N.</given-names>
+</string-name> (<year>2007</year>) <article-title>The function of terpene natural products in the natural world</article-title>. <source xml:lang="en">Nat. Chem. Biol.</source>
+<volume>3</volume>, <fpage>408</fpage>&#x02013;<lpage>414</lpage>.<pub-id pub-id-type="pmid">17576428</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0017"><mixed-citation publication-type="journal" id="pbi12914-cit-0017">
+<string-name>
+<surname>Han</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lundgren</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Brodelius</surname>, <given-names>P.E.</given-names>
+</string-name> (<year>2014</year>) <article-title>Effects of overexpression of <italic>AaWRKY</italic>1 on artemisinin biosynthesis in transgenic <italic>Artemisia annua</italic> plants</article-title>. <source xml:lang="en">Phytochemistry</source>, <volume>102</volume>, <fpage>89</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">24629804</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0018"><mixed-citation publication-type="journal" id="pbi12914-cit-0018">
+<string-name>
+<surname>Lee</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>, <given-names>M.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Chung</surname>, <given-names>B.</given-names>
+</string-name> (<year>2015</year>) <article-title>Rice terpene synthase20 (OsTPS20) plays an important role in producing terpene volatiles in response to abiotic stresses</article-title>. <source xml:lang="en">Protoplasma</source>, <volume>252</volume>, <fpage>997</fpage>&#x02013;<lpage>1007</lpage>.<pub-id pub-id-type="pmid">25430981</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0019"><mixed-citation publication-type="journal" id="pbi12914-cit-0019">
+<string-name>
+<surname>Lee</surname>, <given-names>G.W.</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>, <given-names>M.&#x02010;S.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>, <given-names>B.Y.</given-names>
+</string-name> and <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>) <article-title>Direct suppression of a rice bacterial blight (<italic>Xanthomonas oryzae</italic> pv. <italic>oryzae</italic>) by monoterpene (<italic>S</italic>)&#x02010;limonene</article-title>. <source xml:lang="en">Protoplasma</source>, <volume>253</volume>, <fpage>683</fpage>&#x02013;<lpage>690</lpage>.<pub-id pub-id-type="pmid">26530963</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0020"><mixed-citation publication-type="journal" id="pbi12914-cit-0020">
+<string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Chern</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ran</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>A natural allele of a transcription factor in rice confers broad&#x02010;spectrum blast resistance</article-title>. <source xml:lang="en">Cell</source>, <volume>170</volume>, <fpage>114</fpage>&#x02013;<lpage>126</lpage>.<pub-id pub-id-type="pmid">28666113</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0021"><mixed-citation publication-type="journal" id="pbi12914-cit-0021">
+<string-name>
+<surname>Liang</surname>, <given-names>X.X.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Guo</surname>, <given-names>Z.J.</given-names>
+</string-name> (<year>2017</year>) <article-title>Metabolic and transcriptional alternations for defense by interfering <italic>OsWRKY62</italic> and <italic>OsWRKY76</italic> transcriptions in rice</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>7</volume>, <fpage>2474</fpage>.<pub-id pub-id-type="pmid">28559550</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0022"><mixed-citation publication-type="journal" id="pbi12914-cit-0022">
+<string-name>
+<surname>Liu</surname>, <given-names>J.Q.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.J.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>X.X.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>X.G.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>S.Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Alternative Splicing of Rice <italic>WRKY62</italic> and <italic>WRKY76</italic> Transcription Factor Genes in Pathogen Defense</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>171</volume>, <fpage>1427</fpage>&#x02013;<lpage>1442</lpage>.<pub-id pub-id-type="pmid">27208272</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0023"><mixed-citation publication-type="journal" id="pbi12914-cit-0023">
+<string-name>
+<surname>Lou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Hua</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name> and <string-name>
+<surname>Ye</surname>, <given-names>G.</given-names>
+</string-name> (<year>2006</year>) <article-title>Differences in induced volatile emissions among rice varieties result in differential attraction and parasitism of <italic>Nilaparvata lugens</italic> eggs by the parasitoid <italic>Anagrus nilaparvatae</italic> in the field</article-title>. <source xml:lang="en">J. Chem. Ecol.</source>
+<volume>32</volume>, <fpage>2375</fpage>&#x02013;<lpage>2387</lpage>.<pub-id pub-id-type="pmid">17061169</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0024"><mixed-citation publication-type="journal" id="pbi12914-cit-0024">
+<string-name>
+<surname>L&#x000fc;cker</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schwab</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>van Hautum</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Blaas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>van der Plas</surname>, <given-names>L.H.</given-names>
+</string-name>, <string-name>
+<surname>Bouwmeester</surname>, <given-names>H.J.</given-names>
+</string-name> and <string-name>
+<surname>Verhoeven</surname>, <given-names>H.A.</given-names>
+</string-name> (<year>2004</year>) <article-title>Increased and altered fragrance of tobacco plants after metabolic engineering using three monoterpene synthases from lemon</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>134</volume>, <fpage>510</fpage>&#x02013;<lpage>551</lpage>.<pub-id pub-id-type="pmid">14718674</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0025"><mixed-citation publication-type="journal" id="pbi12914-cit-0025">
+<string-name>
+<surname>Mu&#x000f1;oz&#x02010;Bertomeu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ros</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Arrillaga</surname>, <given-names>I.</given-names>
+</string-name> and <string-name>
+<surname>Segura</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Expression of spearmint limonene synthase in transgenic spike lavender results in an altered monoterpene composition in developing leaves</article-title>. <source xml:lang="en">Metab. Eng.</source>
+<volume>10</volume>, <fpage>166</fpage>&#x02013;<lpage>177</lpage>.<pub-id pub-id-type="pmid">18514005</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0026"><mixed-citation publication-type="journal" id="pbi12914-cit-0026">
+<string-name>
+<surname>Obara</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hasegawa</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Kodama</surname>, <given-names>O.</given-names>
+</string-name> (<year>2002</year>) <article-title>Induced volatiles in elicitor&#x02010;treated and rice blast fungus&#x02010;inoculated rice leaves</article-title>. <source xml:lang="en">Biosci. Biotechnol. Biochem.</source>
+<volume>66</volume>, <fpage>2549</fpage>&#x02013;<lpage>2559</lpage>.<pub-id pub-id-type="pmid">12596847</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0027"><mixed-citation publication-type="journal" id="pbi12914-cit-0027">
+<string-name>
+<surname>Pasoreck</surname>, <given-names>E.K.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Silverman</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Gosai</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>B.D.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>J.S.</given-names>
+</string-name> and <string-name>
+<surname>Daniell</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>) <article-title>Terpene metabolic engineering <italic>via</italic> nuclear or chloroplast genomes profoundly and globally impacts off&#x02010;target pathways through metabolite signalling</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>14</volume>, <fpage>1862</fpage>&#x02013;<lpage>1875</lpage>.<pub-id pub-id-type="pmid">27507797</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0028"><mixed-citation publication-type="journal" id="pbi12914-cit-0028">
+<string-name>
+<surname>Riedlmeier</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ghirardo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wenig</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Knappe</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Georgii</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Dey</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Monoterpenes support systemic acquired resistance within and between plants</article-title>. <source xml:lang="en">Plant Cell.</source>
+<volume>29</volume>, <fpage>1440</fpage>&#x02013;<lpage>1459</lpage>.<pub-id pub-id-type="pmid">28536145</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0029"><mixed-citation publication-type="journal" id="pbi12914-cit-0029">
+<string-name>
+<surname>Schwede</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kopp</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Guex</surname>, <given-names>N.</given-names>
+</string-name> and <string-name>
+<surname>Peitsch</surname>, <given-names>M.C.</given-names>
+</string-name> (<year>2003</year>) <article-title>SWISS&#x02010;MODEL: An automated protein homology&#x02010;modeling server</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>31</volume>, <fpage>3381</fpage>&#x02013;<lpage>3385</lpage>.<pub-id pub-id-type="pmid">12824332</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0030"><mixed-citation publication-type="journal" id="pbi12914-cit-0030">
+<string-name>
+<surname>Starks</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Back</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Chappell</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Noel</surname>, <given-names>J.P.</given-names>
+</string-name> (<year>1997</year>) <article-title>Structural basis for cyclic terpene biosynthesis by tobacco 5&#x02010;epi&#x02010;aristolochene synthase</article-title>. <source xml:lang="en">Science</source>, <volume>277</volume>, <fpage>1815</fpage>&#x02013;<lpage>1820</lpage>.<pub-id pub-id-type="pmid">9295271</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0031"><mixed-citation publication-type="journal" id="pbi12914-cit-0031">
+<string-name>
+<surname>Sun</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ning</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Jing</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Bruce</surname>, <given-names>T.J.A.</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Q.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>TPS46, a rice terpene synthase conferring natural resistance to bird cherry&#x02010;oat aphid, <italic>rhopalosiphum padi</italic> (linnaeus)</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>8</volume>, <fpage>110</fpage>.<pub-id pub-id-type="pmid">28217135</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0032"><mixed-citation publication-type="journal" id="pbi12914-cit-0032">
+<string-name>
+<surname>Taniguchi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Miyoshi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tamaoki</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Yamada</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Uji</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Isolation of jasmonate&#x02010;induced sesquiterpene synthase of rice: product of which has an antifungal activity against <italic>Magnaporthe oryzae</italic>
+</article-title>. <source xml:lang="en">J. Plant Physiol.</source>
+<volume>171</volume>, <fpage>625</fpage>&#x02013;<lpage>632</lpage>.<pub-id pub-id-type="pmid">24709155</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0033"><mixed-citation publication-type="journal" id="pbi12914-cit-0033">
+<string-name>
+<surname>Tao</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Zhou</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>Anti&#x02010;fungal activity of <italic>Citrus reticulata</italic> Blanco essential oil against <italic>Penicillium italicum</italic> and <italic>Penicillium digitatum</italic>
+</article-title>. <source xml:lang="en">Food Chem.</source>
+<volume>153</volume>, <fpage>265</fpage>&#x02013;<lpage>271</lpage>.<pub-id pub-id-type="pmid">24491729</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0034"><mixed-citation publication-type="journal" id="pbi12914-cit-0034">
+<string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>Overexpression of rice <italic>WRKY89</italic> enhances ultraviolet B tolerance and disease resistance in rice plants</article-title>. <source xml:lang="en">Plant Mol. Biol.</source>
+<volume>65</volume>, <fpage>799</fpage>&#x02013;<lpage>815</lpage>.<pub-id pub-id-type="pmid">17960484</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0035"><mixed-citation publication-type="journal" id="pbi12914-cit-0035">
+<string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Xin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Enhanced limonene production in cyanobacteria reveals photosynthesis limitations</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>113</volume>, <fpage>14225</fpage>&#x02013;<lpage>14230</lpage>.<pub-id pub-id-type="pmid">27911807</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0036"><mixed-citation publication-type="journal" id="pbi12914-cit-0036">
+<string-name>
+<surname>Wiederstein</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Sippl</surname>, <given-names>M.J.</given-names>
+</string-name> (<year>2007</year>) <article-title>ProSA&#x02010;web: interactive web service for the recognition of errors in three&#x02010;dimensional structures of proteins</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>35</volume>, <fpage>W407</fpage>&#x02013;<lpage>W410</lpage>.<pub-id pub-id-type="pmid">17517781</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0037"><mixed-citation publication-type="journal" id="pbi12914-cit-0037">
+<string-name>
+<surname>Xu</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.Y.</given-names>
+</string-name> and <string-name>
+<surname>Chen</surname>, <given-names>X.Y.</given-names>
+</string-name> (<year>2004</year>) <article-title>Characterization of GaWRKY1, a cotton transcription factor that regulates the sesquiterpene synthase gene (+)&#x02010;&#x003b4;&#x02010;cadinene synthase&#x02010;A</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>135</volume>, <fpage>507</fpage>&#x02013;<lpage>515</lpage>.<pub-id pub-id-type="pmid">15133151</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0038"><mixed-citation publication-type="journal" id="pbi12914-cit-0038">
+<string-name>
+<surname>Yazaki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Arimura</surname>, <given-names>G.&#x02010;I.</given-names>
+</string-name> and <string-name>
+<surname>Ohnishi</surname>, <given-names>T.</given-names>
+</string-name> (<year>2017</year>) <article-title>&#x02018;Hidden&#x02019; terpenoids in Plants: their biosynthesis, localization and ecological roles</article-title>. <source xml:lang="en">Plant Cell Physiol.</source>
+<volume>58</volume>, <fpage>1615</fpage>&#x02013;<lpage>1621</lpage>.<pub-id pub-id-type="pmid">29016891</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0039"><mixed-citation publication-type="journal" id="pbi12914-cit-0039">
+<string-name>
+<surname>Yu</surname>, <given-names>F.</given-names>
+</string-name> and <string-name>
+<surname>Utsumi</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Diversity, regulation, and genetic manipulation of plant mono&#x02010; and sesquiterpenoid biosynthesis</article-title>. <source xml:lang="en">Cell. Mol. Life Sci.</source>
+<volume>66</volume>, <fpage>3043</fpage>&#x02013;<lpage>3052</lpage>.<pub-id pub-id-type="pmid">19547916</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0040"><mixed-citation publication-type="journal" id="pbi12914-cit-0040">
+<string-name>
+<surname>Yuan</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Kollner</surname>, <given-names>T.G.</given-names>
+</string-name>, <string-name>
+<surname>Wiggins</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Degenhardt</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Chen</surname>, <given-names>F.</given-names>
+</string-name> (<year>2008</year>) <article-title>Molecular and genomic basis of volatile&#x02010;mediated indirect defense against insects in rice</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>55</volume>, <fpage>491</fpage>&#x02013;<lpage>503</lpage>.<pub-id pub-id-type="pmid">18433439</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0041"><mixed-citation publication-type="journal" id="pbi12914-cit-0041">
+<string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Zhou</surname>, <given-names>J.&#x02010;M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Plant immunity triggered by microbial molecular signatures</article-title>. <source xml:lang="en">Mol. Plant</source>
+<volume>3</volume>, <fpage>783</fpage>&#x02013;<lpage>793</lpage>.<pub-id pub-id-type="pmid">20713980</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0042"><mixed-citation publication-type="journal" id="pbi12914-cit-0042">
+<string-name>
+<surname>Zhao</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ferrer</surname>, <given-names>J.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Engle</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Chern</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ronald</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Tschaplinski</surname>, <given-names>T.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Biosynthesis and emission of insect&#x02010;induced methyl salicylate and methyl benzoate from rice</article-title>. <source xml:lang="en">Plant Physiol. Biochem.</source>
+<volume>48</volume>, <fpage>279</fpage>&#x02013;<lpage>287</lpage>.<pub-id pub-id-type="pmid">20199866</pub-id></mixed-citation></ref><ref id="pbi12914-bib-0043"><mixed-citation publication-type="journal" id="pbi12914-cit-0043">
+<string-name>
+<surname>Zhuang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;llner</surname>, <given-names>T.G.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Dynamic evolution of herbivore&#x02010;induced sesquiterpene biosynthesis in sorghum and related grass crops</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>69</volume>, <fpage>70</fpage>&#x02013;<lpage>80</lpage>.<pub-id pub-id-type="pmid">21880075</pub-id></mixed-citation></ref></ref-list></back></article>

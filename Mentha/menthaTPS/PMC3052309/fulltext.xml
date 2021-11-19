@@ -1,0 +1,1152 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20031101//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">3052309</article-id><article-id pub-id-type="pmid">21408066</article-id><article-id pub-id-type="publisher-id">PONE-D-10-03456</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0017195</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Ecology</subject><subj-group><subject>Chemical Ecology</subject></subj-group></subj-group><subj-group><subject>Genomics</subject><subj-group><subject>Genome Expression Analysis</subject></subj-group></subj-group><subj-group><subject>Plant Science</subject><subj-group><subject>Plant Biochemistry</subject><subj-group><subject>Secondary Metabolism</subject></subj-group></subj-group><subj-group><subject>Plant Pathology</subject><subj-group><subject>Plant Pests</subject></subj-group></subj-group><subj-group><subject>Plant Genomics</subject></subj-group></subj-group><subj-group><subject>Zoology</subject><subj-group><subject>Animal Behavior</subject><subject>Entomology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Chemistry</subject><subj-group><subject>Analytical Chemistry</subject></subj-group><subj-group><subject>Applied Chemistry</subject></subj-group><subj-group><subject>Chemical Biology</subject></subj-group></subj-group></article-categories><title-group><article-title>
+<italic>Chrysolina herbacea</italic> Modulates Terpenoid Biosynthesis
+of <italic>Mentha aquatica</italic> L.</article-title><alt-title alt-title-type="running-head">Terpenoid Modulation in <italic>Mentha
+aquatica</italic></alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Atsbaha Zebelo</surname><given-names>Simon</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Bertea</surname><given-names>Cinzia M.</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Bossi</surname><given-names>Simone</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Occhipinti</surname><given-names>Andrea</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Gnavi</surname><given-names>Giorgio</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Maffei</surname><given-names>Massimo E.</given-names></name><xref ref-type="aff" rid="aff1"/><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<addr-line>Plant Physiology Unit, Department of Plant Biology, University of Turin,
+Innovation Centre, Turin, Italy</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Blazquez</surname><given-names>Miguel</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Instituto de Biolog&#x000ed;a Molecular y Celular de Plantas, Spain</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>massimo.maffei@unito.it</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: MEM SAZ. Performed the experiments:
+SAZ CMB SB AO GG. Analyzed the data: MEM SAZ GG. Contributed
+reagents/materials/analysis tools: MEM. Wrote the paper: MEM SAZ.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>9</day><month>3</month><year>2011</year></pub-date><volume>6</volume><issue>3</issue><elocation-id>e17195</elocation-id><history><date date-type="received"><day>18</day><month>10</month><year>2010</year></date><date date-type="accepted"><day>23</day><month>1</month><year>2011</year></date></history><permissions><copyright-statement>Atsbaha Zebelo et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><p>Interactions between herbivorous insects and plants storing terpenoids are poorly
+understood. This study describes the ability of <italic>Chrysolina
+herbacea</italic> to use volatiles emitted by undamaged <italic>Mentha
+aquatica</italic> plants as attractants and the plant's response to
+herbivory, which involves the production of deterrent molecules. Emitted plant
+volatiles were analyzed by GC-MS. The insect's response to plant volatiles
+was tested by Y-tube olfactometer bioassays. Total RNA was extracted from
+control plants, mechanically damaged leaves, and leaves damaged by herbivores.
+The terpenoid quantitative gene expressions (qPCR) were then assayed. Upon
+herbivory, <italic>M. aquatica</italic> synthesizes and emits
+(&#x0002b;)-menthofuran, which acts as a deterrent to <italic>C. herbacea</italic>.
+Herbivory was found to up-regulate the expression of genes involved in terpenoid
+biosynthesis. The increased emission of (&#x0002b;)-menthofuran was correlated with
+the upregulation of (&#x0002b;)-menthofuran synthase.</p></abstract><counts><page-count count="10"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>To deter herbivores, plants have evolved a broad range of defense mechanisms that can
+be generalized into two categories: pre-formed constitutive defenses and inducible
+defenses <xref rid="pone.0017195-Chen1" ref-type="bibr">[1]</xref>.
+Constitutive defenses include the physical and chemical barriers that exist before
+insects attack, whereas induced defenses includes direct and indirect defenses.
+Direct defenses are plant traits that by themselves affect the susceptibility of
+host plants to insect attacks. Indirect defenses, on the other hand, include plant
+traits that by themselves do not affect the susceptibility of host plants, but can
+serve as attractants to natural enemies of attacking insects <xref rid="pone.0017195-Maffei1" ref-type="bibr">[2]</xref>&#x02013;<xref rid="pone.0017195-Kessler1" ref-type="bibr">[7]</xref>. Insects may respond to plants
+by choosing different feeding sites, by altering their consumption rates or by
+induction of physiological/detoxification enzymes <xref rid="pone.0017195-Scriber1" ref-type="bibr">[8]</xref>.</p><p>Approximately 90&#x00025; of herbivorous insects have narrow host ranges, feeding on
+plants within a single taxonomic family, and many species are confined to a single
+host species <xref rid="pone.0017195-Strong1" ref-type="bibr">[9]</xref>.
+The variability in fitness on different host plant species favors behavioral
+genotypes that restrict feeding to the most suitable hosts; on the other hand,
+maintaining mechanisms that nullify the disparate defensive adaptations of many
+different plant species is too costly for generalist herbivores <xref rid="pone.0017195-Rausher1" ref-type="bibr">[10]</xref>. Thus, the key
+to understanding why certain herbivores remain specialized lies in the observation
+that specialization involves both behavioral and physiological adaptation <xref rid="pone.0017195-Scriber1" ref-type="bibr">[8]</xref>, <xref rid="pone.0017195-Cogni1" ref-type="bibr">[11]</xref>, <xref rid="pone.0017195-Smiseth1" ref-type="bibr">[12]</xref>.</p><p>The defense strategy in aromatic plants like <italic>Mentha aquatica</italic> is a
+direct defense, through the constitutive production of terpenoids in specialized
+tissues known as the glandular trichomes <xref rid="pone.0017195-Maffei1" ref-type="bibr">[2]</xref>. These plants may have chemical
+barriers to potential herbivore colonists, and they appear to be accessible to
+relatively few insect lineages, which may be pre-adapted to chemically similar or
+related host plants <xref rid="pone.0017195-Farrell1" ref-type="bibr">[13]</xref>. As some insects become adapted to these metabolites,
+interactions between the two groups of organisms occasionally lead to highly
+specific relationships, as in the case of <italic>M. aquatica</italic> and the
+herbivore <italic>Chrysolina herbacea</italic>.</p><p>
+<italic>M. aquatica</italic>, or watermint, is a perennial plant belonging to the
+Lamiaceae. It produces leaf glandular trichomes secreting volatile organic compounds
+(VOCs) of varying chemical composition <xref rid="pone.0017195-Malingr1" ref-type="bibr">[14]</xref>, <xref rid="pone.0017195-Jerkovic1" ref-type="bibr">[15]</xref>. The presence of the
+oxygenated monoterpenes (&#x0002b;)-pulegone and (&#x0002b;)-menthofuran contributes to
+the plant's toxicity. Both viridiflorol from the essential oil and
+(S)-naringenin from an ethanolic extract have been isolated by bioassay-guided
+fractionation with binding to the GABA-benzodiazepine site. Furthermore, <italic>M.
+aquatica</italic> contains psychoactive compounds that display both monoamine
+oxidase-inhibitory activity and mitochondrial respiration uncoupling <xref rid="pone.0017195-Jager1" ref-type="bibr">[16]</xref>&#x02013;<xref rid="pone.0017195-Mucciarelli1" ref-type="bibr">[19]</xref>. At least
+24 species of insect herbivores have been observed feeding on <italic>M.
+aquatica</italic>
+<xref rid="pone.0017195-Warren1" ref-type="bibr">[20]</xref>, <xref rid="pone.0017195-Horwood1" ref-type="bibr">[21]</xref>, and among
+these, <italic>C. herbacea</italic>, also known as the mint beetle, is quite diffuse
+in mint fields. The feeding behavior of this beetle has been described recently
+<xref rid="pone.0017195-Bienkowski1" ref-type="bibr">[22]</xref>. Both
+larvae and adult beetles attack the leaves. Leaf beetles like <italic>C.
+herbacea</italic> are also known for their ability to import structurally
+distinct allelochemicals (reviewed by <xref rid="pone.0017195-Burse1" ref-type="bibr">[23]</xref>). The ability to produce
+deterrents to natural enemies from plant-derived compounds is typical of some
+<italic>Chrysolina</italic> species <xref rid="pone.0017195-Pasteels1" ref-type="bibr">[24]</xref>&#x02013;<xref rid="pone.0017195-Laurent2" ref-type="bibr">[26]</xref>. Because herbivore feeding
+alters the aromatic profile of essential oil-producing plants like <italic>M.
+aquatica</italic>, the issue is both ecologically and economically relevant
+<xref rid="pone.0017195-Banchio1" ref-type="bibr">[27]</xref>&#x02013;<xref rid="pone.0017195-Valladares1" ref-type="bibr">[29]</xref>.</p><p>In this work we describe the chemical interaction between <italic>M.
+aquatica</italic> and <italic>C. herbacea</italic> by evaluating the ability of
+the herbivore to locate and recognize plant chemical cues and the capacity of the
+host plant to respond to herbivory by emitting deterrent molecules. To this end,
+plant VOC emissions we analyzed before and after herbivore feeding, and the ability
+of the emitted molecules to attract or deter <italic>C. herbacea</italic> was tested
+by bioassay.</p></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>
+<italic>C. herbacea</italic> responds to <italic>M. aquatica</italic> VOC
+emission</title><p>Successful co-adaptation between plants and insects requires that plants produce
+specific compounds in response to herbivory, and that insects respond adequately
+to molecules emitted by plants. To look for possible relationships between
+<italic>M. aquatica</italic> VOC emissions and herbivore responses, the
+behavior of <italic>C. herbacea</italic> was first evaluated in Y-tube
+olfactometry tests.</p><p>
+<italic>C. herbacea</italic> was found to be attracted to undamaged plants, with
+respect to pure air. When the choice was between infested plants, undamaged
+plants or air, the insect was found to be deterred by infested plants (<xref ref-type="fig" rid="pone-0017195-g001">Fig. 1</xref>). Furthermore, the
+insects were found to lay eggs on undamaged plants and they produced larvae
+capable of surviving successive instars up to the adult phase (see Supporting
+<xref ref-type="supplementary-material" rid="pone.0017195.s003">Fig.
+S3</xref>). Preliminary studies demonstrated that the qualitative response
+of <italic>M. aquatica</italic> to larvae feeding was not significantly
+different from that of adult insects. For this reason, the study focused on
+adult insects.</p><fig id="pone-0017195-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017195.g001</object-id><label>Figure 1</label><caption><title>Response of <italic>C. herbacea</italic> in a Y-tube olfactometer
+when offered to <italic>M. aquatica</italic> cuttings of undamaged and
+<italic>C. herbacea</italic>-infested leaves versus pure GC-grade
+air.</title><p>A &#x003c7;<sup>2</sup> test served to evaluate differences from a
+50&#x02236;50 distribution over two olfactometer arms. Insects that did
+not reach the end of either olfactometer arm within 10 min (NC: no
+choice) are indicated by white bars. The asterisks indicate significant
+(P&#x0003c;0.05) differences.</p></caption><graphic xlink:href="pone.0017195.g001"/></fig></sec><sec id="s2b"><title>
+<italic>M. aquatica</italic> reacts to <italic>C. herbacea</italic> herbivory
+by emitting specific deterrent molecules</title><p>The reason why <italic>C. herbacea</italic> was differentially attracted to
+undamaged and infested plants was examined. VOCs emitted by untreated <italic>M.
+aquatica</italic> were analyzed by SPME, which revealed the presence of two
+major compounds, (&#x0002b;)-pulegone and (&#x0002b;)-menthofuran (<xref ref-type="fig" rid="pone-0017195-g002">Fig. 2a</xref>), along with other
+minor terpenoids including the monoterpenes (&#x02212;)-limonene,
+(&#x02212;)-menthone and &#x003b1;-terpineol, and the sesquiterpene,
+(<italic>E</italic>)-&#x003b2;-caryophyllene (<xref ref-type="fig" rid="pone-0017195-g002">Fig. 2b</xref>). However, it is important to note
+that the major compounds were emitted at much higher levels (0.13&#x02013;0.75
+&#x000b5;g g<sup>&#x02212;1</sup> f. wt) than the minor compounds in the range of
+3&#x02013;35 ng g<sup>&#x02212;1</sup> f. wt. The feeding activity of <italic>C.
+herbacea</italic> significantly changed the quantitative VOC composition of
+<italic>M. aquatica</italic> VOC emissions by dramatically increasing the
+content of (&#x0002b;)-menthofuran and decreasing the content of (&#x0002b;)-pulegone
+(<xref ref-type="fig" rid="pone-0017195-g002">Fig. 2a</xref>). The levels of
+all minor compounds, with particular reference to myrcene, were also elevated
+significantly upon herbivory; with the sole exception of
+<italic>p</italic>-cymene, which declined significantly (<xref ref-type="fig" rid="pone-0017195-g002">Fig. 2b</xref>). Since herbivory leads to the
+rupture of glandular trichomes, which are the main storage tissues of terpenoids
+in the Lamiaceae <xref rid="pone.0017195-Maffei1" ref-type="bibr">[2]</xref>, <xref rid="pone.0017195-Maffei2" ref-type="bibr">[30]</xref>, whether mechanical injury alone was able to increase
+the VOC emissions in <italic>M. aquatica</italic> was evaluated. Surprisingly,
+leaves damaged mechanically by a pattern wheel and having the same extent of
+herbivore damage had lower emissions of both major and minor compounds in
+comparison to control plants, particularly in comparison to herbivore wounded
+leaves (<xref ref-type="fig" rid="pone-0017195-g002">Figs. 2a and
+2b</xref>).</p><fig id="pone-0017195-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017195.g002</object-id><label>Figure 2</label><caption><title>VOC emission by <italic>M. aquatica</italic> in undamaged plants
+(control), in response to mechanical damage caused by a pattern wheel
+(MD) and after herbivory by <italic>C. herbacea</italic> (HW).</title><p>
+<bold>a</bold>, Content of the major components; <bold>b</bold>, content
+of the minor components. Bars indicate the standard error over the mean
+of at least three biological replicates. Asterisks indicate significant
+differences with respect to controls (P&#x0003c;0.05).</p></caption><graphic xlink:href="pone.0017195.g002"/></fig></sec><sec id="s2c"><title>
+<italic>C. herbacea</italic> responds differentially to specific monoterpenes
+emitted by <italic>M. aquatica</italic>
+</title><p>Following assessment of the chemical composition of the major VOCs released by
+undamaged and infested <italic>M. aquatica</italic>, the responses of <italic>C.
+herbacea</italic> to the main monoterpenes (&#x0002b;)-menthofuran and
+(&#x0002b;)-pulegone were tested. <italic>C. herbacea</italic> was significantly
+attracted to (&#x0002b;)-pulegone when the choice was limited to pure air, infested
+plants or (&#x0002b;)-menthofuran, whereas the insect preferred undamaged plants
+when offered with (&#x0002b;)-pulegone. On the contrary, (&#x0002b;)-menthofuran was
+always found to repel the insects, no matter which choice test was performed
+(<xref ref-type="fig" rid="pone-0017195-g003">Fig. 3</xref>). To evaluate
+whether the synthetic mixture composed of both major and minor compounds
+identified from leaf volatiles affected <italic>C. herbacea</italic> behavior,
+insect preference was determined by performing choice tests with several
+comparisons. <italic>C. herbacea</italic> was significantly attracted to the
+synthetic mixture typical of uninfested plants when compared to both air and a
+synthetic mixture typical of infested plants (<xref ref-type="fig" rid="pone-0017195-g003">Fig. 3</xref>). When only minor compounds of
+synthetic mixtures were compared to either air or other mixtures, no significant
+difference could be found (<xref ref-type="fig" rid="pone-0017195-g003">Fig.
+3</xref>).</p><fig id="pone-0017195-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017195.g003</object-id><label>Figure 3</label><caption><title>Response of <italic>C. herbacea</italic> in a Y-tube olfactometer
+when offered to either Sigma-grade (&#x0002b;)-pulegone,
+(&#x0002b;)-menthofuran, synthetic mixtures of compounds with the same
+content of typical intact plant emissions (Synt Mix Plant), synthetic
+mixtures of compounds with the same content of typical infested plant
+emissions (Synt Mix Infested Plant), synthetic mixtures of only minor
+compounds with the same content of typical intact plant emissions (Synt
+Minor Plant), synthetic mixtures of only minor compounds with the same
+content of typical infested plant emissions (Synt Minor Infested Plant)
+or GC-grade air.</title><p>A &#x003c7;<sup>2</sup> test served toevaluate differences from a
+50&#x02236;50 distribution over two olfactometer arms. Insects that did
+not reach the end of either olfactometer arm within 10 min (NC: no
+choice) are indicated by white bars. Asterisks indicate significant
+differences (P&#x0003c;0.05).</p></caption><graphic xlink:href="pone.0017195.g003"/></fig></sec><sec id="s2d"><title>Feeding of <italic>C. herbacea</italic> induces terpenoid gene expression in
+<italic>M. aquatica</italic>
+</title><p>Herbivory was found to affect the percentage of some monoterpenes emitted by
+<italic>M. aquatica</italic>. For this reason, gene expression involved in
+the biosynthetic pathway leading to the bioactive monoterpenes (&#x0002b;)-pulegone
+and (&#x0002b;)-menthofuran was evaluated. Previous studies have established the
+biochemical pathway that in mints that leads to the production of these two
+important monoterpenes (<xref ref-type="fig" rid="pone-0017195-g004">Fig.
+4</xref>) <xref rid="pone.0017195-Croteau1" ref-type="bibr">[31]</xref>. We considered early genes such as
+<italic>Dxs</italic> and <italic>Ippi</italic>, which are involved in the
+formation and isomerization of the precursors isopentenyl diphosphate (IPP) and
+dimethylallyl diphosphate (DMAPP), respectively. <italic>Dxp</italic> showed no
+regulation by either herbivory or mechanical damage, whereas
+<italic>Ippi</italic> was down-regulated by mechanical damage and
+up-regulated by herbivory. <italic>Gpps</italic>, the gene coding for the enzyme
+that condenses one unit each of IPP and DMAPP into the monoterpene precursor
+geranyl pyrophosphate (GPP), was up-regulated almost 3-fold by herbivory and to
+a lesser extent by mechanical damage. <italic>Ls</italic>, coding for the enzyme
+conducting cyclisation of the universal precursor GPP to the parent olefin
+(&#x02212;)-limonene, showed the same trend as <italic>Ippi</italic>, being
+up-regulated by herbivory and down-regulated by mechanical damage (<xref ref-type="fig" rid="pone-0017195-g005">Fig. 5</xref>). Several genes were
+always up-regulated by herbivory and showed no regulation after mechanical
+damage (<xref ref-type="fig" rid="pone-0017195-g005">Fig. 5</xref>). The genes
+included <italic>L3oh</italic>, which codes for the enzyme responsible for the
+NADPH- and O<sub>2</sub>-dependent hydroxylation of (&#x02212;)-limonene to
+(&#x02212;)-<italic>trans</italic>-isopiperitenol, <italic>Ipd</italic>, which
+codes the operationally soluble, NAD-dependent isopiperitenol dehydrogenase that
+catalyzes allylic oxidation to the &#x003b1;,&#x003b2;-unsaturated ketone
+(&#x02212;)-isopiperitenone, <italic>Ipr</italic>, which codes the soluble enzyme
+(&#x02212;)-isopiperitenone reductase that catalyzes the stereospecific,
+NADPH-dependent reduction of (&#x02212;)-isopiperitenone to
+(&#x0002b;)-(1R,4R)-cis-isopulegone, and <italic>Mfs</italic>, which codes for
+menthofuran synthase, an enzyme responsible for the transformation of
+(&#x0002b;)-pulegone to (&#x0002b;)-menthofuran (<xref ref-type="fig" rid="pone-0017195-g004">Fig. 4</xref>). Isopulegone isomerase, which
+catalyzes double bond migration and causes the isopropenyl double bond of
+(&#x0002b;)-(1R,4R)-cis-isopulegone to yield (&#x0002b;)-pulegone, has not yet been
+isolated and was not assayed. Finally, <italic>Pr</italic>, which codes for
+pulegone reductase, the enzyme responsible for NADPH-dependent reduction of the
+conjugated double bond of the terpenone to yield (&#x02212;)-menthone, was
+down-regulated by herbivory and showed no significant regulation upon mechanical
+damage (<xref ref-type="fig" rid="pone-0017195-g004">Figs. 4</xref> and <xref ref-type="fig" rid="pone-0017195-g005">5</xref>).</p><fig id="pone-0017195-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017195.g004</object-id><label>Figure 4</label><caption><title>Schematic representation of the monoterpene biochemical pathway in
+<italic>M. aquatica</italic>.</title><p>
+<italic>Dxs</italic>, 1-deoxy-D-xylulose-5-phosphate synthase;
+<italic>Gpps</italic> indicates geranyl diphosphate synthase;
+<italic>Ls</italic> indicates (&#x02212;)-limonene synthase;
+<italic>L3oh</italic> indicates (&#x02212;)-limonene-3-hydroxylase;
+<italic>Ipd</italic> indicates
+(&#x02212;)-(3S,4R)-<italic>trans</italic>-isopiperitenol
+dehydrogenase; <italic>Ipr</italic> indicates (&#x02212;)-isopiperitenone
+reductase; <italic>Mfs</italic> indicates (&#x0002b;)-menthofuran synthase;
+and <italic>Pr</italic> indicates (&#x0002b;)-pulegone reductase.</p></caption><graphic xlink:href="pone.0017195.g004"/></fig><fig id="pone-0017195-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017195.g005</object-id><label>Figure 5</label><caption><title>qPCR terpenoid gene expression of <italic>M. aquatica</italic> in
+mechanically damaged (MD) and herbivore damaged (HW) leaves, with
+respect to control leaves.</title><p>Bars indicate the standard error over the mean of at least three
+biological replicates. Asterisks indicate significant differences with
+respect to controls (P&#x0003c;0.05).</p></caption><graphic xlink:href="pone.0017195.g005"/></fig></sec></sec><sec id="s3"><title>Discussion</title><p>Over the past two decades it has been documented that plants produce blends of
+volatile compounds in vegetative tissues in response to damage and herbivore attack
+<xref rid="pone.0017195-Dicke2" ref-type="bibr">[4]</xref>, <xref rid="pone.0017195-Howe1" ref-type="bibr">[6]</xref>, <xref rid="pone.0017195-Dudareva1" ref-type="bibr">[32]</xref>&#x02013;<xref rid="pone.0017195-Heil2" ref-type="bibr">[38]</xref>, suggesting that
+these substances act in plant defense <xref rid="pone.0017195-Unsicker1" ref-type="bibr">[39]</xref>. Several lines of evidence
+indicate that VOCs released from vegetative tissues act as direct repellents against
+herbivores <xref rid="pone.0017195-Holopainen1" ref-type="bibr">[40]</xref> and that the release of VOCs can result from the bursting
+of pre-existing structures in which volatiles are stored, such as glandular
+trichomes <xref rid="pone.0017195-Par1" ref-type="bibr">[41]</xref>. Plant
+VOCs can also attract natural enemies of attacking herbivores, such as parasitic
+wasps, flies, predatory mites or birds that can protect the signaling plant from
+further damage <xref rid="pone.0017195-Kessler1" ref-type="bibr">[7]</xref>, <xref rid="pone.0017195-Dudareva1" ref-type="bibr">[32]</xref>, <xref rid="pone.0017195-Mithfer1" ref-type="bibr">[37]</xref>, <xref rid="pone.0017195-Turlings1" ref-type="bibr">[42]</xref>, <xref rid="pone.0017195-Mntyl1" ref-type="bibr">[43]</xref>
+</p><p>The results of this work show that <italic>C. herbacea</italic> is perfectly adapted
+to the blend of terpenoids emitted by undamaged <italic>M. aquatica</italic> and it
+uses this blend as a cue to locate plants. The fact that the insect lays eggs on
+undamaged plants is further evidence of such adaptation. In the case of the
+lepidopteran <italic>Plutella xylostella</italic>, the insect does not normally lay
+eggs on <italic>Chrysanthemum morifolium</italic>, because of the repellence of the
+monoterpene volatiles emitted from undamaged plants <xref rid="pone.0017195-Wang1" ref-type="bibr">[44]</xref>.</p><p>In the attracting blend of terpenoids produced by <italic>M. aquatica</italic>,
+(&#x0002b;)-pulegone was found to be the major compound in undamaged leaves and a
+potent attractant to <italic>C. herbacea</italic> in olfactometer bioassays.
+Volatiles emitted from plants can stimulate the behavioral or antennal responses of
+herbivores <xref rid="pone.0017195-Zhao1" ref-type="bibr">[45]</xref>.</p><p>As a response to herbivore feeding, <italic>M. aquatica</italic> activates genes for
+terpenoid biosynthesis, diverting most of the terpene production toward the
+synthesis of (&#x0002b;)-menthofuran, which was found to repel <italic>C.
+herbacea</italic> in bioassay tests. Over the past decade, evidence that
+vegetative volatile compounds function to directly repel herbivores has begun to
+accumulate <xref rid="pone.0017195-Unsicker1" ref-type="bibr">[39]</xref>,
+<xref rid="pone.0017195-Scharf1" ref-type="bibr">[46]</xref>. However,
+the minor compounds emitted by uninfested and infested leaves were not effective in
+attracting or deterring <italic>C. herbacea</italic>.</p><p>An open question is why <italic>M. aquatica</italic> produces a herbivore attractant.
+One possible explanation is that the emission of (&#x0002b;)-pulegone is exploited by
+plants because of the antimicrobial <xref rid="pone.0017195-Mkaddem1" ref-type="bibr">[47]</xref>, <xref rid="pone.0017195-Mora1" ref-type="bibr">[48]</xref>, nematocidal <xref rid="pone.0017195-Ntalli1" ref-type="bibr">[49]</xref>, acaricidal
+<xref rid="pone.0017195-Ribeiro1" ref-type="bibr">[50]</xref>,
+antifeedant <xref rid="pone.0017195-Dancewicz1" ref-type="bibr">[51]</xref> and mitochondrial respiration uncoupling <xref rid="pone.0017195-Mucciarelli1" ref-type="bibr">[19]</xref> properties
+of this compound. Preliminary studies have identified a <italic>C. herbacea</italic>
+egg parasite and studies on its behavior are under way.</p><p>This work suggests that constitutive plant defense can be modulated by interactions
+with herbivorous insects. The latter can trigger plant terpenoid gene expression and
+synthesis in a way that simple mechanical damage cannot. Usually, mechanical damage
+to plant foliage elevates VOC release in case of artificial damage carried out by
+researchers <xref rid="pone.0017195-Holopainen1" ref-type="bibr">[40]</xref>; however, mechanically damaged <italic>M.
+aquatica</italic> does not exhibit emissions as intense or with the same
+compositional pattern as after herbivory.</p><p>Most genes directly involved in the biosynthesis of <italic>p</italic>-menthane
+monoterpenes in mints are transcriptionally regulated in a coordinated fashion <xref rid="pone.0017195-McConkey1" ref-type="bibr">[52]</xref> and it seems
+likely that the expression of these genes is controlled by a common transcription
+factor <xref rid="pone.0017195-Mahmoud1" ref-type="bibr">[53]</xref>.
+Herbivory had no effect on the expression of <italic>M. aquatica Dxs</italic>, a
+gene involved in the early steps of terpenoid biosynthesis for the
+mevalonate-independent (MEP)-pathway gene, the product of which is considered to
+catalyze one of the rate-limiting steps of this pathway <xref rid="pone.0017195-Estevez1" ref-type="bibr">[54]</xref>. On the contrary, herbivory
+up-regulated almost all other genes involved in the pathway. Over-expression of
+<italic>Gpps</italic>, <italic>Ls</italic> and <italic>L3oh</italic> would be
+expected to increase production of both GPP and other key monoterpenes <xref rid="pone.0017195-Mahmoud1" ref-type="bibr">[53]</xref>. The synthesis
+of (&#x02212;)-limonene, providing the first committed intermediate of the pathway, is
+a possible rate limiting step of monoterpene production in mints <xref rid="pone.0017195-Croteau1" ref-type="bibr">[31]</xref>. Thus, the
+over-expression of both <italic>Gpps</italic> and <italic>Ls</italic> justifies the
+increase in the precursor (&#x02212;)-limonene and the end-products of the pathway
+(particularly (&#x0002b;)-menthofuran). The up-regulation of <italic>Mfs</italic>
+parallels the increase in (&#x0002b;)-menthofuran; the latter was found to be a
+competitive inhibitor of Pr <xref rid="pone.0017195-RiosEstepa1" ref-type="bibr">[55]</xref>. In transgenic lines with increased expression of
+<italic>Mfs</italic> and more (&#x0002b;)-menthofuran in the essential oil,
+(&#x0002b;)-pulegone amounts were greater than in controls. This finding led to the
+hypothesis that the metabolic fate of (&#x0002b;)-pulegone is controlled by
+(&#x0002b;)-menthofuran-mediated transcriptional down-regulation of Pr levels <xref rid="pone.0017195-Mahmoud2" ref-type="bibr">[56]</xref>. In <italic>M.
+aquatica</italic>, herbivory down-regulated the expression of
+<italic>Pr</italic> and up-regulated <italic>Ipr</italic>; however, the amounts
+of (&#x0002b;)-pulegone were never significantly different from those in the controls.
+This might indicate the presence of other factors that may exert post-translational
+control over the enzyme activity of Mfs or the regulation of the isopulegone
+isomerase, which has not yet been isolated.</p><p>In general, following herbivore attack, plants release green leaf volatiles (GLV),
+six-carbon aldehydes, alcohols, and esters, that are considered typical wound
+signals <xref rid="pone.0017195-Dicke2" ref-type="bibr">[4]</xref>, <xref rid="pone.0017195-Dudareva1" ref-type="bibr">[32]</xref>, <xref rid="pone.0017195-Frost1" ref-type="bibr">[57]</xref>&#x02013;<xref rid="pone.0017195-Matsui1" ref-type="bibr">[59]</xref>. By contrast,
+significant amounts of green-leaf volatiles were not emitted by <italic>M.
+aquatica</italic> during herbivory. This may be related the high amount of
+terpenoids produced in the glandular trichomes; by comparison plants that do not
+accumulate these compounds in secretory tissues (e.g., <italic>Arabidopsis</italic>
+or Lima bean) usually released smaller amounts of terpenoids <xref rid="pone.0017195-Maffei4" ref-type="bibr">[36]</xref>, <xref rid="pone.0017195-Aharoni1" ref-type="bibr">[60]</xref>. In some cases it has been
+suggested that oxidative damage of membranes is one of the primary factors inducing
+GLV emissions <xref rid="pone.0017195-Arimura1" ref-type="bibr">[58]</xref>. The function of VOCs in alleviating oxidative stresses
+has been shown to be related to the high reactivity of certain monoterpenes <xref rid="pone.0017195-Holopainen1" ref-type="bibr">[40]</xref>, suggesting
+that the release of VOCs upon herbivory in <italic>M. aquatica</italic> might have
+other functions in addition to deterrence.</p><p>The proportions of emitted monoterpenes (VOCs) may differ from those in the plant oil
+of glandular trichomes with regard to chemical composition <xref rid="pone.0017195-Banchio1" ref-type="bibr">[27]</xref>, <xref rid="pone.0017195-Gershenzon1" ref-type="bibr">[61]</xref>. Nonetheless, molecular
+data support the hypothesis that terpenoid biosynthesis is modulated by <italic>C.
+herbacea</italic> herbivory.</p><p>In conclusion, <italic>C. herbacea</italic> attacks undamaged <italic>M.
+aquatica</italic>, but it avoids herbivore-infested <italic>M.
+aquatica</italic>. Upon herbivory, <italic>M. aquatica</italic> produces repellent
+compounds, thus reducing the damage from further insect attacks (<xref ref-type="fig" rid="pone-0017195-g006">Fig. 6</xref>, see also Supporting <xref ref-type="supplementary-material" rid="pone.0017195.s004">Fig. S4</xref>).</p><fig id="pone-0017195-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017195.g006</object-id><label>Figure 6</label><caption><title>The behavior of <italic>C. herbacea</italic> and <italic>M.
+aquatica</italic> before and during herbivore feeding.</title><p>
+<bold>a</bold>, Undamaged plants emit (&#x0002b;)-pulegone, which acts as an
+attractant for <italic>C. herbacea</italic>. <bold>b</bold>, Feeding
+activity induces gene expression and increases content of the deterrent
+compound (&#x0002b;)-menthofuran, along with the emission of the attractant
+compound (&#x0002b;)-pulegone; as a result, fewer insects are attracted to the
+plants. <bold>c</bold>, Intense feeding induces a reduction in
+(&#x0002b;)-pulegone content and a dramatic increase in the repellent compound
+(&#x0002b;)-menthofuran; <italic>C. herbacea</italic> avoids over-fed plants
+and moves towards undamaged plants.</p></caption><graphic xlink:href="pone.0017195.g006"/></fig></sec><sec sec-type="materials|methods" id="s4"><title>Materials and Methods</title><sec id="s4a"><title>Plant material and growth conditions</title><p>Stolons of <italic>Mentha aquatica</italic> L. were collected from wild
+populations growing in Cambiano (Turin province, Italy, alt 240 m a.s.l.) and
+San Secondo di Pinerolo (Turin province, Italy, alt 413 m a.s.l.). Stolons were
+surface sterilized with 70&#x00025; ethanol (Sigma-Aldrich, St. Louis, MO, USA)
+for 20 s and with sodium hypochlorite (1&#x00025; v/v available chlorine)
+(Sigma-Aldrich) for 5 min. Stolons were then rinsed three times with sterile
+distilled water. Plants were grown in plastic pots with sterilized peat and
+vermiculite (V/V 4&#x02236;1) at 23&#x000b0;C and 60&#x00025; humidity using daylight
+fluorescent tubes at 270 &#x000b5;E m<sup>&#x02212;2</sup> s<sup>&#x02212;1</sup> with
+a photophase of 16 h.</p></sec><sec id="s4b"><title>Insect collection and rearing</title><p>Adults of <italic>Chrysolina herbacea</italic> (Duftschmid 1825) (Coleoptera,
+Chrysomelidae, Chrysomelinae) were collected by hand picking from infested
+<italic>M. aquatica</italic> fields. After collection, beetles were reared
+at 22&#x000b0;C in ventilated glass chambers and fed to <italic>M. aquatica</italic>
+cuttings. The beetles were starved for 24 h. prior the experiments.</p></sec><sec id="s4c"><title>Collection of plant volatiles, gas chromatography and mass
+spectrometry</title><p>Experiments were conducted in 4 l glass desiccators by using non-flowering
+<italic>M. aquatica</italic> five-node cuttings, placed in 100 ml
+Erlenmeyer's flasks filled with 60 ml tap water and sealed with aluminium
+foil to prevent fall of insects into the water during experiments. Three
+cuttings per flask in a single desiccator where used. Plants were illuminated
+with fluorescent light bulbs generating about 50 &#x000b5;mol m<sup>&#x02212;2</sup>
+s<sup>&#x02212;1</sup> with a photophase of 16 h, the temperature inside
+desiccators was about 24&#x000b0;C and the relative humidity about 70&#x00025;. Glass
+desiccators were connected to a GC-grade air generator (HPZA-3500-220, Parker
+Balston, Cleveland, OH, USA) through a cork plug with two openings allowing
+gases to go in and out. Air was pumped into the jars at a flow rate of 300 ml
+min<sup>&#x02212;1</sup>. A clean Pasteur glass pipette was inserted in the
+outlet of the cork plug and VOCs were sampled with a
+Carboxen/Polydimethylsiloxane (CAR/PDMS) Supelco (Bellefonte, PA, USA)
+solid-phase micro-extraction (SPME) fibre (model 57334-U). Before use, SPME
+fibres were always conditioned at 250&#x000b0;C, according to manufacturer's
+instructions (see also Supporting <xref ref-type="supplementary-material" rid="pone.0017195.s001">Fig. S1</xref> for more details).</p><p>Undamaged plants, leaves mechanically damaged with a pattern wheel and plants
+infested for 6 h were assayed for VOC emission. All experiments were
+standardized at 6 h, because the presence of eight herbivores for 6 h was found
+to cause about 30&#x00025; of leaf damage.</p><p>SPME fibres, which were placed in various paths to adsorb VOCc for 6 h (see
+Supporting <xref ref-type="supplementary-material" rid="pone.0017195.s001">Figs.
+S1</xref> and <xref ref-type="supplementary-material" rid="pone.0017195.s002">S2</xref>), were desorpted and VOCs were analyzed by
+gas-chromatography mass spectrometry (GC-MS 6890N-5973A, Agilent Technologies,
+Santa Clara, CA, US). The desorpted compounds were separated on a ZB-5MS Zebron
+(7HG-G010-11, Phenomenex, Torrance, CA, US) capillary column (stationary phase:
+polydimethylsiloxane - 5&#x00025; diphenyl, 30 m length, 250 &#x000b5;m internal
+diameter, and 0.25 &#x000b5;m film thickness) with a temperature program of
+60&#x000b0;C (kept for 5 min) followed by a temperature rise at a rate of 3&#x000b0;C
+min<sup>&#x02212;1</sup> to 270&#x000b0;C (kept for 5 min). Working conditions
+were: injector 250&#x000b0;C, transfer line to MSD 280&#x000b0;C, oven temperature:
+start 60&#x000b0;C, hold 5 min, programmed from 60&#x000b0;C to 270&#x000b0;C at 3&#x000b0;C
+min-1, hold 5 min; carrier gas was He under a constant flow of 1 ml min-1; in
+SPME desorption and subsequent analysis the fibre was exposed in the injection
+port during the entire GC run; the injector was maintained in splitless mode
+during the desorption phase; ionization energy: EI 70 eV; acquisition
+parameters: scanned m/z 50&#x02013;250 amu. Separated compounds were identified by
+pure standard comparison, by comparison of their mass spectra and retention
+indexes (Kov&#x000e1;ts indexes) with those of reference substances and by
+comparison with the NIST mass spectral search software v2.0 using the libraries
+NIST 98 library and Adams <xref rid="pone.0017195-Adams1" ref-type="bibr">[62]</xref> library. Different concentraitions of
+(&#x0002b;)-menthofuran, (&#x0002b;)-pulegone, myrcene, <italic>p</italic>-cymene,
+(&#x02212;)-limonene, (&#x02212;)-menthone, &#x003b1;-terpineol and
+(<italic>E</italic>)-&#x003b2;-caryophyllene were used to create a standard curve
+used as an external standard for SPME quantitative measurements. Reference
+compounds were mixed in relative proportions similar to those that were
+quantified in the plant samples.</p></sec><sec id="s4d"><title>Total RNA extraction and quantitative Real Time-PCR (qPCR)</title><p>After each experiment, leaves were collected and immediately frozen in liquid
+nitrogen. One hundred mg of frozen control, herbivore damaged, and mechanically
+damaged leaves were ground in liquid nitrogen with mortar and pestle. Total RNA
+was isolated using Qiagen RNeasy Plant RNA kit and RNase-Free DNase set (Qiagen,
+Hilden, Germany). Sample quality and quantity was checked by using the RNA 6000
+Nano kit and the Agilent 2100 Bioanalyzer (Agilent Technologies) according to
+manufacturer's instructions. Quantification of RNA was also confirmed
+spectrophotometrically by using a NanoDrop ND-1000 (Thermo Fisher Scientific,
+Waltham, MA, US).</p><p>First strand cDNA synthesis was accomplished with 2 &#x000b5;g of total RNA and
+random primers using the High-Capacity cDNA Reverse Transcription Kit (Applied
+Biosystems, Foster City, CA, US), according to the manufacturer's
+recommendations. Primers for real-time PCR were designed on <italic>Mentha
+piperita</italic> available sequences using the Primer 3 software <xref rid="pone.0017195-Rozen1" ref-type="bibr">[63]</xref>. qPCR was
+done on an Mx3000P Real-Time PCR System (Stratagene, La Jolla, CA, US). The
+reaction was performed with 25 &#x000b5;l of mixture consisting of 12.5 &#x000b5;l
+of 2&#x000d7; Maxima&#x02122; SYBR Green qPCR Master Mix (Fermentas International,
+Inc, Burlington, ON, Canada), 0.5 &#x000b5;l of cDNA and 100 nM primers
+(Integrated DNA Technologies, Coralville, IA, US).</p><p>Relative RNA levels were calibrated and normalized with the level of two
+housekeeping genes: actin and 18S ribosomal mRNA.</p><p>PCR conditions were determined by comparing threshold values in dilution series
+of the RT product, followed by non-template control for each primer pair.
+Relative expression levels of genes were calculated by using the Pfaffl method
+<xref rid="pone.0017195-Luciano1" ref-type="bibr">[64]</xref>. A
+suitable melt curve analysis was always performed.</p><p>PCR conditions were the following: <italic>18S</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+58&#x000b0;C, and 30 s at 72&#x000b0;C; <italic>Actin</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+57&#x000b0;C, and 30 s at 72&#x000b0;C; <italic>Dxs</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+58&#x000b0;C, and 30 s at 72&#x000b0;C; <italic>Ippi</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+57&#x000b0;C, and 30 s at 72&#x000b0;C; <italic>Gpps</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+58&#x000b0;C, and 30 s at 72&#x000b0;C; <italic>Ls</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+57&#x000b0;C, and 30 s at 72&#x000b0;C; <italic>L3oh</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+57&#x000b0;C, and 30 s at 72&#x000b0;C; <italic>Ipd</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+58&#x000b0;C, and 30 s at 72&#x000b0;C ; <italic>Ipr</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+57&#x000b0;C, and 30 s at 72&#x000b0;C; <italic>Pr</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+57&#x000b0;C, and 30 s at 72&#x000b0;C; <italic>Mfs</italic>: initial polymerase
+activation of 10 min at 95&#x000b0;C; and 40 cycles of 15 s at 95&#x000b0;C, 30 s at
+58&#x000b0;C, and 30 s at 72&#x000b0;C.</p><p>Primers used for qPCR were the following: 18S, (NCBI GenBank accession no.
+NR_022795), forward primer <named-content content-type="gene">5&#x02032;-ATGATAACTCGACGGATCGC-3&#x02032;</named-content>, reverse primer
+<named-content content-type="gene">5&#x02032;-CTTGGATGTGGTAGCCGTTT
+-3&#x02032;</named-content>; actin, (NCBI GenBank accession no. AW255057),
+forward primer <named-content content-type="gene">5&#x02032;-GCTCCAAGGGCTGTGTTCC-3&#x02032;</named-content>, reverse primer
+<named-content content-type="gene">5&#x02032;-
+TCTTTCTGTCCCATGCCAAC-3&#x02032;</named-content>
+<xref rid="pone.0017195-Lange1" ref-type="bibr">[65]</xref>.
+<italic>Dxs</italic>, (NCBI GenBank accession no. AF019383), <xref rid="pone.0017195-Lange2" ref-type="bibr">[66]</xref>, forward
+primer <named-content content-type="gene">5&#x02032;-CCACCAGGCTTACCCACACAA-3&#x02032;</named-content>, reverse primer
+<named-content content-type="gene">5&#x02032;-GCCACCGCCATCCCTAAAC-3</named-content>. <italic>Ippi</italic>,
+(NCBI GenBank accession no. AW255524), <xref rid="pone.0017195-Lange1" ref-type="bibr">[65]</xref>, forward primer
+<named-content content-type="gene">5&#x02032;-CTCTTGGGGTGAGAAATGCT-3&#x02032;</named-content> reverse primer
+<named-content content-type="gene">5&#x02032;-CATCTGAGGGGGCTTTGTA-3</named-content>. <italic>Gpps</italic>,
+(NCBI GenBank accession no. EU108696), <xref rid="pone.0017195-Burke1" ref-type="bibr">[67]</xref>, forward primer
+<named-content content-type="gene">5&#x02032;-ATGATAAGCGGGCTGCATAG-3&#x02032;</named-content> reverse primer
+<named-content content-type="gene">5&#x02032;-CCGAAATTCCTCAGCTTCTG-3&#x02032;</named-content>.
+<italic>Ls</italic>, (NCBI GenBank accession no. AW255536), <xref rid="pone.0017195-Lange1" ref-type="bibr">[65]</xref>, forward
+primer <named-content content-type="gene">5&#x02032;-CGGTGGTGGAGAAATACTGGGTTT-3&#x02032;</named-content>, reverse primer
+<named-content content-type="gene">5&#x02032;-CCGTAATCAGAGCGTGACTTTGC-3&#x02032;</named-content>.
+<italic>L3oh</italic>, (NCBI GenBank accession no. AF124817), <xref rid="pone.0017195-Lupien1" ref-type="bibr">[68]</xref>, forward
+primer <named-content content-type="gene">5&#x02032;-CCCCATCACCACCAACTCCA-3&#x02032;</named-content>, reverse primer
+<named-content content-type="gene">5&#x02032;-GCTCCGCCAGCACCCATAG-3&#x02032;</named-content>;
+<italic>Ipd</italic>, (NCBI GenBank accession no. AY641428), <xref rid="pone.0017195-Ringer1" ref-type="bibr">[69]</xref>, forward
+primer <named-content content-type="gene">5&#x02032;-GAGCTTCTATGGGCAGGTCA-3&#x02032;</named-content>, reverse primer
+<named-content content-type="gene">5&#x02032;-
+GGCCACGAATGGTAAACACT-3&#x02032;</named-content>. <italic>Ipr</italic>, (NCBI
+GenBank accession no. AY300162), <xref rid="pone.0017195-Ringer2" ref-type="bibr">[70]</xref>, forward primer
+<named-content content-type="gene">5&#x02032;-AGCCAATGGAGAAATGATCG-3&#x02032;</named-content>, reverse primer
+<named-content content-type="gene">5&#x02032;-
+GAGAGGAATGAGGGCTTGTG-3&#x02032;</named-content>. <italic>Pr</italic>, (NCBI
+GenBank accession no. AAQ75423), <xref rid="pone.0017195-Ringer2" ref-type="bibr">[70]</xref>, forward primer
+<named-content content-type="gene">5&#x02032;-ACAGCCTGAAGCAGCCTGAA-3&#x02032;</named-content>, reverse primer
+<named-content content-type="gene">5&#x02032;-CGGCAGAACCATCTCAAGGA-3&#x02032;</named-content>.
+<italic>Mfs</italic>, (NCBI GenBank accession no. AF346833), <xref rid="pone.0017195-Bertea1" ref-type="bibr">[71]</xref>, forward
+primer <named-content content-type="gene">5&#x02032;-GCAGAACGAGGTGCGAGAAG
+-3&#x02032;</named-content>, reverse primer <named-content content-type="gene">5&#x02032;-TGCGAAAGGTGGATGTAGGC-3&#x02032;</named-content>. The length of PCR
+products was from 98 to 200 bp.</p></sec><sec id="s4e"><title>Bioassays</title><p>Experiments were conducted in a glass Y-tube olfactometer connected to the glass
+jars. GC-grade air was pumped into the jars at a flow rate of 300 ml
+min<sup>&#x02212;1</sup>. The Y-tube was housed in a blackened box with a
+diffused fluorescent lamp giving a constant light directly above the centre
+point of the Y-tube. Thirty <italic>C. herbacea</italic> were monitored for up
+to 7 min by recording &#x0201c;choice&#x0201d; or &#x0201c;no-choice&#x0201d; events.
+All glassware was carefully washed to remove any contaminating substances and
+air-dried at 120&#x000b0;C for 4 h to remove volatile compounds. Test temperature
+was maintained at about 24&#x000b0;C and 70&#x00025; humidity. (&#x0002b;)-Menthofuran,
+(&#x02212;)-pulegone, myrcene, <italic>p</italic>-cymene, (&#x02212;)-limonene,
+(&#x02212;)-menthone, &#x003b1;-terpineol and (<italic>E</italic>)-&#x003b2;-caryophyllene
+pure standards were purchased from Sigma-Aldrich and were used in chemical tests
+(see also Supporting <xref ref-type="supplementary-material" rid="pone.0017195.s002">Fig. S2</xref>). The concentration of pure standards
+in Y-tube tests was used at the same concentrations as found in leaf volatile
+emissions.</p></sec><sec id="s4f"><title>Statistical analysis</title><p>Initial and final choice data were analyzed using a Chi-squared test. Yates'
+correction was applied to adjust for the data with only one degree of freedom.
+Data were also statistically processed using a log-likelihood test (G-test) and
+by ANOVA by using the statistical program SPSS (version 16.0,SPSS Inc., Chicago,
+IL, USA). For genomic and chemical analyses, the overall data sets are expressed
+as mean values of at least three biological replicates each one repeated three
+times (technical replicates). Metric bars indicate SD. Significance of
+differences observed in data sets was tested by ANOVA using the SYSTAT 10
+software.</p></sec></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0017195.s001"><label>Figure S1</label><caption><p>Left panel, glass desiccators containing the plants are connected to the
+GC-grade air generator. The cork plug has two holes: one for allowing the
+GC-grade air to enter the jar and the other hosts a glass Pasteur pipette.
+In the right figure the arrow indicates the SPME fibre that adsorbs the VOCs
+exiting from the jar.</p><p>(PDF)</p></caption><media xlink:href="pone.0017195.s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0017195.s002"><label>Figure S2</label><caption><p>Left panel, a glass Y-tube olfactometer is connected to the jars where a flux
+of GC-grade air blows the VOCs produced by undamaged and infested leaves.
+Arrows indicate the presence of the SPME fibre which is located just before
+the olfactometer arms, into the air path. Right upper panel shows <italic>C.
+herbacea</italic> making a choice. The lower right panel shows the
+flow-meter used to standardize the air flow blowing from the jars and the
+timer used during the choice tests.</p><p>(PDF)</p></caption><media xlink:href="pone.0017195.s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0017195.s003"><label>Figure S3</label><caption><p>
+<italic>C. herbacea</italic> was found to lay eggs on undamaged <italic>M.
+aquatica</italic> plants. The left panel shows clutches of eggs laid on
+a young <italic>M. aquatica</italic> leaf. The right panel shows young
+<italic>C. herbacea</italic> larvae feeding on <italic>M.
+aquatica</italic> leaves.</p><p>(PDF)</p></caption><media xlink:href="pone.0017195.s003.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0017195.s004"><label>Figure S4</label><caption><p>
+<italic>M. aquatica</italic> plants observed in the wild. The upper left
+panel shows an undamaged <italic>M. aquatica</italic> in full bloom. The
+upper right panel shows male and female <italic>C. herbacea</italic> mating
+on partially damaged <italic>M. aquatica</italic> leaves. The two lower
+panels show the typical level of damage inferred by <italic>C.
+herbacea</italic> on wild <italic>M. aquatica</italic> leaves.</p><p>(PDF)</p></caption><media xlink:href="pone.0017195.s004.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>The authors are grateful to A. Bienkowski for helpful suggestions.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>Financial support came from the doctorate school of Pharmaceutical and
+Biomolecular Sciences of the University of Turin. The funders had no role in
+study design, data collection and analysis, decision to publish, or preparation
+of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0017195-Chen1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>MS</given-names></name></person-group>
+<year>2008</year>
+<article-title>Inducible direct plant defense against insect herbivores: A
+review.</article-title>
+<source>Insect Sci</source>
+<volume>15</volume>
+<fpage>101</fpage>
+<lpage>114</lpage>
+</element-citation></ref><ref id="pone.0017195-Maffei1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maffei</surname><given-names>M</given-names></name></person-group>
+<year>2010</year>
+<article-title>Sites of synthesis, biochemistry and functional role of plant
+volatiles.</article-title>
+<source>S Afr J Bot</source>
+<comment> In press, doi:10.1016/j.sajb.2010.03.003</comment>
+</element-citation></ref><ref id="pone.0017195-Dicke1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dicke</surname><given-names>M</given-names></name><name><surname>Loreto</surname><given-names>F</given-names></name></person-group>
+<year>2010</year>
+<article-title>Induced plant volatiles: from genes to climate
+change.</article-title>
+<source>Trends Plant Sci</source>
+<volume>15</volume>
+<fpage>115</fpage>
+<lpage>117</lpage>
+<pub-id pub-id-type="pmid">20137997</pub-id></element-citation></ref><ref id="pone.0017195-Dicke2"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dicke</surname><given-names>M</given-names></name><name><surname>Baldwin</surname><given-names>IT</given-names></name></person-group>
+<year>2010</year>
+<article-title>The evolutionary context for herbivore-induced plant volatiles:
+beyond the &#x02018;cry for help&#x02019;.</article-title>
+<source>Trends Plant Sci</source>
+<volume>15</volume>
+<fpage>167</fpage>
+<lpage>175</lpage>
+<pub-id pub-id-type="pmid">20047849</pub-id></element-citation></ref><ref id="pone.0017195-VanPoecke1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Poecke</surname><given-names>RMP</given-names></name><name><surname>Dicke</surname><given-names>M</given-names></name></person-group>
+<year>2004</year>
+<article-title>Indirect defence of plants against herbivores: Using
+<italic>Arabidopsis thaliana</italic> as a model plant.</article-title>
+<source>Plant Biol</source>
+<volume>6</volume>
+<fpage>387</fpage>
+<lpage>401</lpage>
+<pub-id pub-id-type="pmid">15248121</pub-id></element-citation></ref><ref id="pone.0017195-Howe1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Howe</surname><given-names>GA</given-names></name><name><surname>Jander</surname><given-names>G</given-names></name></person-group>
+<year>2008</year>
+<article-title>Plant immunity to insect herbivores.</article-title>
+<source>Ann Rev Plant Biol</source>
+<volume>59</volume>
+<fpage>41</fpage>
+<lpage>66</lpage>
+<pub-id pub-id-type="pmid">18031220</pub-id></element-citation></ref><ref id="pone.0017195-Kessler1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kessler</surname><given-names>A</given-names></name><name><surname>Baldwin</surname><given-names>IT</given-names></name></person-group>
+<year>2001</year>
+<article-title>Defensive function of herbivore-induced plant volatile emissions
+in nature.</article-title>
+<source>Science</source>
+<volume>291</volume>
+<fpage>2141</fpage>
+<lpage>2144</lpage>
+<pub-id pub-id-type="pmid">11251117</pub-id></element-citation></ref><ref id="pone.0017195-Scriber1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scriber</surname><given-names>JM</given-names></name></person-group>
+<year>2002</year>
+<article-title>Evolution of insect-plant relationships: chemical constraints,
+coadaptation, and concordance of insect/plant traits.</article-title>
+<source>Entomol Exper Appl</source>
+<volume>104</volume>
+<fpage>217</fpage>
+<lpage>235</lpage>
+</element-citation></ref><ref id="pone.0017195-Strong1"><label>9</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Strong</surname><given-names>DR</given-names></name><name><surname>Lawton</surname><given-names>JH</given-names></name><name><surname>Southwood</surname><given-names>R</given-names></name></person-group>
+<year>1984</year>
+<source>Insects on plants</source>
+<publisher-loc>Cambridge</publisher-loc>
+<publisher-name>Harvard University Press</publisher-name>
+</element-citation></ref><ref id="pone.0017195-Rausher1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rausher</surname><given-names>MD</given-names></name></person-group>
+<year>2001</year>
+<article-title>Co-evolution and plant resistance to natural
+enemies.</article-title>
+<source>Nature</source>
+<volume>411</volume>
+<fpage>857</fpage>
+<lpage>864</lpage>
+<pub-id pub-id-type="pmid">11459070</pub-id></element-citation></ref><ref id="pone.0017195-Cogni1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cogni</surname><given-names>R</given-names></name><name><surname>Futuyma</surname><given-names>DJ</given-names></name></person-group>
+<year>2009</year>
+<article-title>Local adaptation in a plant herbivore interaction depends on the
+spatial scale.</article-title>
+<source>Biol J Linn Soc</source>
+<volume>97</volume>
+<fpage>494</fpage>
+<lpage>502</lpage>
+</element-citation></ref><ref id="pone.0017195-Smiseth1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smiseth</surname><given-names>PT</given-names></name><name><surname>Wright</surname><given-names>J</given-names></name><name><surname>Kolliker</surname><given-names>M</given-names></name></person-group>
+<year>2008</year>
+<article-title>Parent-offspring conflict and co-adaptation: behavioural ecology
+meets quantitative genetics.</article-title>
+<source>Proc Royal Soc B-Biol Sci</source>
+<volume>275</volume>
+<fpage>1823</fpage>
+<lpage>1830</lpage>
+</element-citation></ref><ref id="pone.0017195-Farrell1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Farrell</surname><given-names>BD</given-names></name><name><surname>Mitter</surname><given-names>C</given-names></name></person-group>
+<year>1994</year>
+<article-title>Adaptive radiation in insects and plants - Time and
+opportunity.</article-title>
+<source>Amer Zool</source>
+<volume>34</volume>
+<fpage>57</fpage>
+<lpage>69</lpage>
+</element-citation></ref><ref id="pone.0017195-Malingr1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malingr&#x000e9;</surname><given-names>TM</given-names></name><name><surname>Maarse</surname><given-names>H</given-names></name></person-group>
+<year>1974</year>
+<article-title>Composition of essential oil of <italic>Mentha
+aquatica</italic>.</article-title>
+<source>Phytochemistry</source>
+<volume>13</volume>
+<fpage>1531</fpage>
+<lpage>1535</lpage>
+</element-citation></ref><ref id="pone.0017195-Jerkovic1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jerkovic</surname><given-names>I</given-names></name><name><surname>Mastelic</surname><given-names>J</given-names></name></person-group>
+<year>2001</year>
+<article-title>Composition of free and glycosidically bound volatiles of
+<italic>Mentha aquatica</italic> L.</article-title>
+<source>Croat Chem Acta</source>
+<volume>74</volume>
+<fpage>431</fpage>
+<lpage>439</lpage>
+</element-citation></ref><ref id="pone.0017195-Jager1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jager</surname><given-names>AK</given-names></name><name><surname>Almqvist</surname><given-names>JP</given-names></name><name><surname>Vangsoe</surname><given-names>SAK</given-names></name><name><surname>Stafford</surname><given-names>GI</given-names></name><name><surname>Adsersen</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Compounds from <italic>Mentha aquatica</italic> with affinity to
+the GABA-benzodiazepine receptor.</article-title>
+<source>S Afr J Bot</source>
+<volume>73</volume>
+<fpage>518</fpage>
+<lpage>521</lpage>
+</element-citation></ref><ref id="pone.0017195-Olsen1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olsen</surname><given-names>HT</given-names></name><name><surname>Stafford</surname><given-names>GI</given-names></name><name><surname>van Staden</surname><given-names>J</given-names></name><name><surname>Christensen</surname><given-names>SB</given-names></name><name><surname>Jager</surname><given-names>AK</given-names></name></person-group>
+<year>2008</year>
+<article-title>Isolation of the MAO-inhibitor naringenin from <italic>Mentha
+aquatica</italic> L.</article-title>
+<source>J Ethnopharmacol</source>
+<volume>117</volume>
+<fpage>500</fpage>
+<lpage>502</lpage>
+<pub-id pub-id-type="pmid">18372132</pub-id></element-citation></ref><ref id="pone.0017195-vanStaden1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Staden</surname><given-names>J</given-names></name><name><surname>Stafford</surname><given-names>GI</given-names></name><name><surname>Almqvist</surname><given-names>JP</given-names></name><name><surname>Vangsoe</surname><given-names>SAK</given-names></name><name><surname>Olsen</surname><given-names>HT</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Psychotropic constituents of <italic>Mentha aquatica</italic>
+L.</article-title>
+<source>Planta Med</source>
+<volume>73</volume>
+<fpage>339</fpage>
+</element-citation></ref><ref id="pone.0017195-Mucciarelli1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mucciarelli</surname><given-names>M</given-names></name><name><surname>Camusso</surname><given-names>W</given-names></name><name><surname>Bertea</surname><given-names>CM</given-names></name><name><surname>Bossi</surname><given-names>S</given-names></name><name><surname>Maffei</surname><given-names>M</given-names></name></person-group>
+<year>2001</year>
+<article-title>Effect of (&#x0002b;)-pulegone and other oil components of
+<italic>Mentha</italic> x <italic>piperita</italic> on cucumber
+respiration.</article-title>
+<source>Phytochemistry</source>
+<volume>57</volume>
+<fpage>91</fpage>
+<lpage>98</lpage>
+<pub-id pub-id-type="pmid">11336266</pub-id></element-citation></ref><ref id="pone.0017195-Warren1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Warren</surname><given-names>PH</given-names></name></person-group>
+<year>1993</year>
+<article-title>Insect herbivory on water mint - You can't get there from
+here.</article-title>
+<source>Ecography</source>
+<volume>16</volume>
+<fpage>11</fpage>
+<lpage>15</lpage>
+</element-citation></ref><ref id="pone.0017195-Horwood1"><label>21</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Horwood</surname><given-names>AR</given-names></name></person-group>
+<year>1919</year>
+<comment>British Wild Flowers - In Their Natural Haunts, The Gresham Publishing
+Company</comment>
+</element-citation></ref><ref id="pone.0017195-Bienkowski1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bienkowski</surname><given-names>AO</given-names></name></person-group>
+<year>2009</year>
+<article-title>Feeding Behavior of Leaf-Beetles (Coleoptera,
+Chrysomelidae).</article-title>
+<source>Zool Z</source>
+<volume>88</volume>
+<fpage>1471</fpage>
+<lpage>1480</lpage>
+</element-citation></ref><ref id="pone.0017195-Burse1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burse</surname><given-names>A</given-names></name><name><surname>Frick</surname><given-names>S</given-names></name><name><surname>Discher</surname><given-names>S</given-names></name><name><surname>Tolzin-Banasch</surname><given-names>K</given-names></name><name><surname>Kirsch</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Always being well prepared for defense: The production of
+deterrents by juvenile <italic>Chrysomelina</italic> beetles
+(Chrysomelidae).</article-title>
+<source>Phytochemistry</source>
+<volume>70</volume>
+<fpage>1899</fpage>
+<lpage>1909</lpage>
+<pub-id pub-id-type="pmid">19733867</pub-id></element-citation></ref><ref id="pone.0017195-Pasteels1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pasteels</surname><given-names>JM</given-names></name><name><surname>Duffey</surname><given-names>S</given-names></name><name><surname>Rowellrahier</surname><given-names>M</given-names></name></person-group>
+<year>1990</year>
+<article-title>Toxins in Chrysomelid beetles - Possible evolutionary sequence
+from de novo synthesis to derivation from food-plant
+chemicals.</article-title>
+<source>J Chem Ecol</source>
+<volume>16</volume>
+<fpage>211</fpage>
+<lpage>222</lpage>
+<pub-id pub-id-type="pmid">24264908</pub-id></element-citation></ref><ref id="pone.0017195-Laurent1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Laurent</surname><given-names>P</given-names></name><name><surname>Braekman</surname><given-names>JC</given-names></name><name><surname>Daloze</surname><given-names>D</given-names></name><name><surname>Pasteels</surname><given-names>J</given-names></name></person-group>
+<year>2003</year>
+<article-title>Biosynthesis of defensive compounds from beetles and
+ants.</article-title>
+<source>Eur J Org Chem</source>
+<volume>2003</volume>
+<fpage>2733</fpage>
+<lpage>2743</lpage>
+</element-citation></ref><ref id="pone.0017195-Laurent2"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Laurent</surname><given-names>P</given-names></name><name><surname>Braekman</surname><given-names>JC</given-names></name><name><surname>Daloze</surname><given-names>S</given-names></name></person-group>
+<year>2005</year>
+<article-title>Insect chemical defense.</article-title>
+<source>Chem Pherom Oth Semiochem</source>
+<volume>240</volume>
+<fpage>167</fpage>
+<lpage>229</lpage>
+</element-citation></ref><ref id="pone.0017195-Banchio1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Banchio</surname><given-names>E</given-names></name><name><surname>Valladares</surname><given-names>G</given-names></name><name><surname>Zygadlo</surname><given-names>J</given-names></name><name><surname>Bogino</surname><given-names>PC</given-names></name><name><surname>Rinaudi</surname><given-names>LV</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Changes in composition of essential oils and volatile emissions
+of <italic>Minthostachys mollis</italic>, induced by leaf punctures of
+<italic>Liriomyza huidobrensis</italic>.</article-title>
+<source>Biochem Syst Ecol</source>
+<volume>35</volume>
+<fpage>68</fpage>
+<lpage>74</lpage>
+</element-citation></ref><ref id="pone.0017195-Banchio2"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Banchio</surname><given-names>E</given-names></name><name><surname>Zygadlo</surname><given-names>Y</given-names></name><name><surname>Valladares</surname><given-names>GR</given-names></name></person-group>
+<year>2005</year>
+<article-title>Effects of mechanical wounding on essential oil composition and
+emission of volatiles from <italic>Minthostachys
+mollis</italic>.</article-title>
+<source>J Chem Ecol</source>
+<volume>31</volume>
+<fpage>719</fpage>
+<lpage>727</lpage>
+<pub-id pub-id-type="pmid">16124247</pub-id></element-citation></ref><ref id="pone.0017195-Valladares1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Valladares</surname><given-names>GR</given-names></name><name><surname>Zapata</surname><given-names>A</given-names></name><name><surname>Zygadlo</surname><given-names>J</given-names></name><name><surname>Banchio</surname><given-names>E</given-names></name></person-group>
+<year>2002</year>
+<article-title>Phytochemical induction by herbivores could affect quality of
+essential oils from aromatic plants.</article-title>
+<source>J Agric Food Chem</source>
+<volume>50</volume>
+<fpage>4059</fpage>
+<lpage>4061</lpage>
+<pub-id pub-id-type="pmid">12083883</pub-id></element-citation></ref><ref id="pone.0017195-Maffei2"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maffei</surname><given-names>M</given-names></name><name><surname>Chialva</surname><given-names>F</given-names></name><name><surname>Sacco</surname><given-names>T</given-names></name></person-group>
+<year>1989</year>
+<article-title>Glandular trichomes and essential oil in developing peppermint
+leaves. I. Variation in peltate trichome number and terpene distribution
+within leaves.</article-title>
+<source>New Phytol</source>
+<volume>111</volume>
+<fpage>707</fpage>
+<lpage>716</lpage>
+</element-citation></ref><ref id="pone.0017195-Croteau1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Croteau</surname><given-names>RB</given-names></name><name><surname>Davis</surname><given-names>EM</given-names></name><name><surname>Ringer</surname><given-names>KL</given-names></name><name><surname>Wildung</surname><given-names>MR</given-names></name></person-group>
+<year>2005</year>
+<article-title>(&#x02212;)-Menthol biosynthesis and molecular
+genetics.</article-title>
+<source>Naturwiss</source>
+<volume>92</volume>
+<fpage>562</fpage>
+<lpage>577</lpage>
+<pub-id pub-id-type="pmid">16292524</pub-id></element-citation></ref><ref id="pone.0017195-Dudareva1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dudareva</surname><given-names>N</given-names></name><name><surname>Negre</surname><given-names>F</given-names></name><name><surname>Nagegowda</surname><given-names>DA</given-names></name><name><surname>Orlova</surname><given-names>I</given-names></name></person-group>
+<year>2006</year>
+<article-title>Plant volatiles: Recent advances and future
+perspectives.</article-title>
+<source>Crit Rev Plant Sci</source>
+<volume>25</volume>
+<fpage>417</fpage>
+<lpage>440</lpage>
+</element-citation></ref><ref id="pone.0017195-Heil1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heil</surname><given-names>M</given-names></name><name><surname>Silva Bueno</surname><given-names>JC</given-names></name></person-group>
+<year>2007</year>
+<article-title>Within-plant signaling by volatiles leads to induction and
+priming of an indirect plant defense in nature.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>104</volume>
+<fpage>5467</fpage>
+<lpage>5472</lpage>
+<pub-id pub-id-type="pmid">17360371</pub-id></element-citation></ref><ref id="pone.0017195-Baldwin1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baldwin</surname><given-names>IT</given-names></name><name><surname>Halitschke</surname><given-names>R</given-names></name><name><surname>Paschold</surname><given-names>A</given-names></name><name><surname>von Dahl</surname><given-names>CC</given-names></name><name><surname>Preston</surname><given-names>CA</given-names></name></person-group>
+<year>2006</year>
+<article-title>Volatile signaling in plant-plant interactions: &#x0201c;Talking
+trees&#x0201d; in the genomics era.</article-title>
+<source>Science</source>
+<volume>311</volume>
+<fpage>812</fpage>
+<lpage>815</lpage>
+<pub-id pub-id-type="pmid">16469918</pub-id></element-citation></ref><ref id="pone.0017195-Maffei3"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maffei</surname><given-names>ME</given-names></name><name><surname>Mithofer</surname><given-names>A</given-names></name><name><surname>Boland</surname><given-names>W</given-names></name></person-group>
+<year>2007</year>
+<article-title>Before gene expression: early events in plant-insect
+interaction.</article-title>
+<source>Trends Plant Sci</source>
+<volume>12</volume>
+<fpage>310</fpage>
+<lpage>316</lpage>
+<pub-id pub-id-type="pmid">17596996</pub-id></element-citation></ref><ref id="pone.0017195-Maffei4"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maffei</surname><given-names>ME</given-names></name><name><surname>Mithofer</surname><given-names>A</given-names></name><name><surname>Boland</surname><given-names>W</given-names></name></person-group>
+<year>2007</year>
+<article-title>Insects feeding on plants: Rapid signals and responses preceding
+the induction of phytochemical release.</article-title>
+<source>Phytochemistry</source>
+<volume>68</volume>
+<fpage>2946</fpage>
+<lpage>2959</lpage>
+<pub-id pub-id-type="pmid">17825328</pub-id></element-citation></ref><ref id="pone.0017195-Mithfer1"><label>37</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Mith&#x000f6;fer</surname><given-names>A</given-names></name><name><surname>Boland</surname><given-names>W</given-names></name><name><surname>Maffei</surname><given-names>ME</given-names></name></person-group>
+<year>2009</year>
+<article-title>Chemical ecology of plant-insect interactions.</article-title>
+<person-group person-group-type="editor"><name><surname>Parker</surname><given-names>J</given-names></name></person-group>
+<source>Molecular Aspects of Plant Disease Resistance</source>
+<publisher-loc>Chirchester</publisher-loc>
+<publisher-name>Wiley-Blackwell</publisher-name>
+<fpage>261</fpage>
+<lpage>291</lpage>
+</element-citation></ref><ref id="pone.0017195-Heil2"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heil</surname><given-names>M</given-names></name></person-group>
+<year>2008</year>
+<article-title>Indirect defence via tritrophic interactions.</article-title>
+<source>New Phytol</source>
+<volume>178</volume>
+<fpage>41</fpage>
+<lpage>61</lpage>
+<pub-id pub-id-type="pmid">18086230</pub-id></element-citation></ref><ref id="pone.0017195-Unsicker1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Unsicker</surname><given-names>SB</given-names></name><name><surname>Kunert</surname><given-names>G</given-names></name><name><surname>Gershenzon</surname><given-names>J</given-names></name></person-group>
+<year>2009</year>
+<article-title>Protective perfumes: the role of vegetative volatiles in plant
+defense against herbivores.</article-title>
+<source>Curr Opin Plant Biol</source>
+<volume>12</volume>
+<fpage>479</fpage>
+<lpage>485</lpage>
+<pub-id pub-id-type="pmid">19467919</pub-id></element-citation></ref><ref id="pone.0017195-Holopainen1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holopainen</surname><given-names>JK</given-names></name><name><surname>Gershenzon</surname><given-names>J</given-names></name></person-group>
+<year>2010</year>
+<article-title>Multiple stress factors and the emission of plant
+VOCs.</article-title>
+<source>Trends Plant Sci</source>
+<volume>15</volume>
+<fpage>176</fpage>
+<lpage>184</lpage>
+<pub-id pub-id-type="pmid">20144557</pub-id></element-citation></ref><ref id="pone.0017195-Par1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Par&#x000e9;</surname><given-names>PW</given-names></name><name><surname>Tumlinson</surname><given-names>JH</given-names></name></person-group>
+<year>1997</year>
+<article-title>De novo biosynthesis of volatiles induced by insect herbivory in
+cotton plants.</article-title>
+<source>Plant Physiol</source>
+<volume>114</volume>
+<fpage>1161</fpage>
+<lpage>1167</lpage>
+<pub-id pub-id-type="pmid">12223763</pub-id></element-citation></ref><ref id="pone.0017195-Turlings1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Turlings</surname><given-names>TCJ</given-names></name><name><surname>Tumlinson</surname><given-names>JH</given-names></name><name><surname>Lewis</surname><given-names>WJ</given-names></name></person-group>
+<year>1990</year>
+<article-title>Exploitation of herbivore-induced plant odors by host-seeking
+parasitic wasps.</article-title>
+<source>Science</source>
+<volume>250</volume>
+<fpage>1251</fpage>
+<lpage>1253</lpage>
+<pub-id pub-id-type="pmid">17829213</pub-id></element-citation></ref><ref id="pone.0017195-Mntyl1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>M&#x000e4;ntyl&#x000e4;</surname><given-names>E</given-names></name><name><surname>Alessio</surname><given-names>GA</given-names></name><name><surname>Blande</surname><given-names>JD</given-names></name><name><surname>Heijari</surname><given-names>J</given-names></name><name><surname>Holopainen</surname><given-names>JK</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>From plants to birds: Higher avian predation rates in trees
+responding to insect herbivory.</article-title>
+<source>Plos One</source>
+<volume>3</volume>
+</element-citation></ref><ref id="pone.0017195-Wang1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>H</given-names></name><name><surname>Guo</surname><given-names>WF</given-names></name><name><surname>Zhang</surname><given-names>PJ</given-names></name><name><surname>Wu</surname><given-names>ZY</given-names></name><name><surname>Liu</surname><given-names>SS</given-names></name></person-group>
+<year>2008</year>
+<article-title>Experience-induced habituation and preference towards non-host
+plant odors in ovipositing females of a moth.</article-title>
+<source>J Chem Ecol</source>
+<volume>34</volume>
+<fpage>330</fpage>
+<lpage>338</lpage>
+<pub-id pub-id-type="pmid">18253797</pub-id></element-citation></ref><ref id="pone.0017195-Zhao1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>YX</given-names></name><name><surname>Kang</surname><given-names>L</given-names></name></person-group>
+<year>2003</year>
+<article-title>Olfactory responses of the leafminer <italic>Liriomyza
+sativae</italic> (Dipt., Agromyzidae) to the odours of host and non-host
+plants.</article-title>
+<source>J App Entomol-Z Angew Entomol</source>
+<volume>127</volume>
+<fpage>80</fpage>
+<lpage>84</lpage>
+</element-citation></ref><ref id="pone.0017195-Scharf1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scharf</surname><given-names>ME</given-names></name><name><surname>Nguyen</surname><given-names>SN</given-names></name><name><surname>Song</surname><given-names>C</given-names></name></person-group>
+<year>2006</year>
+<article-title>Evaluation of volatile low molecular weight insecticides using
+<italic>Drosophila melanogaster</italic> as a model.</article-title>
+<source>Pest Manag Sci</source>
+<volume>62</volume>
+<fpage>655</fpage>
+<lpage>663</lpage>
+<pub-id pub-id-type="pmid">16676366</pub-id></element-citation></ref><ref id="pone.0017195-Mkaddem1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mkaddem</surname><given-names>M</given-names></name><name><surname>Bouajila</surname><given-names>J</given-names></name><name><surname>Ennajar</surname><given-names>M</given-names></name><name><surname>Lebrihi</surname><given-names>A</given-names></name><name><surname>Mathieu</surname><given-names>F</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Chemical composition and antimicrobial and antioxidant activities
+of <italic>Mentha</italic> (<italic>longifolia</italic> L. and
+<italic>viridis</italic>) essential oils.</article-title>
+<source>J Food Sci</source>
+<volume>74</volume>
+<fpage>M358</fpage>
+<lpage>M363</lpage>
+<pub-id pub-id-type="pmid">19895481</pub-id></element-citation></ref><ref id="pone.0017195-Mora1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mora</surname><given-names>FD</given-names></name><name><surname>Araque</surname><given-names>M</given-names></name><name><surname>Rojas</surname><given-names>LB</given-names></name><name><surname>Ramirez</surname><given-names>R</given-names></name><name><surname>Silva</surname><given-names>B</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Chemical composition and in vitro antibacterial activity of the
+essential oil of <italic>Minthostachys mollis</italic> (Kunth) Griseb Vaught
+from the Venezuelan Andes.</article-title>
+<source>Nat Prod Comm</source>
+<volume>4</volume>
+<fpage>997</fpage>
+<lpage>1000</lpage>
+</element-citation></ref><ref id="pone.0017195-Ntalli1"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ntalli</surname><given-names>NG</given-names></name><name><surname>Ferrari</surname><given-names>F</given-names></name><name><surname>Giannakou</surname><given-names>I</given-names></name><name><surname>Menkissoglu-Spiroudi</surname><given-names>U</given-names></name></person-group>
+<year>2010</year>
+<article-title>Phytochemistry and nematicidal activity of the essential oils
+from 8 Greek Lamiaceae aromatic plants and 13 terpene
+components.</article-title>
+<source>J Agric Food Chem</source>
+<volume>58</volume>
+<fpage>7856</fpage>
+<lpage>7863</lpage>
+<pub-id pub-id-type="pmid">20527965</pub-id></element-citation></ref><ref id="pone.0017195-Ribeiro1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ribeiro</surname><given-names>VL</given-names></name><name><surname>Dos Santos</surname><given-names>JC</given-names></name><name><surname>Bordignon</surname><given-names>SA</given-names></name><name><surname>Apel</surname><given-names>MA</given-names></name><name><surname>Henriques</surname><given-names>AT</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Acaricidal properties of the essential oil from
+<italic>Hesperozygis ringens</italic> (Lamiaceae) on the cattle tick
+<italic>Riphicephalus</italic> (<italic>Boophilus</italic>)
+<italic>microplus</italic>.</article-title>
+<source>Biores Technol</source>
+<volume>101</volume>
+<fpage>2506</fpage>
+<lpage>2509</lpage>
+</element-citation></ref><ref id="pone.0017195-Dancewicz1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dancewicz</surname><given-names>K</given-names></name><name><surname>Gabrys</surname><given-names>B</given-names></name><name><surname>Dams</surname><given-names>I</given-names></name><name><surname>Wawrzenczyk</surname><given-names>C</given-names></name></person-group>
+<year>2008</year>
+<article-title>Enantiospecific effect of pulegone and pulegone-derived lactones
+on <italic>Myzus persicae</italic> (Sulz.) settling and
+feeding.</article-title>
+<source>J Chem Ecol</source>
+<volume>34</volume>
+<fpage>530</fpage>
+<lpage>538</lpage>
+<pub-id pub-id-type="pmid">18340487</pub-id></element-citation></ref><ref id="pone.0017195-McConkey1"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McConkey</surname><given-names>ME</given-names></name><name><surname>Gershenzon</surname><given-names>J</given-names></name><name><surname>Croteau</surname><given-names>RB</given-names></name></person-group>
+<year>2000</year>
+<article-title>Developmental regulation of monoterpene biosynthesis in the
+glandular trichomes of peppermint.</article-title>
+<source>Plant Physiol</source>
+<volume>122</volume>
+<fpage>215</fpage>
+<lpage>223</lpage>
+<pub-id pub-id-type="pmid">10631265</pub-id></element-citation></ref><ref id="pone.0017195-Mahmoud1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mahmoud</surname><given-names>SS</given-names></name><name><surname>Croteau</surname><given-names>RB</given-names></name></person-group>
+<year>2002</year>
+<article-title>Strategies for transgenic manipulation of monoterpene
+biosynthesis in plants.</article-title>
+<source>Trends Plant Sci</source>
+<volume>7</volume>
+<fpage>366</fpage>
+<lpage>373</lpage>
+<pub-id pub-id-type="pmid">12167332</pub-id></element-citation></ref><ref id="pone.0017195-Estevez1"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Estevez</surname><given-names>JM</given-names></name><name><surname>Cantero</surname><given-names>A</given-names></name><name><surname>Reindl</surname><given-names>A</given-names></name><name><surname>Reichler</surname><given-names>S</given-names></name><name><surname>Leon</surname><given-names>P</given-names></name></person-group>
+<year>2001</year>
+<article-title>1-deoxy-D-xylulose-5-phosphate synthase, a limiting enzyme for
+plastidic isoprenoid biosynthesis in plants.</article-title>
+<source>J Biol Chem</source>
+<volume>276</volume>
+<fpage>22901</fpage>
+<lpage>22909</lpage>
+<pub-id pub-id-type="pmid">11264287</pub-id></element-citation></ref><ref id="pone.0017195-RiosEstepa1"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rios-Estepa</surname><given-names>R</given-names></name><name><surname>Turner</surname><given-names>GW</given-names></name><name><surname>Lee</surname><given-names>JM</given-names></name><name><surname>Croteau</surname><given-names>RB</given-names></name><name><surname>Lange</surname><given-names>BM</given-names></name></person-group>
+<year>2008</year>
+<article-title>A systems biology approach identifies the biochemical mechanisms
+regulating monoterpenoid essential oil composition in
+peppermint.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>105</volume>
+<fpage>2818</fpage>
+<lpage>2823</lpage>
+<pub-id pub-id-type="pmid">18287058</pub-id></element-citation></ref><ref id="pone.0017195-Mahmoud2"><label>56</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mahmoud</surname><given-names>SS</given-names></name><name><surname>Croteau</surname><given-names>RB</given-names></name></person-group>
+<year>2003</year>
+<article-title>Menthofuran regulates essential oil biosynthesis in peppermint by
+controlling a downstream monoterpene reductase.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>100</volume>
+<fpage>14481</fpage>
+<lpage>14486</lpage>
+<pub-id pub-id-type="pmid">14623962</pub-id></element-citation></ref><ref id="pone.0017195-Frost1"><label>57</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frost</surname><given-names>Cj</given-names></name><name><surname>Mescher</surname><given-names>MC</given-names></name><name><surname>Dervinis</surname><given-names>C</given-names></name><name><surname>Davis</surname><given-names>JM</given-names></name><name><surname>Carlson</surname><given-names>JE</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Priming defense genes and metabolites in hybrid poplar by the
+green leaf volatile cis-3-hexenyl acetate.</article-title>
+<source>New Phytol</source>
+<volume>180</volume>
+<fpage>722</fpage>
+<lpage>734</lpage>
+<pub-id pub-id-type="pmid">18721163</pub-id></element-citation></ref><ref id="pone.0017195-Arimura1"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arimura</surname><given-names>G</given-names></name><name><surname>Matsui</surname><given-names>K</given-names></name><name><surname>Takabayashi</surname><given-names>J</given-names></name></person-group>
+<year>2009</year>
+<article-title>Chemical and molecular ecology of herbivore-induced plant
+volatiles: proximate factors and their ultimate functions.</article-title>
+<source>Plant Cell Physiol</source>
+<volume>50</volume>
+<fpage>911</fpage>
+<lpage>923</lpage>
+<pub-id pub-id-type="pmid">19246460</pub-id></element-citation></ref><ref id="pone.0017195-Matsui1"><label>59</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matsui</surname><given-names>K</given-names></name></person-group>
+<year>2006</year>
+<article-title>Green leaf volatiles: hydroperoxide lyase pathway of oxylipin
+metabolism.</article-title>
+<source>Curr Opin Plant Biol</source>
+<volume>9</volume>
+<fpage>274</fpage>
+<lpage>280</lpage>
+<pub-id pub-id-type="pmid">16595187</pub-id></element-citation></ref><ref id="pone.0017195-Aharoni1"><label>60</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aharoni</surname><given-names>A</given-names></name><name><surname>Giri</surname><given-names>AP</given-names></name><name><surname>Deuerlein</surname><given-names>S</given-names></name><name><surname>Griepink</surname><given-names>F</given-names></name><name><surname>de Kogel</surname><given-names>WJ</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Terpenoid metabolism in wild-type and transgenic Arabidopsis
+plants.</article-title>
+<source>Plant Cell</source>
+<volume>15</volume>
+<fpage>2866</fpage>
+<lpage>2884</lpage>
+<pub-id pub-id-type="pmid">14630967</pub-id></element-citation></ref><ref id="pone.0017195-Gershenzon1"><label>61</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gershenzon</surname><given-names>J</given-names></name><name><surname>McConkey</surname><given-names>ME</given-names></name><name><surname>Croteau</surname><given-names>RB</given-names></name></person-group>
+<year>2000</year>
+<article-title>Regulation of monoterpene accumulation in leaves of
+peppermint.</article-title>
+<source>Plant Physiol</source>
+<volume>122</volume>
+<fpage>205</fpage>
+<lpage>213</lpage>
+<pub-id pub-id-type="pmid">10631264</pub-id></element-citation></ref><ref id="pone.0017195-Adams1"><label>62</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>RP</given-names></name></person-group>
+<year>2001</year>
+<source>Identification of essential oil component by gas
+chromatography/quadrupole mass spectroscopy</source>
+<publisher-loc>Carol Stream, , IL</publisher-loc>
+<publisher-name>Allured Publishing Corporation</publisher-name>
+</element-citation></ref><ref id="pone.0017195-Rozen1"><label>63</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Rozen</surname><given-names>S</given-names></name><name><surname>Skaletsky</surname><given-names>H</given-names></name></person-group>
+<year>2000</year>
+<article-title>Primer3 on the WWW for general users and for biologist
+programmers.</article-title>
+<person-group person-group-type="editor"><name><surname>Krawetz S Misener</surname><given-names>S</given-names></name></person-group>
+<source>Bioinformatics Methods and Protocols</source>
+<publisher-loc>Totowa</publisher-loc>
+<publisher-name>Humana Press</publisher-name>
+<fpage>365</fpage>
+<lpage>386</lpage>
+</element-citation></ref><ref id="pone.0017195-Luciano1"><label>64</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luciano</surname><given-names>P</given-names></name><name><surname>Bertea</surname><given-names>CM</given-names></name><name><surname>Temporale</surname><given-names>G</given-names></name><name><surname>Maffei</surname><given-names>ME</given-names></name></person-group>
+<year>2007</year>
+<article-title>DNA internal standard for the quantitative determination of
+hallucinogenic plants in plant mixtures.</article-title>
+<source>For Sci Internat: Genetics</source>
+<volume>1</volume>
+<fpage>262</fpage>
+<lpage>266</lpage>
+</element-citation></ref><ref id="pone.0017195-Lange1"><label>65</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lange</surname><given-names>BM</given-names></name><name><surname>Wildung</surname><given-names>MR</given-names></name><name><surname>Stauber</surname><given-names>EJ</given-names></name><name><surname>Sanchez</surname><given-names>C</given-names></name><name><surname>Pouchnik</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Probing essential oil biosynthesis and secretion by functional
+evaluation of expressed sequence tags from mint glandular
+trichomes.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>97</volume>
+<fpage>2934</fpage>
+<lpage>2939</lpage>
+<pub-id pub-id-type="pmid">10717007</pub-id></element-citation></ref><ref id="pone.0017195-Lange2"><label>66</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lange</surname><given-names>BM</given-names></name><name><surname>Wildung</surname><given-names>MR</given-names></name><name><surname>Mccaskill</surname><given-names>D</given-names></name><name><surname>Croteau</surname><given-names>R</given-names></name></person-group>
+<year>1998</year>
+<article-title>A family of transketolases that directs isoprenoid biosynthesis
+via a mevalonate-independent pathway.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>95</volume>
+<fpage>2100</fpage>
+<lpage>2104</lpage>
+<pub-id pub-id-type="pmid">9482845</pub-id></element-citation></ref><ref id="pone.0017195-Burke1"><label>67</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burke</surname><given-names>CC</given-names></name><name><surname>Wildung</surname><given-names>MR</given-names></name><name><surname>Croteau</surname><given-names>R</given-names></name></person-group>
+<year>1999</year>
+<article-title>Geranyl diphosphate synthase: Cloning, expression, and
+characterization of this prenyltransferase as a heterodimer.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>96</volume>
+<fpage>13062</fpage>
+<lpage>13067</lpage>
+<pub-id pub-id-type="pmid">10557273</pub-id></element-citation></ref><ref id="pone.0017195-Lupien1"><label>68</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lupien</surname><given-names>S</given-names></name><name><surname>Karp</surname><given-names>F</given-names></name><name><surname>Wildung</surname><given-names>M</given-names></name><name><surname>Croteau</surname><given-names>R</given-names></name></person-group>
+<year>1999</year>
+<article-title>Regiospecific cytochrome P450 limonene hydroxylases from mint
+(<italic>Mentha</italic>) species: cDNA isolation, characterization, and
+functional expression of (&#x02212;)-4S-limonene-3-hydroxylase and
+(&#x02212;)-4S-limonene-6-hydroxylase.</article-title>
+<source>Arch Biochem Biophys</source>
+<volume>368</volume>
+<fpage>181</fpage>
+<lpage>192</lpage>
+<pub-id pub-id-type="pmid">10415126</pub-id></element-citation></ref><ref id="pone.0017195-Ringer1"><label>69</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ringer</surname><given-names>KL</given-names></name><name><surname>Davis</surname><given-names>EM</given-names></name><name><surname>Croteau</surname><given-names>R</given-names></name></person-group>
+<year>2005</year>
+<article-title>Monoterpene metabolism. Cloning, expression, and characterization
+of (&#x02212;)-isopiperitenol/(&#x02212;)-carveol dehydrogenase of peppermint
+and spearmint.</article-title>
+<source>Plant Physiol</source>
+<volume>137</volume>
+<fpage>863</fpage>
+<lpage>872</lpage>
+<pub-id pub-id-type="pmid">15734920</pub-id></element-citation></ref><ref id="pone.0017195-Ringer2"><label>70</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ringer</surname><given-names>KL</given-names></name><name><surname>McConkey</surname><given-names>ME</given-names></name><name><surname>Davis</surname><given-names>EM</given-names></name><name><surname>Rushing</surname><given-names>GW</given-names></name><name><surname>Croteau</surname><given-names>R</given-names></name></person-group>
+<year>2003</year>
+<article-title>Monoterpene double-bond reductases of the (&#x02212;)-menthol
+biosynthetic pathway: isolation and characterization of cDNAs encoding
+(&#x02212;)-isopiperitenone reductase and (&#x0002b;)-pulegone reductase of
+peppermint.</article-title>
+<source>Arch Biochem Biophys</source>
+<volume>418</volume>
+<fpage>80</fpage>
+<lpage>92</lpage>
+<pub-id pub-id-type="pmid">13679086</pub-id></element-citation></ref><ref id="pone.0017195-Bertea1"><label>71</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bertea</surname><given-names>CM</given-names></name><name><surname>Schalk</surname><given-names>M</given-names></name><name><surname>Karp</surname><given-names>F</given-names></name><name><surname>Maffei</surname><given-names>M</given-names></name><name><surname>Croteau</surname><given-names>R</given-names></name></person-group>
+<year>2001</year>
+<article-title>Demonstration that menthofuran synthase of mint
+(<italic>Mentha</italic>) is a cytochrome P450 monooxygenase: Cloning,
+functional expression, and characterization of the responsible
+gene.</article-title>
+<source>Arch Biochem Biophys</source>
+<volume>390</volume>
+<fpage>279</fpage>
+<lpage>286</lpage>
+<pub-id pub-id-type="pmid">11396930</pub-id></element-citation></ref></ref-list></back></article>

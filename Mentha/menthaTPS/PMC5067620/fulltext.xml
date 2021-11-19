@@ -1,0 +1,937 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5067620</article-id><article-id pub-id-type="doi">10.1111/pbi.12525</article-id><article-id pub-id-type="publisher-id">PBI12525</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Metabolic engineering of terpene biosynthesis in plants using a trichome&#x02010;specific transcription factor <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic> from spearmint (<italic>Mentha spicata</italic>)</article-title><alt-title alt-title-type="left-running-head"><italic>Qian Wang</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12525-cr-0001" contrib-type="author"><name><surname>Wang</surname><given-names>Qian</given-names></name><xref ref-type="aff" rid="pbi12525-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12525-cr-0002" contrib-type="author"><name><surname>Reddy</surname><given-names>Vaishnavi Amarr</given-names></name><xref ref-type="aff" rid="pbi12525-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12525-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12525-cr-0003" contrib-type="author"><name><surname>Panicker</surname><given-names>Deepa</given-names></name><xref ref-type="aff" rid="pbi12525-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi12525-curr-0001">
+<sup>4</sup>
+</xref></contrib><contrib id="pbi12525-cr-0004" contrib-type="author"><name><surname>Mao</surname><given-names>Hui&#x02010;Zhu</given-names></name><xref ref-type="aff" rid="pbi12525-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12525-cr-0005" contrib-type="author"><name><surname>Kumar</surname><given-names>Nadimuthu</given-names></name><xref ref-type="aff" rid="pbi12525-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12525-cr-0006" contrib-type="author"><name><surname>Rajan</surname><given-names>Chakravarthy</given-names></name><xref ref-type="aff" rid="pbi12525-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12525-cr-0007" contrib-type="author"><name><surname>Venkatesh</surname><given-names>Prasanna Nori</given-names></name><xref ref-type="aff" rid="pbi12525-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12525-cr-0008" contrib-type="author"><name><surname>Chua</surname><given-names>Nam&#x02010;Hai</given-names></name><xref ref-type="aff" rid="pbi12525-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pbi12525-cr-0009" contrib-type="author" corresp="yes"><name><surname>Sarojam</surname><given-names>Rajani</given-names></name><xref ref-type="aff" rid="pbi12525-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pbi12525-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Temasek Life Sciences Laboratory</named-content><named-content content-type="organisation-division">1 Research Link</named-content><institution>National University of Singapore</institution><named-content content-type="city">Singapore City</named-content><country country="SG">Singapore</country></aff><aff id="pbi12525-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Biological Sciences</named-content><institution>National University of Singapore</institution><named-content content-type="city">Singapore City</named-content><country country="SG">Singapore</country></aff><aff id="pbi12525-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Laboratory of Plant Molecular Biology</named-content><institution>The Rockefeller University</institution><named-content content-type="city">New York</named-content><named-content content-type="country-part">NY</named-content><country country="US">USA</country></aff><aff id="pbi12525-curr-0001"><label><sup>4</sup></label>Present address: <named-content content-type="organisation-division">Singapore Centre on Environmental Life Sciences Engineering</named-content><institution>Nanyang Technological University</institution><named-content content-type="city">Singapore</named-content><named-content content-type="post-code">637551</named-content><country country="SG">Singapore</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +65 68727556; fax +65 68727517; email <email>rajanis@tll.org.sg</email>)</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>2</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2016</year></pub-date><volume>14</volume><issue>7</issue><issue-id pub-id-type="doi">10.1111/pbi.2016.14.issue-7</issue-id><fpage>1619</fpage><lpage>1632</lpage><history><date date-type="received"><day>09</day><month>10</month><year>2015</year></date><date date-type="rev-recd"><day>26</day><month>11</month><year>2015</year></date><date date-type="accepted"><day>05</day><month>12</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-14-1619.pdf"/><abstract id="pbi12525-abs-0001"><title>Summary</title><p>In many aromatic plants including spearmint (<italic>Mentha spicata</italic>), the sites of secondary metabolite production are tiny specialized structures called peltate glandular trichomes (<styled-content style="fixed-case">PGT</styled-content>). Having high commercial values, these secondary metabolites are exploited largely as flavours, fragrances and pharmaceuticals. But, knowledge about transcription factors (TFs) that regulate secondary metabolism in <styled-content style="fixed-case">PGT</styled-content> remains elusive. Understanding the role of TFs in secondary metabolism pathway will aid in metabolic engineering for increased yield of secondary metabolites and also the development of new production techniques for valuable metabolites. Here, we isolated and functionally characterized a novel <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic> gene that is preferentially expressed in <styled-content style="fixed-case">PGT</styled-content> of spearmint. We generated transgenic plants in which <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic> was either overexpressed or silenced using <styled-content style="fixed-case">RNA</styled-content> interference (<styled-content style="fixed-case">RNA</styled-content>i). Analysis of the transgenic lines showed that the reduced expression of <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic> led to increased levels of terpenes and that overexpression decreased terpene levels. Additionally, ectopic expression of <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic> in <italic>Ocimum basilicum</italic> and <italic>Nicotiana sylvestris</italic> decreased secondary metabolite production in them, suggesting that the encoded transcription factor is probably a repressor of secondary metabolism.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12525-kwd-0001">spearmint</kwd><kwd id="pbi12525-kwd-0002">secondary metabolism</kwd><kwd id="pbi12525-kwd-0003">terpene</kwd><kwd id="pbi12525-kwd-0004">sweet basil</kwd><kwd id="pbi12525-kwd-0005">transcription factor</kwd><kwd id="pbi12525-kwd-0006"><styled-content style="fixed-case">YABBY</styled-content></kwd></kwd-group><funding-group><award-group><funding-source>Singapore National Research Foundation</funding-source><award-id>RF&#x02010;CRP8&#x02010;2011&#x02010;02</award-id></award-group></funding-group><counts><page-count count="14"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12525</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.5 mode:remove_FC converted:18.10.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pbi12525-sec-0001"><title>Introduction</title><p>The genus <italic>Mentha</italic>, a member of <italic>Lamiaceae</italic> family, includes species that are widely used as medicinal and aromatic herbs. The essential oils produced by these plants find wide usage in food, flavour, cosmetic and pharmaceutical industries (Champagne and Boutry, <xref rid="pbi12525-bib-0010" ref-type="ref">2013</xref>; Sinha <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0062" ref-type="ref">2013</xref>). Plants produce these volatile essential oils as secondary metabolites which have important roles in plant defence, plant&#x02010;to&#x02010;plant communication and pollination (Gershenzon <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0025" ref-type="ref">2000</xref>). In mint, these essential oils are produced in specialized nonphotosynthetic glandular trichomes known as peltate glandular trichomes (PGT) which are found on the aerial surface of the plants. The PGT are dedicated to the production and storage of large amounts of volatile secretions (Champagne and Boutry, <xref rid="pbi12525-bib-0010" ref-type="ref">2013</xref>; Croteau <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0015" ref-type="ref">2000</xref>; Lange and Turner, <xref rid="pbi12525-bib-0036" ref-type="ref">2013</xref>). In the case of spearmint (<italic>Mentha spicata</italic>), the essential oil is dominated mainly by two monoterpenes, limonene and carvone. Monoterpenes are the C10 type of terpenoids and are generally colourless, lipophilic and volatile. They are responsible for the characteristic aromas and flavours of essential oils, floral scents and resin of aromatic plants (Loza&#x02010;Tavera, <xref rid="pbi12525-bib-0039" ref-type="ref">1999</xref>). Given their economic importance, strategies to metabolically engineer monoterpenes to increase yield is of considerable interest.</p><p>Varietal improvement in cultivated spearmint or peppermint varieties has been challenging because these varieties are sterile hybrids making classical breeding approach unfeasible. Hence, metabolic engineering provides an alternative method to improve essential oil yield and composition. Plants synthesize terpenes either by the mevalonate (MVA) pathway in the cytosol or by the 2&#x02010;C&#x02010;methyl&#x02010;<sc>d</sc>&#x02010;erythritol 4&#x02010;phosphate (MEP) pathway in plastids. Both pathways provide the precursors for terpene biosynthesis (Vranov&#x000e1; <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0067" ref-type="ref">2013</xref>) and have been well investigated. The MEP pathway in plastids is mainly responsible for producing monoterpenes and diterpenes, whereas the MVA pathway generates sesquiterpenes and triterpenes (Dubey <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0018" ref-type="ref">2003</xref>). Studies have shown that under certain conditions an exchange of precursor metabolites can occur between the cytosolic MVA and plastid MEP pathways. Analysis of terpenoid production in many different plants has shown that under specific ecological conditions synthesis of monoterpenes, diterpenes, sesquiterpenes and polyterpenes can occur from precursors produced by both pathways. Metabolic intermediates like isopentenyl diphosphate, geranyl diphosphate or geranylgeranyl diphosphate can be transported across plastidial membranes (Hemmerlin <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0031" ref-type="ref">2012</xref>; Vranov&#x000e1; <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0067" ref-type="ref">2013</xref>).</p><p>Apart from the precursor pathways, the downstream monoterpene biosynthetic pathways in both spearmint and peppermint are also well characterized (Lange <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0037" ref-type="ref">2011</xref>). One of the strategies to increase yield in peppermint was to manipulate genes that code for enzymes involved in the monoterpene pathway, for example genes for limonene synthase and limonene hydroxylase (Diemer <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0017" ref-type="ref">2001</xref>; Mahmoud <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0044" ref-type="ref">2004</xref>), but overexpression of these genes did not enhance oil yields significantly. In their pioneering work, Mahmoud and Croteau (<xref rid="pbi12525-bib-0043" ref-type="ref">2001</xref>) and Lange <italic>et&#x000a0;al</italic>. (<xref rid="pbi12525-bib-0037" ref-type="ref">2011</xref>) evaluated the efficacy of overexpressing genes encoding enzymes involved in precursor pathways on oil yields in peppermint (<italic>Mentha piperita</italic>). Most encouraging results were obtained in plants where two genes were manipulated simultaneously, the gene encoding 1&#x02010;deoxy&#x02010;d&#x02010;xylulose&#x02010;5&#x02010;phosphate reductoisomerase was overexpressed and the gene encoding menthofuran synthase was down&#x02010;regulated. Oil yields in these transgenic plants increased up to 61% over wild&#x02010;type controls while reducing the undesirable side&#x02010;products (+)&#x02010;menthofuran and its intermediate (+)&#x02010;pulegone (Lange <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0037" ref-type="ref">2011</xref>). Recently, increase in monoterpene formation was achieved by introducing a noncanonical substrate neryl diphosphate (NPP), but the additional NPP had to be eliminated to avoid adverse impact on plant growth (Gutensohn <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0029" ref-type="ref">2014</xref>).</p><p>It is increasingly evident that transcription factors (TFs) which are regulators of structural genes can activate or repress multiple genes in a metabolic pathway (Grotewold, <xref rid="pbi12525-bib-0028" ref-type="ref">2008</xref>; Iwase <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0032" ref-type="ref">2009</xref>). Manipulation of such TFs can be more effective for engineering pathways rather than changing the expression of genes for individual enzymes involved, because plant metabolic pathways are complex comprising of multiple genes encoding various enzymes (Broun and Somerville, <xref rid="pbi12525-bib-0007" ref-type="ref">2001</xref>). The effectiveness of using TFs to modulate metabolic pathways has been validated in a few studies (Butelli <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0008" ref-type="ref">2008</xref>; Luo <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0041" ref-type="ref">2008</xref>; Schwinn <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0059" ref-type="ref">2006</xref>). Although the enzymatic pathway leading to the synthesis of spearmint monoterpenes is well defined (Croteau <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0014" ref-type="ref">1991</xref>; Lange <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0037" ref-type="ref">2011</xref>; Mu&#x000f1;oz&#x02010;Bertomeu <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0050" ref-type="ref">2008</xref>), the developmental regulation of this secondary metabolite pathway still remains elusive. Few TFs have been reported from other plants that are involved in regulating terpene biosynthesis. They are <italic>Artemisia annua</italic>,<italic> AaWRKY1, AaERF1, AaERF2, AaORA1</italic> and <italic>AabZIP1</italic> (Lu <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0040" ref-type="ref">2013</xref>; Ma <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0042" ref-type="ref">2009</xref>; Yu <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0076" ref-type="ref">2012</xref>; Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0079" ref-type="ref">2015</xref>), cotton <italic>GaWRKY1</italic> (Xu <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0073" ref-type="ref">2004</xref>), <italic>TaWRKY1</italic> from <italic>Taxus chinensis</italic> (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0069" ref-type="ref">2001</xref>), rubber <italic>EREBP1</italic> and <italic>HbWRKY1</italic> (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0012" ref-type="ref">2012</xref>; Zhou <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0080" ref-type="ref">2012</xref>) and <italic>OsTGAP1</italic> in rice (Miyamoto <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0048" ref-type="ref">2014</xref>).</p><p>To investigate the genes involved in PGT formation and secondary metabolism in spearmint, we had performed comparative RNA&#x02010;Seq analysis of different tissues of spearmint, namely PGT, leaf devoid of PGT (leaf&#x02010;PGT) and leaf in a previous study (Jin <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0034" ref-type="ref">2014</xref>). This led to the identification of many TF transcripts that were significantly more abundant in PGT when compared to leaf&#x02010;PGT and a <italic>YABBY</italic> transcript was among the top candidates. We cloned the full&#x02010;length cDNA of this transcript and sequence analysis showed that it is similar to YABBY5 subfamily of proteins<italic>. YABBY</italic> genes constitute a group of plant&#x02010;specific TFs that are known to play important roles in various aspects of vegetative and floral development in plants (Bonaccorso <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0005" ref-type="ref">2012</xref>; Bowman, <xref rid="pbi12525-bib-0006" ref-type="ref">2000</xref>). In this study, we report the engineering of spearmint plants for higher yields by suppressing this glandular trichome&#x02010;enriched TF <italic>MsYABBY5</italic>. The resulting <italic>MsYABBY5</italic> RNAi lines showed an increase in monoterpene production which ranged from 20% to 77%. This is the first report of a transcription factor regulating monoterpene production in mint plants and assigns a new role for <italic>YABBY</italic> genes in plant secondary metabolism. Ectopic expression of <italic>MsYABBY5</italic> in sweet basil (<italic>Ocimum basilicum</italic>), an aromatic herb similar to mint, and in <italic>Nicotiana sylvestris</italic> resulted in decreased secondary metabolite production in them. Essential oil of sweet basil has compounds derived from both terpene and phenylpropanoid pathways, whereas <italic>N.&#x000a0;sylvestris</italic> produces mainly diterpenes. As MsYABBY5 could affect metabolites derived from different metabolic pathways, it suggests that it regulates an upstream step in plant secondary metabolism. We further found that MsYABBY5 probably regulates terpene synthesis through a regulatory network that involves <italic>MsWRKY75</italic>.</p></sec><sec id="pbi12525-sec-0002"><title>Results</title><sec id="pbi12525-sec-0003"><title>
+<italic>MsYABBY5</italic> shows high expression in spearmint PGT</title><p>Mint leaves have PGT on both surfaces (Figure&#x000a0;<xref rid="pbi12525-fig-0001" ref-type="fig">1</xref>A). From the RNA&#x02010;Seq data of leaves, we identified four <italic>YABBY</italic>&#x02010;like transcripts that showed high expression levels. Of these, only <italic>MsYABBY5</italic> was preferentially expressed in PGT, whereas the others were more enriched in leaf tissues. The differential expression pattern of these transcripts as observed by RNA Seq was further validated by quantitative RT&#x02010;PCR (qRT&#x02010;PCR) (Figure&#x000a0;<xref rid="pbi12525-fig-0001" ref-type="fig">1</xref>B). Full&#x02010;length open reading frames (ORFs) of all these four <italic>YABBYs</italic> including <italic>MsYABBY5</italic> were amplified from leaf cDNA using RACE. All the four cloned ORFs contained a conserved C<sub>2</sub>C<sub>2</sub> zinc finger domain located at N&#x02010;terminus and a helix&#x02010;loop&#x02010;helix motif (YABBY domain) at the C terminus which is similar to the HMG box motif. These two domains are highly conserved among all YABBY proteins (Figure&#x000a0;<xref rid="pbi12525-fig-0002" ref-type="fig">2</xref>A). As we were interested in TFs involved in regulating secondary metabolism in mint, we focussed on <italic>MsYABBY5</italic>. <italic>In situ</italic> hybridization also confirmed the PGT&#x02010;specific expression of <italic>MsYABBY5</italic>, as no signal was observed in the leaf tissue (Figure&#x000a0;<xref rid="pbi12525-fig-0001" ref-type="fig">1</xref>C). The ORF of <italic>MsYABBY5</italic> encoded a polypeptide of 190 amino acids. BLAST analysis showed that <italic>MsYABBY5</italic> has highest sequence similarity to <italic>Antirrhinum PROLONGATA YABBY</italic>&#x02010;like transcription factor. We generated a phylogenetic tree based on amino acids sequences of YABBY proteins from different plants. The results revealed that MsYABBY5 and MsYABBY6 belonged to the YABBY5 subfamily, whereas the other two, MsYABBY2 and MsYABBY4<italic>,</italic> are members of the YABBY2 subfamily (Figure&#x000a0;<xref rid="pbi12525-fig-0002" ref-type="fig">2</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="pbi12525-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Validation of <italic>Ms<styled-content style="fixed-case">YABBY</styled-content></italic> genes expression pattern in spearmint. (A) Spearmint leaf showing peltate glandular trichome (<styled-content style="fixed-case">PGT</styled-content>) on upper leaf surface as visualized under scanning electron microscope. (B) <styled-content style="fixed-case">qRT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content> analysis of <italic>Ms<styled-content style="fixed-case">YABBY</styled-content></italic> genes in different tissues. <styled-content style="fixed-case">PGT</styled-content>, peltate glandular trichome; leaf&#x02010;<styled-content style="fixed-case">PGT</styled-content>, leaves where <styled-content style="fixed-case">PGT</styled-content> were brushed away. The housekeeping gene <italic>elongation factor 1 (ef1)</italic> was used as control. (C) <italic>In situ</italic> hybridization: antisense (a) and sense (b) probe detection of <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic>.</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-14-1619-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="pbi12525-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Amino acid sequence alignment (A) and phylogenetic tree analysis (B) of Ms<styled-content style="fixed-case">YABBY</styled-content>s.</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-14-1619-g002"/></fig></sec><sec id="pbi12525-sec-0004"><title>Subcellular localization of MsYABBY5 protein</title><p>To examine the subcellular localization patterns of YABBY proteins, cDNAs of all the four <italic>MsYABBYs</italic> were fused in&#x02010;frame to cDNA encoding the yellow&#x02010;fluorescent protein (YFP) and the fusion genes were transiently expressed in tobacco by agroinfiltration. All the MsYABBYs except MsYABBY5 showed nuclear localization. Interestingly, MsYABBY5 showed both nuclear and cytoplasmic localization (Figure&#x000a0;<xref rid="pbi12525-fig-0003" ref-type="fig">3</xref>A). Online software prediction programs indicated that MsYABBY5 contained a potential transmembrane domain (<ext-link ext-link-type="uri" xlink:href="http://dgpred.cbr.su.se/index.php?p=fullscan">http://dgpred.cbr.su.se/index.php?p=fullscan</ext-link>) at the amino terminal and participated in the secretory pathway (<ext-link ext-link-type="uri" xlink:href="http://www.cbs.dtu.dk/services/TargetP-1.1/output.php">http://www.cbs.dtu.dk/services/TargetP-1.1/output.php</ext-link>). To investigate this, Golgi markers were used for colocalization experiment which showed that MsYABBY5 localized to Golgi (Figure&#x000a0;<xref rid="pbi12525-fig-0003" ref-type="fig">3</xref>B). To further assess this localization pattern, tobacco leaves were treated with Brefeldin A (BFA). BFA treatment in tobacco results&#x000a0;in the complete disappearance of Golgi apparatus and disrupts the secretory system (Robinson and Ritzenthaler, <xref rid="pbi12525-bib-0056" ref-type="ref">2006</xref>). After treatment with 50&#x000a0;&#x003bc;g/mL BFA for 3&#x000a0;h, MsYABBY5 was&#x000a0;found to exhibit nuclear localization only, while both nuclear and cytosolic distribution was still observed in the control plants (treated with 1&#x000a0;:&#x000a0;1000 dilution of DMSO in ddH<sub>2</sub>O) (Figure&#x000a0;<xref rid="pbi12525-fig-0003" ref-type="fig">3</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="pbi12525-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Subcellular localization of Ms<styled-content style="fixed-case">YABBY</styled-content>s in <italic>Nicotiana benthamiana<bold>.</bold></italic> (A) Ms<styled-content style="fixed-case">YABBY</styled-content>5 showed both nuclear and cytoplasmic expression, while other Ms<styled-content style="fixed-case">YABBY</styled-content>s were found in nucleus only. (a) Ms<styled-content style="fixed-case">YABBY</styled-content>5 was localized to both nucleus and cytoplasm. (b) Ms<styled-content style="fixed-case">YABBY</styled-content>6. (c) Ms<styled-content style="fixed-case">YABBY</styled-content>2. (d) Ms<styled-content style="fixed-case">YABBY</styled-content>4. (B) Ms<styled-content style="fixed-case">YABBY</styled-content>5 protein colocalization with Golgi marker. (C) <styled-content style="fixed-case">BFA</styled-content> treatment leads to nuclear localization of Ms<styled-content style="fixed-case">YABBY</styled-content>5 protein in <italic>N.&#x000a0;benthamiana</italic>. (a) Mock group treated with <styled-content style="fixed-case">DMSO</styled-content>. (b) Test group treated with 50&#x000a0;&#x003bc;g/mL <styled-content style="fixed-case">BFA</styled-content> for 3&#x000a0;h.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-14-1619-g003"/></fig><p>To directly observe the distribution pattern of MsYABBY5 protein, we performed immunogold labelling of native MsYABBY5 in PGT of spearmint. A 14&#x02010;amino acid peptide that is presumably located on the surface of the predicted three&#x02010;dimensional structure of MsYABBY5 was used as an antigen to raise specific antibody. Western blot analysis showed that the antibody exclusively bound to MsYABBY5 but not to MsYABBY2, MsYABBY4 or MsYABBY6 (Figure&#x000a0;S1A,B). MsYABBY5 proteins conjugated with gold particles were observed to accumulate inside the nucleus and also present in the cytoplasm. As the cell organelles were not clearly distinguishable in the TEM sections, the localization to cell organelles could not be verified by immunostaining (Figure&#x000a0;S1C).</p></sec><sec id="pbi12525-sec-0005"><title>Analysis of the promoter region of <italic>MsYABBY5</italic>
+</title><p>A 1116&#x02010;bp genomic DNA fragment upstream of the putative start codon of <italic>MsYABBY5</italic> was cloned by genome walking. Bioinformatics analysis of this region revealed the presence of many <italic>cis</italic>&#x02010;acting regulatory elements apart from the common TATA and CAAT box (<ext-link ext-link-type="uri" xlink:href="http://bioinformatics.psb.ugent.be/webtools/plantcare/html/">http://bioinformatics.psb.ugent.be/webtools/plantcare/html/</ext-link>) (Figure&#x000a0;<xref rid="pbi12525-fig-0004" ref-type="fig">4</xref>A). Four light&#x02010;responsive motifs, including two Box4, one TCT and one Sp1 motifs, were found in the promoter sequence. Regulation of terpene biosynthesis by light is known in many plants (Cordoba <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0013" ref-type="ref">2009</xref>). With respect to hormones, two <italic>cis</italic>&#x02010;acting elements, CGTCA&#x02010;motif and TGACG&#x02010;motif, involved in the MeJA&#x02010;responsiveness were found and one for gibberellin <italic>cis</italic> elements, TATC box, was found within the sequence (Zhou <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0080" ref-type="ref">2012</xref>; Zhu <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0081" ref-type="ref">2014</xref>). Further, tissue&#x02010;specific expression pattern of the cloned promoter was analysed. The 1116&#x02010;bp promoter fragment was fused with a &#x003b2;&#x02010;glucuronidase (GUS) reporter gene and transformed into <italic>Nicotiana benthamiana</italic> plants. The transgenic plants showed trichome&#x02010;specific expression pattern in leaves and stems of tobacco plants (Figure&#x000a0;<xref rid="pbi12525-fig-0004" ref-type="fig">4</xref>B,C). No staining was observed in flowers or roots. Hence, this promoter is potentially a glandular trichome&#x02010;specific promoter. Additionally, this promoter was used to drive <italic>MsYABBY5</italic> cDNA fused to a cyan&#x02010;fluorescent protein reporter gene in basil and tobacco. The fluorescence was observed exclusively in PGT of basil plants and head cells of the glandular trichomes of tobacco, but subcellular localization was difficult to decipher (Figure&#x000a0;<xref rid="pbi12525-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12525-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Ms<italic><styled-content style="fixed-case">YABBY</styled-content>5</italic> promoter analysis and expression pattern. (A) <italic>cis&#x02010;</italic>acting regulatory elements in the 5&#x02032;<styled-content style="fixed-case">UTR</styled-content> (&#x02212;1116&#x000a0;bp) region of <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic>. (B and C) Trichome&#x02010;specific <styled-content style="fixed-case">GUS</styled-content> expression pattern observed in <italic>Nicotiana benthamiana</italic> leaves and stems <italic>of</italic> plants transformed with <styled-content style="fixed-case">p<italic>M</italic></styled-content>
+<italic><styled-content style="fixed-case">sYABBY</styled-content>5::GUS</italic>.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-14-1619-g004"/></fig><fig fig-type="Figure" xml:lang="en" id="pbi12525-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Localization of Ms<styled-content style="fixed-case">YABBY</styled-content>5 under its native promoter in sweet basil (A) and tobacco (B). <styled-content style="fixed-case">p<italic>M</italic></styled-content>
+<italic><styled-content style="fixed-case">sYABBY</styled-content>5</italic>:: Ms<styled-content style="fixed-case">YABBY</styled-content>5&#x02010;<styled-content style="fixed-case">CFP</styled-content> showed exclusive expression in <styled-content style="fixed-case">PGT</styled-content> of plants.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-14-1619-g005"/></fig></sec><sec id="pbi12525-sec-0006"><title>Silencing of <italic>MsYABBY5</italic> Increases monoterpene production in spearmint</title><p>To examine the function of <italic>MsYABBY5</italic> in spearmint PGT, an RNAi construct targeting a specific region of <italic>MsYABBY5</italic> was generated and transformed into wild&#x02010;type spearmint using <italic>Agrobacterium tumefaciens</italic>&#x02010;mediated T&#x02010;DNA transfer. Many transgenic lines were generated, of which four independent transgenic lines analysed by Southern blotting for transgene integration were selected for further characterization (Figure&#x000a0;S2). All these RNAi plants showed a reduction in <italic>MsYABBY5</italic> transcripts (Figure&#x000a0;<xref rid="pbi12525-fig-0006" ref-type="fig">6</xref>A). No significant changes were observed in the expression of other leaf&#x02010;specific <italic>YABBY</italic> genes (<italic>MsYABBY2</italic>,<italic> MsYABBY4</italic> and <italic>MsYABBY6</italic>), suggesting that the RNAi construct was specific to <italic>MsYABBY5</italic> and did not target other <italic>YABBY</italic> transcripts (Figure&#x000a0;S3). The RNAi transgenic plants appeared phenotypically similar to WT plants. Scanning electron microscopy analysis revealed no phenotypical changes in either the number or the structure of PGT.</p><fig fig-type="Figure" xml:lang="en" id="pbi12525-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Transcript level of <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic> and monoterpene production in <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5 </italic>
+<styled-content style="fixed-case">RNA</styled-content>i and overexpression plants. (A) <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic> transcripts level in <styled-content style="fixed-case">RNA</styled-content>i plants. (B) Limonene production in <styled-content style="fixed-case">RNA</styled-content>i plants. (C) Carvone production in <styled-content style="fixed-case">RNA</styled-content>i plants. (D) <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic> transcripts level in overexpression plants. (E) Limonene production in overexpression plants. (F) Carvone production in overexpression plants. Gene expression is presented as relative to <italic>ef1</italic>. Leaves from the second node (2&#x02013;3&#x000a0;cm) were harvested and used for analysis. Results of terpene production are presented as mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content>. *<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.05; **<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.01.</p></caption><graphic id="nlm-graphic-11" xlink:href="PBI-14-1619-g006"/></fig><p>Gas chromatography&#x02013;mass spectrometry (GC&#x02013;MS) analysis was performed on these transgenic plants to evaluate the quality and quantity of the volatiles produced. Young WT spearmint leaves contain an abundance of both limonene and carvone monoterpenes. Limonene is the first committed step towards carvone production. Limonene is converted to carvone by a two&#x02010;step reaction. In our greenhouse conditions, we observed that in WT spearmint, the productions of limonene and carvone were about 1.47&#x000a0;&#x000b1;&#x000a0;0.11 and 2.10&#x000a0;&#x000b1;&#x000a0;0.25&#x000a0;&#x003bc;g/mg fresh leaf, respectively. Upon GC&#x02013;MS analysis, all the four transgenic lines showed a significant increase (20%&#x02013;77%) in total monoterpene production (limonene and carvone) (Figure&#x000a0;<xref rid="pbi12525-fig-0006" ref-type="fig">6</xref>B,C). The RNAi lines were tested for the expression levels of enzymes involved in carvone production (limonene synthase, limonene 6&#x02010;hydroxylase and carveol dehydrogenase) by qRT&#x02010;PCR; however, no major changes were observed. Transcripts for all enzymes of the MEP precursor pathways including geranyl diphosphate synthase small and big subunits were also investigated, but no significant changes in their expression levels were found. These results suggest that increase in monoterpene production is probably not due to the transcriptional activation of biosynthetic genes. <italic>MsYABBY5</italic> might be acting upstream to regulate flux into the terpene pathway.</p></sec><sec id="pbi12525-sec-0007"><title>Overexpression of <italic>MsYABBY5</italic> results in decrease in monoterpene production</title><p>To gain further insight into the role of <italic>MsYABBY5</italic> in secondary metabolism, we overexpressed this gene in spearmint under the control of a CaMV <italic>35S</italic> promoter. Four independent lines confirmed by southern hybridization were selected for further characterization. The results of qRT&#x02010;PCR showed high <italic>MsYABBY5</italic> expression levels in all the transgenic plants (Figure&#x000a0;<xref rid="pbi12525-fig-0006" ref-type="fig">6</xref>D). GC&#x02013;MS analysis of young leaves showed a reduction in total monoterpene production, which ranged from 23% to 52% (Figure&#x000a0;<xref rid="pbi12525-fig-0006" ref-type="fig">6</xref>E,F). The observed phenotype in RNAi and overexpression transgenic lines suggests that <italic>MsYABBY5</italic> might be a repressor of secondary metabolism in spearmint.</p></sec><sec id="pbi12525-sec-0008"><title>Possible downstream target of MsYABBY5 to regulate secondary metabolism</title><p>To better understand MsYABBY5's biological functions and signalling pathways, it is essential to know its downstream target genes. There is not much known about the molecular mechanism of regulation by <italic>YABBYs</italic> and their direct target genes. As genes encoding enzymes in the biosynthetic pathways leading to monoterpene production were not significantly changed, we decided to investigate the expression of genes for transporters. Transporters play a key role in plant cellular metabolism (Fischer, <xref rid="pbi12525-bib-0021" ref-type="ref">2011</xref>; Fl&#x000fc;gge <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0022" ref-type="ref">2011</xref>). From our previous RNA&#x02010;Seq data, we had identified several transcripts in PGT which were involved in transport of carbon and ATP (Jin <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0034" ref-type="ref">2014</xref>). One such transcript <italic>MsNTT</italic> similar to the plastidic ATP/ADP transporter&#x02010;like proteins showed differential expression in overexpression and RNAi plants. All the RNAi lines showed increased <italic>MsNTT</italic> transcript levels compared with WT plants or <italic>35S::GFP</italic> control plants and reduced expression was observed in the overexpression plants (Figure&#x000a0;<xref rid="pbi12525-fig-0007" ref-type="fig">7</xref>A,B). Plastidic ATP/ADP transporter facilitates the movement of ATP across the plastid inner membrane and can determine the rate of metabolic activity in plastids (Fl&#x000fc;gge <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0022" ref-type="ref">2011</xref>; Neuhaus <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0051" ref-type="ref">1997</xref>). MsNTT was seen localized to the plastid membrane (Figure&#x000a0;<xref rid="pbi12525-fig-0007" ref-type="fig">7</xref>C). Enhanced energy import into the plastids can be one of the reasons the knock&#x02010;down plants showed a higher metabolic activity.</p><fig fig-type="Figure" xml:lang="en" id="pbi12525-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>
+<italic>Ms<styled-content style="fixed-case">NTT</styled-content></italic> expression and localization. Transcript levels of <italic>Ms<styled-content style="fixed-case">NTT</styled-content></italic> in <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5 </italic>
+<styled-content style="fixed-case">RNA</styled-content>i (A) and overexpression plants (B) Leaves from the second node (2&#x02013;3&#x000a0;cm) were harvested and used for <styled-content style="fixed-case">qPCR</styled-content> analysis. Gene expression was normalized against the house keeping gene <italic>ef1</italic>. *<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.05; **<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.01. (C) Ms<styled-content style="fixed-case">NTT</styled-content> was localized to the chloroplast membrane in <italic>Nicotiana benthamiana</italic>.</p></caption><graphic id="nlm-graphic-13" xlink:href="PBI-14-1619-g007"/></fig><p>In a recent study, ChIP&#x02010;Seq and RNA&#x02010;Seq methods were used to identify YABBY&#x02010;regulated genes during various stages of soya bean seedling development. The major candidate genes regulated by YABBY were found to be fatty acid desaturase, APETALA2 (AP2) and WRKY transcription factor (Shamimuzzaman and Vodkin, <xref rid="pbi12525-bib-0060" ref-type="ref">2013</xref>). Recent research shows the emergence of WRKY TFs as key regulators of terpene production (Patra <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0054" ref-type="ref">2013</xref>). From our RNA&#x02010;Seq data, we identified a WRKY transcript <italic>MsWRKY75</italic>, which was enriched in PGTs (Figure&#x000a0;<xref rid="pbi12525-fig-0008" ref-type="fig">8</xref>A). The level of this transcript showed reduction in <italic>MsYABBY5</italic> RNAi lines, but no significant increase was observed in overexpression lines (Figure&#x000a0;<xref rid="pbi12525-fig-0008" ref-type="fig">8</xref>B). To check whether MsYABBY5 can bind to the promoter regions of <italic>MsNTT</italic> and <italic>MsWRKY75</italic>, we performed EMSA using the purified recombinant His tagged MsYABBY5 protein (Figure&#x000a0;<xref rid="pbi12525-fig-0008" ref-type="fig">8</xref>C). About ~1&#x000a0;kb promoter regions of both the genes were cloned and they were divided into four overlapping fragments and screened by EMSA. No binding was observed with <italic>MsNTT</italic> promoter, but a protein&#x02013;DNA complex with reduced mobility was observed when recombinant MsYABB5 was incubated with <italic>MsWRKY75</italic> probe (Figure&#x000a0;<xref rid="pbi12525-fig-0008" ref-type="fig">8</xref>D). Interestingly, only the fragment of &#x02212;909 to &#x02212;555&#x000a0;bp region of <italic>MsWRKY75</italic> promoter was found to bind with MsYABBY5. DNA binding specificity was further confirmed by competition experiments using 10&#x02013;100&#x02010;fold excess unlabelled probe which led to the disappearance of DNA/protein complex. To further determine whether MsYABBY5 protein can regulate the <italic>MsWRKY75</italic> promoter in plants, transient expression assays in <italic>N.&#x000a0;benthamiana</italic> were performed. Leaves were coinfilterated with reporter <italic>MsWRKY75 promoter::GUS</italic> and effector <italic>35S::YFP</italic> or <italic>35S::MsYABBY5</italic>. Promoter activity of <italic>MsWRKY75::GUS</italic> was significantly enhanced in 35S<italic>::MsYABBY5</italic> expressing leaves when compared to <italic>35S::YFP</italic> (Figure&#x000a0;<xref rid="pbi12525-fig-0008" ref-type="fig">8</xref>E). This suggests that MsYABBY5 activates <italic>MsWRKY75</italic> which probably represses terpene production in spearmint.</p><fig fig-type="Figure" xml:lang="en" id="pbi12525-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Transactivation of <italic>Ms<styled-content style="fixed-case">WRKY</styled-content>75 by Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic>. (A) Expression pattern of <italic>Ms<styled-content style="fixed-case">WRKY</styled-content>75</italic> in different tissues of wild&#x02010;type spearmint. (B) Transcript levels of <italic>Ms<styled-content style="fixed-case">WRKY</styled-content>75</italic> in <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5 </italic>
+<styled-content style="fixed-case">RNA</styled-content>i plants. (C) Purification of recombinant His tagged Ms<styled-content style="fixed-case">YABBY</styled-content>5 expressed in <italic>Escherichia coli</italic>. (D) <styled-content style="fixed-case">EMSA</styled-content> assay of Ms<styled-content style="fixed-case">YABBY</styled-content>5 binding ability to <italic>Ms<styled-content style="fixed-case">WRKY</styled-content>75</italic> promoter. Upper panel shows the fragment &#x02212;909 to &#x02212;555 of <italic>Ms<styled-content style="fixed-case">WRKY</styled-content>75</italic> promoter region, (E) transactivation of <italic>Ms<styled-content style="fixed-case">WRKY</styled-content>75</italic> by Ms<styled-content style="fixed-case">YABBY</styled-content>5 in <italic>Nicotiana Benthamiana</italic>. Results are presented as mean &#x000b1; SD. **, <italic>P</italic> &#x0003c; 0.01.</p></caption><graphic id="nlm-graphic-15" xlink:href="PBI-14-1619-g008"/></fig></sec><sec id="pbi12525-sec-0009"><title>Ectopic expression of <italic>MsYABBY5</italic> affects secondary metabolism in tobacco and sweet basil</title><p>To understand the functions of <italic>MsYABBY5</italic> in other plants, the gene was ectopically expressed in tobacco and sweet basil. High transcript levels of <italic>MsYABBY5</italic> were detected in transgenic tobacco and sweet basil plants (Figure&#x000a0;S4). <italic>Nicotiana sylvestris</italic> glandular trichomes mainly produce diterpenes which are generally derived from the same MEP pathway as the monoterpenes. Ectopic expression of <italic>MsYABBY5</italic> was found to reduce cembranoids (CBT&#x02010;diol) production in <italic>N.&#x000a0;sylvestris</italic> by 29.5%&#x02013;47.1% (Figure&#x000a0;<xref rid="pbi12525-fig-0009" ref-type="fig">9</xref>A). Sweet basil essential oil produced in PGT consists of both terpenes and phenylpropanoids. To explore whether <italic>MsYABBY5</italic> has an effect on secondary metabolites originating from different metabolic pathways in PGT, we ectopically expressed <italic>MsYABBY5</italic> in sweet basil. Three independent sweet basil transgenic lines confirmed by southern hybridization were selected for further characterization. The results of qRT&#x02010;PCR showed high expression levels of <italic>MsYABBY5</italic> in all the transgenic plants (data not shown). GC&#x02013;MS analysis on T&#x02010;2 plants showed that the total production of both monoterpene (eucalyptol, &#x003b2;&#x02010;ocimene and linalool) and sesquiterpene (&#x003b1;&#x02010;bergamotene, &#x003b3;&#x02010;muurolene and copaene) decreased (Figure&#x000a0;<xref rid="pbi12525-fig-0009" ref-type="fig">9</xref>B,C). Besides terpene production, phenylpropanoid production was also affected. Eugenol, which is the dominant compound, with a production of 1.93&#x000a0;&#x000b1;&#x000a0;0.58&#x000a0;&#x003bc;g/mg fresh leaf, showed a significant reduction (<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05) in transgenic plants (Figure&#x000a0;<xref rid="pbi12525-fig-0009" ref-type="fig">9</xref>D). This suggests that transcriptional regulators can govern fluxes in multiple metabolic pathways. Additionally, the sweet basil transgenic lines also showed curled leaf and delayed flowering (about 2&#x02013;3&#x000a0;weeks delay) when compared to WT plants sown at the same time (Figure&#x000a0;S5).</p><fig fig-type="Figure" xml:lang="en" id="pbi12525-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Ectopic expression of <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic> decreased terpene production in <italic>Nicotiana sylvestris</italic> and sweet basil. (A) <styled-content style="fixed-case">CBT</styled-content>&#x02010;diol production in wild&#x02010;type and transgenic <italic>N.&#x000a0;sylvestris</italic> overexpressed with <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic>. Volatiles production of total monoterpenes (B), sesquiterpenes (C) and eugenol (D) in wild&#x02010;type and transgenic basil overexpressed with <italic>Ms<styled-content style="fixed-case">YABBY</styled-content>5</italic>. Leaves from the second node (2&#x02013;4&#x000a0;cm) were harvested and used for <styled-content style="fixed-case">GC</styled-content>&#x02013;<styled-content style="fixed-case">MS</styled-content> analysis. Results of terpenes and phenylpropanoid production are presented as mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content>. *<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.05; **<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.01.</p></caption><graphic id="nlm-graphic-17" xlink:href="PBI-14-1619-g009"/></fig></sec></sec><sec id="pbi12525-sec-0010"><title>Discussion</title><p>Glandular trichomes are found on the aerial surface of approximately 30% of vascular plants. As they can synthesize and store a large amount of secondary metabolites, they are aptly termed as &#x02018;tiny chemical factories&#x02019; of plants. But very few studies have focussed on TFs that regulate glandular trichome&#x02010;specific metabolic pathways (Wang, <xref rid="pbi12525-bib-0068" ref-type="ref">2014</xref>), which will greatly facilitate metabolic engineering efforts to increase yield or develop plant platforms to produce high value compounds. Studies in understanding the transcriptional control of secondary metabolite production show the expression of both activators and repressors is necessary to fine&#x02010;tune the flux, timing and the level of structural gene expression in a pathway (Albert <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0002" ref-type="ref">2014</xref>; Cavallini <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0009" ref-type="ref">2015</xref>; Patra <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0054" ref-type="ref">2013</xref>). In this study, we isolated a <italic>YABBY</italic> gene that is preferentially expressed in spearmint PGT and appears to be a negative regulator of secondary metabolism. This is a novel function for the plant&#x02010;specific <italic>YABBY</italic> family of TFs. In Arabidopsis, <italic>YABBY</italic> gene family promotes several aspects of leaf, shoot and flower development (Eshed <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0020" ref-type="ref">1999</xref>; Goldshmidt <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0026" ref-type="ref">2008</xref>; Golz <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0027" ref-type="ref">2004</xref>; Stahle <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0065" ref-type="ref">2009</xref>), but how they mediate these effects at the molecular level largely remains unknown. Single mutants of <italic>yabby5</italic> in Arabidopsis showed no morphological defects, but significantly enhanced the phenotype of <italic>yab1yab3</italic> double mutant (Sarojam <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0057" ref-type="ref">2010</xref>). In rice, the functions of <italic>YABBY</italic> genes are divergent from their Arabidopsis homologs. Rice <italic>YAB1</italic> is required for gibberellin&#x02010;mediated repression of <italic>GA3ox2</italic> gene which is involved in the synthesis of gibberellin (Dai <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0016" ref-type="ref">2007</xref>).</p><p>Studies have revealed that YABBYs are bifunctional TFs acting as either repressors or activators (Bonaccorso <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0005" ref-type="ref">2012</xref>; Stahle <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0065" ref-type="ref">2009</xref>), but their direct downstream target genes are not well known. The increase in monoterpene production observed in <italic>MsYABBY5</italic> RNAi lines was not due to an increase in transcripts level of the structural genes involved in the pathway. Additionally, no significant changes were observed in transcript level of genes encoding enzymes in the precursor MEP pathway. The difference between metabolite and transcript levels can be attributed to either post&#x02010;transcriptional modification, protein stability or enhanced flux into the metabolic pathway (Xie <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0072" ref-type="ref">2008</xref>). In peppermint, it was shown that most of the biosynthetic enzymes leading to monoterpene production including limonene synthase were regulated at the level of gene expression (McConkey <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0047" ref-type="ref">2000</xref>). Many primary metabolic pathways like glycolysis, the TCA cycle, pentose phosphate pathway and shikimate pathway provides carbon, ATP and precursors compounds to diverse secondary metabolic pathways. Transcription factors can affect the synthesis of a particular secondary metabolite by regulating metabolic enzymes in these primary pathways (Aharoni and Galili, <xref rid="pbi12525-bib-0001" ref-type="ref">2011</xref>). Both mint and basil PGT are nonphotosynthetic organs and need to import ATP and carbon to sustain their high metabolic activities, which too can be possibly controlled by TFs. The fact that <italic>MsYABBY5</italic> expression was able to affect metabolite production in tobacco and sweet basil plants suggests that this gene might be probably functioning upstream regulating flux into metabolic pathways. The MEP pathway and shikimate pathway leading to mono/diterpene and phenylpropanoid precursor production, respectively, are both localized in plastids making direct interactions between these pathways possible. <italic>Production of anthocyanin pigment</italic> (<italic>PAP1</italic>), a MYB transcription factor from Arabidopsis, is an activator of the phenylpropanoid pathway (Li <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0038" ref-type="ref">2010</xref>). Recently it was shown that ectopic expression of <italic>PAP1</italic> in rose plants, led to an increase in floral volatile compounds originating from both phenylpropanoid and terpenoid pathways. Transcriptional activation of only few biosynthetic genes was observed, whereas the rest of the increase was attributed to enhanced flux in both pathways (Ben Zvi <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0004" ref-type="ref">2012</xref>). Interactions between phenylpropanoid and terpenoid pathways have also been shown in tomato mutants (Enfissi <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0019" ref-type="ref">2010</xref>), as well as in Ipomoea flowers (Majetic <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0045" ref-type="ref">2010</xref>), but the mechanism still remains to be elucidated.</p><p>In a recent study, ChIP&#x02010;Seq and RNA&#x02010;Seq methods were used to identify YABBY&#x02010;regulated genes during various stages of soya bean seedling development. About 96 potential genes were found to be either up&#x02010;regulated or down&#x02010;regulated by YABBY. One of the major candidate genes regulated by YABBY was found to be WRKY transcription factor (Shamimuzzaman and Vodkin, <xref rid="pbi12525-bib-0060" ref-type="ref">2013</xref>). WRKY TFs play important roles in regulation of plant stress response and secondary metabolism both as activators and repressors (Schluttenhofer and Yuan, <xref rid="pbi12525-bib-0058" ref-type="ref">2015</xref>). Research has shown that WRKYs can activate structural genes involved in monoterpene (Spyropoulou <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0064" ref-type="ref">2014</xref>), sesquiterpene (Ma <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0042" ref-type="ref">2009</xref>) and diterpene (Qiu <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0055" ref-type="ref">2008</xref>), as well as phenylpropanoid production (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0070" ref-type="ref">2007</xref>). On the other hand, they can act as negative regulators too. In rice, <italic>OsWRKY76</italic> repressed terpene and phenylpropanoid synthesis but increased cold stress tolerance (Yokotani <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0075" ref-type="ref">2013</xref>). In rubber, <italic>HbWRKY1</italic> negatively regulates a gene involved in natural rubber synthesis (Zhou <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0080" ref-type="ref">2012</xref>).</p><p>In our study, we found that <italic>MsYABBY5</italic> negatively regulates the process of terpene biosynthesis and activates <italic>MsWRKY75</italic> in spearmint. MsWRKY75 may be a negative transcriptional regulator of genes involved in terpene synthesis. <italic>MsYABBY5</italic> expression overlaps with <italic>MsWRKY75</italic> in PGTs. Our RNA seq was performed on PGTs isolated from young leaves at a stage where terpene production is very active. The high expression of both of these TFs at this stage does indicate an important role for them. In <italic>MsYABBY5</italic> overexpression lines, no significant increase in <italic>MsWRKY75</italic> was observed; this can be due to a threshold of minimal expression required for <italic>MsWRKY75</italic> activation. <italic>MsWRKY75</italic> probably is one of the many downstream targets regulated by <italic>MsYABBY5</italic> to control secondary metabolism. Transcriptome analysis of <italic>MsYABBY5</italic> RNAi lines can provide us with more candidate genes that are potentially regulated by <italic>MsYABBY5</italic>. Our data reveal a regulatory network involving <italic>YABBY5</italic> and <italic>WRKY</italic> that controls terpene production in spearmint. As information regarding terpene pathway regulation is minimal, where <italic>YABBY5</italic> and <italic>WRKY75</italic> fall in the regulatory hierarchy to govern terpene biosynthesis and how they function with other TFs in the network remains to be explored. Considering the phenotypes observed in transgenic plants, it seems plausible that <italic>MsYABBY5</italic> controls an upstream event in metabolite production.</p><p>We found increased levels of transcript for the plastidic ATP/ADP transporter in transgenic lines making more secondary metabolites and decreased levels in transgenic lines producing less metabolite. In potato, overexpression and suppression of the plastidic ATP/ADP transporter led to an increase and decrease, respectively, in the amount of tuber starch produced (Tjaden <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0066" ref-type="ref">1998</xref>). Further overexpression of both NTT and glucose&#x02010;6&#x02010;phosphate/phosphate translocator which supplies carbon skeletons to the plastids significantly increased total starch content in potato (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0077" ref-type="ref">2008</xref>). This suggested that import of both energy and carbons into amyloplasts is a rate&#x02010;limiting step for starch formation. Most of the plastid proteins are encoded in the nucleus and transported to plastids. <italic>MsYABBY5</italic> does not seem to directly regulate the expression of <italic>MsNTT</italic> to control secondary metabolite production, but the effect can be indirect due to changes in secondary metabolism brought by <italic>MsYABBY5</italic>.</p><p>Immunostaining and fluorescence assays showed MsYABBY5 localized to both nucleus and cytoplasm. Cell fractionation and protein gel blot assays can be further performed to test the association of MsYABBY5 with intracellular membranes. There are several reports of TFs especially those involved in stress response to rapidly translocate from the cytoplasm to the nucleus in response to external signals. Some examples from the mammalian systems are STAT (signal transducer and activator of transcription), NF&#x02010;&#x003ba;B (nuclear factor of immunoglobulin kappa B cells), NFAT (nuclear factor of activated T cells) and steroid receptors proteins (Beals <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0003" ref-type="ref">1997</xref>; McBride <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0046" ref-type="ref">2002</xref>). In the case of plants, ER membrane&#x02010;associated bZIP and NAC089 TFs which are responsible for mediating ER&#x02010;related plant immunity and abiotic stress responses, respectively, were detected in the cytoplasm (Che <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0011" ref-type="ref">2010</xref>; Moreno <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0049" ref-type="ref">2012</xref>; Yang <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0074" ref-type="ref">2014</xref>). Abscisic acid (ABA) is a vital plant hormone that plays important roles in stress response. In Arabidopsis, a WRKY protein, AtWRKY40 functions as negative regulator of ABA signalling by directly repressing expression of many ABA&#x02010;responsive genes. WRKY40 was shown to localize to both nucleus and cytosol in wild&#x02010;type plant cells that has ABA at physiological concentrations and ABA was essential for its cytosolic distribution (Shang <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0061" ref-type="ref">2010</xref>). Secondary metabolites produced by plants are also related to abiotic and biotic stress responses of plants. Further studies are required to assess the change in expression levels and localization patterns of MsYABBY5 and WRKY75 in response to stress conditions and its significance.</p></sec><sec id="pbi12525-sec-0011"><title>Experimental procedures</title><sec id="pbi12525-sec-0012"><title>Plant material and transformation</title><p>Commercial spearmint variety (<italic>M.&#x000a0;spicata</italic>) and sweet basil (<italic>O.&#x000a0;basilicum</italic>) were tested for their secondary metabolites by GC&#x02013;MS and grown in greenhouse under natural light conditions. Spearmint plants were propagated using stem cuttings, whereas basil plants were propagated from seeds. <italic>Agrobacterium&#x02010;</italic>mediated transformation of spearmint was performed according to the previously published protocol (Niu <italic>et&#x000a0;al</italic>., <xref rid="pbi12525-bib-0052" ref-type="ref">1998</xref>, <xref rid="pbi12525-bib-0053" ref-type="ref">2000</xref>). <italic>Agrobacterium</italic>&#x02010;mediated transformation of sweet basil was performed by the following procedure. <italic>O.&#x000a0;basilicum</italic> seeds were sterilized by washing in 40% Clorox for 3&#x000a0;min followed by several rinses with sterile water. The sterile seeds were imbibed overnight and kept at 4&#x000a0;&#x000b0;C. The following day the seeds were dissected under a dissection microscope to harvest the mature embryos. The dissected embryos were precultured in dark for 1&#x000a0;day in cocultivation medium (CC). <italic>Agrobacterium</italic> EHA105 strain was used for transformation. Enhanced green&#x02010;fluorescent protein gene along with kanamycin was used as a selection marker. The precultured embryos were immersed in agrobacterium culture and sonicated for 15&#x000a0;s, four times. After sonication, the embryos were immersed in fresh <italic>Agrobacterium</italic> solution and vacuum&#x02010;infiltrated for 3&#x000a0;min. After infection for 30&#x000a0;min, the embryos were placed in CC medium [MS salts&#x000a0;+&#x000a0;myo&#x02010;inositol 100&#x000a0;mg/L sucrose (30&#x000a0;g/L)&#x000a0;+&#x000a0;BA (0.4&#x000a0;mg/L)&#x000a0;+&#x000a0;IBA (0.4&#x000a0;mg/L)&#x000a0;+&#x000a0;cefotaxime (150&#x000a0;mg/l)] for 3&#x000a0;days. After 3&#x000a0;days, the embryos were washed multiple times with sterile&#x02010;distilled water containing cefotaxime (150&#x000a0;mg/L). The washed embryos were kept in CC media for 3&#x02013;4&#x000a0;weeks in dark for shoot induction. After 3&#x02013;4&#x000a0;weeks, GFP&#x02010;positive shoots were selected and transferred to light. The well&#x02010;grown shoots were transferred to elongation media [MS salts&#x000a0;+&#x000a0;sucrose (30&#x000a0;g/L)&#x000a0;+&#x000a0;BA (3&#x000a0;mg/L)&#x000a0;+&#x000a0;IAA (0.5&#x000a0;mg/L)&#x000a0;+&#x000a0;cefotaxime (150&#x000a0;mg/L)] and kept for 2&#x02013;3&#x000a0;weeks. The shoots were hardened on basal media and allowed for root formation. Plantlets with well&#x02010;developed roots were transferred to soil and grown under glasshouse conditions before further analysis. Tobacco transformation was done as previously described by Gallois and Marinho (<xref rid="pbi12525-bib-0023" ref-type="ref">1995</xref>).</p></sec><sec id="pbi12525-sec-0013"><title>RNA extraction and quantitative RT&#x02010;PCR</title><p>Total RNA was extracted from different tissues (PGT, leaf&#x02010;PGT, leaf and root) of spearmint using an RNeasy<sup>&#x000ae;</sup> Plus Mini kit from Qiagen. Reverse transcription reaction and quantitative RT&#x02010;PCR (qRT&#x02010;PCR) were carried out as described in Jin <italic>et&#x000a0;al</italic>. (<xref rid="pbi12525-bib-0034" ref-type="ref">2014</xref>). Expression levels of target genes were represented as mean&#x000a0;&#x000b1;&#x000a0;SD. Approximately 1&#x000a0;&#x003bc;g RNA was employed to synthesize first strand cDNA.</p></sec><sec id="pbi12525-sec-0014"><title>
+<italic>In situ</italic> hybridization</title><p>
+<italic>In situ</italic> hybridization assay was performed according to the method described by Javelle <italic>et&#x000a0;al</italic>. (<xref rid="pbi12525-bib-0033" ref-type="ref">2011</xref>) with some minor modifications. Briefly, samples were fixed in 4% paraformaldehyde fixative and subjected to vacuum for 30&#x000a0;min on ice. After that, the vials were kept overnight at 4&#x000a0;&#x000b0;C. Next day, samples were dehydrated with ethanol series and embedded in Paraplast (McCormick Scientific, St Louis, MO) until use. The blocks were sectioned at 10&#x000a0;&#x003bc;m and mounted on Probe&#x02010;on Plus slides (Fisher Scientific, singapore). For probe synthesis, the <italic>MsYABBY5</italic> cDNA was inserted into a pGEM<sup>&#x000ae;</sup>&#x02010;T vector (Promega, Wisconsin). Sense and antisense probes were synthesized by T7 and SP6 RNA polymerase (Roche, Basel, Switzerland), respectively.</p></sec><sec id="pbi12525-sec-0015"><title>Cloning and vector construction</title><sec id="pbi12525-sec-0016"><title>Promoter cloning <italic>of MsYABBY5</italic>
+</title><p>Genomic DNA was isolated from young leaves of spearmint using CTAB method. The flanking sequence of <italic>MsYABBY5</italic> gene was amplified using a GenomeWalker<sup>&#x02122;</sup> Universal kit. The &#x02212;1116&#x000a0;bp flanking region of the gene was ligated with pGEM<sup>&#x000ae;</sup>&#x02010;T vector. The resulting product was transformed into <italic>Escherichia coli</italic> XL1&#x02010;Blue and sequenced. The promoter was amplified with Phusion<sup>&#x000ae;</sup> High&#x02010;Fidelity DNA Polymerase (NEB) and subcloned into a gateway donor vector pENTR<sup>&#x02122;</sup>/D&#x02010;TOPO<sup>&#x000ae;</sup> (Invitrogen, California). Then, the recombinant plasmid was introduced into destination vectors pBGWFS7 by LR recombination. The destination plasmid was further transformed into <italic>A.&#x000a0;tumefaciens</italic> EHA105 by heat shock and used to generate transgenic tobacco lines. Sequences of all primers used in this study are listed in Table&#x000a0;S1.</p></sec><sec id="pbi12525-sec-0017"><title>Full&#x02010;length cloning of all four <italic>YABBYs</italic>
+</title><p>Full length of all four YABBYs cDNAs was obtained by performing 3&#x02032; and 5&#x02032; RACE using the SMARTer<sup>&#x02122;</sup> RACE cDNA amplification kit from Clontech. For sequencing full&#x02010;length ORFs, the purified fragments were ligated with pGEM<sup>&#x000ae;</sup>&#x02010;T vector. The resulting product was transformed into <italic>E.&#x000a0;coli</italic> XL1&#x02010;Blue.</p></sec></sec><sec id="pbi12525-sec-0018"><title>Overexpression and RNAi vector construction</title><p>To overexpress or silence <italic>MsYABBY5</italic>, sequences were amplified with Phusion<sup>&#x000ae;</sup> High&#x02010;Fidelity DNA Polymerase (NEB). The purified fragments were inserted into a gateway donor vector pENTR<sup>&#x02122;</sup>/D&#x02010;TOPO<sup>&#x000ae;</sup> (Invitrogen). Then, the recombinant plasmids were introduced into destination vectors pK7WG2D for overexpression in spearmint and sweet basil by LR recombination. For <italic>MsYABBY5</italic> RNAi, four primers with restriction enzymes located at flanking region were used to amplify the fragment showing low similarity to other <italic>YABBY</italic> genes. The purified PCR product was cloned into the donor vector and subsequently introduced into pK7WG2D by LR recombination. The <italic>MsYABBY5</italic> gene was driven by <italic>35S</italic> promoter in both overexpression and RNAi plants. All destination plasmids harbouring the target genes were transformed into <italic>A.&#x000a0;tumefaciens</italic> EHA105 by heat shock and used for spearmint and basil transformation.</p></sec><sec id="pbi12525-sec-0019"><title>Subcellular localization</title><p>
+<italic>YABBY</italic> and <italic>MsNTT</italic> ORFs were amplified and inserted into the pENTR<sup>&#x02122;</sup>/D&#x02010;TOPO<sup>&#x000ae;</sup>. The donor vectors harbouring ORFs were introduced into pBADC/YFP vector by LR recombination. For testing expression pattern of <italic>MsYABBY5</italic> promoter, the 5&#x02032;UTR sequence was amplified and inserted into pENTR<sup>&#x02122;</sup>/D&#x02010;TOPO<sup>&#x000ae;</sup>. Subsequently, the plasmid was transformed into pBGWFS7 by LR recombination. All destination plasmids harbouring target genes were transformed into <italic>A.&#x000a0;tumefaciens</italic> EHA105 by heat shock. The recombinant <italic>A.&#x000a0;tumefaciens</italic> EHA strains were used for plant transformation. Subcellular localization pattern of YABBY proteins was performed as described in Jin <italic>et&#x000a0;al</italic>. (<xref rid="pbi12525-bib-0034" ref-type="ref">2014</xref>). Briefly, the recombinant <italic>A.&#x000a0;tumefaciens</italic> EHA strains were grown in LB medium overnight at 28&#x000a0;&#x000b0;C. After centrifugation at 4000 &#x000d7; <italic><bold>g</bold></italic>, 4&#x000a0;&#x000b0;C for 15&#x000a0;min, cell pellets were collected and resuspended in MMA solution (10&#x000a0;m<sc>m</sc> MES, 10&#x000a0;m<sc>m</sc> MgCl<sub>2</sub>, 100&#x000a0;&#x003bc;<sc>m</sc> acetosyringone) to OD<sub>600</sub>&#x000a0;=&#x000a0;1. The solution was then injected into <italic>N.&#x000a0;benthamiana</italic> leaves. After that, plants were kept at 28&#x000a0;&#x000b0;C for 2&#x000a0;days. Leaf samples were collected and viewed with an upright confocal microscope (Zeiss, Jena, Germany).</p></sec><sec id="pbi12525-sec-0020"><title>Southern blotting</title><p>A total of 15&#x000a0;&#x003bc;g genomic DNA was digested overnight with <italic>Eco</italic>RI at 37&#x000a0;&#x000b0;C. Next day, digestion product was electrophoresed on a 1.2% (w/v) agarose gel at 50&#x000a0;V for 4&#x000a0;h. After that, the gel was transferred to a nylon membrane and hybridized by the CaMV <italic>35S</italic> promoter probe using a DIG DNA labelling and detection kit (Roche). DNA probe against <italic>35S</italic> promoter was generated using PCR DIG probe synthesis kit from Roche (Hart and Basu, <xref rid="pbi12525-bib-0030" ref-type="ref">2009</xref>).</p></sec><sec id="pbi12525-sec-0021"><title>Immunogold labelling</title><p>A 14&#x02010;AA peptide of MsYABBY5 showing low similarity to other MsYABBYs was used as antigen for antibody synthesis (GenScript, Piscataway, NJ). Specificity test of the antibody was performed by Western blotting). Leaf samples from spearmint were fixed for 3&#x000a0;h in 4% paraformaldehyde/0.5% glutaraldehyde in 0.1&#x000a0;M phosphate buffer (pH 7.2) and rinsed in 0.1&#x000a0;M phosphate buffer (pH 7.2) for three times followed by dehydration in ethanol. After that, the samples were infiltrated with and embedded in LR White. Ultrathin sections around 90&#x000a0;nm were prepared with Leica Ultracut UCT microtome equipped with diamond knives and collected on uncoated, 300&#x02010;mesh nickel grids. The procedure of labelling and washing was performed according to the protocol described by Skepper and Powell (<xref rid="pbi12525-bib-0063" ref-type="ref">2008</xref>) with some minor modifications. Briefly, the sections were incubated for 4&#x000a0;h on drops of antimint YAB5 antibody (produced in rabbit) with 1&#x000a0;:&#x000a0;100 dilutions in PBSG buffer [1% (w/v) gelatin in PBS buffer]. After that, sections were rinsed on drops of TBST (50&#x000a0;m<sc>m</sc> Tris, 150&#x000a0;m<sc>m</sc> NaCl, 0.05% Tween 20) for ten times, 2&#x000a0;min for each time. Then, sections were incubated for 1&#x000a0;h on drops of goat anti&#x02010;rabbit antibody conjugated with 10&#x000a0;nm gold particles with 1&#x000a0;:&#x000a0;100 dilutions in PBSG buffer [1% (w/v) gelatin in PBS buffer]. The sections were further rinsed in TBST buffer for 10 times, 2&#x000a0;min each time, and in ddH<sub>2</sub>O for 30&#x000a0;s. Subsequently, samples were counterstained by applying the grid on drops of uranyl acetate and lead citrate. Finally, sections were extensively rinsed in ddH<sub>2</sub>O and viewed at 120&#x000a0;kV with a transmission electron microscope (JEOL JEM&#x02010;1230, Japan).</p></sec><sec id="pbi12525-sec-0022"><title>Electrophoretic mobility shift assay (EMSA)</title><p>MsYABBY5 was expressed in <italic>E.&#x000a0;coli</italic> BL21 (DE3) and induced by 1&#x000a0;m<sc>m</sc> isopropyl&#x02010;&#x003b2;&#x02010;thiogalactopyranoside (IPTG) for 6&#x000a0;h. Then, the recombinant protein was purified using 6&#x000d7; His tagged Ni&#x02010;NTA agarose (Qiagen, Hilden, Germany) and used for EMSA. The 5&#x02032; ends of probes used for EMSA were labelled with biotin (Table&#x000a0;S1). The assay was performed using a LightShift Chemiluminescent EMSA kit (Thermo, Waltham, MA) according to the manufacturer's instructions.</p></sec><sec id="pbi12525-sec-0023"><title>Transactivation activity assay</title><p>The ~1&#x000a0;kb promoter region of <italic>MsWRKY75</italic> was amplified and inserted into pENTR<sup>&#x02122;</sup>/D&#x02010;TOPO<sup>&#x000ae;</sup>. The resulting plasmid was transformed into pBGWFS7 by LR recombination and further introduced into <italic>A.&#x000a0;tumefaciens</italic> EHA. Leaves of <italic>N.&#x000a0;</italic>b<italic>enthamiana</italic> were agroinfiltrated with effector and reporter at a ratio of 1&#x000a0;:&#x000a0;1. Two days after infiltration, leaves were harvested to isolate crude protein. GUS quantitative assay was performed as described by Li <italic>et&#x000a0;al</italic>. (<xref rid="pbi12525-bib-0500" ref-type="ref">2014</xref>). Each assay was performed in triplicate.</p></sec><sec id="pbi12525-sec-0024"><title>Gas chromatography&#x02013;mass spectrometry analysis</title><p>In case of mint, each transgenic plant was propagated clonally before GC&#x02013;MS studies were conducted on them. For basil and tobacco plants, the analysis was performed on T&#x02010;1 plants. Terpene and phenylpropanoid production in leaves of spearmint, sweet basil and tobacco were determined using a GC&#x02013;MS method as described in Jin <italic>et&#x000a0;al</italic>. (<xref rid="pbi12525-bib-0034" ref-type="ref">2014</xref>). Camphor was used as an internal standard.</p></sec><sec id="pbi12525-sec-0025"><title>Statistical analysis</title><p>Data are indicated as &#x02018;mean&#x000a0;&#x000b1;&#x000a0;SD&#x02019; of three biological replicates each performed in triplicates. Statistical significance between transgenic plants and WT was analysed using a two&#x02010;tailed Student's <italic>t</italic>&#x02010;test and indicated by asterisks. *<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05; **<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.01.</p></sec></sec><sec id="pbi12525-sec-0026"><title>Competing interests</title><p>The authors declare that they have no competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S1</bold> MsYABBY5 protein was observed in both nucleus (N) and cytoplasm (C) in peltate glandular trichome (PGT) of spearmint.</p><p>
+<bold>Figure&#x000a0;S2</bold> Southern blotting analysis of transgenic plants.</p><p>
+<bold>Figure&#x000a0;S3</bold> Transcript levels of other <italic>MsYABBYs</italic> in RNAi plants.</p><p>
+<bold>Figure&#x000a0;S4</bold> Transcript level of <italic>MsYABBY5</italic> in <italic>MsYABBY5</italic> overexpression sweet basil (A) and <italic>Nicotiana sylvestris</italic> (B).</p><p>
+<bold>Figure&#x000a0;S5</bold> Ectopic expression of <italic>MsYABBY5</italic> caused leaf curling and flowering time delay in sweet basil.</p><p>
+<bold>Table&#x000a0;S1</bold> Sequences of the primers used in this study.</p></caption><media xlink:href="PBI-14-1619-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12525-sec-0027"><title>Acknowledgements</title><p>This research was funded by a grant from Singapore National Research Foundation (Competitive Research Programme Award No: NRF&#x02010;CRP8&#x02010;2011&#x02010;02). We thank Dr Jin Jingjing for transcriptome data analysis, Mr. Xuezhi Ouyang for TEM sample preparation and Dr Jun&#x02010;Lin Yin for support in GC&#x02013;MS analysis.</p></ack><ref-list content-type="cited-references" id="pbi12525-bibl-0001"><title>References</title><ref id="pbi12525-bib-0001"><mixed-citation publication-type="journal" id="pbi12525-cit-0001">
+<string-name>
+<surname>Aharoni</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Galili</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>) <article-title>Metabolic engineering of the plant primary&#x02013;secondary metabolism interface</article-title>. <source>Curr. Opin. Biotechnol.</source>
+<volume>22</volume>, <fpage>239</fpage>&#x02013;<lpage>244</lpage>.<pub-id pub-id-type="pmid">21144730</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0002"><mixed-citation publication-type="journal" id="pbi12525-cit-0002">
+<string-name>
+<surname>Albert</surname>, <given-names>N.W.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>D.H.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Montefiori</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Brendolise</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Boase</surname>, <given-names>M.R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>A conserved network of transcriptional activators and repressors regulates anthocyanin pigmentation in eudicots</article-title>. <source>Plant Cell</source>, <volume>26</volume>, <fpage>962</fpage>&#x02013;<lpage>980</lpage>.<pub-id pub-id-type="pmid">24642943</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0003"><mixed-citation publication-type="journal" id="pbi12525-cit-0003">
+<string-name>
+<surname>Beals</surname>, <given-names>C.R.</given-names>
+</string-name>, <string-name>
+<surname>Sheridan</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Turck</surname>, <given-names>C.W.</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Crabtree</surname>, <given-names>G.R.</given-names>
+</string-name> (<year>1997</year>) <article-title>Nuclear export of NF&#x02010;ATc enhanced by glycogen synthase kinase&#x02010;3</article-title>. <source>Science</source>, <volume>275</volume>, <fpage>1930</fpage>&#x02013;<lpage>1933</lpage>.<pub-id pub-id-type="pmid">9072970</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0004"><mixed-citation publication-type="journal" id="pbi12525-cit-0004">
+<string-name>
+<surname>Ben Zvi</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Shklarman</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Masci</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kalev</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Debener</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shafir</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ovadis</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>
+<italic>PAP1</italic> transcription factor enhances production of phenylpropanoid and terpenoid scent compounds in rose flowers</article-title>. <source>New Phytol.</source>
+<volume>195</volume>, <fpage>335</fpage>&#x02013;<lpage>345</lpage>.<pub-id pub-id-type="pmid">22548501</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0005"><mixed-citation publication-type="journal" id="pbi12525-cit-0005">
+<string-name>
+<surname>Bonaccorso</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Puah</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Scutt</surname>, <given-names>C.P.</given-names>
+</string-name> and <string-name>
+<surname>Golz</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>2012</year>) <article-title>
+<italic>FILAMENTOUS FLOWER</italic> controls lateral organ development by acting as both an activator and a repressor</article-title>. <source>BMC Plant Biol.</source>
+<volume>12</volume>, <fpage>176</fpage>.<pub-id pub-id-type="pmid">23025792</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0006"><mixed-citation publication-type="journal" id="pbi12525-cit-0006">
+<string-name>
+<surname>Bowman</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>2000</year>) <article-title>The YABBY gene family and abaxial cell fate</article-title>. <source>Curr. Opin. Plant Biol.</source>
+<volume>3</volume>, <fpage>17</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">10679447</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0007"><mixed-citation publication-type="journal" id="pbi12525-cit-0007">
+<string-name>
+<surname>Broun</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Somerville</surname>, <given-names>C.</given-names>
+</string-name> (<year>2001</year>) <article-title>Progress in plant metabolic engineering</article-title>. <source>Proc. Natl Acad. Sci. USA</source>, <volume>98</volume>, <fpage>8925</fpage>&#x02013;<lpage>8927</lpage>.<pub-id pub-id-type="pmid">11481460</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0008"><mixed-citation publication-type="journal" id="pbi12525-cit-0008">
+<string-name>
+<surname>Butelli</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Titta</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Giorgio</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mock</surname>, <given-names>H.P.</given-names>
+</string-name>, <string-name>
+<surname>Matros</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Peterek</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schijlen</surname>, <given-names>E.G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Enrichment of tomato fruit with health&#x02010;promoting anthocyanins by expression of select transcription factors</article-title>. <source>Nat. Biotechnol.</source>
+<volume>26</volume>, <fpage>1301</fpage>&#x02013;<lpage>1308</lpage>.<pub-id pub-id-type="pmid">18953354</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0009"><mixed-citation publication-type="journal" id="pbi12525-cit-0009">
+<string-name>
+<surname>Cavallini</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Matus</surname>, <given-names>J.T.</given-names>
+</string-name>, <string-name>
+<surname>Finezzo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zenoni</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Loyola</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Guzzo</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Schlechter</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>The phenylpropanoid pathway is controlled at different branches by a set of R2R3&#x02010;MYB C2 repressors in grapevine</article-title>. <source>Plant Physiol.</source>
+<volume>167</volume>, <fpage>1448</fpage>&#x02013;<lpage>1470</lpage>.<pub-id pub-id-type="pmid">25659381</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0010"><mixed-citation publication-type="journal" id="pbi12525-cit-0010">
+<string-name>
+<surname>Champagne</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Boutry</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>) <article-title>Proteomic snapshot of spearmint (<italic>Mentha spicata</italic> L.) leaf trichomes: a genuine terpenoid factory</article-title>. <source>Proteomics</source>, <volume>13</volume>, <fpage>3327</fpage>&#x02013;<lpage>3332</lpage>.<pub-id pub-id-type="pmid">24124164</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0011"><mixed-citation publication-type="journal" id="pbi12525-cit-0011">
+<string-name>
+<surname>Che</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bussell</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Estavillo</surname>, <given-names>G.M.</given-names>
+</string-name>, <string-name>
+<surname>Pogson</surname>, <given-names>B.J.</given-names>
+</string-name> and <string-name>
+<surname>Smith</surname>, <given-names>S.M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Signaling from the endoplasmic reticulum activates brassinosteroid signaling and promotes acclimation to stress in <italic>Arabidopsis</italic>
+</article-title>. <source>Sci. Signal.</source>
+<volume>3</volume>, <fpage>ra69</fpage>.<pub-id pub-id-type="pmid">20876872</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0012"><mixed-citation publication-type="journal" id="pbi12525-cit-0012">
+<string-name>
+<surname>Chen</surname>, <given-names>Y.Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.F.</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>S.G.</given-names>
+</string-name> and <string-name>
+<surname>Tian</surname>, <given-names>W.M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Characterization of HbEREBP1, a wound&#x02010;responsive transcription factor gene in laticifers of <italic>Hevea brasiliensis</italic> Muell. Arg</article-title>. <source>Mol. Biol. Rep.</source>
+<volume>39</volume>, <fpage>3713</fpage>&#x02013;<lpage>3719</lpage>.<pub-id pub-id-type="pmid">21761140</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0013"><mixed-citation publication-type="journal" id="pbi12525-cit-0013">
+<string-name>
+<surname>Cordoba</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Salmi</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Le&#x000f3;n</surname>, <given-names>P.</given-names>
+</string-name> (<year>2009</year>) <article-title>Unravelling the regulatory mechanisms that modulate the MEP pathway in higher plants</article-title>. <source>J. Exp. Bot.</source>
+<volume>60</volume>, <fpage>2933</fpage>&#x02013;<lpage>2943</lpage>.<pub-id pub-id-type="pmid">19584121</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0014"><mixed-citation publication-type="journal" id="pbi12525-cit-0014">
+<string-name>
+<surname>Croteau</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Karp</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wagschal</surname>, <given-names>K.C.</given-names>
+</string-name>, <string-name>
+<surname>Satterwhite</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Hyatt</surname>, <given-names>D.C.</given-names>
+</string-name> and <string-name>
+<surname>Skotland</surname>, <given-names>C.B.</given-names>
+</string-name> (<year>1991</year>) <article-title>Biochemical characterization of a spearmint mutant that resembles peppermint in monoterpene content</article-title>. <source>Plant Physiol.</source>
+<volume>96</volume>, <fpage>744</fpage>&#x02013;<lpage>752</lpage>.<pub-id pub-id-type="pmid">16668250</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0015"><mixed-citation publication-type="book" id="pbi12525-cit-0015">
+<string-name>
+<surname>Croteau</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kutchan</surname>, <given-names>T.M.</given-names>
+</string-name> and <string-name>
+<surname>Lewis</surname>, <given-names>N.G.</given-names>
+</string-name> (<year>2000</year>) <chapter-title>Natural products (secondary metabolites)</chapter-title> In <source>Biochemistry and Molecular Biology of Plants</source>. (<person-group person-group-type="editor"><name><surname>Buchanan</surname><given-names>B.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Gruissem</surname><given-names>W.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Jones</surname><given-names>R.</given-names></name></person-group>, eds), pp. <fpage>1250</fpage>&#x02010;<lpage>1268</lpage>. <publisher-loc>Rockville, MD</publisher-loc>: <publisher-name>American Society of Plant Physiologists</publisher-name>.</mixed-citation></ref><ref id="pbi12525-bib-0016"><mixed-citation publication-type="journal" id="pbi12525-cit-0016">
+<string-name>
+<surname>Dai</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Hedden</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name> and <string-name>
+<surname>Zhou</surname>, <given-names>D.X.</given-names>
+</string-name> (<year>2007</year>) <article-title>The rice YABBY1 gene is involved in the feedback regulation of gibberellin metabolism</article-title>. <source>Plant Physiol.</source>
+<volume>144</volume>, <fpage>121</fpage>&#x02013;<lpage>133</lpage>.<pub-id pub-id-type="pmid">17369428</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0017"><mixed-citation publication-type="journal" id="pbi12525-cit-0017">
+<string-name>
+<surname>Diemer</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Caissard</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Moja</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chalchat</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name> and <string-name>
+<surname>Jullien</surname>, <given-names>F</given-names>
+</string-name>. (<year>2001</year>) <article-title>Altered monoterpene composition in transgenic mint following the introduction of 4<italic>S</italic>&#x02010;limonene synthase</article-title>. <source>Plant Physiol. Biochem.</source>
+<volume>39</volume>, <fpage>603</fpage>&#x02013;<lpage>614</lpage>.</mixed-citation></ref><ref id="pbi12525-bib-0018"><mixed-citation publication-type="journal" id="pbi12525-cit-0018">
+<string-name>
+<surname>Dubey</surname>, <given-names>V.S.</given-names>
+</string-name>, <string-name>
+<surname>Bhalla</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Luthra</surname>, <given-names>R.</given-names>
+</string-name> (<year>2003</year>) <article-title>An overview of the non&#x02010;mevalonate pathway for terpenoid biosynthesis in plants</article-title>. <source>J. Biosci.</source>
+<volume>28</volume>, <fpage>637</fpage>&#x02013;<lpage>646</lpage>.<pub-id pub-id-type="pmid">14517367</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0019"><mixed-citation publication-type="journal" id="pbi12525-cit-0019">
+<string-name>
+<surname>Enfissi</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Barneche</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Lichtl&#x000e9;</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gerrish</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>McQuinn</surname>, <given-names>R.P.</given-names>
+</string-name>, <string-name>
+<surname>Giovannoni</surname>, <given-names>J.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Integrative transcript and metabolite analysis of nutritionally enhanced <italic>DE&#x02010;ETIOLATED1</italic> downregulated tomato fruit</article-title>. <source>Plant Cell</source>, <volume>22</volume>, <fpage>1190</fpage>&#x02013;<lpage>1215</lpage>.<pub-id pub-id-type="pmid">20435899</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0020"><mixed-citation publication-type="journal" id="pbi12525-cit-0020">
+<string-name>
+<surname>Eshed</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Baum</surname>, <given-names>S.F.</given-names>
+</string-name> and <string-name>
+<surname>Bowman</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>1999</year>) <article-title>Distinct mechanisms promote polarity establishment in carpels of <italic>Arabidopsis</italic>
+</article-title>. <source>Cell</source>, <volume>99</volume>, <fpage>199</fpage>&#x02013;<lpage>209</lpage>.<pub-id pub-id-type="pmid">10535738</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0021"><mixed-citation publication-type="journal" id="pbi12525-cit-0021">
+<string-name>
+<surname>Fischer</surname>, <given-names>K.</given-names>
+</string-name> (<year>2011</year>) <article-title>The import and export business in plastids: transport processes across the inner envelope membrane</article-title>. <source>Plant Physiol.</source>
+<volume>155</volume>, <fpage>1511</fpage>&#x02013;<lpage>1519</lpage>.<pub-id pub-id-type="pmid">21263040</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0022"><mixed-citation publication-type="journal" id="pbi12525-cit-0022">
+<string-name>
+<surname>Fl&#x000fc;gge</surname>, <given-names>U.I.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e4;usler</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Ludewig</surname>, <given-names>F.</given-names>
+</string-name> and <string-name>
+<surname>Gierth</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>The role of transporters in supplying energy to plant plastids</article-title>. <source>J. Exp. Bot.</source>
+<volume>62</volume>, <fpage>2381</fpage>&#x02013;<lpage>2392</lpage>.<pub-id pub-id-type="pmid">21511915</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0023"><mixed-citation publication-type="book" id="pbi12525-cit-0023">
+<string-name>
+<surname>Gallois</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Marinho</surname>, <given-names>P.</given-names>
+</string-name> (<year>1995</year>) <chapter-title>Leaf disk transformation using Agrobacterium tumefaciens&#x02010;expression of heterologous genes in tobacco</chapter-title> In <source>Plant gene transfer and expression protocols</source>, Methods in Molecular Biology, Vol. 49 (<person-group person-group-type="editor"><name><surname>Jones</surname><given-names>H.</given-names></name></person-group>, ed.), pp. <fpage>39</fpage>&#x02013;<lpage>48</lpage>. <publisher-loc>Totowa, NJ</publisher-loc>: <publisher-name>Humana Press</publisher-name>.</mixed-citation></ref><ref id="pbi12525-bib-0025"><mixed-citation publication-type="journal" id="pbi12525-cit-0025">
+<string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>McConkey</surname>, <given-names>M.E.</given-names>
+</string-name> and <string-name>
+<surname>Croteau</surname>, <given-names>R.B.</given-names>
+</string-name> (<year>2000</year>) <article-title>Regulation of monoterpene accumulation in leaves of peppermint</article-title>. <source>Plant Physiol.</source>
+<volume>122</volume>, <fpage>205</fpage>&#x02013;<lpage>213</lpage>.<pub-id pub-id-type="pmid">10631264</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0026"><mixed-citation publication-type="journal" id="pbi12525-cit-0026">
+<string-name>
+<surname>Goldshmidt</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Bowman</surname>, <given-names>J.L.</given-names>
+</string-name> and <string-name>
+<surname>Eshed</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2008</year>) <article-title>Signals derived from <italic>YABBY</italic> gene activities in organ primordia regulate growth and partitioning of <italic>Arabidopsis</italic> shoot apical meristems</article-title>. <source>Plant Cell</source>, <volume>20</volume>, <fpage>1217</fpage>&#x02013;<lpage>1230</lpage>.<pub-id pub-id-type="pmid">18469164</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0027"><mixed-citation publication-type="journal" id="pbi12525-cit-0027">
+<string-name>
+<surname>Golz</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Roccaro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kuzoff</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Hudson</surname>, <given-names>A.</given-names>
+</string-name> (<year>2004</year>) <article-title>
+<italic>GRAMINIFOLIA</italic> promotes growth and polarity of <italic>Antirrhinum</italic> leaves</article-title>. <source>Development</source>, <volume>131</volume>, <fpage>3661</fpage>&#x02013;<lpage>3670</lpage>.<pub-id pub-id-type="pmid">15229175</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0028"><mixed-citation publication-type="journal" id="pbi12525-cit-0028">
+<string-name>
+<surname>Grotewold</surname>, <given-names>E.</given-names>
+</string-name> (<year>2008</year>) <article-title>Transcription factors for predictive plant metabolic engineering: are we there yet</article-title>. <source>Curr. Opin. Biotechnol.</source>
+<volume>19</volume>, <fpage>138</fpage>&#x02013;<lpage>144</lpage>.<pub-id pub-id-type="pmid">18374558</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0029"><mixed-citation publication-type="journal" id="pbi12525-cit-0029">
+<string-name>
+<surname>Gutensohn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>, <given-names>T.T.</given-names>
+</string-name>, <string-name>
+<surname>McMahon</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Kaplan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Pichersky</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Dudareva</surname>, <given-names>N.</given-names>
+</string-name> (<year>2014</year>) <article-title>Metabolic engineering of monoterpene biosynthesis in tomato fruits via introduction of the non&#x02010;canonical substrate neryl diphosphate</article-title>. <source>Metab. Eng.</source>
+<volume>24</volume>, <fpage>107</fpage>&#x02013;<lpage>116</lpage>.<pub-id pub-id-type="pmid">24831707</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0030"><mixed-citation publication-type="journal" id="pbi12525-cit-0030">
+<string-name>
+<surname>Hart</surname>, <given-names>S.M.</given-names>
+</string-name> and <string-name>
+<surname>Basu</surname>, <given-names>C.</given-names>
+</string-name> (<year>2009</year>) <article-title>Optimization of a digoxigenin&#x02010;based immunoassay system for gene detection in <italic>Arabidopsis thaliana</italic>
+</article-title>. <source>J. Biomol. Tech.</source>
+<volume>20</volume>, <fpage>96</fpage>&#x02013;<lpage>100</lpage>.<pub-id pub-id-type="pmid">19503620</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0031"><mixed-citation publication-type="journal" id="pbi12525-cit-0031">
+<string-name>
+<surname>Hemmerlin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Harwood</surname>, <given-names>J.L.</given-names>
+</string-name> and <string-name>
+<surname>Bach</surname>, <given-names>T.J.</given-names>
+</string-name> (<year>2012</year>) <article-title>A raison d'&#x000ea;tre for two distinct pathways in the early steps of plant isoprenoid biosynthesis?</article-title>
+<source>Prog. Lipid Res.</source>
+<volume>51</volume>, <fpage>95</fpage>&#x02013;<lpage>148</lpage>.<pub-id pub-id-type="pmid">22197147</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0032"><mixed-citation publication-type="journal" id="pbi12525-cit-0032">
+<string-name>
+<surname>Iwase</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Matsui</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Ohme&#x02010;Takag</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>) <article-title>Manipulation of plant metabolic pathways by transcription factors</article-title>. <source>Plant Biotechnol.</source>
+<volume>26</volume>, <fpage>29</fpage>&#x02013;<lpage>38</lpage>.</mixed-citation></ref><ref id="pbi12525-bib-0033"><mixed-citation publication-type="journal" id="pbi12525-cit-0033">
+<string-name>
+<surname>Javelle</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Marco</surname>, <given-names>C.F.</given-names>
+</string-name> and <string-name>
+<surname>Timmermans</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>
+<italic>In situ</italic> hybridization for the precise localization of transcripts in plants</article-title>. <source>J. Vis. Exp.</source>
+<volume>57</volume>, <fpage>3328</fpage>.<pub-id pub-id-type="pmid">22143276</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0034"><mixed-citation publication-type="journal" id="pbi12525-cit-0034">
+<string-name>
+<surname>Jin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Panicker</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Next generation sequencing unravels the biosynthetic ability of Spearmint (<italic>Mentha spicata</italic>) peltate glandular trichomes through comparative transcriptomics</article-title>. <source>BMC Plant Biol.</source>
+<volume>14</volume>, <fpage>292</fpage>.<pub-id pub-id-type="pmid">25367433</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0036"><mixed-citation publication-type="journal" id="pbi12525-cit-0036">
+<string-name>
+<surname>Lange</surname>, <given-names>B.M.</given-names>
+</string-name> and <string-name>
+<surname>Turner</surname>, <given-names>G.W.</given-names>
+</string-name> (<year>2013</year>) <article-title>Terpenoid biosynthesis in trichomes &#x02013; current status and future opportunities</article-title>. <source>Plant Biotechnol. J.</source>
+<volume>11</volume>, <fpage>2</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">22979959</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0037"><mixed-citation publication-type="journal" id="pbi12525-cit-0037">
+<string-name>
+<surname>Lange</surname>, <given-names>B.M.</given-names>
+</string-name>, <string-name>
+<surname>Mahmoud</surname>, <given-names>S.S.</given-names>
+</string-name>, <string-name>
+<surname>Wildung</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>, <given-names>G.W.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Lange</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>, <given-names>R.C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Improving peppermint essential oil yield and composition by metabolic engineering</article-title>. <source>Proc. Natl Acad. Sci. USA</source>, <volume>108</volume>, <fpage>16944</fpage>&#x02013;<lpage>16949</lpage>.<pub-id pub-id-type="pmid">21963983</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0038"><mixed-citation publication-type="journal" id="pbi12525-cit-0038">
+<string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>H.Y.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>D.J.</given-names>
+</string-name> and <string-name>
+<surname>Gruber</surname>, <given-names>M.Y.</given-names>
+</string-name> (<year>2010</year>) <article-title>Purple canola: <italic>Arabidopsis</italic> PAP1 increases antioxidants and phenolics in <italic>Brassica napus</italic> leaves</article-title>. <source>J. Agric. Food Chem.</source>
+<volume>58</volume>, <fpage>1639</fpage>&#x02013;<lpage>1645</lpage>.<pub-id pub-id-type="pmid">20073469</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0500"><mixed-citation publication-type="journal" id="pbi12525-cit-0500">
+<string-name>
+<surname>Li</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Weldegergis</surname>, <given-names>B.T.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Qu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>H.</given-names>
+</string-name>, <italic>et al</italic> (<year>2014</year>) <article-title>Virulence factors of Geminivirus interact with MYC2 to subvert plant resistance and promote vector performance</article-title>. <source>Plant Cell</source>, <volume>26</volume>, <fpage>4991</fpage>&#x02013;<lpage>5008</lpage>.<pub-id pub-id-type="pmid">25490915</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0039"><mixed-citation publication-type="journal" id="pbi12525-cit-0039">
+<string-name>
+<surname>Loza&#x02010;Tavera</surname>, <given-names>H.</given-names>
+</string-name> (<year>1999</year>) <article-title>Monoterpenes in essential oils &#x02013; biosynthesis and properties</article-title>. <source>Adv. Exp. Med. Biol.</source>
+<volume>464</volume>, <fpage>49</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">10335385</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0040"><mixed-citation publication-type="journal" id="pbi12525-cit-0040">
+<string-name>
+<surname>Lu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>W.M.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>F.Y.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>G.F.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>AaERF1 positively regulates the resistance to Botrytis cinerea in <italic>Artemisia annua</italic>
+</article-title>. <source>PLoS ONE</source>, <volume>8</volume>, <fpage>e57657</fpage>.<pub-id pub-id-type="pmid">23469042</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0041"><mixed-citation publication-type="journal" id="pbi12525-cit-0041">
+<string-name>
+<surname>Luo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Butelli</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Parr</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Niggeweg</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bailey</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Weisshaar</surname>, <given-names>B.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>AtMYB12 regulates caffeoyl quinic acid and flavonol synthesis in tomato: expression in fruit results in very high levels of both types of polyphenol</article-title>. <source>Plant J.</source>
+<volume>56</volume>, <fpage>316</fpage>&#x02013;<lpage>326</lpage>.<pub-id pub-id-type="pmid">18643978</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0042"><mixed-citation publication-type="journal" id="pbi12525-cit-0042">
+<string-name>
+<surname>Ma</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Lei</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Isolation and characterization of AaWRKY1, an <italic>Artemisia annua</italic> transcription factor that regulates the amorpha&#x02010;4,11&#x02010;diene synthase gene, a key gene of artemisinin biosynthesis</article-title>. <source>Plant Cell Physiol.</source>
+<volume>50</volume>, <fpage>2146</fpage>&#x02013;<lpage>2161</lpage>.<pub-id pub-id-type="pmid">19880398</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0043"><mixed-citation publication-type="journal" id="pbi12525-cit-0043">
+<string-name>
+<surname>Mahmoud</surname>, <given-names>S.S.</given-names>
+</string-name> and <string-name>
+<surname>Croteau</surname>, <given-names>R.B.</given-names>
+</string-name> (<year>2001</year>) <article-title>Metabolic engineering of essential oil yield and composition in mint by altering expression of deoxyxylulose phosphate reductoisomerase and menthofuran synthase</article-title>. <source>Proc. Natl Acad. Sci. USA</source>, <volume>98</volume>, <fpage>8915</fpage>&#x02013;<lpage>8920</lpage>.<pub-id pub-id-type="pmid">11427737</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0044"><mixed-citation publication-type="journal" id="pbi12525-cit-0044">
+<string-name>
+<surname>Mahmoud</surname>, <given-names>S.S.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Croteau</surname>, <given-names>R.</given-names>
+</string-name> (<year>2004</year>) <article-title>Cosuppression of limonene&#x02010;3&#x02010;hydroxylase in peppermint promotes accumulation of limonene in the essential oil</article-title>. <source>Phytochemistry</source>, <volume>65</volume>, <fpage>547</fpage>&#x02013;<lpage>554</lpage>.<pub-id pub-id-type="pmid">15003417</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0045"><mixed-citation publication-type="journal" id="pbi12525-cit-0045">
+<string-name>
+<surname>Majetic</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Rausher</surname>, <given-names>M.D.</given-names>
+</string-name> and <string-name>
+<surname>Raguso</surname>, <given-names>R.A.</given-names>
+</string-name> (<year>2010</year>) <article-title>The pigment&#x02010;scent connection: do mutations in regulatory vs. structural anthocyanin genes differentially alter floral scent production in <italic>Ipomoea purpurea</italic>?</article-title>
+<source>S. Afr. J. Bot.</source>
+<volume>76</volume>, <fpage>632</fpage>&#x02013;<lpage>642</lpage>.</mixed-citation></ref><ref id="pbi12525-bib-0046"><mixed-citation publication-type="journal" id="pbi12525-cit-0046">
+<string-name>
+<surname>McBride</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Banninger</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Reich</surname>, <given-names>N.C.</given-names>
+</string-name> (<year>2002</year>) <article-title>Regulated nuclear import of the STAT1 transcription factor by direct binding of importin&#x02010;&#x003b1;</article-title>. <source>EMBO J.</source>
+<volume>21</volume>, <fpage>1754</fpage>&#x02013;<lpage>1763</lpage>.<pub-id pub-id-type="pmid">11927559</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0047"><mixed-citation publication-type="journal" id="pbi12525-cit-0047">
+<string-name>
+<surname>McConkey</surname>, <given-names>M.E.</given-names>
+</string-name>, <string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Croteau</surname>, <given-names>R.B.</given-names>
+</string-name> (<year>2000</year>) <article-title>Developmental regulation of monoterpene biosynthesis in the glandular trichomes of peppermint</article-title>. <source>Plant Physiol.</source>
+<volume>122</volume>, <fpage>215</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">10631265</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0048"><mixed-citation publication-type="journal" id="pbi12525-cit-0048">
+<string-name>
+<surname>Miyamoto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Matsumoto</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Komiyama</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Chujo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yoshikawa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nojiri</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Identification of target genes of the bZIP transcription factor OsTGAP1, whose overexpression causes elicitor&#x02010;induced hyperaccumulation of diterpenoid phytoalexins in rice cells</article-title>. <source>PLoS ONE</source>, <volume>9</volume>, <fpage>e105823</fpage>.<pub-id pub-id-type="pmid">25157897</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0049"><mixed-citation publication-type="journal" id="pbi12525-cit-0049">
+<string-name>
+<surname>Moreno</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Mukhtar</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Blanco</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Boatwright</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Moreno</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Jordan</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>IRE1/bZIP60&#x02010;mediated unfolded protein response plays distinct roles in plant immunity and abiotic stress responses</article-title>. <source>PLoS ONE</source>, <volume>7</volume>, <fpage>e31944</fpage>.<pub-id pub-id-type="pmid">22359644</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0050"><mixed-citation publication-type="journal" id="pbi12525-cit-0050">
+<string-name>
+<surname>Mu&#x000f1;oz&#x02010;Bertomeu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ros</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Arrillaga</surname>, <given-names>I.</given-names>
+</string-name> and <string-name>
+<surname>Segura</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Expression of spearmint limonene synthase in transgenic spike lavender results in an altered monoterpene composition in developing leaves</article-title>. <source>Metab. Eng.</source>
+<volume>10</volume>, <fpage>166</fpage>&#x02013;<lpage>177</lpage>.<pub-id pub-id-type="pmid">18514005</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0051"><mixed-citation publication-type="journal" id="pbi12525-cit-0051">
+<string-name>
+<surname>Neuhaus</surname>, <given-names>H.E.</given-names>
+</string-name>, <string-name>
+<surname>Thom</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000f6;hlmann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Steup</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Kampfenkel</surname>, <given-names>K.</given-names>
+</string-name> (<year>1997</year>) <article-title>Characterization of a novel eukaryotic ATP/ADP translocator located in the plastid envelope of <italic>Arabidopsis thaliana</italic> L</article-title>. <source>Plant J.</source>
+<volume>11</volume>, <fpage>73</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">9025303</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0052"><mixed-citation publication-type="journal" id="pbi12525-cit-0052">
+<string-name>
+<surname>Niu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hasegawa</surname>, <given-names>P.M.</given-names>
+</string-name>, <string-name>
+<surname>Bressan</surname>, <given-names>R.A.</given-names>
+</string-name> and <string-name>
+<surname>Weller</surname>, <given-names>S.C.</given-names>
+</string-name> (<year>1998</year>) <article-title>Transgenic peppermint (<italic>Mentha</italic>&#x000d7; <italic>piperita</italic> L.) plants obtained by cocultivation with <italic>Agrobacterium tumefaciens</italic>
+</article-title>. <source>Plant Cell Rep.</source>
+<volume>17</volume>, <fpage>165</fpage>&#x02013;<lpage>171</lpage>.</mixed-citation></ref><ref id="pbi12525-bib-0053"><mixed-citation publication-type="journal" id="pbi12525-cit-0053">
+<string-name>
+<surname>Niu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Veronese</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bressan</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Weller</surname>, <given-names>S.C.</given-names>
+</string-name> and <string-name>
+<surname>Hasegawa</surname>, <given-names>P.M.</given-names>
+</string-name> (<year>2000</year>) <article-title>Factors affecting <italic>Agrobacterium tumefaciens</italic>&#x02010;mediated transformation of peppermint</article-title>. <source>Plant Cell Rep.</source>
+<volume>19</volume>, <fpage>304</fpage>&#x02013;<lpage>310</lpage>.</mixed-citation></ref><ref id="pbi12525-bib-0054"><mixed-citation publication-type="journal" id="pbi12525-cit-0054">
+<string-name>
+<surname>Patra</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Schluttenhofer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Pattanaik</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Yuan</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>) <article-title>Transcriptional regulation of secondary metabolite biosynthesis in plants</article-title>. <source>Biochim. Biophys. Acta,</source>
+<volume>1829</volume>, <fpage>1236</fpage>&#x02013;<lpage>1247</lpage>.<pub-id pub-id-type="pmid">24113224</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0055"><mixed-citation publication-type="journal" id="pbi12525-cit-0055">
+<string-name>
+<surname>Qiu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>) <article-title>Rice gene network inferred from expression profiling of plants overexpressing OsWRKY13, a positive regulator of disease resistance</article-title>. <source>Mol. Plant</source>, <volume>1</volume>, <fpage>538</fpage>&#x02013;<lpage>551</lpage>.<pub-id pub-id-type="pmid">19825559</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0056"><mixed-citation publication-type="book" id="pbi12525-cit-0056">
+<string-name>
+<surname>Robinson</surname>, <given-names>D.G.</given-names>
+</string-name> and <string-name>
+<surname>Ritzenthaler</surname>, <given-names>C.</given-names>
+</string-name> (<year>2006</year>) <chapter-title>Imaging the early secretory pathway in BY&#x02010;2 cells</chapter-title> In <source>Tobacco BY&#x02010;2 Cells: From Cellular Dynamics to Omics</source>, Vol. <volume>58</volume> (<person-group person-group-type="editor"><name><surname>Nagata</surname><given-names>T.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Matsuoka</surname><given-names>K.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Inz&#x000e9;</surname><given-names>D.</given-names></name></person-group>, eds), pp. <fpage>135</fpage>&#x02013;<lpage>151</lpage>. <series>Biotechnology in Agriculture and Forestry</series>
+<publisher-loc>Heidelberg</publisher-loc>: <publisher-name>Springer&#x02010;Verlag</publisher-name>.</mixed-citation></ref><ref id="pbi12525-bib-0057"><mixed-citation publication-type="journal" id="pbi12525-cit-0057">
+<string-name>
+<surname>Sarojam</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sappl</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Goldshmidt</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Efroni</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Floyd</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Eshed</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Bowman</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>2010</year>) <article-title>Differentiating <italic>Arabidopsis</italic> shoots from leaves by combined YABBY activities</article-title>. <source>Plant Cell</source>, <volume>22</volume>, <fpage>2113</fpage>&#x02013;<lpage>2130</lpage>.<pub-id pub-id-type="pmid">20628155</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0058"><mixed-citation publication-type="journal" id="pbi12525-cit-0058">
+<string-name>
+<surname>Schluttenhofer</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Yuan</surname>, <given-names>L.</given-names>
+</string-name> (<year>2015</year>) <article-title>Regulation of specialized metabolism by WRKY transcription factors</article-title>. <source>Plant Physiol.</source>
+<volume>167</volume>, <fpage>295</fpage>&#x02013;<lpage>306</lpage>.<pub-id pub-id-type="pmid">25501946</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0059"><mixed-citation publication-type="journal" id="pbi12525-cit-0059">
+<string-name>
+<surname>Schwinn</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Venail</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Mackay</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Alm</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Butelli</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Oyama</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2006</year>) <article-title>A small family of <italic>MYB</italic>&#x02010;regulatory genes controls floral pigmentation intensity and patterning in the genus <italic>Antirrhinum</italic>
+</article-title>. <source>Plant Cell</source>, <volume>18</volume>, <fpage>831</fpage>&#x02013;<lpage>851</lpage>.<pub-id pub-id-type="pmid">16531495</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0060"><mixed-citation publication-type="journal" id="pbi12525-cit-0060">
+<string-name>
+<surname>Shamimuzzaman</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Vodkin</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>) <article-title>Genome&#x02010;wide identification of binding sites for NAC and YABBY transcription factors and co&#x02010;regulated genes during soybean seedling development by ChIP&#x02010;Seq and RNA&#x02010;Seq</article-title>. <source>BMC Genom.</source>
+<volume>14</volume>, <fpage>477</fpage>.</mixed-citation></ref><ref id="pbi12525-bib-0061"><mixed-citation publication-type="journal" id="pbi12525-cit-0061">
+<string-name>
+<surname>Shang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Z.Q.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Mei</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Xin</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>F.Q.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>The Mg&#x02010;chelatase H subunit of <italic>Arabidopsis</italic> antagonizes a group of WRKY transcription repressors to relieve ABA&#x02010;responsive genes of inhibition</article-title>. <source>Plant Cell</source>, <volume>22</volume>, <fpage>1909</fpage>&#x02013;<lpage>1935</lpage>.<pub-id pub-id-type="pmid">20543028</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0062"><mixed-citation publication-type="journal" id="pbi12525-cit-0062">
+<string-name>
+<surname>Sinha</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bhattacharyya</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Majumdar</surname>, <given-names>A.B.</given-names>
+</string-name>, <string-name>
+<surname>Datta</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hazra</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Chattopadhyay</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>) <article-title>Leaf proteome profiling of transgenic mint infected with <italic>Alternaria alternata</italic>
+</article-title>. <source>J. Proteomics</source>, <volume>93</volume>, <fpage>117</fpage>&#x02013;<lpage>132</lpage>.<pub-id pub-id-type="pmid">23369890</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0063"><mixed-citation publication-type="journal" id="pbi12525-cit-0063">
+<string-name>
+<surname>Skepper</surname>, <given-names>J.N.</given-names>
+</string-name> and <string-name>
+<surname>Powell</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2008</year>) <article-title>Immunogold staining of epoxy resin sections for transmission electron microscopy (TEM)</article-title>. <source>Cold Spring Harbor Protocols</source>, <volume>6</volume>, pdb&#x02010;prot5015.</mixed-citation></ref><ref id="pbi12525-bib-0064"><mixed-citation publication-type="journal" id="pbi12525-cit-0064">
+<string-name>
+<surname>Spyropoulou</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Haring</surname>, <given-names>M.A.</given-names>
+</string-name> and <string-name>
+<surname>Schuurink</surname>, <given-names>R.C.</given-names>
+</string-name> (<year>2014</year>) <article-title>RNA sequencing on <italic>Solanum lycopersicum</italic> trichomes identifies transcription factors that activate terpene synthase promoters</article-title>. <source>BMC Genom.</source>
+<volume>15</volume>, <fpage>402</fpage>.</mixed-citation></ref><ref id="pbi12525-bib-0065"><mixed-citation publication-type="journal" id="pbi12525-cit-0065">
+<string-name>
+<surname>Stahle</surname>, <given-names>M.I.</given-names>
+</string-name>, <string-name>
+<surname>Kuehlich</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Staron</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>von Arnim</surname>, <given-names>A.G.</given-names>
+</string-name> and <string-name>
+<surname>Golz</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>2009</year>) <article-title>YABBYs and the transcriptional corepressors LEUNIG and LEUNIG_HOMOLOG maintain leaf polarity and meristem activity in <italic>Arabidopsis</italic>
+</article-title>. <source>Plant Cell</source>, <volume>21</volume>, <fpage>3105</fpage>&#x02013;<lpage>3118</lpage>.<pub-id pub-id-type="pmid">19837869</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0066"><mixed-citation publication-type="journal" id="pbi12525-cit-0066">
+<string-name>
+<surname>Tjaden</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000f6;hlmann</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Kampfenkel</surname>, <given-names>K.</given-names>
+</string-name> (<year>1998</year>) <article-title>Altered plastidic ATP/ADP&#x02010;transporter activity influences potato (<italic>Solanum tuberosum</italic> L.) tuber morphology, yield and composition of tuber starch</article-title>. <source>Plant J.</source>
+<volume>16</volume>, <fpage>531</fpage>&#x02013;<lpage>540</lpage>.</mixed-citation></ref><ref id="pbi12525-bib-0067"><mixed-citation publication-type="journal" id="pbi12525-cit-0067">
+<string-name>
+<surname>Vranov&#x000e1;</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Coman</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Gruissem</surname>, <given-names>W.</given-names>
+</string-name> (<year>2013</year>) <article-title>Network analysis of the MVA and MEP pathways for isoprenoid synthesis</article-title>. <source>Annu. Rev. Plant Biol.</source>
+<volume>64</volume>, <fpage>665</fpage>&#x02013;<lpage>700</lpage>.<pub-id pub-id-type="pmid">23451776</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0068"><mixed-citation publication-type="journal" id="pbi12525-cit-0068">
+<string-name>
+<surname>Wang</surname>, <given-names>G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Recent progress in secondary metabolism of glandular trichome</article-title>. <source>Plant Biotechnol.</source>
+<volume>31</volume>, <fpage>353</fpage>&#x02013;<lpage>361</lpage>.</mixed-citation></ref><ref id="pbi12525-bib-0069"><mixed-citation publication-type="journal" id="pbi12525-cit-0069">
+<string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Mei</surname>, <given-names>X.</given-names>
+</string-name> (<year>2001</year>) <article-title>Enhancement of taxol production and excretion in <italic>Taxus chinensis</italic> cell culture by fungal elicitation and medium renewal</article-title>. <source>Appl. Microbiol. Biot.</source>
+<volume>55</volume>, <fpage>404</fpage>&#x02013;<lpage>410</lpage>.</mixed-citation></ref><ref id="pbi12525-bib-0070"><mixed-citation publication-type="journal" id="pbi12525-cit-0070">
+<string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>Overexpression of rice WRKY89 enhances ultraviolet B tolerance and disease resistance in rice plants</article-title>. <source>Plant Mol. Biol.</source>
+<volume>65</volume>, <fpage>799</fpage>&#x02013;<lpage>815</lpage>.<pub-id pub-id-type="pmid">17960484</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0071"><mixed-citation publication-type="journal" id="pbi12525-cit-0071">
+<string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.L.</given-names>
+</string-name> and <string-name>
+<surname>Peng</surname>, <given-names>S.Q.</given-names>
+</string-name> (<year>2013</year>) <article-title>Characterization of HbWRKY1, a WRKY transcription factor from <italic>Hevea brasiliensis</italic> that negatively regulates <italic>HbSRPP</italic>
+</article-title>. <source>Plant Physiol. Biochem.</source>
+<volume>71</volume>, <fpage>283</fpage>&#x02013;<lpage>289</lpage>.<pub-id pub-id-type="pmid">23988297</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0072"><mixed-citation publication-type="journal" id="pbi12525-cit-0072">
+<string-name>
+<surname>Xie</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Kapteyn</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Gang</surname>, <given-names>D.R.</given-names>
+</string-name> (<year>2008</year>) <article-title>A systems biology investigation of the MEP/terpenoid and shikimate/phenylpropanoid pathways points to multiple levels of metabolic control in sweet basil glandular trichomes</article-title>. <source>Plant J.</source>
+<volume>54</volume>, <fpage>349</fpage>&#x02013;<lpage>361</lpage>.<pub-id pub-id-type="pmid">18248593</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0073"><mixed-citation publication-type="journal" id="pbi12525-cit-0073">
+<string-name>
+<surname>Xu</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.Y.</given-names>
+</string-name> and <string-name>
+<surname>Chen</surname>, <given-names>X.Y.</given-names>
+</string-name> (<year>2004</year>) <article-title>Characterization of GaWRKY1, a cotton transcription factor that regulates the sesquiterpene synthase gene (+)&#x02010;&#x003b4;&#x02010;cadinene synthase&#x02010;A</article-title>. <source>Plant Physiol.</source>
+<volume>135</volume>, <fpage>507</fpage>&#x02013;<lpage>515</lpage>.<pub-id pub-id-type="pmid">15133151</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0074"><mixed-citation publication-type="journal" id="pbi12525-cit-0074">
+<string-name>
+<surname>Yang</surname>, <given-names>Z.T.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Bi</surname>, <given-names>D.L.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>Z.T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>The membrane&#x02010;associated transcription factor NAC089 controls ER&#x02010;stress&#x02010;induced programmed cell death in plants</article-title>. <source>PLoS Genet.</source>
+<volume>10</volume>, <fpage>e1004243</fpage>.<pub-id pub-id-type="pmid">24675811</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0075"><mixed-citation publication-type="journal" id="pbi12525-cit-0075">
+<string-name>
+<surname>Yokotani</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tanabe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chujo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yamane</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>WRKY76 is a rice transcriptional repressor playing opposite roles in blast disease resistance and cold stress tolerance</article-title>. <source>J. Exp. Bot.</source>
+<volume>64</volume>, <fpage>5085</fpage>&#x02013;<lpage>5097</lpage>.<pub-id pub-id-type="pmid">24043853</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0076"><mixed-citation publication-type="journal" id="pbi12525-cit-0076">
+<string-name>
+<surname>Yu</surname>, <given-names>Z.X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.X.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>C.Q.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.J.</given-names>
+</string-name> and <string-name>
+<surname>Chen</surname>, <given-names>X.Y.</given-names>
+</string-name> (<year>2012</year>) <article-title>The jasmonate&#x02010;responsive AP2/ERF transcription factors AaERF1 and AaERF2 positively regulate artemisinin biosynthesis in <italic>Artemisia annua</italic> L</article-title>. <source>Mol. Plant</source>, <volume>5</volume>, <fpage>353</fpage>&#x02013;<lpage>365</lpage>.<pub-id pub-id-type="pmid">22104293</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0077"><mixed-citation publication-type="journal" id="pbi12525-cit-0077">
+<string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e4;usler</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Greiten</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hajirezaei</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Haferkamp</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Neuhaus</surname>, <given-names>H.E.</given-names>
+</string-name>, <string-name>
+<surname>Fl&#x000fc;gge</surname>, <given-names>U.I.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Overriding the co&#x02010;limiting import of carbon and energy into tuber amyloplasts increases the starch content and yield of transgenic potato plants</article-title>. <source>Plant Biotechnol. J.</source>
+<volume>6</volume>, <fpage>453</fpage>&#x02013;<lpage>464</lpage>.<pub-id pub-id-type="pmid">18363632</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0078"><mixed-citation publication-type="journal" id="pbi12525-cit-0078">
+<string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ni</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2012</year>) <article-title>Expression profiling of HbWRKY1, an ethephon&#x02010;induced WRKY gene in latex from <italic>Hevea brasiliensis</italic> in responding to wounding and drought</article-title>. <source>Trees</source>, <volume>26</volume>, <fpage>587</fpage>&#x02013;<lpage>595</lpage>.</mixed-citation></ref><ref id="pbi12525-bib-0079"><mixed-citation publication-type="journal" id="pbi12525-cit-0079">
+<string-name>
+<surname>Zhang</surname>, <given-names>F.Y.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>X.Q.</given-names>
+</string-name>, <string-name>
+<surname>Lv</surname>, <given-names>Z.Y.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>M.M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>A basic leucine zipper transcription factor, Aabzip1, connects abscisic acid signaling with artemisinin biosynthesis in <italic>Artemisia annua</italic>
+</article-title>. <source>Mol. Plant</source>, <volume>8</volume>, <fpage>163</fpage>&#x02013;<lpage>175</lpage>.<pub-id pub-id-type="pmid">25578280</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0080"><mixed-citation publication-type="journal" id="pbi12525-cit-0080">
+<string-name>
+<surname>Zhou</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Lin</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Expression analysis and functional characterization of a novel cold&#x02010;responsive gene <italic>CbCOR15a</italic> from <italic>Capsella bursa&#x02010;pastoris</italic>
+</article-title>. <source>Mol. Biol. Rep.</source>
+<volume>39</volume>, <fpage>5169</fpage>&#x02013;<lpage>5179</lpage>.<pub-id pub-id-type="pmid">22160575</pub-id></mixed-citation></ref><ref id="pbi12525-bib-0081"><mixed-citation publication-type="journal" id="pbi12525-cit-0081">
+<string-name>
+<surname>Zhu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lv</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name> and <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>) <article-title>The dehydrin <italic>wzy2</italic> promoter from wheat defines its contribution to stress tolerance</article-title>. <source>Funct. Integr. Genomics</source>, <volume>14</volume>, <fpage>111</fpage>&#x02013;<lpage>125</lpage>.<pub-id pub-id-type="pmid">24363037</pub-id></mixed-citation></ref></ref-list></back></article>
