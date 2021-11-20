@@ -1,0 +1,771 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">New Phytol</journal-id><journal-id journal-id-type="iso-abbrev">New Phytol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1469-8137</journal-id><journal-id journal-id-type="publisher-id">NPH</journal-id><journal-title-group><journal-title>The New Phytologist</journal-title></journal-title-group><issn pub-type="ppub">0028-646X</issn><issn pub-type="epub">1469-8137</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6079637</article-id><article-id pub-id-type="doi">10.1111/nph.14328</article-id><article-id pub-id-type="publisher-id">NPH14328</article-id><article-id pub-id-type="other">2016-22605</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></subj-group></article-categories><title-group><article-title>A mechanism for sequence specificity in plant&#x02010;mediated interactions between herbivores</article-title></title-group><contrib-group><contrib id="nph14328-cr-0001" contrib-type="author"><name><surname>Huang</surname><given-names>Wei</given-names></name><xref ref-type="aff" rid="nph14328-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph14328-cr-0002" contrib-type="author"><name><surname>Robert</surname><given-names>Christelle A. M.</given-names></name><xref ref-type="aff" rid="nph14328-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph14328-cr-0003" contrib-type="author"><name><surname>Herv&#x000e9;</surname><given-names>Maxime R.</given-names></name><xref ref-type="aff" rid="nph14328-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="nph14328-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="nph14328-cr-0004" contrib-type="author"><name><surname>Hu</surname><given-names>Lingfei</given-names></name><xref ref-type="aff" rid="nph14328-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph14328-cr-0005" contrib-type="author"><name><surname>Bont</surname><given-names>Zoe</given-names></name><xref ref-type="aff" rid="nph14328-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="nph14328-cr-0006" contrib-type="author" corresp="yes"><name><surname>Erb</surname><given-names>Matthias</given-names></name><address><email>matthias.erb@ips.unibe.ch</email></address><xref ref-type="aff" rid="nph14328-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="nph14328-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Plant Sciences</named-content>
+<institution>University of Bern</institution>
+<named-content content-type="street">Altenbergrain 21</named-content>
+<named-content content-type="city">Bern</named-content>
+<named-content content-type="post-code">3013</named-content>
+<country country="CH">Switzerland</country>
+</aff><aff id="nph14328-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">INRA</named-content>
+<institution>UMR1349 IGEPP</institution>
+<named-content content-type="city">Le Rheu</named-content>
+<named-content content-type="post-code">F&#x02010;35653</named-content>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Author for correspondence:<break/><italic>Matthias Erb</italic><break/><italic>Tel: +41&#x000a0;31&#x000a0;631&#x000a0;8668</italic><break/><italic>Email: </italic><email>matthias.erb@ips.unibe.ch</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2017</year></pub-date><volume>214</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/nph.2017.214.issue-1</issue-id><fpage>169</fpage><lpage>179</lpage><history><date date-type="received"><day>10</day><month>8</month><year>2016</year></date><date date-type="accepted"><day>11</day><month>10</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 New Phytologist Trust <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>New Phytologist</italic> &#x000a9; 2016 New Phytologist Trust</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:NPH-214-169.pdf"/><abstract id="nph14328-abs-0001"><title>Summary</title><p>
+<list list-type="bullet" id="nph14328-list-0001"><list-item><p>Herbivore communities are shaped by indirect plant&#x02010;mediated interactions whose outcomes are strongly dependent on the sequence of herbivore arrival. However, the mechanisms underlying sequence specificity are poorly understood.</p></list-item><list-item><p>We examined the mechanisms that govern sequence&#x02010;specific effects of the interaction between two specialist maize herbivores, the leaf feeder <italic>Spodoptera frugiperda</italic> and the root feeder <italic>Diabrotica virgifera virgifera</italic>. In the field, <italic>S.&#x000a0;frugiperda</italic> reduces <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> abundance, but only when it arrives on the plant first.</p></list-item><list-item><p>In behavioral experiments, <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae continued feeding on plants that they had infested before leaf infestation, but refused to initiate feeding on plants that were infested by <italic>S.&#x000a0;frugiperda</italic> before their arrival. Changes in root&#x02010;emitted volatiles were sufficient to elicit this sequence&#x02010;specific behavior. Root volatile and headspace mixing experiments showed that early&#x02010;arriving <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae suppressed <italic>S.&#x000a0;frugiperda&#x02010;</italic>induced volatile repellents, which led to the maintenance of host attractiveness to <italic>D.&#x000a0;v.&#x000a0;virgifera</italic>.</p></list-item><list-item><p>Our study provides a physiological and behavioral mechanism for sequence specificity in plant&#x02010;mediated interactions and suggests that physiological canalization of behaviorally active metabolites can drive sequence specificity and result in strongly diverging herbivore distribution patterns.</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="nph14328-kwd-0001">aboveground&#x02212;belowground interactions</kwd><kwd id="nph14328-kwd-0002"><italic>Diabrotica virgifera virgifera</italic></kwd><kwd id="nph14328-kwd-0003">induced resistance</kwd><kwd id="nph14328-kwd-0004">physiological canalization</kwd><kwd id="nph14328-kwd-0005">plant&#x02013;herbivore interactions</kwd><kwd id="nph14328-kwd-0006"><italic>Spodoptera frugiperda</italic></kwd><kwd id="nph14328-kwd-0007">volatile organic compounds</kwd><kwd id="nph14328-kwd-0008"><italic>Zea mays</italic></kwd></kwd-group><funding-group><award-group><funding-source>Swiss National Science Foundation</funding-source><award-id>152613</award-id><award-id>153517</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="11"/><word-count count="7665"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>nph14328</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.4 mode:remove_FC converted:07.08.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="nph14328-sec-0001"><title>Introduction</title><p>Interspecific competition influences the structure, function and stability of natural and agricultural ecosystems (Loreau &#x00026; de Mazancourt, <xref rid="nph14328-bib-0027" ref-type="ref">2013</xref>). For herbivorous insects, interspecific competition can occur through direct interference or through plant&#x02010;mediated, indirect effects (Denno <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0008" ref-type="ref">1995</xref>). A growing number of studies show that plant&#x02010;mediated, indirect effects are the most common form of interspecific competition between herbivores (Ohgushi, <xref rid="nph14328-bib-0030" ref-type="ref">2005</xref>; Kaplan &#x00026; Denno, <xref rid="nph14328-bib-0022" ref-type="ref">2007</xref>; Xiao <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0047" ref-type="ref">2012</xref>; Huang <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0019" ref-type="ref">2013</xref>) and that they act as driving forces of herbivore community composition in nature (Kaplan &#x00026; Denno, <xref rid="nph14328-bib-0022" ref-type="ref">2007</xref>; Poelman &#x00026; Dicke, <xref rid="nph14328-bib-0033" ref-type="ref">2014</xref>; Stam <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0039" ref-type="ref">2014</xref>).</p><p>The outcome of plant&#x02010;mediated interactions between herbivores is determined by a number of factors, including the identity of the attacking herbivore, the identity of the plant and the identity of the responding herbivore (Johnson &#x00026; Agrawal, <xref rid="nph14328-bib-0020" ref-type="ref">2005</xref>; Wurst &#x00026; van der Putten, <xref rid="nph14328-bib-0046" ref-type="ref">2007</xref>; Xiao <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0047" ref-type="ref">2012</xref>; Huang <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0018" ref-type="ref">2014</xref>). Recently, the sequence of arrival was also identified as an important factor: depending on which species arrives first, the effect of one herbivore on the other can change drastically. Soler <italic>et&#x000a0;al</italic>. (<xref rid="nph14328-bib-0038" ref-type="ref">2012</xref>), for instance, observed that <italic>Pieris brassicae</italic> caterpillars grew bigger when feeding on <italic>Brassica oleracea</italic> plants if the plants were infested by <italic>Brevicoryne brassicae</italic> aphids before the arrival of <italic>P.&#x000a0;brassicae</italic>, but not if both herbivores attacked the plant simultaneously. A recent meta&#x02010;analysis of interactions between leaf&#x02010; and root&#x02010;feeding herbivores identified the sequence of arrival as a strong predictor for the directionality of effects for this type of plant&#x02010;mediated interaction (Johnson <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0021" ref-type="ref">2012</xref>).</p><p>To date, several physiological hypotheses have been proposed that may explain sequence specificity (Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0013" ref-type="ref">2011a</xref>; Stam <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0039" ref-type="ref">2014</xref>): plant&#x02010;mediated feedback loops, overriding induction effects and physiological canalization. Plant&#x02010;mediated feedback loops occur if two herbivores sharing a host plant influence each other reciprocally (Soler <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0038" ref-type="ref">2012</xref>): a first arriving herbivore could then influence the behavior and damage patterns of a second arriver by inducing physiological changes in the plant, which, as a consequence, would change the plant&#x02010;mediated impact of the second herbivore on the first herbivore and thereby lead to sequence&#x02010;specific patterns. Overriding effects occur if one herbivore elicits a plant response that is much stronger than the response elicited by the other herbivore and thereby determines the resulting interaction (Stam <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0039" ref-type="ref">2014</xref>). Physiological canalization is a phenomenon where plant responses are determined by the first arriving herbivore (Viswanathan <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0042" ref-type="ref">2007</xref>). By suppressing the response that is normally elicited by a second herbivore, physiological canalization can lead to sequence&#x02010;specific effects.</p><p>Behavioral mechanisms may also lead to sequence specificity (Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0013" ref-type="ref">2011a</xref>; Karban, <xref rid="nph14328-bib-0023" ref-type="ref">2011</xref>). Asymmetrical host acceptance, for instance, refers to situations where a herbivore is less likely to start feeding on a new host plant than to continue feeding on a colonized host. This is a common pattern for sedentary herbivores such as miners and gall feeders and may lead to sequence&#x02010;specific effects by modulating the behavior of a herbivore differently, depending on whether it is arriving on a host plant second or whether it is already established when another herbivore arrives.</p><p>Plant physiological and herbivore behavioral mechanisms are not mutually exclusive. Asymmetrical host acceptance, for instance, may be favored by plant&#x02010;mediated feedback loops, overriding effects or physiological canalization. For example, a first arriving herbivore may negatively impact a second herbivore, which may decrease the capability of the second herbivore to induce volatile repellents, and in turn render the plant more attractive to the first herbivore. Furthermore, a first herbivore may trigger strong physiological changes in the plant which may render it attractive to itself irrespective of the potentially unattractive changes that are induced by a second arriving herbivore. Finally, a first herbivore may change the plant's physiology in a way that makes it unresponsive to the second herbivore, which may lead to the suppression of an otherwise unattractive physiological change. To date, the contributions of the different physiological and behavioral mechanisms and their combinations to sequence specificity have not been tested experimentally. As a consequence, the drivers of sequence specificity in indirect, plant&#x02010;mediated interactions are not well understood.</p><p>Here, we analyzed potential mechanisms leading to sequence specificity by studying the effect of attack by the leaf&#x02010;feeding larvae of <italic>Spodoptera frugiperda</italic> on the root&#x02010;feeding larvae of <italic>Diabrotica virgifera virgifera</italic> sharing maize (<italic>Zea mays</italic>) as a common host plant. Both herbivores occur on cultivated maize and its wild ancestors and cause severe damage in both agricultural and natural systems (Branson &#x00026; Krysan, <xref rid="nph14328-bib-0006" ref-type="ref">1981</xref>; O'Day, <xref rid="nph14328-bib-0029" ref-type="ref">1998</xref>). They overlap spatially and temporally in the field, with their sequence of arrival varying considerably with climatic conditions and locations (Branson, <xref rid="nph14328-bib-0005" ref-type="ref">1976</xref>; O'Day, <xref rid="nph14328-bib-0029" ref-type="ref">1998</xref>). Our previous study within the same system revealed that <italic>S.&#x000a0;frugiperda</italic> larvae significantly reduce the number of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae feeding on maize roots in the field, but only when <italic>S.&#x000a0;frugiperda</italic> larvae arrive first (Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0013" ref-type="ref">2011a</xref>). Subsequent experiments showed that maize root systems of plants which are attacked by leaf&#x02010;feeding caterpillars become highly unattractive to <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae, and that this effect is mediated by long&#x02010; and short&#x02010;distance host acceptance cues (Robert <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0034" ref-type="ref">2012a</xref>; Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0014" ref-type="ref">2015</xref>; Lu <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0028" ref-type="ref">2016</xref>). By contrast, <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> attack renders the plant highly attractive to conspecifics (Robert <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0034" ref-type="ref">2012a</xref>) and reprograms the root metabolism to become more suitable for its own development (Robert <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0035" ref-type="ref">2012b</xref>). Although <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> reduces the performance of leaf&#x02010;feeders on maize under water&#x02010;limiting conditions, which may lead to plant&#x02010;mediated feedback loops (Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0010" ref-type="ref">2009</xref>, <xref rid="nph14328-bib-0011" ref-type="ref">2011b</xref>), we found no correlation between the amount of <italic>S.&#x000a0;frugiperda</italic> leaf damage and the reduction of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> performance in our previous work (Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0013" ref-type="ref">2011a</xref>).</p><p>Based on these findings, we hypothesized that asymmetrical host acceptance may contribute to the sequence&#x02010;specific interaction patterns between <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> and <italic>S.&#x000a0;frugiperda</italic>, and that this asymmetrical acceptance behavior may be the result of either overriding effects or physiological canalization. We therefore conducted a series of behavioral experiments to explore the impact of the sequence of arrival on host plant attractiveness and acceptability for <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae. We then used a modified two&#x02010;by&#x02010;two&#x02010;arm olfactometer to test the influence of plant volatiles on the sequence&#x02010;specific behavior of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> and to distinguish between overriding effects and physiological canalization. Finally, we analyzed the changes in root volatiles elicited by the different arrival sequences to test for patterns of physiological canalization.</p></sec><sec id="nph14328-sec-0002"><title>Materials and Methods</title><sec id="nph14328-sec-0003"><title>Plants and insects</title><p>Maize (<italic>Zea&#x000a0;mays</italic> L.) seeds (hybrid Delprim) were obtained from Delley Seeds and Plants Ltd (Delley, Switzerland). They were sown individually in plastic pots (11&#x000a0;cm depth and 4&#x000a0;cm diameter) and placed in a glasshouse (26&#x000a0;&#x000b1;&#x000a0;2&#x000b0;C; 14&#x000a0;:&#x000a0;10&#x000a0;h, light&#x000a0;:&#x000a0;dark; 55% relative humidity). Twelve days later (henceforth called day 0), plants with three fully developed leaves were used for experiments. Eggs of <italic>Diabrotica virgifera&#x000a0;virgifera</italic> (LeConte) were obtained from the Agricultural Research Service, United States Department of Agriculture (Brookings, SD, USA) and larvae were reared on freshly germinated maize plants until use. <italic>Spodoptera&#x000a0;frugiperda</italic> (J.E. Smith) eggs were obtained from the University of Neuchatel (Neuch&#x000e2;tel, Switzerland), and the hatching larvae were reared on a soy&#x02010;wheat germ diet (Bio&#x02010;Serv, Flemington, NJ, USA) until use.</p></sec><sec id="nph14328-sec-0004"><title>Plant treatments</title><p>To establish different feeding sequences and herbivore combinations, plants were randomly assigned to one of four treatments (Fig.&#x000a0;<xref rid="nph14328-fig-0001" ref-type="fig">1</xref>a): (1) aboveground herbivory (AG): 12 second&#x02010;instar <italic>S.&#x000a0;frugiperda</italic> larvae were added to the leaves of each plant at day 2; (2) belowground herbivory (BG): six second&#x02010;instar <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae were added into a hole (9&#x000a0;cm depth and 0.5&#x000a0;cm diameter) in the soil at the base of each plant at day 0; (3) belowground attack followed by aboveground attack (BG&#x000a0;&#x0003e;&#x000a0;AG): six second&#x02010;instar larvae of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> were added to each plant at day 0, and 12&#x000a0;second&#x02010;instar larvae of <italic>S.&#x000a0;frugiperda</italic> were added to each plant at day 2; (4) controls without herbivory (C). These treatments simulated a situation where <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae newly arrive on plants already infested with <italic>S.&#x000a0;frugiperda</italic> (AG) or where they can continue feeding on maize plants that are infested by conspecifics alone (BG) or by conspecifics that arrived before the arrival of the leaf feeder (BG&#x000a0;&#x0003e;&#x000a0;AG) (Fig.&#x000a0;<xref rid="nph14328-fig-0001" ref-type="fig">1</xref>a). As <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae refuse to feed on plants that have previously been attacked by <italic>S.&#x000a0;frugiperda</italic> (Robert <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0034" ref-type="ref">2012a</xref>; Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0014" ref-type="ref">2015</xref>; Lu <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0028" ref-type="ref">2016</xref>), an AG&#x000a0;&#x0003e;&#x000a0;BG treatment was not included in the experimental set&#x02010;ups.</p><fig fig-type="Figure" xml:lang="en" id="nph14328-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Overview of the experimental design and set&#x02010;ups used in this study. (a) Experimental treatments (infestation histories). To establish different sequences of arrival, second instar <italic>Spodoptera frugiperda</italic> larvae were added to the leaves, and second instar <italic>Diabrotica virgifera virgifera</italic> larvae were added to the roots of maize plants in different combinations. After 4&#x000a0;d of herbivore infestation, plants with different infestation histories were offered to <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae in choice and no&#x02010;choice experiments or were used for root volatile analyses. <styled-content style="fixed-case">AG</styled-content>, aboveground <italic>S.&#x000a0;frugiperda</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>, belowground <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>&#x0003e;<styled-content style="fixed-case">AG</styled-content>, belowground infestation followed by aboveground infestation; C, control without herbivory. (b) Larval preference was measured by laying out the root systems of two plant on moist filter paper in large Petri dishes. (c) Volatile&#x02010;mediated larval preference was measured using a two&#x02010;arm belowground olfactometer. (d) Larval escape patterns were measured using a single L&#x02010;shaped glass pot and a water&#x02010;filled Petri dish to collect the escaping larvae. (e) Volatile mixing experiments were conducted using a two&#x02010;arm belowground olfactometer with two volatile sources attached to each arm of the central chamber. For more details about the different treatments and set&#x02010;ups, refer to the <xref rid="nph14328-sec-0002" ref-type="sec">Materials and Methods</xref> section.</p></caption><graphic id="nlm-graphic-1" xlink:href="NPH-214-169-g001"/></fig><p>To prevent above&#x02010; and belowground herbivores from escaping, the aboveground parts (leaves of maize plants) were caged with transparent 1.5&#x02010;l plastic bottles with their bottoms removed that were placed upside&#x02010;down on the pots. Belowground parts (pots) were covered with aluminum foil. All plants were caged in the same way regardless of herbivore treatment. Furthermore, small holes were made in the soil of each plant regardless of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> infestation. Four days after the beginning of the different treatments (day 4), the plastic bottles and <italic>S.&#x000a0;frugiperda</italic> larvae were removed. Then, the responding <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae were introduced into the system (Fig.&#x000a0;<xref rid="nph14328-fig-0001" ref-type="fig">1</xref>b&#x02013;e). Timing and herbivore densities were chosen to match earlier studies and to mimic natural occurrence patterns in the field (Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0013" ref-type="ref">2011a</xref>; Robert <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0034" ref-type="ref">2012a</xref>).</p></sec><sec id="nph14328-sec-0005"><title>Influence of sequence of arrival on host plant acceptance by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic>
+</title><p>In a first set of experiments, we tested the hypothesis that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae may reject roots of plants that are previously infested with <italic>S.&#x000a0;frugiperda</italic>, but may continue to feed on plants on which they were able to establish a suitable feeding environment before the arrival of the leaf&#x02010;feeder. We conducted experiments using three different set&#x02010;ups (Fig.&#x000a0;<xref rid="nph14328-fig-0001" ref-type="fig">1</xref>b&#x02013;d).</p><p>First, we tested the behaviour of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> using a Petri dish set&#x02010;up which allowed for direct root contact (Robert <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0036" ref-type="ref">2012c</xref>) (Fig.&#x000a0;<xref rid="nph14328-fig-0001" ref-type="fig">1</xref>b). The root systems of plants from the different treatment groups were gently washed with tap water. Plants were then paired in the following combinations: (1) C vs AG; (2) C vs BG; (3) C vs BG&#x000a0;&#x0003e;&#x000a0;AG. Root systems of the different plant pairs were placed on a moistened filter paper in a Petri dish (13.5&#x000a0;cm diameter and 2&#x000a0;cm depth), which had a gap (0.8&#x000a0;cm width and 2&#x000a0;cm height) in the side. The stems were laid into the gap, with the leaves remaining outside the Petri dish. Six second&#x02010;instar larvae were then added to the moistened filter paper. The larvae could move and feed freely on the plants within the Petri dish. The Petri dish was covered with aluminum foil to decrease the impact of light on the roots and insects. The position of the larvae was recorded at 0.5, 1.5, 3 and 5&#x000a0;h. Larvae that remained on the filter paper and did not choose a plant were counted as no choice. Each treatment combination was repeated 24&#x02013;36 times.</p><p>Second, we specifically tested the contribution of volatile cues to the observed behavioral patterns. For this purpose, the same treatment combinations as in the first experiment were offered to <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae in two&#x02010;arm olfactometers as described previously (Robert <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0034" ref-type="ref">2012a</xref>) (Fig.&#x000a0;<xref rid="nph14328-fig-0001" ref-type="fig">1</xref>c). Before the beginning of the treatments, plants were transplanted individually into L&#x02010;shaped glass pots (11&#x000a0;cm depth and 5&#x000a0;cm diameter) with a horizontal connector at a height of 0.5&#x000a0;cm and filled with moist sand. At day 4, the horizontal connector of each glass pot was attached with one Teflon connector (29/32 to 24/29&#x000a0;mm) which contained a fine metal screen (2300&#x000a0;mesh; Small Parts Inc., Miami Lakes, FL, USA). Then, the two Teflon connectors were linked using a glass tube (24/29&#x000a0;mm; length 8&#x000a0;cm) with a vertical access port in the middle. To keep the root systems in the dark and to avoid visual cues for the larvae, the entire olfactometer was covered with aluminum foil. Twenty minutes after connecting the different odor sources, six second&#x02010;instar <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae were released into the access port of the glass tube. The larvae could move freely in the glass tube, but could not reach the roots of the plants. After 10&#x000a0;min, the olfactometer was disassembled and the number of larvae in each Teflon connector was recorded. Larvae that stayed in the central glass tube after 10&#x000a0;min were recorded as no choice. For each treatment combination, 18 independent replicates were carried out.</p><p>In a third experiment, we tested whether <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae are more likely to leave the rhizosphere environment of infested plants, even in the absence of an alternative host. For this purpose, plants were potted and infested in L&#x02010;shaped glass pots as described for the second experiment (Fig.&#x000a0;<xref rid="nph14328-fig-0001" ref-type="fig">1</xref>d). Then, six second&#x02010;instar larvae were released directly at the entrance of the horizontal access port of each glass pot. The access port of the horizontal connector was not sealed so the larvae could move into the soil and start feeding or try to escape from the plant through the access port. The L&#x02010;pot was placed in a Petri dish filled with tap water at a height of 0.5&#x000a0;cm to catch escaping <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae without flooding the glass pot. The number of escaped larvae in the trap was recorded over 20&#x000a0;min. For each treatment, 12 replicates were carried out.</p></sec><sec id="nph14328-sec-0006"><title>Plant&#x02010;mediated feedback loops</title><p>To evaluate whether belowground attack by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> changes the pattern of aboveground damage by <italic>S.&#x000a0;frugiperda</italic> larvae under the current experimental conditions, the leaves of plants from the different infestation treatments were collected at day 4, and total leaf area and damaged leaf area were measured for each plant using <sc>digimizer</sc> software (MedCalc Software bvba, Mariakerke, Belgium). Eighteen replicates per treatment were carried out.</p></sec><sec id="nph14328-sec-0007"><title>Overriding effects</title><p>To investigate whether an overriding signal may be responsible for the observed asymmetrical host acceptance of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> in the first set of experiments, we developed a two&#x02010;by&#x02010;two arm belowground olfactometer that allowed us to combine the volatile headspaces from two odor sources per arm (Fig.&#x000a0;<xref rid="nph14328-fig-0001" ref-type="fig">1</xref>e). For this purpose, the two&#x02010;arm olfactometer set&#x02010;up was modified as follows. Two Teflon connectors attached to glass pots were linked using a &#x02018;Y&#x02019; glass tube (24/29&#x000a0;mm; length 8&#x000a0;cm) at an angle of 60&#x000b0;. Then, two &#x02018;Y&#x02019; glass tubes were connected to a central glass tube (24/29&#x000a0;mm; length 8&#x000a0;cm) with a vertical access port in the middle. This modification enabled us to attach two L&#x02010;shaped glass pots to each side of the release tubes and to test the preference of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> for two combinations of two mixed odor sources. The following treatment combinations were investigated using this set&#x02010;up: C&#x000a0;+&#x000a0;C vs C&#x000a0;+&#x000a0;AG; C+C vs C&#x000a0;+&#x000a0;BG, and C&#x000a0;+&#x000a0;C vs AG&#x000a0;+&#x000a0;BG. The olfactometer was disassembled and the number of larvae in each &#x02018;Y&#x02019; glass tube was recorded after 10&#x000a0;min. We hypothesized that, if <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> elicits an overriding signal, the AG&#x000a0;+&#x000a0;BG arms should be more attractive than the C&#x000a0;+&#x000a0;C arm. Eighteen replicates were performed for each treatment combination.</p></sec><sec id="nph14328-sec-0008"><title>Physiological canalization</title><p>To evaluate whether <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> attack canalizes the root volatile response in a way that suppresses responsiveness to <italic>S.&#x000a0;frugiperda</italic> infestation, we collected and analyzed root volatile&#x000a0;profiles using solid&#x02010;phase micro&#x02010;extraction&#x02212;gas chromatography&#x02212;mass spectrometry (SPME&#x02010;GC&#x02010;MS). Plants were treated as described in the section &#x02018;Plant treatments&#x02019; (Fig.&#x000a0;<xref rid="nph14328-fig-0001" ref-type="fig">1</xref>a). Crown and primary roots were then washed with tap water and frozen in liquid nitrogen. Twelve plants per treatment were harvested, and the roots of two plants were pooled for analysis, resulting in six biological replicates. The crown and primary roots of each replicate were ground into a fine powder, and 50&#x000a0;mg of each root type was placed in a 10&#x02010;ml glass vial and sealed using Teflon tape (polytetrafluoroethylene). An SPME fiber (100&#x02010;&#x003bc;m polydimethylsiloxane coating; Supelco, Bellefonte, PA, USA) was then inserted into the vial for 60&#x000a0;min at 50&#x000b0;C. The incubated fibers were then immediately analyzed by GC&#x02010;MS (Agilent 7820A GC interfaced with an Agilent 5977E MSD, Palo Alto, CA, USA) following previously established protocols with a few modifications (Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0009" ref-type="ref">2011c</xref>). Briefly, the fiber was inserted into the injector port at 250&#x000b0;C and desorbed for 2&#x000a0;min. After fiber insertion, the column temperature was maintained at 60&#x000b0;C for 1&#x000a0;min and then increased to 250&#x000b0;C at 5&#x000b0;C&#x000a0;min<sup>&#x02212;1</sup> followed by a final stage of 4&#x000a0;min at 250&#x000b0;C. The overall analysis time for each sample, including oven cooling, was 45&#x000a0;min. Furthermore, to eliminate the impact of background peaks, three glass vials without any plant material (blanks) were run using the same protocol. The resulting GC&#x02010;MS chromatograms were processed with <sc>progenesis qi</sc> (Nonlinear Dynamics, Newcastle, UK) using default settings for spectral alignment and peak picking. From the resulting matrix, all features that were presented in more than one blank were removed, resulting in 232 features. Features were assigned to individual compounds by retention time and peak shape matching and identified using the NIST search 2.2 Mass Spectral Library (Gaithersburg, MD, USA) as well as retention time and spectral comparison with pure compounds.</p></sec><sec id="nph14328-sec-0009"><title>Data analysis</title><p>To examine host acceptance of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> in a Petri dish experiment, the number of larvae found on different herbivory treatment groups was analyzed using a Wald test applied to a generalized linear mixed model (GLMM) with a Poisson distribution. We considered plant treatment as a fixed factor, time as a covariate and the replicate as a random factor. Each plant combination (C vs AG, C vs BG and C vs BG&#x000a0;&#x0003e;&#x000a0;AG) was analyzed separately. Then, to compare the preference of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> between the different treatment groups, the number of larvae on infested plants (AG, BG and BG&#x000a0;&#x0003e;&#x000a0;AG) was analyzed using a likelihood ratio test applied to a generalized linear model (GLM) with a Poisson distribution. The models included herbivory as a fixed factor and time as a covariate. The preference of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae in the olfactometer experiments and the number of escaped larvae in the escape experiment were analyzed in the same manner. To examine whether belowground attack by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae changes the pattern of aboveground damage by <italic>S.&#x000a0;frugiperda</italic> larvae, the relative and absolute leaf damage of <italic>S.&#x000a0;frugiperda</italic> larvae was analyzed using independent sample <italic>t</italic>&#x02010;tests (BG vs BG&#x000a0;&#x0003e;&#x000a0;AG). The absolute leaf damage was estimated from the sum of leaf damaged area for each plant and the relative leaf damage was calculated as the sum of leaf damaged area/the sum of total leaf area&#x000a0;&#x000d7;&#x000a0;100 for each plant. To examine the overall differences in volatile profiles, the relative abundance of the detected features was subjected to redundancy analysis (RDA) using the different treatments as a unique explanatory variable. Monte Carlo tests with 999 permutations were then used to test for significant differences between treatments. For more detailed, compound&#x02010;specific analyses, the different features were assigned to individual compounds, and the relative abundances of the individual compounds, which corresponds to the sum of the signal intensities of the individual features, were analyzed by one&#x02010;way ANOVAs followed by least square mean post hoc tests for pairwise comparisons, including false discovery rate (FDR) corrections (Benjamini &#x00026; Hochberg, <xref rid="nph14328-bib-0003" ref-type="ref">1995</xref>). All analyses were conducted using R 3.2.0 (R Foundation for Statistical Computing, Vienna, Austria) with &#x02018;<sc>car</sc>&#x02019;, &#x02018;<sc>lme</sc>4&#x02019;, &#x02018;<sc>lsmeans</sc>&#x02019;, &#x02018;<sc>vegan</sc>&#x02019; and &#x02018;RVA<sc>ide</sc>M<sc>emoire</sc>&#x02019; packages (Fox &#x00026; Weisberg, <xref rid="nph14328-bib-0015" ref-type="ref">2011</xref>; Bates <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0002" ref-type="ref">2015</xref>; Herv&#x000e9;, <xref rid="nph14328-bib-0016" ref-type="ref">2016</xref>; Lenth, <xref rid="nph14328-bib-0026" ref-type="ref">2016</xref>; Oksanen <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0031" ref-type="ref">2016</xref>).</p></sec></sec><sec id="nph14328-sec-0010"><title>Results</title><sec id="nph14328-sec-0011"><title>
+<italic>Diabrotica virgifera virgifera</italic> rejects <italic>S.&#x000a0;frugiperda&#x02010;</italic>infested plants only when arriving second</title><p>In the Petri dish experiment, <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae strongly preferred the roots of control plants when offered uninfested vs leaf&#x02010;infested plants (&#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;30.753; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0002" ref-type="fig">2</xref>a). By contrast, the larvae showed a strong preference for roots that had previously been infested with <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae over controls (&#x003c7;<sup>2</sup>
+<italic>&#x000a0;</italic>=&#x000a0;69.919; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0002" ref-type="fig">2</xref>b). Roots that were infested with <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> 2&#x000a0;d before the onset of <italic>S.&#x000a0;frugiperda</italic> attack remained highly attractive (&#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;21.734; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0002" ref-type="fig">2</xref>c). The number of responding <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae increased with experimental time (C vs AG: &#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;5.698; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.017; C vs BG: &#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;20.033; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; C vs BG&#x000a0;&#x0003e;&#x000a0;AG: &#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;35.964; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0002" ref-type="fig">2</xref>). At the end of the experiment, 65%, 67% and 70% of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae made a choice in C vs AG, C vs BG and C vs BG&#x000a0;&#x0003e;&#x000a0;AG, respectively. No significant interactive effects between time and treatment were found (C vs AG: &#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;3.515; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.061; C vs BG: &#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;0.135; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.713; C vs BG&#x000a0;&#x0003e;&#x000a0;AG: &#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;1.342; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.247). Overall, more <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae fed on BG and BG&#x000a0;&#x0003e;&#x000a0;AG roots than on AG roots (&#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;38.558; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0002" ref-type="fig">2</xref>). No difference was found between the preference of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> for BG and BG&#x000a0;&#x0003e;&#x000a0;AG roots (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.064; Fig.&#x000a0;<xref rid="nph14328-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="nph14328-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Sequence of arrival determines root attractiveness to <italic>Diabrotica virgifera virgifera</italic>. The number of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae on the roots of plants with different infestation histories was measured in a Petri dish experiment. (a) <italic>Diabrotica virgifera virgifera</italic> choice between C and <styled-content style="fixed-case">AG</styled-content> plants (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>24). (b) <italic>Diabrotica virgifera virgifera</italic> choice between C and <styled-content style="fixed-case">BG</styled-content> plants (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>36). (c) <italic>Diabrotica virgifera virgifera</italic> choice between C and <styled-content style="fixed-case">BG</styled-content>&#x000a0;&#x0003e;&#x000a0;<styled-content style="fixed-case">AG</styled-content> plants (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>36). <styled-content style="fixed-case">AG</styled-content>, aboveground <italic>Spodoptera frugiperda</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>, belowground <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>&#x000a0;&#x0003e;&#x000a0;<styled-content style="fixed-case">AG</styled-content>, belowground infestation followed by aboveground infestation; C, control without herbivory. Values correspond to mean&#x000a0;&#x000b1;&#x000a0;1&#x000a0;<styled-content style="fixed-case">SE</styled-content>. Asterisks indicate a significant difference in preference within each combination and time&#x02010;point (ns, nonsignificant; *, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05; **, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01; ***, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; <styled-content style="fixed-case">GLMM</styled-content>). Differences in preference patterns between treatment combinations are depicted by dashed lines and asterisks on the right of the graph (ns, nonsignificant; ***, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; <styled-content style="fixed-case">GLM</styled-content>).</p></caption><graphic id="nlm-graphic-3" xlink:href="NPH-214-169-g002"/></fig><p>In the two&#x02010;arm olfactometer experiment, similar preference patterns were observed<italic>. Diabrotica virgifera virgifera</italic> larvae showed a strong preference for control plants over <italic>S.&#x000a0;frugiperda</italic>&#x02010;infested plants (&#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;8.111; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01; Fig.&#x000a0;<xref rid="nph14328-fig-0003" ref-type="fig">3</xref>). By contrast, the larvae preferred plants that were previously infested with conspecifics over controls (&#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;34.177; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0003" ref-type="fig">3</xref>). Plants infested with <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> before <italic>S.&#x000a0;frugiperda</italic> infestation remained highly attractive (&#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;16.849; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0003" ref-type="fig">3</xref>). In this experiment, all larvae made a choice within 10&#x000a0;min. Overall, the larvae were more attracted to the roots that had been infested by conspecifics alone and conspecifics that had arrived before the arrival of the <italic>S.&#x000a0;frugiperda</italic>, while they were less attracted to the roots that had been infested by <italic>S.&#x000a0;frugiperda</italic> alone (&#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;20.396; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0003" ref-type="fig">3</xref>). Again, BG and AG&#x000a0;&#x0003e;&#x000a0;BG treatments were not significantly different from each other (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.389; Fig.&#x000a0;<xref rid="nph14328-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="nph14328-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Volatile cues contribute to sequence&#x02010;specific preference patterns of <italic>Diabrotica virgifera virgifera</italic>. The number of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae attracted to root volatiles of plants with different infestation histories was measured in a two&#x02010;arm olfactometer experiment. <styled-content style="fixed-case">AG</styled-content>, aboveground <italic>Spodoptera frugiperda</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>, belowground <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>&#x000a0;&#x0003e;&#x000a0;<styled-content style="fixed-case">AG</styled-content>, belowground infestation followed by aboveground infestation; C, control without herbivory. Values are mean&#x000a0;&#x000b1;&#x000a0;1&#x000a0;<styled-content style="fixed-case">SE</styled-content> (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>18). Asterisks indicate a significant preference within each treatment combination (**, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01; ***, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; <styled-content style="fixed-case">GLMM</styled-content>). Different letters indicate significant differences between treatment combinations (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05; <styled-content style="fixed-case">GLM</styled-content>).</p></caption><graphic id="nlm-graphic-5" xlink:href="NPH-214-169-g003"/></fig><p>When offered a single host plant, the number of escaping <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae differed significantly between treatments (&#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;32.112; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0004" ref-type="fig">4</xref>). When offered a <italic>S.&#x000a0;frugiperda</italic>&#x02010;infested plant, 50% of the larvae escaped from the rhizosphere within 20&#x000a0;min (Fig.&#x000a0;<xref rid="nph14328-fig-0004" ref-type="fig">4</xref>). By contrast, &#x0003c;&#x000a0;18% of the larvae left the soil of control plants or plants that were previously infested with conspecifics (Fig.&#x000a0;<xref rid="nph14328-fig-0004" ref-type="fig">4</xref>). A similar percentage of larvae chose to remain in the rhizosphere of plants that were infested with <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> before <italic>S.&#x000a0;frugiperda</italic> attack (Fig.&#x000a0;<xref rid="nph14328-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="nph14328-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Stay&#x02010;or&#x02010;leave patterns of <italic>Diabrotica virgifera virgifera</italic> are determined by the sequence of arrival. The number of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae leaving the rhizosphere of plants with different infestation histories was measured in an escaping experiment. <styled-content style="fixed-case">AG</styled-content>, aboveground <italic>Spodoptera frugiperda</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>, belowground <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>&#x000a0;&#x0003e;&#x000a0;<styled-content style="fixed-case">AG</styled-content>, belowground infestation followed by aboveground infestation; C, control without herbivory. Values are mean&#x000a0;&#x000b1;&#x000a0;1&#x000a0;<styled-content style="fixed-case">SE</styled-content> (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>12). Different letters indicate significant differences between treatments (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05; <styled-content style="fixed-case">GLM</styled-content>).</p></caption><graphic id="nlm-graphic-7" xlink:href="NPH-214-169-g004"/></fig></sec><sec id="nph14328-sec-0012"><title>Plant&#x02010;mediated feedback loops are unlikely to explain <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> behavior</title><p>There was no significant difference in relative (<italic>t&#x000a0;</italic>=<italic>&#x000a0;</italic>0.055; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.957) or absolute (<italic>t&#x000a0;</italic>=<italic>&#x000a0;</italic>1.236; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.225) damaged leaf area between plants that were infested with <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> and plants with roots that were herbivore free (Supporting Information Fig.&#x000a0;S1). These results suggest that the interaction between <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> and <italic>S.&#x000a0;frugiperda</italic> is highly asymmetrical and that plant&#x02010;mediated feedback loops are unlikely to play a major role in determining sequence&#x02010;specific responses of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic>.</p></sec><sec id="nph14328-sec-0013"><title>
+<italic>Diabrotica virgifera virgifera</italic> does not produce an overriding attractive signal</title><p>Similarly to the two&#x02010;arm olfactometer experiment, <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae significantly more often preferred to move to the side of the olfactometer containing two control plants rather than the arm leading to a control plant and an <italic>S.&#x000a0;frugiperda</italic>&#x02010;infested plant (&#x003c7;<sup><italic>2</italic></sup>&#x000a0;=&#x000a0;15.446; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0005" ref-type="fig">5</xref>). The opposite was true for a combination of a control plant with a <italic>D.&#x000a0;v.&#x000a0;virgifera</italic>&#x02010;infested plant, which was attractive to the root feeder (&#x003c7;<sup><italic>2</italic></sup>&#x000a0;=&#x000a0;8.111; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01; Fig.&#x000a0;<xref rid="nph14328-fig-0005" ref-type="fig">5</xref>). In contrast to the attractiveness of BG&#x000a0;&#x0003e;&#x000a0;AG plants observed in the two&#x02010;arm olfactometer experiment, however (Fig.&#x000a0;<xref rid="nph14328-fig-0003" ref-type="fig">3</xref>), the mixed rhizosphere volatiles from an <italic>S.&#x000a0;frugiperda&#x02010;</italic> and a <italic>D.&#x000a0;v.&#x000a0;virgifera</italic>&#x02010;infested plant were highly unattractive, and significantly more larvae moved to the control side (&#x003c7;<sup><italic>2</italic></sup>&#x000a0;=&#x000a0;10.333; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01; Fig.&#x000a0;<xref rid="nph14328-fig-0005" ref-type="fig">5</xref>) than to the AG&#x000a0;+&#x000a0;BG side. All larvae made a choice within the first 10&#x000a0;min. Overall, the presence of plants that were infested by <italic>S.&#x000a0;frugiperda</italic> significantly more often repelled <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> (&#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;15.915; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Fig.&#x000a0;<xref rid="nph14328-fig-0005" ref-type="fig">5</xref>). This experiment falsifies the hypothesis that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> triggers an overriding attractant.</p><fig fig-type="Figure" xml:lang="en" id="nph14328-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Acceptance of <italic>Diabrotica virgifera virgifera</italic> is determined by the additive changes in root volatiles. The number of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae attracted by mixed root volatiles from plants with different infestation histories were measured in a volatile&#x02010;mixing experiment, with each arm containing two different volatile sources. <styled-content style="fixed-case">AG</styled-content>, aboveground <italic>Spodoptera frugiperda</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>, belowground <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larval infestation; C, control without herbivory. Values are mean&#x000a0;&#x000b1;&#x000a0;1&#x000a0;<styled-content style="fixed-case">SE</styled-content> (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>18). Asterisks indicate a significant preference within choice combinations (**, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01; ***, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; <styled-content style="fixed-case">GLMM</styled-content>). Different letters indicate differences in preference patterns between treatments (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05; <styled-content style="fixed-case">GLM</styled-content>).</p></caption><graphic id="nlm-graphic-9" xlink:href="NPH-214-169-g005"/></fig></sec><sec id="nph14328-sec-0014"><title>
+<italic>Diabrotica virgifera virgifera</italic> feeding suppresses <italic>S.&#x000a0;frugiperda</italic>&#x02010;induced root volatiles</title><p>In total, we detected 232 volatile features in the GC&#x02010;MS chromatograms. Redundancy analysis revealed that <italic>S.&#x000a0;frugiperda</italic> and <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> attack induced different volatile blends compared with control plants and compared with each other (AG vs C: <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.008; BG vs C: <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.008; BG&#x0003e;AG vs C: <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.008; Fig.&#x000a0;<xref rid="nph14328-fig-0006" ref-type="fig">6</xref>). The volatile profiles of plants that were induced by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> before <italic>S.&#x000a0;frugiperda</italic> attack were indistinguishable from those of plants that were infested with <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> alone (BG &#x0003e; AG vs BG: <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.642; Fig.&#x000a0;<xref rid="nph14328-fig-0006" ref-type="fig">6</xref>), but both were significantly different from those of plants that were infested with <italic>S.&#x000a0;frugiperda</italic> alone (BG vs AG: <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.008; BG&#x000a0;&#x0003e;&#x000a0;AG vs AG: <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.008; Fig.&#x000a0;<xref rid="nph14328-fig-0006" ref-type="fig">6</xref>). Analysis of variance revealed 12 volatile compounds whose abundance differed significantly between treatments (Fig.&#x000a0;<xref rid="nph14328-fig-0007" ref-type="fig">7</xref>). Pairwise comparisons showed that four of these volatiles were significantly induced by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> infestation alone (Fig.&#x000a0;<xref rid="nph14328-fig-0007" ref-type="fig">7</xref>a&#x02013;d) and two of them were significantly induced by <italic>S.&#x000a0;frugiperda</italic> attack alone (Fig.&#x000a0;<xref rid="nph14328-fig-0007" ref-type="fig">7</xref>k&#x02013;l). We found no significant effect of later <italic>S.&#x000a0;frugiperda</italic> attack on <italic>D.&#x000a0;v.&#x000a0;virgifera&#x02010;</italic>induced volatile emissions (Fig.&#x000a0;<xref rid="nph14328-fig-0007" ref-type="fig">7</xref>). However, the induction of the <italic>S.&#x000a0;frugiperda</italic>&#x02010;induced volatiles was suppressed by early <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> infestation (Fig.&#x000a0;<xref rid="nph14328-fig-0007" ref-type="fig">7</xref>l). This result demonstrates that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> canalizes the root volatile production and renders roots unresponsive to leaf attack by <italic>S.&#x000a0;frugiperda</italic>.</p><fig fig-type="Figure" xml:lang="en" id="nph14328-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Infestation by <italic>Diabrotica virgifera virgifera</italic> canalizes the volatile response of maize roots. The results of a redundancy analysis (<styled-content style="fixed-case">RDA</styled-content>) of the root volatile response to different sequences of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> and <italic>Spodoptera frugiperda</italic> feeding are shown. The first two axes explained 53.86% and 24.36% of the total variation, respectively. <styled-content style="fixed-case">AG</styled-content>, aboveground <italic>S.&#x000a0;frugiperda</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>, belowground <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>&#x000a0;&#x0003e;&#x000a0;<styled-content style="fixed-case">AG</styled-content>, belowground infestation followed by aboveground infestation; C, control without herbivory. Data points represent individual replicates (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>6).</p></caption><graphic id="nlm-graphic-11" xlink:href="NPH-214-169-g006"/></fig><fig fig-type="Figure" xml:lang="en" id="nph14328-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>
+<italic>Diabrotica virgifera virgifera</italic> suppresses <italic>Spodoptera frugiperda</italic>&#x02010;induced root volatiles. The relative abundances of root volatiles in four treatments were measured using solid&#x02010;phase micro&#x02010;extraction (<styled-content style="fixed-case">SPME</styled-content>) in combination with gas chromatograpy and mass spectrometry (<styled-content style="fixed-case">GC</styled-content>&#x02010;<styled-content style="fixed-case">MS</styled-content>). (a) <italic>E&#x02010;</italic>&#x003b2;&#x02010;Caryophyllene (17.33&#x000a0;min; 189.1726&#x000a0;<italic>m/z</italic>), (b) humulene (18.17&#x000a0;min; 204.1966&#x000a0;<italic>m/z</italic>), (c) unknown (19.30&#x000a0;min; 503.6733&#x000a0;<italic>m/z</italic>), (d) unidentified carboxylic acid (10.07&#x000a0;min; 123.0129&#x000a0;<italic>m/z</italic>), (e) unknown (19.07&#x000a0;min; 173.0813&#x000a0;<italic>m/z</italic>), (f) caryophyllene oxide (21.27&#x000a0;min; 161.1235&#x000a0;<italic>m/z</italic>), (g) unknown (19.15&#x000a0;min; 106.0578&#x000a0;<italic>m/z</italic>), (h) ethanol acetate (15.99&#x000a0;min; 204.1814&#x000a0;<italic>m/z</italic>), (i) unknown (17.07&#x000a0;min; 161.0902&#x000a0;<italic>m/z</italic>), (j) unknown (25.05&#x000a0;min; 180.0533&#x000a0;<italic>m/z</italic>), (k) unknown (12.71&#x000a0;min; 138.0904&#x000a0;<italic>m/z</italic>) and (l) unidentified nitrophenol (17.67&#x000a0;min; 139.0342&#x000a0;<italic>m/z</italic>). <styled-content style="fixed-case">AG</styled-content>, aboveground <italic>S.&#x000a0;frugiperda</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>, belowground <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larval infestation; <styled-content style="fixed-case">BG</styled-content>&#x000a0;&#x0003e;&#x000a0;<styled-content style="fixed-case">AG</styled-content>, belowground infestation followed by aboveground infestation; C, control without herbivory. Values are mean&#x000a0;&#x000b1;&#x000a0;1&#x000a0;<styled-content style="fixed-case">SE</styled-content> (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>6). Different letters indicate differences in relative abundance among treatments (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05; <styled-content style="fixed-case">LM</styled-content>).</p></caption><graphic id="nlm-graphic-13" xlink:href="NPH-214-169-g007"/></fig></sec></sec><sec id="nph14328-sec-0015"><title>Discussion</title><p>The sequence of arrival is increasingly recognized as an important determinant of plant&#x02010;mediated indirect interactions between herbivores (Viswanathan <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0043" ref-type="ref">2005</xref>, <xref rid="nph14328-bib-0042" ref-type="ref">2007</xref>; Poelman <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0032" ref-type="ref">2008</xref>; Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0013" ref-type="ref">2011a</xref>; Soler <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0038" ref-type="ref">2012</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0044" ref-type="ref">2014</xref>). However, the mechanisms leading to sequence specificity are not well understood. The goal of the present study was to identify the (mutually nonexclusive) behavioral and physiological mechanisms that may contribute to sequence&#x02010;specific effects. Our experiments show that leaf attack by <italic>S.&#x000a0;frugiperda</italic> strongly reduces the attractiveness of roots for <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> through changes in volatile cues. However, prior <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> attack suppresses these changes and thereby maintains the attractiveness of the plants to <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae. This form of asymmetrical host acceptance behavior explains why <italic>S.&#x000a0;frugiperda</italic> reduces the abundance of and damage by <italic>D.&#x000a0;virgifera</italic> in the field only when arriving first on the plant (Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0013" ref-type="ref">2011a</xref>).</p><p>Several nonexclusive physiological mechanisms may explain why <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> is repelled by <italic>S.&#x000a0;frugiperda</italic>&#x02010;attacked plants only when arriving second. It is for instance possible that early&#x02010;arriving <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae change the behavior and induction pattern of <italic>S.&#x000a0;frugiperda</italic>. However, we found no evidence for the presence of resistance feedback loops in our system: <italic>S.&#x000a0;frugiperda</italic> damage remained unchanged by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> attack. Earlier studies demonstrated that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> root attack increases leaf resistance via ABA signaling under drought conditions; when plants were well watered, no negative effects of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> on <italic>Spodoptera littoralis</italic> growth were observed any more (Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0011" ref-type="ref">2011b</xref>). The maize seedlings in our experiments were supplied with sufficient soil moisture, which probably prevented potential feedback loops from occurring. Another explanation for the observed behavioral patterns is that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> may induce changes that strongly increase the attractiveness of the roots and override any negative changes that are later induced by <italic>S.&#x000a0;frugiperda</italic>. By mixing volatiles from different plants, we tested this hypothesis on a behavioral level. Surprisingly, we found that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> rejected the volatile mix from a combination of plants that had been infested by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> and <italic>S.&#x000a0;frugiperda</italic> separately. This is in stark contrast with the strong attractiveness of plants that were infested with <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> and <italic>S.&#x000a0;frugiperda</italic> sequentially and strongly suggests that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> does not produce an overriding attractive signal.</p><p>In contrast, our GC&#x02010;MS analyses provide clear evidence that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> canalizes the plant's root volatile response. Maize roots responded strongly to <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> attack and produced higher amounts of several volatiles, including several products of the terpene synthase TPS23 which are strongly induced by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> (K&#x000f6;llner <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0024" ref-type="ref">2008</xref>; Hiltpold <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0017" ref-type="ref">2011</xref>) and attract the root feeder (Robert <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0034" ref-type="ref">2012a</xref>). These responses were not altered by later <italic>S.&#x000a0;frugiperda</italic> attack. By contrast, <italic>S.&#x000a0;frugiperda</italic> attack induced a different set of compounds in the roots, including a yet unidentified nitrophenol, and this induction was fully suppressed by prior <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> attack. These results demonstrate that early&#x02010;arriving <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> canalizes the root metabolism in a way that makes it unresponsive to <italic>S.&#x000a0;frugiperda</italic> attack. Canalization of plant responses by herbivores has been proposed to occur in a number of plant&#x02013;herbivore interactions (Thaler <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0040" ref-type="ref">2002</xref>; Viswanathan <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0043" ref-type="ref">2005</xref>; Utsumi <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0041" ref-type="ref">2010</xref>). For example, Viswanathan <italic>et&#x000a0;al</italic>. (<xref rid="nph14328-bib-0042" ref-type="ref">2007</xref>) found that tortoise beetle (<italic>Plagiometriona clavata</italic>) attack after flea beetle (<italic>Psylliodes affinis</italic>) attack of <italic>Solanum dulcamara</italic> did not alter the induced resistance elicited by the flea beetles. By contrast, tortoise beetle attack before flea beetle attack resulted in the disappearance of induced resistance. One possible explanation of canalization is negative cross&#x02010;talk between signaling pathways such that inducing one pathway may attenuate or repress other pathways (Koornneef &#x00026; Pieterse, <xref rid="nph14328-bib-0025" ref-type="ref">2008</xref>; Erb <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0012" ref-type="ref">2012</xref>). Furthermore, priority in occupying a plant resource may also result in physiological canalization, as resources invested into an initial induced response may not be available for investment into later induced responses (Stam <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0039" ref-type="ref">2014</xref>). In combination with the behavioral experiments, these results suggest that the asymmetrical host acceptance behavior of <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> is caused by physiological canalization.</p><p>In a previous study, we found that leaf attack by <italic>S.&#x000a0;littoralis</italic> leads to a slight decrease in root ethylene production, and that adding ethylene back to the root system restores the attractiveness of the roots to <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> (Robert <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0034" ref-type="ref">2012a</xref>). Many herbivores increase local ethylene emissions of their host plants (Winz &#x00026; Baldwin, <xref rid="nph14328-bib-0045" ref-type="ref">2001</xref>; von Dahl &#x00026; Baldwin, <xref rid="nph14328-bib-0007" ref-type="ref">2007</xref>; Sch&#x000e4;fer <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0037" ref-type="ref">2011</xref>), and it is therefore possible that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> attack resulted in the reversal or canalization of the ethylene response of the roots. Unfortunately, ethylene emissions could not be measured in the current series of experiments. However, the presented findings suggest that <italic>S.&#x000a0;frugiperda</italic> attack also triggers the release of repellent volatiles which are suppressed by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic>. The escape experiment in particular shows that <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> systematically moves away from leaf&#x02010;infested plants, and it seems unlikely that a reduction in ethylene concentrations alone can account for this result. Furthermore, the volatile mixing experiment suggests that the volatile blend of the roots of an <italic>S.&#x000a0;frugiperda</italic>&#x02010;attacked plant overrides the attractive signal from a <italic>D.&#x000a0;v.&#x000a0;virgifera</italic>&#x02010;infested root system.</p><p>In our GC&#x02010;MS chromatograms, we found several volatiles that increased in the roots of <italic>S.&#x000a0;frugiperda</italic>&#x02010;attacked plants. Elucidating their structure and bioactivity is an exciting prospect&#x000a0;for future work. A recent paper identified methyl antranilate as a repellent for neonate <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae (Bernklau <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0004" ref-type="ref">2016</xref>). Although methyl antranilate was not among the <italic>S.&#x000a0;frugiperda</italic>&#x02010;induced root volatiles, it provides an interesting starting point to identify the volatiles that render <italic>S.&#x000a0;frugiperda</italic>&#x02010;attacked plants repellent to <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> larvae. One aspect that should be kept in mind is that root volatiles were measured by grinding root material and sampling the headspace of the ground samples by SPME. The advantages of this technique are its sensitivity and robustness. Its disadvantage is that it may result in the detection of volatile compounds that are not actually released into the rhizosphere by intact roots. Future experiments should therefore include <italic>in&#x000a0;vivo</italic> sampling techniques to confirm the release of the newly detected volatiles into the rhizosphere (Ali <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0001" ref-type="ref">2010</xref>; Hiltpold <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0017" ref-type="ref">2011</xref>).</p><p>Host location and acceptance by herbivores are key processes in plant&#x02013;herbivore interactions. Our results show that physiological canalization can have a strong, sequence&#x02010;specific impact on host acceptance by herbivores, which may result in strongly diverging herbivore damage and distribution patterns in the field. Our previous work shows that the repellent effect of leaf infestation on root herbivores is highly conserved across herbivore species and maize genotypes (Lu <italic>et&#x000a0;al</italic>., <xref rid="nph14328-bib-0028" ref-type="ref">2016</xref>). Whether similar effects also occur in other plant species remains to be elucidated. Understanding the mechanisms that govern sequence specificity will allow for the integration of this phenomenon into current theory on plant&#x02010;mediated interactions and will facilitate future efforts to develop predictive ecophysiological models of multi&#x02010;herbivore dynamics on shared host plants.</p></sec><sec id="nph14328-sec-0017"><title>Author contributions</title><p>M.E., W.H. and C.A.M.R. planned and designed the research. W.H., L.H., Z.B. and C.A.M.R. carried out experiments. W.H., M.R.H. and M.E. analyzed data. M.E. and W.H. wrote the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>Please note: Wiley Blackwell are not responsible for the content or functionality of any Supporting Information supplied by the authors. Any queries (other than missing material) should be directed to the <italic>New Phytologist</italic> Central Office.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig.&#x000a0;S1</bold> Infestation by <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> does not change aboveground damage by <italic>S.&#x000a0;frugiperda</italic> larvae.</p></caption><media xlink:href="NPH-214-169-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="nph14328-sec-0016"><title>Acknowledgements</title><p>We thank Yves Borcard (FARCE Laboratory, University of Neuch&#x000e2;tel) for supplying <italic>S.&#x000a0;frugiperda</italic> eggs, Wade French and Chad Nielson (ARS&#x02010;USDA Brookings) for supplying <italic>D.&#x000a0;v.&#x000a0;virgifera</italic> eggs and the gardeners of the IPS for their help with plant cultivation. The study was supported by the Swiss National Science Foundation (grant nos 152613 and 153517 to M.E.).</p></ack><ref-list content-type="cited-references" id="nph14328-bibl-0001"><title>References</title><ref id="nph14328-bib-0001"><mixed-citation publication-type="journal" id="nph14328-cit-0001">
+<string-name>
+<surname>Ali</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Alborn</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name>
+<surname>Stelinski</surname>
+<given-names>LL</given-names>
+</string-name>. <year>2010</year>
+<article-title>Subterranean herbivore&#x02010;induced volatiles released by citrus roots upon feeding by <italic>Diaprepes abbreviatus</italic> recruit entomopathogenic nematodes</article-title>. <source xml:lang="en">Journal of Chemical Ecology</source>
+<volume>36</volume>: <fpage>361</fpage>&#x02013;<lpage>368</lpage>.<pub-id pub-id-type="pmid">20309617</pub-id></mixed-citation></ref><ref id="nph14328-bib-0002"><mixed-citation publication-type="journal" id="nph14328-cit-0002">
+<string-name>
+<surname>Bates</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e4;chler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bolker</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>S</given-names>
+</string-name>. <year>2015</year>
+<article-title>Fitting linear mixed&#x02010;effects models using lme4</article-title>. <source xml:lang="en">Journal of Statistical Software</source>
+<volume>67</volume>: <fpage>1</fpage>&#x02013;<lpage>48</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0003"><mixed-citation publication-type="journal" id="nph14328-cit-0003">
+<string-name>
+<surname>Benjamini</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hochberg</surname>
+<given-names>Y</given-names>
+</string-name>. <year>1995</year>
+<article-title>Controlling the false discovery rate: a practical and powerful approach to multiple testing</article-title>. <source xml:lang="en">Journal of the Royal Statistical Society: Series B (Statistical Methodology)</source>
+<volume>57</volume>: <fpage>289</fpage>&#x02013;<lpage>300</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0004"><mixed-citation publication-type="journal" id="nph14328-cit-0004">
+<string-name>
+<surname>Bernklau</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Hibbard</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Norton</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Bjostad</surname>
+<given-names>LB</given-names>
+</string-name>. <year>2016</year>
+<article-title>Methyl anthranilate as a repellent for western corn rootworm larvae (Coleoptera: Chrysomelidae)</article-title>. <source xml:lang="en">Journal of Economic Entomology.</source>
+<volume>109</volume>: <fpage>1683</fpage>&#x02013;<lpage>1690</lpage>.<pub-id pub-id-type="pmid">27122493</pub-id></mixed-citation></ref><ref id="nph14328-bib-0005"><mixed-citation publication-type="journal" id="nph14328-cit-0005">
+<string-name>
+<surname>Branson</surname>
+<given-names>TF</given-names>
+</string-name>. <year>1976</year>
+<article-title>The selection of a non&#x02010;diapausing strain of <italic>Diabrotica virgifera</italic> (Coleoptera: Chrysomelidae)</article-title>. <source xml:lang="en">Entomologia Experimentalis et Applicata</source>
+<volume>19</volume>: <fpage>148</fpage>&#x02013;<lpage>154</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0006"><mixed-citation publication-type="journal" id="nph14328-cit-0006">
+<string-name>
+<surname>Branson</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name>
+<surname>Krysan</surname>
+<given-names>JL</given-names>
+</string-name>. <year>1981</year>
+<article-title>Feeding and oviposition behavior and life cycle strategies of <italic>Diabrotica</italic>: an evolutionary view with implications for pest management</article-title>. <source xml:lang="en">Environmental Entomology</source>
+<volume>10</volume>: <fpage>826</fpage>&#x02013;<lpage>831</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0007"><mixed-citation publication-type="journal" id="nph14328-cit-0007">
+<string-name>
+<surname>von Dahl</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Baldwin</surname>
+<given-names>IT</given-names>
+</string-name>. <year>2007</year>
+<article-title>Deciphering the role of ethylene in plant&#x02013;herbivore interactions</article-title>. <source xml:lang="en">Journal of Plant Growth Regulation</source>
+<volume>26</volume>: <fpage>201</fpage>&#x02013;<lpage>209</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0008"><mixed-citation publication-type="journal" id="nph14328-cit-0008">
+<string-name>
+<surname>Denno</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Mcclure</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Ott</surname>
+<given-names>JR</given-names>
+</string-name>. <year>1995</year>
+<article-title>Interspecific interactions in phytophagous insects: competition reexamined and resurrected</article-title>. <source xml:lang="en">Annual Review of Entomology</source>
+<volume>40</volume>: <fpage>297</fpage>&#x02013;<lpage>331</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0009"><mixed-citation publication-type="journal" id="nph14328-cit-0009">
+<string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Balmer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>De Lange</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Von Merey</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Planchamp</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>
+<given-names>CAM</given-names>
+</string-name>, <string-name>
+<surname>R&#x000f6;der</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sobhy</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Zwahlen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mauch&#x02010;Mani</surname>
+<given-names>B</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2011c</year>
+<article-title>Synergies and trade&#x02010;offs between insect and pathogen resistance in maize leaves and roots</article-title>. <source xml:lang="en">Plant, Cell &#x00026; Environment</source>
+<volume>34</volume>: <fpage>1088</fpage>&#x02013;<lpage>1103</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0010"><mixed-citation publication-type="journal" id="nph14328-cit-0010">
+<string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Flors</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Karlen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>De Lange</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Planchamp</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>D'Alessandro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</string-name>, <string-name>
+<surname>Ton</surname>
+<given-names>J</given-names>
+</string-name>. <year>2009</year>
+<article-title>Signal signature of aboveground&#x02010;induced resistance upon belowground herbivory in maize</article-title>. <source xml:lang="en">Plant Journal</source>
+<volume>59</volume>: <fpage>292</fpage>&#x02013;<lpage>302</lpage>.<pub-id pub-id-type="pmid">19392694</pub-id></mixed-citation></ref><ref id="nph14328-bib-0011"><mixed-citation publication-type="journal" id="nph14328-cit-0011">
+<string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;llner</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Degenhardt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zwahlen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hibbard</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</string-name>. <year>2011b</year>
+<article-title>The role of abscisic acid and water stress in root herbivore&#x02010;induced leaf resistance</article-title>. <source xml:lang="en">New Phytologist</source>
+<volume>189</volume>: <fpage>308</fpage>&#x02013;<lpage>320</lpage>.<pub-id pub-id-type="pmid">20840610</pub-id></mixed-citation></ref><ref id="nph14328-bib-0012"><mixed-citation publication-type="journal" id="nph14328-cit-0012">
+<string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Meldau</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Howe</surname>
+<given-names>GA</given-names>
+</string-name>. <year>2012</year>
+<article-title>Role of phytohormones in insect&#x02010;specific plant reactions</article-title>. <source xml:lang="en">Trends in Plant Science</source>
+<volume>17</volume>: <fpage>250</fpage>&#x02013;<lpage>259</lpage>.<pub-id pub-id-type="pmid">22305233</pub-id></mixed-citation></ref><ref id="nph14328-bib-0013"><mixed-citation publication-type="journal" id="nph14328-cit-0013">
+<string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>
+<given-names>CAM</given-names>
+</string-name>, <string-name>
+<surname>Hibbard</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</string-name>. <year>2011a</year>
+<article-title>Sequence of arrival determines plant&#x02010;mediated interactions between herbivores</article-title>. <source xml:lang="en">Journal of Ecology</source>
+<volume>99</volume>: <fpage>7</fpage>&#x02013;<lpage>15</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0014"><mixed-citation publication-type="journal" id="nph14328-cit-0014">
+<string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>
+<given-names>CAM</given-names>
+</string-name>, <string-name>
+<surname>Marti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Doyen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Villard</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Barri&#x000e8;re</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>French</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Wolfender</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2015</year>
+<article-title>A physiological and behavioral mechanism for leaf&#x02010;herbivore induced systemic root resistance</article-title>. <source xml:lang="en">Plant Physiology</source>
+<volume>169</volume>: <fpage>2884</fpage>&#x02013;<lpage>2894</lpage>.<pub-id pub-id-type="pmid">26430225</pub-id></mixed-citation></ref><ref id="nph14328-bib-0015"><mixed-citation publication-type="book" id="nph14328-cit-0015">
+<string-name>
+<surname>Fox</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Weisberg</surname>
+<given-names>S</given-names>
+</string-name>. <year>2011</year>
+<source xml:lang="en">An R companion to applied regression</source>. <publisher-loc>Thousand Oaks, CA, USA</publisher-loc>: <publisher-name>Sage</publisher-name>.</mixed-citation></ref><ref id="nph14328-bib-0016"><mixed-citation publication-type="miscellaneous" id="nph14328-cit-0016">
+<string-name>
+<surname>Herv&#x000e9;</surname>
+<given-names>M</given-names>
+</string-name>. <year>2016</year>
+<article-title>RVAideMemoire: diverse basic statistical and graphical functions. R package version 0.9&#x02010;61</article-title>. [WWW document] URL <ext-link ext-link-type="uri" xlink:href="https://CRAN.R-project.org/package=RVAideMemoire">https://CRAN.R-project.org/package=RVAideMemoire</ext-link> [accessed 31 October 2016].</mixed-citation></ref><ref id="nph14328-bib-0017"><mixed-citation publication-type="journal" id="nph14328-cit-0017">
+<string-name>
+<surname>Hiltpold</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>
+<given-names>CAM</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</string-name>. <year>2011</year>
+<article-title>Systemic root signalling in a belowground, volatile&#x02010;mediated tritrophic interaction</article-title>. <source xml:lang="en">Plant, Cell &#x00026; Environment</source>
+<volume>34</volume>: <fpage>1267</fpage>&#x02013;<lpage>1275</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0018"><mixed-citation publication-type="journal" id="nph14328-cit-0018">
+<string-name>
+<surname>Huang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Siemann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>. <year>2014</year>
+<article-title>Species&#x02010;specific defence responses facilitate conspecifics and inhibit heterospecifics in above&#x02010;belowground herbivore interactions</article-title>. <source xml:lang="en">Nature Communications</source>
+<volume>5</volume>: <fpage>4851</fpage>.</mixed-citation></ref><ref id="nph14328-bib-0019"><mixed-citation publication-type="journal" id="nph14328-cit-0019">
+<string-name>
+<surname>Huang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Siemann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wheeler</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</string-name>. <year>2013</year>
+<article-title>Facilitation and inhibition: changes in plant nitrogen and secondary metabolites mediate interactions between above&#x02010;ground and below&#x02010;ground herbivores</article-title>. <source xml:lang="en">Proceedings of the Royal Society B&#x02010;Biological Sciences</source>
+<volume>280</volume>: <fpage>20131318</fpage>.</mixed-citation></ref><ref id="nph14328-bib-0020"><mixed-citation publication-type="journal" id="nph14328-cit-0020">
+<string-name>
+<surname>Johnson</surname>
+<given-names>MTJ</given-names>
+</string-name>, <string-name>
+<surname>Agrawal</surname>
+<given-names>AA</given-names>
+</string-name>. <year>2005</year>
+<article-title>Plant genotype and environment interact to shape a diverse arthropod community on evening primrose (<italic>Oenothera biennis</italic>)</article-title>. <source xml:lang="en">Ecology</source>
+<volume>86</volume>: <fpage>874</fpage>&#x02013;<lpage>885</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0021"><mixed-citation publication-type="journal" id="nph14328-cit-0021">
+<string-name>
+<surname>Johnson</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Hartley</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>McKenzie</surname>
+<given-names>SW</given-names>
+</string-name>. <year>2012</year>
+<article-title>Aboveground&#x02010;belowground herbivore interactions. a meta&#x02010;analysis</article-title>. <source xml:lang="en">Ecology</source>
+<volume>93</volume>: <fpage>2208</fpage>&#x02013;<lpage>2215</lpage>.<pub-id pub-id-type="pmid">23185882</pub-id></mixed-citation></ref><ref id="nph14328-bib-0022"><mixed-citation publication-type="journal" id="nph14328-cit-0022">
+<string-name>
+<surname>Kaplan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Denno</surname>
+<given-names>RF</given-names>
+</string-name>. <year>2007</year>
+<article-title>Interspecific interactions in phytophagous insects revisited: a quantitative assessment of competition theory</article-title>. <source xml:lang="en">Ecology Letters</source>
+<volume>10</volume>: <fpage>977</fpage>&#x02013;<lpage>994</lpage>.<pub-id pub-id-type="pmid">17855811</pub-id></mixed-citation></ref><ref id="nph14328-bib-0023"><mixed-citation publication-type="journal" id="nph14328-cit-0023">
+<string-name>
+<surname>Karban</surname>
+<given-names>R</given-names>
+</string-name>. <year>2011</year>
+<article-title>The ecology and evolution of induced resistance against herbivores</article-title>. <source xml:lang="en">Functional Ecology</source>
+<volume>25</volume>: <fpage>339</fpage>&#x02013;<lpage>347</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0024"><mixed-citation publication-type="journal" id="nph14328-cit-0024">
+<string-name>
+<surname>K&#x000f6;llner</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Held</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lenk</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hiltpold</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</string-name>, <string-name>
+<surname>Gershenzon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Degenhardt</surname>
+<given-names>J</given-names>
+</string-name>. <year>2008</year>
+<article-title>A maize (<italic>E</italic>)&#x02010;&#x003b2;&#x02010;Caryophyllene synthase implicated in indirect defense responses against herbivores is not expressed in most American maize varieties</article-title>. <source xml:lang="en">The Plant Cell</source>
+<volume>20</volume>: <fpage>482</fpage>&#x02013;<lpage>494</lpage>.<pub-id pub-id-type="pmid">18296628</pub-id></mixed-citation></ref><ref id="nph14328-bib-0025"><mixed-citation publication-type="journal" id="nph14328-cit-0025">
+<string-name>
+<surname>Koornneef</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pieterse</surname>
+<given-names>CMJ</given-names>
+</string-name>. <year>2008</year>
+<article-title>Cross talk in defense signaling</article-title>. <source xml:lang="en">Plant Physiology</source>
+<volume>146</volume>: <fpage>839</fpage>&#x02013;<lpage>844</lpage>.<pub-id pub-id-type="pmid">18316638</pub-id></mixed-citation></ref><ref id="nph14328-bib-0026"><mixed-citation publication-type="journal" id="nph14328-cit-0026">
+<string-name>
+<surname>Lenth</surname>
+<given-names>RV</given-names>
+</string-name>. <year>2016</year>
+<article-title>Least&#x02010;squares means: the R package lsmeans</article-title>. <source xml:lang="en">Journal of Statistical Software</source>
+<volume>69</volume>: <fpage>1</fpage>&#x02013;<lpage>33</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0027"><mixed-citation publication-type="journal" id="nph14328-cit-0027">
+<string-name>
+<surname>Loreau</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>de Mazancourt</surname>
+<given-names>C</given-names>
+</string-name>. <year>2013</year>
+<article-title>Biodiversity and ecosystem stability: a synthesis of underlying mechanisms</article-title>. <source xml:lang="en">Ecology Letters</source>
+<volume>16</volume>: <fpage>106</fpage>&#x02013;<lpage>115</lpage>.<pub-id pub-id-type="pmid">23346947</pub-id></mixed-citation></ref><ref id="nph14328-bib-0028"><mixed-citation publication-type="journal" id="nph14328-cit-0028">
+<string-name>
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>
+<given-names>CAM</given-names>
+</string-name>, <string-name>
+<surname>Lou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>. <year>2016</year>
+<article-title>A conserved pattern in plant&#x02010;mediated interactions between herbivores</article-title>. <source xml:lang="en">Ecology and Evolution</source>
+<volume>6</volume>: <fpage>1032</fpage>&#x02013;<lpage>1040</lpage>.<pub-id pub-id-type="pmid">26811746</pub-id></mixed-citation></ref><ref id="nph14328-bib-0029"><mixed-citation publication-type="book" id="nph14328-cit-0029">
+<string-name>
+<surname>O'Day</surname>
+<given-names>M</given-names>
+</string-name>. <year>1998</year>
+<source xml:lang="en">Corn insect pests: a diagnostic guide</source>. <publisher-loc>Columbia, MO, USA</publisher-loc>: <publisher-name>University of Missouri&#x02010;Columbia</publisher-name>.</mixed-citation></ref><ref id="nph14328-bib-0030"><mixed-citation publication-type="journal" id="nph14328-cit-0030">
+<string-name>
+<surname>Ohgushi</surname>
+<given-names>T</given-names>
+</string-name>. <year>2005</year>
+<article-title>Indirect interaction webs: herbivore&#x02010;induced effects through trait change in plants</article-title>. <source xml:lang="en">Annual Review of Ecology, Evolution, and Systematics</source>
+<volume>36</volume>: <fpage>81</fpage>&#x02013;<lpage>105</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0031"><mixed-citation publication-type="miscellaneous" id="nph14328-cit-0031">
+<string-name>
+<surname>Oksanen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Blanchet</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Kindt</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Legendre</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Minchin</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>O'Hara</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Solymos</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>
+<given-names>MHH</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>
+<given-names>H</given-names>
+</string-name>. <year>2016</year>
+<article-title>vegan: Community Ecology Package. R package version 2.4&#x02010;1</article-title> [WWW document] URL <ext-link ext-link-type="uri" xlink:href="https://CRAN.R-project.org/package=vegan">https://CRAN.R-project.org/package=vegan</ext-link>. [accessed 7 September 2016].</mixed-citation></ref><ref id="nph14328-bib-0032"><mixed-citation publication-type="journal" id="nph14328-cit-0032">
+<string-name>
+<surname>Poelman</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Broekgaarden</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Van Loon</surname>
+<given-names>JJA</given-names>
+</string-name>, <string-name>
+<surname>Dicke</surname>
+<given-names>M</given-names>
+</string-name>. <year>2008</year>
+<article-title>Early season herbivore differentially affects plant defence responses to subsequently colonizing herbivores and their abundance in the field</article-title>. <source xml:lang="en">Molecular Ecology</source>
+<volume>17</volume>: <fpage>3352</fpage>&#x02013;<lpage>3365</lpage>.<pub-id pub-id-type="pmid">18565114</pub-id></mixed-citation></ref><ref id="nph14328-bib-0033"><mixed-citation publication-type="book" id="nph14328-cit-0033">
+<string-name>
+<surname>Poelman</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Dicke</surname>
+<given-names>M</given-names>
+</string-name>. <year>2014</year>
+<chapter-title>Plant&#x02010;mediated interactions among insects within a community ecological perspective</chapter-title> In: <person-group person-group-type="editor"><name><surname>Voelckel</surname><given-names>C</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Jander</surname><given-names>G</given-names></name></person-group>, eds. <source xml:lang="en">Annual plant reviews insect plant interactions</source>. <publisher-loc>New York, NY, USA</publisher-loc>: <publisher-name>Wiley</publisher-name>, <fpage>309</fpage>&#x02013;<lpage>337</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0034"><mixed-citation publication-type="journal" id="nph14328-cit-0034">
+<string-name>
+<surname>Robert</surname>
+<given-names>CAM</given-names>
+</string-name>, <string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Duployer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zwahlen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Doyen</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</string-name>. <year>2012a</year>
+<article-title>Herbivore&#x02010;induced plant volatiles mediate host selection by a root herbivore</article-title>. <source xml:lang="en">New Phytologist</source>
+<volume>194</volume>: <fpage>1061</fpage>&#x02013;<lpage>1069</lpage>.<pub-id pub-id-type="pmid">22486361</pub-id></mixed-citation></ref><ref id="nph14328-bib-0035"><mixed-citation publication-type="journal" id="nph14328-cit-0035">
+<string-name>
+<surname>Robert</surname>
+<given-names>CAM</given-names>
+</string-name>, <string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hibbard</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Wade French</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zwahlen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</string-name>. <year>2012b</year>
+<article-title>A specialist root herbivore reduces plant resistance and uses an induced plant volatile to aggregate in a density&#x02010;dependent manner</article-title>. <source xml:lang="en">Functional Ecology</source>
+<volume>26</volume>: <fpage>1429</fpage>&#x02013;<lpage>1440</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0036"><mixed-citation publication-type="journal" id="nph14328-cit-0036">
+<string-name>
+<surname>Robert</surname>
+<given-names>CAM</given-names>
+</string-name>, <string-name>
+<surname>Veyrat</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Glauser</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Marti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Doyen</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Villard</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gaillard</surname>
+<given-names>MDP</given-names>
+</string-name>, <string-name>
+<surname>Kollner</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Giron</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Body</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2012c</year>
+<article-title>A specialist root herbivore exploits defensive metabolites to locate nutritious tissues</article-title>. <source xml:lang="en">Ecology Letters</source>
+<volume>15</volume>: <fpage>55</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">22070646</pub-id></mixed-citation></ref><ref id="nph14328-bib-0037"><mixed-citation publication-type="journal" id="nph14328-cit-0037">
+<string-name>
+<surname>Sch&#x000e4;fer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Meldau</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Seebald</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Oelm&#x000fc;ller</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Baldwin</surname>
+<given-names>IT</given-names>
+</string-name>. <year>2011</year>
+<article-title>Lipase activity in insect oral secretions mediates defense responses in Arabidopsis</article-title>. <source xml:lang="en">Plant Physiology</source>
+<volume>156</volume>: <fpage>1520</fpage>&#x02013;<lpage>1534</lpage>.<pub-id pub-id-type="pmid">21546453</pub-id></mixed-citation></ref><ref id="nph14328-bib-0038"><mixed-citation publication-type="journal" id="nph14328-cit-0038">
+<string-name>
+<surname>Soler</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Badenes&#x02010;P&#x000e9;rez</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Broekgaarden</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>S&#x02010;J</given-names>
+</string-name>, <string-name>
+<surname>David</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Boland</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Dicke</surname>
+<given-names>M</given-names>
+</string-name>. <year>2012</year>
+<article-title>Plant&#x02010;mediated facilitation between a leaf&#x02010;feeding and a phloem&#x02010;feeding insect in a brassicaceous plant: from insect performance to gene transcription</article-title>. <source xml:lang="en">Functional Ecology</source>
+<volume>26</volume>: <fpage>156</fpage>&#x02013;<lpage>166</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0039"><mixed-citation publication-type="journal" id="nph14328-cit-0039">
+<string-name>
+<surname>Stam</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Kroes</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gols</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>van Loon</surname>
+<given-names>JJA</given-names>
+</string-name>, <string-name>
+<surname>Poelman</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Dicke</surname>
+<given-names>M</given-names>
+</string-name>. <year>2014</year>
+<article-title>Plant interactions with multiple insect herbivores: from community to genes</article-title>. <source xml:lang="en">Annual Review of Plant Biology</source>
+<volume>65</volume>: <fpage>689</fpage>&#x02013;<lpage>713</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0040"><mixed-citation publication-type="journal" id="nph14328-cit-0040">
+<string-name>
+<surname>Thaler</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Fidantsef</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Bostock</surname>
+<given-names>RM</given-names>
+</string-name>. <year>2002</year>
+<article-title>Antagonism between jasmonate&#x02010; and salicylate&#x02010;mediated induced plant resistance: effects of concentration and timing of elicitation on defense&#x02010;related proteins, herbivore, and pathogen performance in tomato</article-title>. <source xml:lang="en">Journal of Chemical Ecology</source>
+<volume>28</volume>: <fpage>1131</fpage>&#x02013;<lpage>1159</lpage>.<pub-id pub-id-type="pmid">12184393</pub-id></mixed-citation></ref><ref id="nph14328-bib-0041"><mixed-citation publication-type="journal" id="nph14328-cit-0041">
+<string-name>
+<surname>Utsumi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ando</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Miki</surname>
+<given-names>T</given-names>
+</string-name>. <year>2010</year>
+<article-title>Linkages among trait&#x02010;mediated indirect effects: a new framework for the indirect interaction web</article-title>. <source xml:lang="en">Population Ecology</source>
+<volume>52</volume>: <fpage>485</fpage>&#x02013;<lpage>497</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0042"><mixed-citation publication-type="journal" id="nph14328-cit-0042">
+<string-name>
+<surname>Viswanathan</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name>
+<surname>Lifchits</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Thaler</surname>
+<given-names>JS</given-names>
+</string-name>. <year>2007</year>
+<article-title>Consequences of sequential attack for resistance to herbivores when plants have specific induced responses</article-title>. <source xml:lang="en">Oikos</source>
+<volume>116</volume>: <fpage>1389</fpage>&#x02013;<lpage>1399</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0043"><mixed-citation publication-type="journal" id="nph14328-cit-0043">
+<string-name>
+<surname>Viswanathan</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name>
+<surname>Narwani</surname>
+<given-names>AJT</given-names>
+</string-name>, <string-name>
+<surname>Thaler</surname>
+<given-names>JS</given-names>
+</string-name>. <year>2005</year>
+<article-title>Specificity in induced plant responses shapes patterns of herbivore occurrence on <italic>Solanum dulcamara</italic>
+</article-title>. <source xml:lang="en">Ecology</source>
+<volume>86</volume>: <fpage>886</fpage>&#x02013;<lpage>896</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0044"><mixed-citation publication-type="journal" id="nph14328-cit-0044">
+<string-name>
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Biere</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>van der Putten</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Bezemer</surname>
+<given-names>TM</given-names>
+</string-name>. <year>2014</year>
+<article-title>Sequential effects of root and foliar herbivory on aboveground and belowground induced plant defense responses and insect performance</article-title>. <source xml:lang="en">Oecologia</source>
+<volume>175</volume>: <fpage>187</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">24448700</pub-id></mixed-citation></ref><ref id="nph14328-bib-0045"><mixed-citation publication-type="journal" id="nph14328-cit-0045">
+<string-name>
+<surname>Winz</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Baldwin</surname>
+<given-names>IT</given-names>
+</string-name>. <year>2001</year>
+<article-title>Molecular interactions between the specialist herbivore <italic>Manduca sexta</italic> (Lepidoptera, Sphingidae) and its natural host <italic>Nicotiana attenuata</italic>. IV. Insect&#x02010;induced ethylene reduces jasmonate&#x02010;induced nicotine accumulation by regulating putrescine <italic>N</italic>&#x02010;Methyltransferase transcripts</article-title>. <source xml:lang="en">Plant Physiology</source>
+<volume>125</volume>: <fpage>2189</fpage>&#x02013;<lpage>2202</lpage>.<pub-id pub-id-type="pmid">11299398</pub-id></mixed-citation></ref><ref id="nph14328-bib-0046"><mixed-citation publication-type="journal" id="nph14328-cit-0046">
+<string-name>
+<surname>Wurst</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>van der Putten</surname>
+<given-names>WH</given-names>
+</string-name>. <year>2007</year>
+<article-title>Root herbivore identity matters in plant&#x02010;mediated interactions between root and shoot herbivores</article-title>. <source xml:lang="en">Basic and Applied Ecology</source>
+<volume>8</volume>: <fpage>491</fpage>&#x02013;<lpage>499</lpage>.</mixed-citation></ref><ref id="nph14328-bib-0047"><mixed-citation publication-type="journal" id="nph14328-cit-0047">
+<string-name>
+<surname>Xiao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Erb</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<year>2012</year>
+<article-title>Specific herbivore&#x02010;induced volatiles defend plants and determine insect community composition in the field</article-title>. <source xml:lang="en">Ecology Letters</source>
+<volume>15</volume>: <fpage>1130</fpage>&#x02013;<lpage>1139</lpage>.<pub-id pub-id-type="pmid">22804824</pub-id></mixed-citation></ref></ref-list></back></article>

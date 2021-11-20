@@ -1,0 +1,1274 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol. J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6330542</article-id><article-id pub-id-type="doi">10.1111/pbi.12949</article-id><article-id pub-id-type="publisher-id">PBI12949</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>The Asian corn borer <italic>Ostrinia furnacalis</italic> feeding increases the direct and indirect defence of mid&#x02010;whorl stage commercial maize in the field</article-title><alt-title alt-title-type="left-running-head"><italic>Jingfei Guo</italic> et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="pbi12949-cr-0001" contrib-type="author"><name><surname>Guo</surname><given-names>Jingfei</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6771-9832</contrib-id><xref ref-type="aff" rid="pbi12949-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12949-cr-0002" contrib-type="author"><name><surname>Qi</surname><given-names>Jinfeng</given-names></name><xref ref-type="aff" rid="pbi12949-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12949-cr-0003" contrib-type="author"><name><surname>He</surname><given-names>Kanglai</given-names></name><xref ref-type="aff" rid="pbi12949-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12949-cr-0004" contrib-type="author"><name><surname>Wu</surname><given-names>Jianqiang</given-names></name><xref ref-type="aff" rid="pbi12949-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi12949-cr-0005" contrib-type="author"><name><surname>Bai</surname><given-names>Shuxiong</given-names></name><xref ref-type="aff" rid="pbi12949-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12949-cr-0006" contrib-type="author"><name><surname>Zhang</surname><given-names>Tiantao</given-names></name><xref ref-type="aff" rid="pbi12949-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi12949-cr-0007" contrib-type="author"><name><surname>Zhao</surname><given-names>Jiuran</given-names></name><xref ref-type="aff" rid="pbi12949-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pbi12949-cr-0008" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Zhenying</given-names></name><address><email>zywang@ippcaas.cn</email></address><xref ref-type="aff" rid="pbi12949-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pbi12949-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">State Key Laboratory for Biology of Plant Diseases and Insect Pests</named-content>
+<named-content content-type="organisation-division">MOA &#x02013; CABI Joint Laboratory for Bio&#x02010;safety</named-content>
+<named-content content-type="organisation-division">Institute of Plant Protection</named-content>
+<institution>Chinese Academy of Agricultural Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12949-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Economic Plants and Biotechnology</named-content>
+<named-content content-type="organisation-division">Yunnan Key Laboratory for Wild Plant Resources</named-content>
+<institution>Kunming Institute of Botany</institution>
+<institution>Chinese Academy of Sciences</institution>
+<named-content content-type="city">Kunming</named-content>
+<country country="CN">China</country>
+</aff><aff id="pbi12949-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Maize Research Center</named-content>
+<institution>Beijing Academy of Agriculture and Forestry Sciences</institution>
+<named-content content-type="city">Beijing</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel +86&#x02010;10&#x02010;62815945; fax +86&#x02010;10&#x02010;62896114; email <email>zywang@ippcaas.cn</email>)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2019</year></pub-date><volume>17</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/pbi.2019.17.issue-1</issue-id><fpage>88</fpage><lpage>102</lpage><history><date date-type="received"><day>23</day><month>2</month><year>2018</year></date><date date-type="rev-recd"><day>03</day><month>5</month><year>2018</year></date><date date-type="accepted"><day>05</day><month>5</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PBI-17-88.pdf"/><abstract id="pbi12949-abs-0001"><title>Summary</title><p>The Asian corn borer (<italic>Ostrinia furnacalis</italic> Guen&#x000e9;e) is a destructive pest of maize (<italic>Zea mays</italic> L.). Despite large&#x02010;scale commercial maize production, little is known about the defensive responses of field&#x02010;grown commercial maize to <italic>O.&#x000a0;furnacalis</italic> herbivory, and how these responses result in direct and indirect defence against this pest. To elucidate the maize transcriptome response to <italic>O.&#x000a0;furnacalis</italic> feeding, leaves of maize hybrid Jingke968 were infested with <italic>O.&#x000a0;furnacalis</italic> for 0, 2, 4, 12 and 24&#x000a0;h. <italic>Ostrinia furnacalis</italic> feeding elicited stronger and more rapid changes in the defence&#x02010;related gene expression (i.e. after 2&#x000a0;h), and more differentially expressed genes (<styled-content style="fixed-case">DEG</styled-content>s) were up&#x02010;regulated than down&#x02010;regulated at all times post&#x02010;induction (i.e. 2, 4, 12 and 24&#x000a0;h) in the <italic>O.&#x000a0;furnacalis</italic> pre&#x02010;infested maize plants. <styled-content style="fixed-case">KEGG</styled-content> pathway analysis indicated that the <styled-content style="fixed-case">DEG</styled-content>s in the <italic>O.&#x000a0;furnacalis</italic> pre&#x02010;infested maize are involved in benzoxazinoids, phytohormones, volatiles, and other metabolic pathways related to maize resistance to herbivores. In addition, the maize leaves previously infested by <italic>O.&#x000a0;furnacalis</italic> for 24&#x000a0;h showed an obvious inhibition of the subsequent <italic>O.&#x000a0;furnacalis</italic> performance, and maize volatiles induced by <italic>O.&#x000a0;furnacalis</italic> feeding for 24 and 48&#x000a0;h attracted the parasitic wasp, <italic>Macrocentrus cingulum</italic> Brischke. The increased direct and indirect defences induced by <italic>O.&#x000a0;furnacalis</italic> feeding were correlated with <italic>O.&#x000a0;furnacalis&#x02010;</italic>induced phytohormones, benzoxazinoids, and volatiles. Together, our findings provide new insights into how commercial maize orchestrates its transcriptome and metabolome to directly and indirectly defend against <italic>O.&#x000a0;furnacalis</italic> at the mid&#x02010;whorl stage in the field.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pbi12949-kwd-0001">maize</kwd><kwd id="pbi12949-kwd-0002"><italic>Ostrinia furnacalis</italic></kwd><kwd id="pbi12949-kwd-0003">induced resistance</kwd><kwd id="pbi12949-kwd-0004">transcriptome</kwd><kwd id="pbi12949-kwd-0005">phytohormones</kwd><kwd id="pbi12949-kwd-0006">benzoxazinoids</kwd><kwd id="pbi12949-kwd-0007">herbivore&#x02010;induced volatiles</kwd></kwd-group><funding-group><award-group><funding-source>National Key Research and Development Program of China</funding-source><award-id>2017YFD0201802</award-id></award-group><award-group><funding-source>China Agriculture Research System</funding-source><award-id>CARS&#x02010;02</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="15"/><word-count count="10822"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>pbi12949</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.4 mode:remove_FC converted:14.01.2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pbi12949-sec-0001"><title>Introduction</title><p>Plants have evolved many defence systems to combat insect attack (Chuang <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0012" ref-type="ref">2014</xref>; Wu and Baldwin, <xref rid="pbi12949-bib-0103" ref-type="ref">2010</xref>). Certain systems, termed &#x02018;direct defences&#x02019;, involve the production of antifeedant or toxic compounds that inhibit insect performance (Chen, <xref rid="pbi12949-bib-0009" ref-type="ref">2008</xref>; Howe and Jander, <xref rid="pbi12949-bib-0036" ref-type="ref">2008</xref>). Other &#x02018;indirect defences&#x02019; involve the emission of herbivore&#x02010;induced plant volatiles (HIPVs) that attract the pest<sup>,</sup>s natural enemies (Turlings and Erb, <xref rid="pbi12949-bib-0092" ref-type="ref">2018</xref>; Turlings <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0093" ref-type="ref">1990</xref>). Plant defences are mediated by phytohormones, including jasmonic acid (JA), abscisic acid (ABA) and salicylic acid (SA) (Ankala <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0003" ref-type="ref">2009</xref>; Howe and Jander, <xref rid="pbi12949-bib-0036" ref-type="ref">2008</xref>; Kessler and Baldwin, <xref rid="pbi12949-bib-0045" ref-type="ref">2002</xref>; Rehrig <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0075" ref-type="ref">2014</xref>; Schweiger <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0081" ref-type="ref">2014</xref>; Thaler <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0087" ref-type="ref">2012</xref>; Tzin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0094" ref-type="ref">2015</xref>; Yan <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0106" ref-type="ref">2012</xref>), and the accumulation of JA and SA plays an important role in regulating plant&#x02010;induced resistance to insects (Kawazu <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0043" ref-type="ref">2012</xref>; Kerchev <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0044" ref-type="ref">2012</xref>; Nahar <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0067" ref-type="ref">2011</xref>; Wang and Wu, <xref rid="pbi12949-bib-0098" ref-type="ref">2013</xref>). JA&#x02010;mediated signalling is generally activated by feeding insects (Stam <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0084" ref-type="ref">2014</xref>), and directly and indirectly functions in the activation of both local and systemic defences in plants (Bozorov <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0005" ref-type="ref">2017</xref>; Kaur <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0042" ref-type="ref">2010</xref>). Insect attack generally causes release of several interacting phytohormones (Caarls <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0008" ref-type="ref">2015</xref>; Erb <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0025" ref-type="ref">2012</xref>; Pieterse <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0070" ref-type="ref">2012</xref>; Vos <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0097" ref-type="ref">2013</xref>), allowing plants to make fast and specific responses to the complex biotic and abiotic environment (Stam <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0084" ref-type="ref">2014</xref>).</p><p>Maize (<italic>Zea mays</italic> L.) is widely planted globally (FAOSTAT, <xref rid="pbi12949-bib-0028" ref-type="ref">2017</xref>), and is used in food, fodder and industrial products. During the lifetime of the plant, different parts are inevitably subject to attack from various groups of insects (Meihls <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0061" ref-type="ref">2012</xref>). In China, the Asian corn borer (<italic>Ostrinia furnacalis</italic> Guen&#x000e9;e) is considered one of the most destructive insect pests of maize. Despite numerous control measures, this pest causes an estimated 6&#x02013;9&#x000a0;million tons loss of yield annually (He <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0034" ref-type="ref">2003</xref>). Current control of <italic>O.&#x000a0;furnacalis</italic> primarily relies on pesticides. However, undesirable consequences of pesticide use, including environmental pollution, threats to human health, development of resistance in pests and secondary pest outbreaks, cannot be ignored (Bruce, <xref rid="pbi12949-bib-0006" ref-type="ref">2010</xref>; Mitchell <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0063" ref-type="ref">2016</xref>). A sustainable, cost&#x02010;effective and environmentally friendly option in the control of <italic>O.&#x000a0;furnacalis</italic> is to increase the natural resistance of maize to this pest.</p><p>Well&#x02010;documented examples of maize defensive compounds against <italic>O.&#x000a0;furnacalis</italic> are benzoxazinoids, a major class of indole&#x02010;derived plant metabolites with a wide range of insecticidal, antifeedant, antimicrobial and allelopathic activities (Niemeyer, <xref rid="pbi12949-bib-0068" ref-type="ref">2009</xref>). Benzoxazinoid responses to insect herbivory have been well documented at the V3 stage in the maize inbred line B73 (Maag <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0056" ref-type="ref">2016</xref>; Tzin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0094" ref-type="ref">2015</xref>, <xref rid="pbi12949-bib-0095" ref-type="ref">2017</xref>). Other important defensive chemicals are HIPVs [terpenes, indoles and green leaf volatiles (GLVs)]. They recruit natural enemies of the pest, such as <italic>Cotesia marginiventris</italic> Cresson (Turlings <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0093" ref-type="ref">1990</xref>), or serve as signals to trigger maize defences (Erb <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0026" ref-type="ref">2015</xref>). Maize exhibits high genetic variability in its inducible volatile emissions (Degen <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0018" ref-type="ref">2004</xref>). For example, most American maize lines fail to release (<italic>E</italic>)&#x02010;&#x003b2;&#x02010;caryophyllene in response to pest attack (K&#x000f6;llner <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0048" ref-type="ref">2008</xref>; Rasmann <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0074" ref-type="ref">2005</xref>; Tamiru <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0086" ref-type="ref">2011</xref>), indicating some chemical defences are possibly lost during crop domestication (Chen <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0010" ref-type="ref">2015</xref>). However, whether these defences are lost in Chinese commercial maize, and if not, how they respond to <italic>O.&#x000a0;furnacalis</italic> attack at the vulnerable mid&#x02010;whorl stage, is still unknown. Maize genotypes exhibit tremendous diversity (Buckler <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0007" ref-type="ref">2006</xref>), for example only 32% of the maize line Ki11 and 39% of W22 could be mapped to a B73 RefGen_v4 reference (Jiao <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0038" ref-type="ref">2017</xref>). Genetic variation in maize leads to variation in transcriptome and metabolite responses to pest attack. Song <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0083" ref-type="ref">2017</xref>) demonstrated that maize line B73 and Mo17 showed extensive differences in their responses in transcriptome and metabolite to <italic>Rhopalosiphum padi</italic> L. feeding. There is, therefore, an urgent need to study the transcriptomic and the metabolic responses of commercial maize to <italic>O.&#x000a0;furnacalis</italic> attack at the mid&#x02010;whorl stage, which could be of great practical significance in maize cultivation.</p><p>In this study, we investigated direct and indirect defences of maize to <italic>O.&#x000a0;furnacalis</italic> attack through performance of the pest and behaviour of its dominant endoparasitoid <italic>Macrocentrus cingulum</italic> Brischke. The integration of maize transcriptional dynamics with profiles of phytohormones, benzoxazinoids and volatiles, allowed us to get more insight into the molecular and biochemical defences against <italic>O.&#x000a0;furnacalis</italic>.</p></sec><sec id="pbi12949-sec-0002"><title>Results</title><sec id="pbi12949-sec-0003"><title>Transcriptomic analysis of maize responses to <italic>O.&#x000a0;furnacalis</italic> feeding</title><p>To identify the global transcriptomic changes that occurred in response to <italic>O.&#x000a0;furnacalis</italic> attack, transcriptome data from maize leaves pre&#x02010;infested by <italic>O.&#x000a0;furnacalis</italic> for 0, 2, 4, 12 and 24&#x000a0;h post&#x02010;infestation were collected. Detailed information on RNA sequencing and mapping is summarized in Table&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S1</xref>. Gene expression levels for each replicate were assessed using principal component analysis (PCA) (Figure&#x000a0;<xref rid="pbi12949-fig-0001" ref-type="fig">1</xref>a). Samples from 2&#x02010;, 4&#x02010;, 12&#x02010; and 24&#x02010;h clustered far from the 0&#x02010;h (control) samples, indicating that <italic>O.&#x000a0;furnacalis</italic> feeding induced changes in gene expression. A total of 41&#x000a0;009 transcripts were detected across all samples (Data&#x000a0;<xref rid="pbi12949-sup-0002" ref-type="supplementary-material">S1</xref>), and genes with a false discovery rate (FDR) &#x0003c;0.05 and absolute value of log2ratio&#x000a0;&#x02265;&#x000a0;1 were selected as differentially expressed genes (DEGs) for further analysis. Samples at 2&#x02010;, 4&#x02010;, 12&#x02010; and 24&#x02010;h exhibited 7643 (4547 up and 3096 down), 9037 (5120 up and 3917 down), 10&#x000a0;190 (5706 up and 4484 down) and 10&#x000a0;033 (5638 up and 4395 down) DEGs, respectively (Figures&#x000a0;<xref rid="pbi12949-fig-0001" ref-type="fig">1</xref>b, <xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S1</xref>, Data <xref rid="pbi12949-sup-0003" ref-type="supplementary-material">S2</xref> and <xref rid="pbi12949-sup-0004" ref-type="supplementary-material">S3</xref>). The expression patterns of four selected DEGs (<italic>ACO31</italic>,<italic> OPR2</italic>,<italic> Bx2</italic> and <italic>TPS26</italic>), involved in ethylene, JA, benzoxazinoid and terpene biosynthesis respectively, were examined by quantitative real&#x02010;time PCR (qRT&#x02010;PCR) to validate the RNA&#x02010;seq results. The high correlation coefficients of log2&#x02010;fold changes obtained from RNA&#x02010;seq and qRT&#x02010;PCR results suggested that the RNA&#x02010;Seq data in this study were reliable (Figure&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S2</xref>). The distribution of up&#x02010; and down&#x02010;regulated DEGs at the four times post&#x02010;infestation was calculated and presented in a venn diagram. Expression of 334 DEGs was elevated only 2&#x000a0;h post&#x02010;infestation, after which it returned to normal, and levels of a further 924 DEGs increased at 24&#x000a0;h (Figure&#x000a0;<xref rid="pbi12949-fig-0001" ref-type="fig">1</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="pbi12949-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Overview of a time course of maize transcriptome responses to <italic>Ostrinia furnacalis</italic> attack. (a) <styled-content style="fixed-case">PCA</styled-content> plots of transcripts identified by <styled-content style="fixed-case">RNA</styled-content>&#x02010;seq of maize leaves attacked by <italic>O.&#x000a0;furnacalis</italic> at 2, 4, 12 and 24&#x000a0;h post&#x02010;infestation. (b) Number of individual transcripts significantly up&#x02010; or down&#x02010;regulated at each time point. (c) Venn diagram illustrating the number of transcripts up&#x02010; or down&#x02010;regulated by <italic>O.&#x000a0;furnacalis</italic> feeding over the time course. (d) <styled-content style="fixed-case">KEGG</styled-content> pathway&#x000a0;enrichment analysis of <styled-content style="fixed-case">DEG</styled-content>s in the maize transcriptome induced by <italic>O.&#x000a0;furnacalis</italic> infestation for 2, 4, 12 and 24&#x000a0;h. Data were visualized using a scatter diagram with <italic>q</italic>&#x02010;value levels indicated by &#x02018;&#x02212;log10 (<italic>q</italic>&#x02010;value)&#x02019; and an enrichment factor indicative of individual pathways. Values in parentheses represent the number of components in each pathway present in the <styled-content style="fixed-case">DEG</styled-content> dataset. (e) Venn diagram showing the overlap of common and unique pathways present in the transcriptome following 2, 4, 12 and 24&#x000a0;h post <italic>O.&#x000a0;furnacalis</italic> infestation.</p></caption><graphic id="nlm-graphic-1" xlink:href="PBI-17-88-g001"/></fig><p>Subsequently, all DEGs at each time point were subjected to KEGG pathway analysis to identify the major metabolic pathways involved (Data&#x000a0;<xref rid="pbi12949-sup-0005" ref-type="supplementary-material">S4</xref>). The DEGs at 2, 4, 12 and 24&#x000a0;h post&#x02010;infestation were assigned to 31, 28, 34 and 33 significant KEGG pathways respectively (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05), and the top 10 pathways for each time point are listed in Figure&#x000a0;<xref rid="pbi12949-fig-0001" ref-type="fig">1</xref>d. Of these significant pathways, metabolism of phenylalanine and alpha&#x02010;linolenic acid, as well as the biosynthesis of phenylalanine, tyrosine, tryptophan, benzoxazinoids, phenylpropanoids and flavonoids was involved in maize responses to <italic>O.&#x000a0;furnacalis</italic> at all time points post&#x02010;infestation (Figure&#x000a0;<xref rid="pbi12949-fig-0001" ref-type="fig">1</xref>e, Table&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="pbi12949-sec-0004"><title>Dynamic transcriptome responses to <italic>O.&#x000a0;furnacalis</italic> attack</title><p>In order to understand the dynamics of the maize transcriptome in response to <italic>O.&#x000a0;furnacalis</italic> herbivory, we performed Short Time&#x02010;series Expression Miner analysis (Ernst and Bar&#x02010;Joseph, <xref rid="pbi12949-bib-0027" ref-type="ref">2006</xref>) on the total DEGs. Illustrated are nine important temporal gene expression profiles (Figure&#x000a0;<xref rid="pbi12949-fig-0002" ref-type="fig">2</xref>, Data&#x000a0;<xref rid="pbi12949-sup-0006" ref-type="supplementary-material">S5</xref>). Profile 66 contained the most transcripts (3034), and many transcripts in this profile controlled the biosynthesis of flavonoids, phenylpropanoids, monoterpenoids and benzoxazinoids, as well as other metabolic pathways associated with plant defence. These transcripts were immediately up&#x02010;regulated at 2&#x000a0;h and had increased by the same amount at each of the later time points sampled, suggesting that these defence pathways are continuously induced by <italic>O.&#x000a0;furnacalis</italic> herbivory. Most of the genes in profiles 75, 78 and 79 were involved in primary metabolism such as the metabolism of carbohydrates, lipids and amino acids, and these genes were dynamically up&#x02010;regulated with <italic>O.&#x000a0;furnacalis</italic> herbivory. The genes related to the control of circadian rhythm were only strongly up&#x02010;regulated after 24&#x000a0;h following onset of <italic>O.&#x000a0;furnacalis</italic> feeding (profile 40). Profiles 0, 2, 4 and 11 contained genes that were down&#x02010;regulated from 2 to 24&#x000a0;h following onset of herbivory. These down&#x02010;regulated genes were mainly involved in the metabolism of amino acids, nucleotides, carbohydrates, and lipids, as well as energy production and other primary metabolism. The up&#x02010; and down&#x02010;regulation of expression of genes involved in maize primary metabolism may be caused by the readjustment of plant primary metabolism in response to insect attack (Zhou <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0111" ref-type="ref">2015a</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi12949-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Time&#x02010;series transcriptomic analysis of significant <styled-content style="fixed-case">DEG</styled-content>s induced in maize by <italic>Ostrinia furnacalis</italic> herbivory. The top five <styled-content style="fixed-case">KEGG</styled-content> pathways for each profile are listed on the right. Enrichment scores are shown as &#x02212;log10(<italic>q</italic>).</p></caption><graphic id="nlm-graphic-3" xlink:href="PBI-17-88-g002"/></fig></sec><sec id="pbi12949-sec-0005"><title>Plant hormone&#x02010;related genes and metabolites induced by <italic>O.&#x000a0;furnacalis</italic> feeding</title><p>To determine phytohormone changes in response to <italic>O.&#x000a0;furnacalis</italic> feeding, we analysed the concentrations of JA, JA&#x02010;isoleucine conjugate (JA&#x02010;Ile), SA and ABA in maize leaves at 0, 2, 4, 8 and 12&#x000a0;h following infestation by <italic>O.&#x000a0;furnacalis</italic>. Accumulation of both JA and JA&#x02010;Ile was strongly induced and both reached a peak value following 2&#x000a0;h of herbivory (Figure&#x000a0;<xref rid="pbi12949-fig-0003" ref-type="fig">3</xref>a,b). Levels of SA were not increased by <italic>O.&#x000a0;furnacalis</italic> feeding at any time (Figure&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S3</xref>a), while levels of ABA increased significantly compared with the control at all time points (Figure&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S3</xref>b). JA, JA&#x02010;Ile, SA and ABA biosynthesis&#x02010;related genes were also significantly induced by <italic>O.&#x000a0;furnacalis</italic> feeding. Among all the genes involved in JA pathway (Figure&#x000a0;<xref rid="pbi12949-fig-0003" ref-type="fig">3</xref>c), except for <italic>LOX7</italic>,<italic> LOX8</italic>,<italic> LOX12</italic>,<italic> OPR6</italic> and <italic>JAR2</italic>, all the other transcripts of lipoxygenases (<italic>LOX</italic>), allene oxide synthase (<italic>AOS</italic>), allene oxide cyclase (<italic>AOC</italic>), oxo&#x02010;phytodienoate reductase (<italic>OPR</italic>) and jasmonate resistant (<italic>JAR</italic>) were significantly up&#x02010;regulated following <italic>O.&#x000a0;furnacalis</italic> herbivory (Figure&#x000a0;<xref rid="pbi12949-fig-0003" ref-type="fig">3</xref>d). Isochorismate synthase (<italic>ICS</italic>) and phenylalanine ammonia lyase (<italic>PAL</italic>) are the two major genes involved in <italic>ICS</italic> and <italic>PAL</italic> pathways respectively for SA biosynthesis (Dempsey <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0020" ref-type="ref">2011</xref>). Following <italic>O.&#x000a0;furnacalis</italic> infestation, all <italic>PAL</italic> genes were up&#x02010;regulated, but <italic>ICS</italic> expression was reduced. 9&#x02010;Cis&#x02010;epoxycarotenoid dioxygenase (<italic>NCED</italic>), short chain dehydrogenase/reductase (<italic>SDR</italic>) and one transcript of aldehyde oxidase (<italic>AO</italic>, GRMZM2G141535) involved in ABA biosynthesis were all significantly up&#x02010;regulated after <italic>O.&#x000a0;furnacalis</italic> feeding; however, a second <italic>AO</italic> transcript (GRMZM5G899851) remained at control levels (Figure&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S3</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="pbi12949-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Effects of <italic>Ostrinia furnacalis</italic> feeding on jasmonic acid (<styled-content style="fixed-case">JA</styled-content>) biosynthesis. (a) <styled-content style="fixed-case">JA</styled-content> and (b) <styled-content style="fixed-case">JA</styled-content>&#x02010;isoleucine conjugate (<styled-content style="fixed-case">JA</styled-content>&#x02010;Ile) concentration (ng/g <styled-content style="fixed-case">FW</styled-content>) in maize leaves. (c) Overview of <styled-content style="fixed-case">JA</styled-content> biosynthesis. (d) Heat map of <styled-content style="fixed-case">JA</styled-content> biosynthesis&#x02010;related gene expression. Values are presented as fold change relative to control (0&#x000a0;h). <styled-content style="fixed-case">LOX</styled-content>, lipoxygenase; 13&#x02010;<styled-content style="fixed-case">HPOT</styled-content>, 13(S)&#x02010;hydroperoxylinolenic acid; <styled-content style="fixed-case">AOS</styled-content>, allene oxide synthase; 12,13&#x02010;<styled-content style="fixed-case">EOT</styled-content>, 12,13(S)&#x02010;epoxylinolenic acid; <styled-content style="fixed-case">AOS</styled-content>, allene oxide synthase, <styled-content style="fixed-case">AOC</styled-content>, allene oxide cyclase; <styled-content style="fixed-case">OPDA</styled-content>, 12&#x02010;oxocis&#x02010;10,15&#x02010;phytodienoic acid; <styled-content style="fixed-case">OPR</styled-content>, 12&#x02010;oxophytodienoate reductase; <styled-content style="fixed-case">JAR</styled-content>, Jasmonate resistant.</p></caption><graphic id="nlm-graphic-5" xlink:href="PBI-17-88-g003"/></fig></sec><sec id="pbi12949-sec-0006"><title>Benzoxazinoids induced by <italic>O.&#x000a0;furnacalis</italic> feeding and their roles in plant defences following subsequent <italic>O.&#x000a0;furnacalis</italic> herbivory</title><p>We investigated the metabolites and gene expression of benzoxazinoid pathway (Figure&#x000a0;<xref rid="pbi12949-fig-0004" ref-type="fig">4</xref>a) in maize in response to <italic>O.&#x000a0;furnacalis</italic> attack. PCA revealed an obvious separation in the relative abundances of benzoxazinoids following herbivory for different lengths of time. The benzoxazinoid profiles in maize leaves induced by <italic>O.&#x000a0;furnacalis</italic> feeding for 48 and 72&#x000a0;h were clearly separated from that of the control (0&#x000a0;h) along the first PC axis, and the separation was also observed between 24&#x000a0;h and control along the first and second PC axes. Variable loadings in the first two PCs revealed that DIMBOA&#x02010;Glc, DIMBOA and HDM2BOA&#x02010;Glc were the strongest contributors to the difference among the benzoxazinoid profiles at 0, 24, 48 and 72&#x000a0;h post&#x02010;infestation (Figure&#x000a0;<xref rid="pbi12949-fig-0004" ref-type="fig">4</xref>b). <italic>Ostrinia furnacalis</italic> feeding had a strong effect on benzoxazinoid abundance. The most up&#x02010;regulated benzoxazinoid was HDM2BOA&#x02010;Glc, with a peak level of 291&#x02010;fold at 48&#x000a0;h. HDMBOA&#x02010;Glc, HM2BOA&#x02010;Glc, DIM2BOA&#x02010;Glc and MBOA were also significantly up&#x02010;regulated and showed the highest induction level at 24&#x000a0;h with 24.9&#x02013;54.6&#x02010;fold increase. DIMBOA, DIMBOA&#x02010;Glc and DIBOA&#x02010;Glc reduced significantly with continuing <italic>O.&#x000a0;furnacalis</italic> feeding (Figure&#x000a0;<xref rid="pbi12949-fig-0004" ref-type="fig">4</xref>c). <italic>Ostrinia furnacalis</italic> feeding also caused significant changes in benzoxazinoid gene expression. All BX genes except for <italic>BX1</italic>,<italic> BX5, BX7 and BX8</italic> were significantly up&#x02010;regulated during <italic>O.&#x000a0;furnacalis</italic> feeding (Figure&#x000a0;<xref rid="pbi12949-fig-0004" ref-type="fig">4</xref>d).</p><fig fig-type="Figure" xml:lang="en" id="pbi12949-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Effects of <italic>Ostrinia furnacalis</italic> feeding on benzoxazinoid&#x02010;related genes and metabolites. (a) Overview of benzoxazinoid biosynthesis in maize (modified from Tzin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0095" ref-type="ref">2017</xref>). (b) <styled-content style="fixed-case">PCA</styled-content> plot of benzoxazinoids induced in maize by <italic>O.&#x000a0;furnacalis</italic> feeding for 0&#x000a0;h (red circles), 24&#x000a0;h (blue triangle), 48&#x000a0;h (green asterisk) and 72&#x000a0;h (black rhombus) (<italic>n</italic>&#x000a0;=&#x000a0;5). (c) Concentrations (&#x003bc;g/g <styled-content style="fixed-case">FW</styled-content>) of benzoxazinoid&#x02010;related metabolites and (d) Relative expression changes&#x000a0;of the genes involved in the benzoxazinoid biosynthesis pathway induced in maize by <italic>O.&#x000a0;furnacalis</italic> feeding for different periods of time. Gene expressions (mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content>,<italic> n</italic>&#x000a0;=&#x000a0;3) are presented as fold change relative to control (0&#x000a0;h). Different letters above the bars indicate significant differences,&#x000a0;<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05, <styled-content style="fixed-case">ANOVA</styled-content> followed by Tukey's <styled-content style="fixed-case">HSD</styled-content> test. Notation is the same as for Figure&#x000a0;<xref rid="pbi12949-fig-0006" ref-type="fig">6</xref>.</p></caption><graphic id="nlm-graphic-7" xlink:href="PBI-17-88-g004"/></fig><p>Next, we evaluated the performance of <italic>O.&#x000a0;furnacalis</italic> when it was feeding on <italic>O.&#x000a0;furnacalis</italic> pre&#x02010;infested (24&#x000a0;h) and uninfested (control) maize leaves to determine whether leaf feeding by <italic>O.&#x000a0;furnacalis</italic> could produce direct defences. <italic>Ostrinia furnacalis</italic> pre&#x02010;infested maize leaves inhibited 2nd instar <italic>O.&#x000a0;furnacalis</italic> performance with a significantly lower relative growth rate (RGR) and a significantly higher relative consumption rate (RCR) (Figure&#x000a0;<xref rid="pbi12949-fig-0005" ref-type="fig">5</xref>a). Food processing efficiencies, measured as efficiency of conversion of ingested food (ECI) and efficiency of conversion of digested food (ECD), were 33% and 27% less respectively on <italic>O.&#x000a0;furnacalis</italic> pre&#x02010;infested maize leaves than on control. However, no differences were observed between any of the nutritional indices excepted RCR in the 3rd instar larvae reared on damaged and control maize leaves.</p><fig fig-type="Figure" xml:lang="en" id="pbi12949-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Performance of <italic>Ostrinia furnacalis</italic> reared on the maize leaves that have been exposed to <italic>O.&#x000a0;furnacalis</italic> for 24&#x000a0;h. (a) The nutritional indices of the 2nd and 3rd instar <italic>O.&#x000a0;furnacalis</italic> larvae. <styled-content style="fixed-case">ECD</styled-content>, efficiency of conversion of ingested food; <styled-content style="fixed-case">ECI</styled-content>, efficiency of conversion of digested food; <styled-content style="fixed-case">AD</styled-content>, approximate digestibility; <styled-content style="fixed-case">RCR</styled-content>, relative consumption rate, <styled-content style="fixed-case">RGR</styled-content>, relative growth rate. Different letters above the bars indicate significant differences at <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 (<styled-content style="fixed-case">LS</styled-content> means, <styled-content style="fixed-case">ANCOVA</styled-content>) (<italic>n</italic>&#x000a0;=&#x000a0;15). (b) Developmental time and (c) population parameters of <italic>O.&#x000a0;furnacalis</italic>. L1, 1st instar; L2, 2nd instar; L5, 5th instar; <styled-content style="fixed-case">TPOP</styled-content>, total pre&#x02010;oviposition period; <italic>R</italic>
+<sub>0</sub>, net reproductive rate, <italic>r</italic>, intrinsic rate of increase; &#x003bb;, finite rate of increase; <italic>T</italic>, mean generation time. Different letters above the bars indicate significant differences (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05) using the Tukey&#x02013;Kramer procedure.</p></caption><graphic id="nlm-graphic-9" xlink:href="PBI-17-88-g005"/></fig><p>Life tables showed the negative effects of maize leaves previously infested with <italic>O.&#x000a0;furnacalis</italic> on subsequent <italic>O.&#x000a0;furnacalis</italic> performance. As is evident from Figure&#x000a0;<xref rid="pbi12949-fig-0005" ref-type="fig">5</xref>b, there was a significant inhibition on the developmental time of the 1st to 2nd instars, the&#x000a0;5th instar, the larval and pupal stage, and the total pre&#x02010;oviposition period of the larvae was also inhibited (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.0001 for all the observed values) (Table&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S3</xref>). Negative effects of <italic>O.&#x000a0;furnacalis</italic> pre&#x02010;infested maize leaves were also observed on <italic>O.&#x000a0;furnacalis</italic> population parameters, net reproductive rate (<italic>R</italic>
+<sub>0</sub>), intrinsic rate of increase (<italic>r</italic>), finite rate of increase (&#x003bb;) and mean generation time (<italic>T</italic>) (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.0001) (Figure&#x000a0;<xref rid="pbi12949-fig-0005" ref-type="fig">5</xref>c). All the data indicate that <italic>O.&#x000a0;furnacalis</italic> infestation increased maize direct defences against this pest.</p></sec><sec id="pbi12949-sec-0007"><title>
+<italic>Ostrinia furnacalis</italic>&#x02010;induced maize volatile emission and their roles in attracting <italic>M.&#x000a0;cingulum</italic>
+</title><p>A total of 26 volatile compounds were collected across all plants following infestation with <italic>O.&#x000a0;furnacalis</italic> after 0 (control), 2, 4, 12, 24, 48 and 72&#x000a0;h using a dynamic headspace system (Figure&#x000a0;<xref rid="pbi12949-fig-0006" ref-type="fig">6</xref>a). Partial least squares projection to latent structures&#x02010;discriminant analysis (PLS&#x02010;DA) showed a clear separation between the control and <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced maize volatiles (12, 24, 48 and 72&#x000a0;h) along the first axis, and the <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced maize volatiles at all time points were clearly separated from control along the second axis (Figure&#x000a0;<xref rid="pbi12949-fig-0006" ref-type="fig">6</xref>b). For this model, the volatile compounds like &#x003b2;&#x02010;farnesene, &#x003b1;&#x02010;cubebene and germacrene D with VIP values &#x02265;1.0 contributed most to the separation between the control and <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced maize volatiles (Figure&#x000a0;<xref rid="pbi12949-fig-0006" ref-type="fig">6</xref>c,d).</p><fig fig-type="Figure" xml:lang="en" id="pbi12949-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Effects of <italic>Ostrinia furnacalis</italic> feeding on the blend of volatile compounds collected in the headspace of maize plants. (a) The maize volatile collection method used in the field. [The schematic view was drawn according to the description by Degen <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0019" ref-type="ref">2012</xref>).] (b) Separation of the headspace composition of maize volatiles induced by <italic>O.&#x000a0;furnacalis</italic> infestation for different periods of time using <styled-content style="fixed-case">PLS</styled-content>&#x02010;<styled-content style="fixed-case">DA</styled-content>, depicted as a two&#x02010;dimensional score plot using the first two <styled-content style="fixed-case">PLS</styled-content> components. The <styled-content style="fixed-case">PLS</styled-content>&#x02010;<styled-content style="fixed-case">DA</styled-content> resulted in a model with two significant components: <italic>R2</italic>X&#x000a0;=&#x000a0;0.41 <italic>R2</italic>Y&#x000a0;=&#x000a0;0.15. (c) Bar plot of variable importance of each volatile compound to the first and second <styled-content style="fixed-case">PLS</styled-content> components. (d) Loading plot indicating the contribution of each volatile compound to the separation between groups. The ellipse defines Hotelling's <italic>T</italic>
+<sup>2</sup> confidence region with a 95% confidence interval for the samples. (e) Effects of <italic>O.&#x000a0;furnacalis</italic> feeding on the value of key individual maize volatiles. Values are mean normalized quantities of volatiles (%)&#x000a0;=&#x000a0;<mml:math id="nlm-math-1"><mml:mfrac><mml:mrow><mml:mtext>Peak</mml:mtext><mml:mspace width="4pt"/><mml:mtext>area</mml:mtext><mml:mspace width="4pt"/><mml:mtext>of</mml:mtext><mml:mspace width="4pt"/><mml:mtext>volatile</mml:mtext><mml:mspace width="4pt"/><mml:mtext>compound</mml:mtext></mml:mrow><mml:mrow><mml:mtext>Peak</mml:mtext><mml:mspace width="4pt"/><mml:mtext>area</mml:mtext><mml:mspace width="4pt"/><mml:mtext>of</mml:mtext><mml:mspace width="4pt"/><mml:mtext>IS</mml:mtext></mml:mrow></mml:mfrac></mml:math>&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;8). Data were log<sub>10</sub>(<italic>x&#x000a0;</italic>+&#x000a0;1) transformed before analysis. (f) Relative expression changes of the genes involved in the terpene biosynthesis pathway.</p></caption><graphic id="nlm-graphic-11" xlink:href="PBI-17-88-g006"/></fig><p>The concentrations of key volatile compounds &#x003b2;&#x02010;caryophyllene, bergamonate, linalool, &#x003b1;&#x02010;cubebene and &#x003b2;&#x02010;farnesene were significantly increased after <italic>O.&#x000a0;furnacalis</italic> feeding and reached the peak value at 24 or 48&#x000a0;h of <italic>O.&#x000a0;furnacalis</italic> feeding (Figure&#x000a0;<xref rid="pbi12949-fig-0006" ref-type="fig">6</xref>e). In addition, the terpene biosynthesis&#x02010;related genes, <italic>TPS1</italic>,<italic> TPS2</italic>,<italic> TPS3</italic>,<italic> TPS6</italic>,<italic> TPS8</italic>,<italic> TPS10</italic>,<italic> TPS23</italic> and <italic>TPS26</italic> were strongly up&#x02010;regulated at all time points compared with control (Figure&#x000a0;<xref rid="pbi12949-fig-0006" ref-type="fig">6</xref>f). These results indicated that maize undergoes drastic reprogramming of the volatile profile and gene expression in response to <italic>O.&#x000a0;furnacalis</italic> feeding.</p><p>Next, we identified <italic>M.&#x000a0;cingulum</italic> preferences to <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced maize volatiles in a Y&#x02010;tube olfactometer bioassay (Figure&#x000a0;<xref rid="pbi12949-fig-0007" ref-type="fig">7</xref>a). <italic>Macrocentrus cingulum</italic> females showed an obvious preference to the maize volatiles following 4, 12, 24, 48 and 72&#x000a0;h of <italic>O.&#x000a0;furnacalis</italic> feeding (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.0001), and <italic>M.&#x000a0;cingulum</italic> males only showed an obvious preferences to the volatiles of 24 and 48&#x000a0;h (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.0001) (Figure&#x000a0;<xref rid="pbi12949-fig-0007" ref-type="fig">7</xref>b). However, neither males nor females showed a preference for the volatiles following 2&#x000a0;h (male, &#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;0.14, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.7103; female, &#x003c7;<sup>2</sup>&#x000a0;=&#x000a0;0.32, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.5471).</p><fig fig-type="Figure" xml:lang="en" id="pbi12949-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Preference of female and male <italic>Macrocentrus cingulum</italic> towards the maize volatiles with or without <italic>Ostrinia furnacalis</italic> attack. (a) Experimental setup for <italic>M.&#x000a0;cingulum</italic> behaviour. [The schematic view was drawn according to the description by Takemoto and Takabayashi (<xref rid="pbi12949-bib-0085" ref-type="ref">2015</xref>).] (b) Behaviour response (%) of female and male <italic>M.&#x000a0;cingulum</italic> to <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced versus uninduced maize volatiles. Numbers in orange bars represent the number of <italic>M.&#x000a0;cingulum</italic> responding to <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced maize volatiles and numbers in green bars represent the number of <italic>M.&#x000a0;cingulum</italic> responding to control within 5&#x000a0;min. The asterisks are based on &#x003c7;<sup>2</sup> analysis, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; **<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01; *<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05; ns, <italic>P&#x000a0;</italic>&#x0003e;<italic>&#x000a0;</italic>0.05.</p></caption><graphic id="nlm-graphic-13" xlink:href="PBI-17-88-g007"/></fig></sec></sec><sec id="pbi12949-sec-0008"><title>Discussion</title><p>
+<italic>Ostrinia furnacalis</italic> is a major insect pest of maize, and usually causes most damage to leaves at the mid&#x02010;whorl stage (Zhang <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0108" ref-type="ref">2016</xref>). Current knowledge of induced defences in maize in response to <italic>O.&#x000a0;furnacalis</italic> attack remains limited. In this study, we analysed the transcriptome dynamics of field&#x02010;grown maize, Jingke968 following <italic>O.&#x000a0;furnacalis</italic> attack. Unlike prior studies, which reported transcriptome responses of V3&#x02010;stage maize (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0099" ref-type="ref">2017a</xref>; Yang <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0107" ref-type="ref">2015</xref>), our analysis focused on the mid&#x02010;whorl stage, which is more vulnerable to early&#x02010;season <italic>O.&#x000a0;furnacalis</italic> larvae in the field. Our analysis showed that large&#x02010;scale reprogramming of the transcriptome occurred following <italic>O.&#x000a0;furnacalis</italic> infestation, and more abundant up&#x02010;DEGs than down&#x02010;DEGs were found at each induction time point. We propose that <italic>O.&#x000a0;furnacalis</italic> feeding drove more induction of gene expression than suppression, which is similar to the maize transcriptome responses to herbivory by <italic>Rhopalosiphum maidis</italic> Fitch (Tzin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0094" ref-type="ref">2015</xref>) and <italic>Spodoptera exigua</italic> H&#x000fc;bner (Tzin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0095" ref-type="ref">2017</xref>). Maize at the mid&#x02010;whorl stage is known to be more vulnerable to <italic>O.&#x000a0;furnacalis</italic> than at the V3 stage due to the decrease in defensive compounds like DIMBOA (Maag <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0055" ref-type="ref">2015</xref>). The maize plants at the mid&#x02010;whorl stage have more potential than plants at the V3 stage to induce genes, and produce more DEGs, when subjected to <italic>O.&#x000a0;furnacalis</italic> herbivory according to the hypothesis of trade&#x02010;off between constitutive and inducible resistance traits in plants (Morris <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0064" ref-type="ref">2006</xref>).</p><p>Plant transcription response to insect attack is a dynamic and complex reprogramming process for signalling and synthesis, and varies with the timing of attack (Kant <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0039" ref-type="ref">2004</xref>). Previous studies of the maize transcriptome responses to <italic>O.&#x000a0;furnacalis</italic> herbivory have focused on only one induction time point (12 or 8&#x000a0;h) (Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0099" ref-type="ref">2017a</xref>; Yang <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0107" ref-type="ref">2015</xref>). However, a single sampling time will give only a snapshot of the transcriptional changes and to determine the full extent of temporal patterns of gene activity during plant&#x02013;insect interactions; it is important to investigate different times after insect infestation. In this study, a dynamic transcriptome analysis showed that a considerable number of genes (3102 up&#x02010; and 1844 down&#x02010;DEGs) were continuously induced by <italic>O.&#x000a0;furnacalis</italic> feeding, indicating that some biological processes, such as the biosynthesis of primary and secondary metabolites, were continuously induced during <italic>O.&#x000a0;furnacalis</italic> feeding.</p><p>Genes involved in plant primary and secondary metabolite biosynthesis are also regulated by plant circadian clock (Covington <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0013" ref-type="ref">2008</xref>; Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0046" ref-type="ref">2011</xref>). In this study, some circadian clock&#x02010;associated genes were significantly up&#x02010;regulated after 24&#x000a0;h of <italic>O.&#x000a0;furnacalis</italic> feeding. We speculated that maize defences following <italic>O.&#x000a0;furnacalis</italic> attack may be orchestrated by the maize circadian clock. The circadian clock is intrinsically linked to the plant redox rhythm (i.e. NADP/H oscillation) through nonexpression of the pathogenesis&#x02010;related gene 1 (NPR1) (Zhou <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0112" ref-type="ref">2015b</xref>), which plays a central role in scheduling and gating plant defence responses in the daytime, while preventing conflict with growth at night (Karapetyan and Dong, <xref rid="pbi12949-bib-0040" ref-type="ref">2017</xref>). Further study is essential to research the interplay between redox rhythms and the circadian clock balancing maize defence and growth.</p><p>Many studies have focused on the maize transcriptome responses to insect attack under controlled conditions, including growth chambers or greenhouses (Lawrence <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0049" ref-type="ref">2012</xref>; Tzin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0094" ref-type="ref">2015</xref>, <xref rid="pbi12949-bib-0095" ref-type="ref">2017</xref>; Wang <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0099" ref-type="ref">2017a</xref>), in which determination of the drivers of gene expression patterns in maize following insect attack may be more straightforward. In cultivation, however, maize is grown in the complex fluctuating natural environment, so the transcriptome responses are not only governed by the biotic factors like plant age and insect damage, but also influenced by abiotic factors, such as wind, humidity, air temperature and solar radiation (Nagano <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0065" ref-type="ref">2012</xref>). A recent study by Qi <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0072" ref-type="ref">2018</xref>) showed that ultraviolet&#x02010;B (UV&#x02010;B) treatment can enhance maize resistance to <italic>Spodoptera litura</italic> Fabricus by elevating the levels of JA&#x02010;Ile and defence&#x02010;related secondary metabolites. However, controlled conditions may fail to reflect the influence of real biotic and abiotic stresses on gene expression, and we believe that our research, in which we attempt to decipher some of the maize transcriptome dynamics following <italic>O.&#x000a0;furnacalis</italic> herbivory in the field, provides an important next step. In this study, many genes involved in plant resistance&#x02010;related pathways were strongly up&#x02010;regulated following <italic>O.&#x000a0;furnacalis</italic> herbivory, consistent with the results collected under controlled conditions (Qi <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0071" ref-type="ref">2016</xref>; Tzin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0094" ref-type="ref">2015</xref>), implying that maize also mobilizes defences in response to <italic>O.&#x000a0;furnacalis</italic> herbivory in the field.</p><p>Benzoxazinoids are key secondary metabolites in the direct defence of maize against insects (Ahmad <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0001" ref-type="ref">2011</xref>; Meihls <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0062" ref-type="ref">2013</xref>; Niemeyer, <xref rid="pbi12949-bib-0068" ref-type="ref">2009</xref>; Wouters <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0102" ref-type="ref">2016</xref>). We found, besides DHBOA&#x02010;Glc, expression of the other benzoxazinoids measured was dramatically changed after <italic>O.&#x000a0;furnacalis</italic> attack, indicating that <italic>O.&#x000a0;furnacalis</italic> attack can induce the accumulation of these compounds. DIMBOA, DIMBOA&#x02010;Glc, MBOA and HDMBOA&#x02010;Glc are the major benzoxazinoids involved in defence against Lepidoptera (Ahmad <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0001" ref-type="ref">2011</xref>; Glauser <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0031" ref-type="ref">2011</xref>; Niemeyer, <xref rid="pbi12949-bib-0068" ref-type="ref">2009</xref>). Our results show that <italic>O.&#x000a0;furnacalis</italic> attack induces a significant decrease in DIMBOA&#x02010;Glc and a significant increase in HDMBOA&#x02010;Glc, consistent with the findings of Dafoe <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0015" ref-type="ref">2011</xref>) and Meihls <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0062" ref-type="ref">2013</xref>). It is also thought that low DIMBOA&#x02010;Glc/high HDMBOA&#x02010;Glc levels are more resistant to insects than high DIMBOA&#x02010;Glc/low HDMBOA&#x02010;Glc in maize leaves (Meihls <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0062" ref-type="ref">2013</xref>), because DIMBOA can be detoxified by specialist insects via glycosylation, but HDMBOA cannot (Glauser <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0031" ref-type="ref">2011</xref>). In maize leaves pre&#x02010;infested by <italic>O.&#x000a0;furnacalis</italic> for 24&#x000a0;h, accumulation of DIMBOA&#x02010;Glc/HDMBOA&#x02010;Glc and MBOA reached a peak, while the 2nd instar larvae consumed more leaves (increased RCR), had lower food processing efficiencies (reduced ECD and ECI), and grew more slowly (reduced RGR) on these treated leaves compared with those on un&#x02010;preinfested leaves (Figure&#x000a0;<xref rid="pbi12949-fig-0005" ref-type="fig">5</xref>a). This inhibitory effect was further confirmed by the prolonged developmental stage and adverse population parameters of <italic>O.&#x000a0;furnacalis</italic>, which describe the reproducing ability, rate of increase and the whole life time of the population. These results are congruent with the finding that herbivore&#x02010;induced plant defences can reduce the fitness of subsequently feeding insects (Karban, <xref rid="pbi12949-bib-0041" ref-type="ref">2011</xref>), as is reported for <italic>Diabrotica virgifera virgifera</italic> LeConte in maize (Erb <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0023" ref-type="ref">2011a</xref>). Therefore, we propose that the low DIMBOA&#x02010;Glc/high HDMBOA&#x02010;Glc and high MBOA levels in maize leaves induced by <italic>O.&#x000a0;furnacalis</italic> feeding for 24&#x000a0;h may result in the subsequent poor performance of <italic>O.&#x000a0;furnacalis</italic>.</p><p>However, benzoxazinoids provide only an incomplete picture of the maize defence responses to <italic>O.&#x000a0;furnacalis</italic>, and other defences like proteinase inhibitors and toxic proteins induced by insect herbivory may also inhibit insect performance (Howe and Jander, <xref rid="pbi12949-bib-0036" ref-type="ref">2008</xref>; Karban <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0110" ref-type="ref">1997</xref>; Vila <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0096" ref-type="ref">2005</xref>). Additionally, primary metabolites are considered to play as important a role in insect performance as secondary metabolites (Roeder and Behmer, <xref rid="pbi12949-bib-0076" ref-type="ref">2015</xref>). A recent study showed that JA&#x02010;dependent depletion of soluble sugars (glucose and fructose) weakened <italic>Nicotiana attenuata</italic> defence response to <italic>Manduca sexta</italic> L. (Machado <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0057" ref-type="ref">2015</xref>). In our study, JA concentrations are significantly increased, and the genes involved in the metabolism of primary metabolites (e.g. amino sugar and nucleotide sugar metabolism) were strongly induced after <italic>O.&#x000a0;furnacalis</italic> herbivory.</p><p>Insect herbivory can also induce plant indirect defences by releasing HIPVs attractive to natural enemies of the pest (Aljbory and Chen, <xref rid="pbi12949-bib-0002" ref-type="ref">2017</xref>). Many previous studies have focused on maize indirect defences in North American and European maize lines (Aljbory and Chen, <xref rid="pbi12949-bib-0002" ref-type="ref">2017</xref>; D'Alessandro <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0016" ref-type="ref">2009</xref>; Fontana <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0029" ref-type="ref">2011</xref>; Schnee <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0080" ref-type="ref">2006</xref>; Turlings <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0093" ref-type="ref">1990</xref>). Certain North American lines have been reported to have lost their ability to release (<italic>E</italic>)&#x02010;&#x003b2;&#x02010;caryophyllene during domestication. (<italic>E</italic>)&#x02010;&#x003b2;&#x02010;caryophyllene is a signal that can strongly attract an entomopathogenic nematode in response to <italic>D.&#x000a0;virgifera virgifera</italic> attack (K&#x000f6;llner <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0048" ref-type="ref">2008</xref>; Rasmann <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0074" ref-type="ref">2005</xref>). In this study, we found the levels of (<italic>E</italic>)&#x02010;&#x003b2;&#x02010;caryophyllene and its biosynthesis&#x02010;related gene <italic>TPS23</italic>, were significantly elevated after <italic>O.&#x000a0;furnacalis</italic> herbivory. Moreover, <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced volatiles could attract <italic>M. &#x000a0;cingulum</italic>, particularly at 24 and 48&#x000a0;h following onset of herbivory. These results suggested that the Chinese commercial maize still possesses this indirect defence mechanism against <italic>O.&#x000a0;furnacalis</italic> herbivory. As well as (<italic>E</italic>)&#x02010;&#x003b2;&#x02010;caryophyllene, levels of other terpenes such as linalool, &#x003b2;&#x02010;farnesene, bergamotene and &#x003b1;&#x02010;cubebene all showed significant increases following <italic>O.&#x000a0;furnacalis</italic> herbivory. However, little is known about the effects of different concentrations of these key odour molecules, or the importance of their relative concentrations in <italic>M.&#x000a0;cingulum</italic> attraction. Further work in this area will include screening for the key odours involved in <italic>M.&#x000a0;cingulum</italic> attraction, and using mutants and transgenic maize with different levels of volatile emissions to investigate the biosynthesis, metabolic engineering and function of <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced maize volatiles. Moreover, field studies are needed in order to reveal the role of plant volatiles in determining the population dynamics of pests and their natural enemies, because the responses of natural enemies to HIPVs are more complex in real agricultural settings than in the laboratory (Salamanca <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0077" ref-type="ref">2017</xref>).</p><p>It is known that there is a significant variation both in individual odour concentrations and volatile diversity between different research systems. The differences mainly stem from the fact that each research group uses their own, and in some cases unique, research system to explore the effects of herbivore attack on maize volatiles. Maize genotypes (Degen <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0018" ref-type="ref">2004</xref>), plant age (Wason and Hunter, <xref rid="pbi12949-bib-0101" ref-type="ref">2014</xref>), insect feeding guilds (De Boer <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0017" ref-type="ref">2005</xref>), duration of induction, and biotic and abiotic environments (Gouinguen&#x000e9; and Turlings, <xref rid="pbi12949-bib-0032" ref-type="ref">2002</xref>), volatile&#x02010;collection methods and time, as well as volatile analysis platform used all vary greatly between different experiments.</p><p>Plant direct and indirect defences to insects are both mediated by phytohormones such as JA, SA and ABA (Howe, <xref rid="pbi12949-bib-0035" ref-type="ref">2004</xref>; Stam <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0084" ref-type="ref">2014</xref>). JA is well known for its predominant role in mediating plant defence to chewing insect attack (Bodenhausen and Reymond, <xref rid="pbi12949-bib-0004" ref-type="ref">2007</xref>; Lortzing and Steppuhn, <xref rid="pbi12949-bib-0053" ref-type="ref">2016</xref>; Lu <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0054" ref-type="ref">2015</xref>; Yan and Xie, <xref rid="pbi12949-bib-0105" ref-type="ref">2015</xref>). In this investigation, we found a temporal change in JA response to <italic>O.&#x000a0;furnacalis</italic> herbivory, which reached a peak soon after onset <italic>O.&#x000a0;furnacalis</italic> feeding (2&#x000a0;h), and then gradually declined, suggesting the JA signalling pathway is an early signal transduction in maize defences to <italic>O.&#x000a0;furnacalis</italic>. However, most of the JA biosynthesis&#x02010;related genes were strongly induced between 2 and 24&#x000a0;h of <italic>O.&#x000a0;furnacalis</italic> feeding. Therefore, we speculated that <italic>O.&#x000a0;furnacalis</italic> feeding may after a certain time suppress JA production by the antagonistic action of other phytohormones or post&#x02010;transcriptional modification, or shifting the JA biosynthesis to other long&#x02010;term defence responses. It is worth noting that JA concentration is usually very low before receiving stimulation from biotic and abiotic factors, indeed, the JA constitutive concentration in the inbred maize line A188 is close to zero (Qi <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0071" ref-type="ref">2016</xref>). However, the basal level of JA in our study was approximately 1000&#x000a0;ng/g FW, which was markedly higher than JA levels of maize plants grown in growth chamber and greenhouse conditions (Qi <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0071" ref-type="ref">2016</xref>; Tzin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0094" ref-type="ref">2015</xref>, <xref rid="pbi12949-bib-0095" ref-type="ref">2017</xref>). This obvious discrepancy in JA levels may be likely due to the difference in growing conditions. In contrast to the greenhouse&#x02010;based experiments which JA concentration in maize is only influenced by one attacking pest, JA concentration of field&#x02010;grown maize can be governed by multiple external biotic and abiotic stress (Creelmn and Mullent, <xref rid="pbi12949-bib-0014" ref-type="ref">1995</xref>). Addition to the high level of JA constitutive concentration, we also found many of the genes involved in the biosynthesis of JA, terpenes and benzoxazinoids showed stronger induction as early as 2&#x000a0;h following <italic>O.&#x000a0;furnacalis</italic> infestation when compared with similar studies on other herbivores in maize (Qi <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0071" ref-type="ref">2016</xref>; Tzin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0095" ref-type="ref">2017</xref>). In this case, we speculate that Jingke968 may prepare for <italic>O.&#x000a0;furnacalis</italic> attack before it actually experiences <italic>O.&#x000a0;furnacalis</italic>, a phenomenon known as defence priming (Group <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0033" ref-type="ref">2006</xref>; Martinez&#x02010;Medina <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0059" ref-type="ref">2016</xref>). Plants with primed defence can respond quickly, strongly and over long periods to biotic and abiotic stress (Douma <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0021" ref-type="ref">2017</xref>; Mauch&#x02010;mani <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0060" ref-type="ref">2017</xref>), which can reduce the damage inflicted over the time it takes to produce induced defences (Frost <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0030" ref-type="ref">2008</xref>). Although we could not exclude the external factors from field conditions including GLVs from other plants, insects body odour and abiotic factors that may exert a priming effect on these maize plants (Frost <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0030" ref-type="ref">2008</xref>), we speculate that Jingke968 may be naturally primed to combat <italic>O.&#x000a0;furnacalis,</italic> because it not only had high levels of JA, but also had high levels of DIMBOA and DIMBOA&#x02010;Glc before being subjected to <italic>O.&#x000a0;furnacalis</italic> attack, and high levels (424.20&#x000a0;&#x003bc;g/g FW) of HDMBOA&#x02010;Glc after <italic>O.&#x000a0;furnacalis</italic> infestation.</p><p>Unlike JA, SA concentration showed minor and insignificant changes following <italic>O.&#x000a0;furnacalis</italic> herbivory, indicating <italic>O.&#x000a0;furnacalis</italic> feeding did not induce the SA&#x02010;dependent signalling pathway. The ABA&#x02010;dependent signalling pathway is also involved in maize defences against <italic>O.&#x000a0;furnacalis</italic> herbivory, consistent with previous studies of maize resistance to <italic>D.&#x000a0;virgifera virgifera</italic> (Erb <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0022" ref-type="ref">2009</xref>, <xref rid="pbi12949-bib-0024" ref-type="ref">2011b</xref>) and <italic>M.&#x000a0;separata</italic> (Qi <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0071" ref-type="ref">2016</xref>) herbivory.</p><p>In this study, we have evaluated the direct and indirect defences of field&#x02010;grown commercial maize at the mid&#x02010;whorl stage in response to <italic>O.&#x000a0;furnacalis</italic> attack. We examined the transcriptome, phytohormones, benzoxazinoids, volatiles, <italic>O.&#x000a0;furnacalis</italic> performance and the behaviour of a parasitic wasp. The dynamic transcriptome analysis showed a rapid, strong transcriptome response in the first 2&#x000a0;h following <italic>O.&#x000a0;furnacalis</italic> infestation, and continued striking changes until 24&#x000a0;h. Integrative analysis of transcriptomic and metabolomic data revealed that phytohormones, benzoxazinoids and volatiles were involved in maize resistance to the pest at this stage. The poor performance of <italic>O.&#x000a0;furnacalis</italic> on pre&#x02010;infested maize leaves and the preference of <italic>M.&#x000a0;cingulum</italic> to <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced maize volatiles directly proved that these defensive compounds have a function in maize direct and indirect defences. This work not only provides several insights into the molecular and biochemical mechanisms of commercial maize resistance to <italic>O.&#x000a0;furnacalis</italic>, but may be of significance in the uncovering of as yet unknown defensive genes with high levels of expression in natural environments, benefiting the breeding of maize cultivars with enhanced and eco&#x02010;friendly resistance to insects in the field.</p></sec><sec id="pbi12949-sec-0009"><title>Experimental procedures</title><sec id="pbi12949-sec-0010"><title>Plant growth and insect rearing</title><p>Maize genotype Jingke968 was grown in the field at Langfang Experimental Station of Plant Protection, Chinese Academy of Agricultural Sciences (IPP, CAAS), Hebei province (39&#x000b0;30&#x02032;N, 116&#x000b0;36&#x02032;E) in 2016, with 1&#x000a0;m between rows and 0.35&#x000a0;m between individual plants. Plants for different treatments were spaced 2&#x000a0;m apart to hinder communication between individuals. Each plant was enclosed in an individual nylon cage with 60 mesh. Field management proceeded according to the agricultural practices used in local farming. All the maize plants used for the experiments were developmentally similar and healthy. The meteorological parameters during the growth period were recorded in detail (Table&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S4</xref>).</p><p>
+<italic>Ostrinia furnacalis</italic> and the parasitoid wasp <italic>M.&#x000a0;cingulum</italic> were obtained from a laboratory colony from the IPP, CAAS, Beijing. <italic>Ostrinia furnacalis</italic> larvae were reared on modified diets (Zhou <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0110" ref-type="ref">1997</xref>) for 3&#x02013;4 generations in a controlled incubator with 27&#x000a0;&#x000b1;&#x000a0;1&#x000a0;&#x000b0;C, 70%&#x02013;80% relative humidity (RH) and a photoperiod of 16&#x000a0;h. <italic>M. cingulum</italic> colony was maintained following Wang <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0100" ref-type="ref">2017b</xref>).</p></sec><sec id="pbi12949-sec-0011"><title>Plant treatments</title><p>When the plants were at the mid&#x02010;whorl stage (approximately 30&#x02013;35&#x000a0;days after germination), 20 3rd instar <italic>O.&#x000a0;furnacalis</italic> larvae were placed in each maize whorl and allowed to feed freely. Damaged leaves from approximately 2&#x000a0;cm surrounding the initial <italic>O.&#x000a0;furnacalis</italic> feeding sites were taken from the leaves with a knife. Leaf samples were harvested for gene expression at 0, 2, 4, 12 and 24&#x000a0;h after initial <italic>O.&#x000a0;furnacalis</italic> infestation. For phytohormone analysis, leaf samples were harvested at 0, 2, 4, 8 and 12&#x000a0;h post&#x02010;infestation, and for benzoxazinoid analysis, leaf samples were harvested at 0, 24, 48 and 72&#x000a0;h. The plants at 0&#x000a0;h post&#x02010;infestation were used as control plants and leaf sections were taken as before. Leaves from four or five plants per time point were pooled for each biological replicate. Leaf samples were harvested, immediately frozen in liquid nitrogen, and stored in a &#x02212;80&#x000a0;&#x000b0;C freezer until use. Three replicates were collected for transcriptome analysis, and five replicates each for phytohormone and benzoxazinoids analysis were collected. The infestations of <italic>O.&#x000a0;furnacalis</italic> were staggered to ensure all the samples were collected at the same time. The meteorological parameters of the collection date were given in Table&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S4</xref>.</p></sec><sec id="pbi12949-sec-0012"><title>RNA isolation, cDNA library preparation, transcriptome sequencing<italic>,</italic> RNA sequencing data analysis and quantitative real&#x02010;time PCR analysis</title><p>Total RNA from each leaf sample was isolated using TRIzol reagent (Invitrogen, Carlsbad, CA) according to the manufacturer's instructions. cDNA library preparation and transcriptome sequencing follow Liu <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0051" ref-type="ref">2015</xref>) and Zhong <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0109" ref-type="ref">2011</xref>). Clean reads were mapped to the maize reference genome (B73 RefGen_v3.31) (Schnable <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0079" ref-type="ref">2009</xref>) using TopHat2 software (Kim <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0047" ref-type="ref">2013</xref>), and only unique mapping reads were retained for calculating gene expression. RNA&#x02010;seq data analysis was performed according to previously published protocols (Trapnell <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0089" ref-type="ref">2010</xref>, <xref rid="pbi12949-bib-0090" ref-type="ref">2012</xref>). DEGs were identified by the edge package (<ext-link ext-link-type="uri" xlink:href="http://www.r-project.org/">http://www. r-project.org/</ext-link>) with FDR &#x0003c;0.05 and absolute value of log2ratio &#x02265;1. To validate the accuracy of the RNA&#x02010;seq data, qRT&#x02010;PCR analyses were performed on Applied Biosystems 7500 Fast Real&#x02010;Time PCR System (Applied Biosysterm, Foster City, CA) using SYBR Premix Ex Taq (Tli RNaseH Plus) master mix (Takara&#x02010;Bio, Shiga, Japan) following the manufacturer's instructions. The PCR amplification program was 95&#x000a0;&#x000b0;C (15&#x000a0;s), followed by 40 cycles at 60&#x000a0;&#x000b0;C (60&#x000a0;s) and 95&#x000a0;&#x000b0;C (30&#x000a0;s). Fold changes of gene expression level were calculated using the 2<sup>&#x02212;&#x00394;&#x00394;CT</sup> method (Livak and Schmittgen, <xref rid="pbi12949-bib-0052" ref-type="ref">2001</xref>). The actin gene was used as a candidate reference gene (Manoli <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0058" ref-type="ref">2012</xref>). The primers used in this study are given in Table&#x000a0;<xref rid="pbi12949-sup-0001" ref-type="supplementary-material">S5</xref>.</p></sec><sec id="pbi12949-sec-0013"><title>Quantification of phytohormone and benzoxazinoids</title><p>JA, JA&#x02010;Ile, ABA and SA concentrations in leaves were analysed using HPLC&#x02010;MS/MS (LCMS&#x02010;8040 system, Shimadzu, Kyoto, Japan) following Wu <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0104" ref-type="ref">2007</xref>). Benzoxazinoids were extracted and analysed following Glauser <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0031" ref-type="ref">2011</xref>).</p></sec><sec id="pbi12949-sec-0014"><title>Collection and quantification of volatiles</title><p>A dynamic headspace system detailed described by Degen <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0019" ref-type="ref">2012</xref>) and Huang <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0037" ref-type="ref">2014</xref>) was used to collect the volatiles from the plants at 0, 2, 4, 12, 24, 48 and 72&#x000a0;h following infestation with <italic>O.&#x000a0;furnacalis</italic>. The leaves and stems of each sampling plants were covered by a transparent polyethylene terephthalate bag. A stream of charcoal filtered air was pumped into the bag at a flow rate of 500&#x000a0;mL/min with a vacuum pump (Beijing Institute of Labor Instrument, Beijing, China). The outgoing air passed through a 8&#x02010;mm diameter glass outlet tube containing 60&#x000a0;mg Tenax TA (60/80 mesh; Sigma&#x02010;Aldrich, Oakville, ON, Canada) to retain volatiles. For each treatment, eight individual plants were sampled as eight replicates. Volatiles were collected for 9&#x000a0;h (9:00&#x000a0;am&#x02013;18:00&#x000a0;pm). After collection, volatiles were extracted with 400&#x000a0;&#x003bc;L of hexane (Sinopharm Chemical Reagent Co. Ltd., Shanghai, China), and 3.452&#x000a0;&#x003bc;g ethyl caprate (Sigma&#x02010;Aldrich) was added to each sample as an internal standard. Identification and quantification of volatiles was performed on a LECO Pegasus 4D system (GC&#x000d7;GC&#x02010;TOF&#x02010;MS; LECO, <ext-link ext-link-type="uri" xlink:href="http://www.leco.com">http://www.leco.com</ext-link>, Corporation, St. Joseph, MI) equipped with an Agilent 6890 gas chromatograph (Agilent Technologies Canada Inc., Mississauga, ON, Canada). Volatile compounds were identified by comparison of mass spectra with spectra reported in the NIST (<ext-link ext-link-type="uri" xlink:href="http://www.nist.gov">http://www.nist.gov</ext-link>) and Wiley libraries (<ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com">http://onlinelibrary.wiley.com</ext-link>).</p></sec><sec id="pbi12949-sec-0015"><title>Non&#x02010;choice feeding bioassays</title><p>A 3&#x02010;day feeding bioassay was used to assess the effects of using maize pre&#x02010;infested with <italic>O.&#x000a0;furnacalis</italic> for 24&#x000a0;h on the food intake and nutrition of this pest. Newly molted 2nd and 3rd instar <italic>O.&#x000a0;furnacalis</italic> reared on sweet maize leaves were used for the bioassay. The bioassay procedures follow Scott <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0082" ref-type="ref">2010</xref>). Nutritional indices, AD, ECD, ECI, RCR and RGR were calculated according to the standard formulas (Parra <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0069" ref-type="ref">2012</xref>).</p></sec><sec id="pbi12949-sec-0016"><title>Age&#x02010;stage, two&#x02010;sex life table study</title><p>The effects of maize leaves pre&#x02010;infested by <italic>O.&#x000a0;furnacalis</italic> for 24&#x000a0;h on the population growth of <italic>O.&#x000a0;furnacalis</italic> were assessed using an age&#x02010;stage, two&#x02010;sex life table study. The experiment was conducted following Tuan <italic>et&#x000a0;al</italic>. (<xref rid="pbi12949-bib-0091" ref-type="ref">2014</xref>).</p></sec><sec id="pbi12949-sec-0017"><title>Y&#x02010;tube olfactometer bioassays</title><p>A Y&#x02010;tube olfactometer bioassays were conducted to test the preference of <italic>M.&#x000a0;cingulum</italic> towards <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced maize volatiles. The equipment used was similar to that of Takemoto and Takabayashi (<xref rid="pbi12949-bib-0085" ref-type="ref">2015</xref>). All the <italic>O.&#x000a0;furnacalis</italic>&#x02010;induced maize volatiles (2, 4, 12, 24, 48 and 72&#x000a0;h following infestation) were tested against control volatiles (0&#x000a0;h). <italic>M. cingulum</italic> was released individually at the entry of the Y&#x02010;tube olfactometer, and was allowed only 5&#x000a0;min to respond to the two odour sources. The number of wasps choosing each of the odours was recorded. Sixty males and females were tested for each odour source combination. All parasitoids used in the experiments were 2&#x02013;4&#x000a0;days old.</p></sec><sec id="pbi12949-sec-0018"><title>Statistical analyses</title><p>Nutritional and growth indices were analysed with an ANCOVA (PROC GLM; SAS Institute, <xref rid="pbi12949-bib-0078" ref-type="ref">2009</xref>) (Lin <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0050" ref-type="ref">2008</xref>; Thompson <italic>et&#x000a0;al</italic>., <xref rid="pbi12949-bib-0088" ref-type="ref">2005</xref>). Raw data from age&#x02010;stage, two&#x02010;sex life tables were analysed using the TWOSEX&#x02010;MSChart&#x000a0;program (Chi, <xref rid="pbi12949-bib-0011" ref-type="ref">2015</xref>). <italic>M. cingulum</italic> preferences were analysed using a &#x003c7;<sup>2</sup> test with the null hypothesis of 50% probability of making each choice. PCA of benzoxazinoids was conducted and plotted using &#x02018;pca&#x02019; function in the mixOmics package 6.30 in R (v.3.4.2; R Development Core Team, <xref rid="pbi12949-bib-0073" ref-type="ref">2017</xref>). PLS&#x02010;DA of maize volatiles was achieved using &#x02018;cim&#x02019;, &#x02018;plotIndiv&#x02019; and &#x02018;plotVar&#x02019; functions in the mixOmics package 6.30 in R (v.3.4.2; R Development Core Team, <xref rid="pbi12949-bib-0073" ref-type="ref">2017</xref>). Statistical comparisons of metabolite concentration were made using SAS statistics package version 9.2 (SAS Institute, <xref rid="pbi12949-bib-0078" ref-type="ref">2009</xref>) and a significance level of <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 was applied.</p></sec></sec><sec id="pbi12949-sec-0020"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi12949-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1</bold> Volcano plots of differential expression genes (DEGs) in maize induced by <italic>O.&#x000a0;furnacalis</italic> attack for 2, 4, 12 and 24&#x000a0;h compared with control.</p><p>
+<bold>Figure&#x000a0;S2</bold> Correlations between RNA&#x02010;seq and qRT&#x02010;PCR gene expression data.</p><p>
+<bold>Figure&#x000a0;S3</bold> Effects of <italic>O.&#x000a0;furnacalis</italic> feeding on salicylic acid (SA) and abscisic acid (ABA) biosynthesis.</p><p>
+<bold>Table&#x000a0;S1</bold> Summary of RNA sequencing and mapping using the maize genome as the reference.</p><p>
+<bold>Table&#x000a0;S2</bold> The common pathways of DEGs in the transcriptome of maize induced by <italic>O. furnacalis</italic> infestation for different period of time.</p><p>
+<bold>Table&#x000a0;S3</bold> The developmental time and fecundity of <italic>O.&#x000a0;furnacalis</italic> reared on the maize leaves previously infested by <italic>O.&#x000a0;furnacalis</italic> for 0 and 24&#x000a0;h.</p><p>
+<bold>Table&#x000a0;S4</bold> The meteorological parameters during the maize growth period.</p><p>
+<bold>Table&#x000a0;S5</bold> Primers used for qRT&#x02010;PCR.</p></caption><media xlink:href="PBI-17-88-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12949-sup-0002"><caption><p>
+<bold>Data S1</bold> Genes detected in all samples.</p></caption><media xlink:href="PBI-17-88-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12949-sup-0003"><caption><p>
+<bold>Data S2</bold> All up&#x02010;regulated DEGs in maize leaves induced by <italic>O.&#x000a0;furnacali</italic>s feeding for 2, 4, 12 and 24&#x000a0;h with a cut&#x02010;off of twofold change relative to the control.</p></caption><media xlink:href="PBI-17-88-s003.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12949-sup-0004"><caption><p>
+<bold>Data S3</bold> All down&#x02010;regulated DEGs in maize leaves induced by <italic>O.&#x000a0;furnacali</italic>s infestation for 2, 4, 12 and 24&#x000a0;h with a cut&#x02010;off of twofold change relative to the control.</p></caption><media xlink:href="PBI-17-88-s004.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12949-sup-0005"><caption><p>
+<bold>Data S4</bold> KEGG pathway enrichment analysis of DEGs in the transcriptome of maize induced by <italic>O.&#x000a0;furnacalis</italic> infestation for different periods of time.</p></caption><media xlink:href="PBI-17-88-s005.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi12949-sup-0006"><caption><p>
+<bold>Data S5</bold> Overrepresentation analysis of each profile using the Short Time&#x02010;series Expression Miner (STEM) analysis tool to identify metabolic pathways that are being regulated.</p></caption><media xlink:href="PBI-17-88-s006.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi12949-sec-0019"><title>Acknowledgements</title><p>This research was supported by the National Key Research and Development Program of China (2017YFD0201802) and China Agriculture Research System (CARS&#x02010;02).</p></ack><ref-list content-type="cited-references" id="pbi12949-bibl-0001"><title>References</title><ref id="pbi12949-bib-0001"><mixed-citation publication-type="journal" id="pbi12949-cit-0001">
+<string-name>
+<surname>Ahmad</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Veyrat</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Gordon&#x02010;Weeks</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Smart</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Glauser</surname>, <given-names>G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Benzoxazinoid metabolites regulate innate immunity against aphids and fungi in maize</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>157</volume>, <fpage>317</fpage>&#x02013;<lpage>327</lpage>.<pub-id pub-id-type="pmid">21730199</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0002"><mixed-citation publication-type="journal" id="pbi12949-cit-0002">
+<string-name>
+<surname>Aljbory</surname>, <given-names>Z.</given-names>
+</string-name> and <string-name>
+<surname>Chen</surname>, <given-names>M.S.</given-names>
+</string-name> (<year>2017</year>) <article-title>Indirect plant defense against insect herbivores: a review</article-title>. <source xml:lang="en">Insect Sci.</source>
+<volume>25</volume>, <fpage>2</fpage>&#x02013;<lpage>23</lpage>.<pub-id pub-id-type="pmid">28035791</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0003"><mixed-citation publication-type="journal" id="pbi12949-cit-0003">
+<string-name>
+<surname>Ankala</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Luthe</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>W.P.</given-names>
+</string-name> and <string-name>
+<surname>Wilkinson</surname>, <given-names>J.R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Integration of ethylene and jasmonic acid signaling pathways in the expression of maize defense protein Mir1&#x02010;CP</article-title>. <source xml:lang="en">Mol. Plant Microbe Interact.</source>
+<volume>22</volume>, <fpage>1555</fpage>&#x02013;<lpage>1564</lpage>.<pub-id pub-id-type="pmid">19888821</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0004"><mixed-citation publication-type="journal" id="pbi12949-cit-0004">
+<string-name>
+<surname>Bodenhausen</surname>, <given-names>N.</given-names>
+</string-name> and <string-name>
+<surname>Reymond</surname>, <given-names>P.</given-names>
+</string-name> (<year>2007</year>) <article-title>Signaling pathways controlling induced resistance to insect herbivores in Arabidopsis</article-title>. <source xml:lang="en">Mol. Plant Microbe Interact.</source>
+<volume>20</volume>, <fpage>1406</fpage>&#x02013;<lpage>1420</lpage>.<pub-id pub-id-type="pmid">17977152</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0005"><mixed-citation publication-type="journal" id="pbi12949-cit-0005">
+<string-name>
+<surname>Bozorov</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Dinh</surname>, <given-names>S.T.</given-names>
+</string-name> and <string-name>
+<surname>Baldwin</surname>, <given-names>I.T.</given-names>
+</string-name> (<year>2017</year>) <article-title>JA but not JA&#x02010;Ile is the cell&#x02010;nonautonomous signal activating JA mediated systemic defenses to herbivory in <italic>Nicotiana attenuata</italic>
+</article-title>. <source xml:lang="en">J. Integr. Plant Biol.</source>
+<volume>59</volume>, <fpage>552</fpage>&#x02013;<lpage>571</lpage>.<pub-id pub-id-type="pmid">28422432</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0006"><mixed-citation publication-type="journal" id="pbi12949-cit-0006">
+<string-name>
+<surname>Bruce</surname>, <given-names>T.J.A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Tackling the threat to food security caused by crop pests in the new millennium</article-title>. <source xml:lang="en">Food Secur.</source>
+<volume>2</volume>, <fpage>133</fpage>&#x02013;<lpage>141</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0007"><mixed-citation publication-type="journal" id="pbi12949-cit-0007">
+<string-name>
+<surname>Buckler</surname>, <given-names>E.S.</given-names>
+</string-name>, <string-name>
+<surname>Gaut</surname>, <given-names>B.S.</given-names>
+</string-name> and <string-name>
+<surname>McMullen</surname>, <given-names>M.D.</given-names>
+</string-name> (<year>2006</year>) <article-title>Molecular and functional diversity of maize</article-title>. <source xml:lang="en">Curr. Opin. Plant Biol.</source>
+<volume>9</volume>, <fpage>172</fpage>&#x02013;<lpage>176</lpage>.<pub-id pub-id-type="pmid">16459128</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0008"><mixed-citation publication-type="journal" id="pbi12949-cit-0008">
+<string-name>
+<surname>Caarls</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> and <string-name>
+<surname>Van Wees</surname>, <given-names>S.C.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>How salicylic acid takes transcriptional control over jasmonic acid signaling</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>6</volume>, <fpage>170</fpage>.<pub-id pub-id-type="pmid">25859250</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0009"><mixed-citation publication-type="journal" id="pbi12949-cit-0009">
+<string-name>
+<surname>Chen</surname>, <given-names>M.S.</given-names>
+</string-name> (<year>2008</year>) <article-title>Inducible direct plant defense against insect herbivores: a review</article-title>. <source xml:lang="en">Insect Sci.</source>
+<volume>15</volume>, <fpage>101</fpage>&#x02013;<lpage>114</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0010"><mixed-citation publication-type="journal" id="pbi12949-cit-0010">
+<string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Gols</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Benrey</surname>, <given-names>B.</given-names>
+</string-name> (<year>2015</year>) <article-title>Crop domestication and its impact on naturally selected trophic interactions</article-title>. <source xml:lang="en">Annu. Rev. Entomol.</source>
+<volume>60</volume>, <fpage>35</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">25341108</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0011"><mixed-citation publication-type="book" id="pbi12949-cit-0011">
+<string-name>
+<surname>Chi</surname>, <given-names>H.</given-names>
+</string-name> (<year>2015</year>) <article-title>CONSUME&#x02010;MSChart: a computer program for the age&#x02010;stage, two&#x02010;sex consumption rate analysis</article-title>. <publisher-loc>Taichung</publisher-loc>:<publisher-name>National Chung Hsing University</publisher-name> Available from <ext-link ext-link-type="uri" xlink:href="http://140.120.197.173/Ecology/">http://140.120.197.173/Ecology/</ext-link> (accessed 21 November 2016).</mixed-citation></ref><ref id="pbi12949-bib-0012"><mixed-citation publication-type="journal" id="pbi12949-cit-0012">
+<string-name>
+<surname>Chuang</surname>, <given-names>W.P.</given-names>
+</string-name>, <string-name>
+<surname>Ray</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Acevedo</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Peiffer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Felton</surname>, <given-names>G.W.</given-names>
+</string-name> and <string-name>
+<surname>Luthe</surname>, <given-names>D.S.</given-names>
+</string-name> (<year>2014</year>) <article-title>Herbivore cues from the fall armyworm (<italic>Spodoptera frugiperd</italic>a) larvae trigger direct defenses in maize</article-title>. <source xml:lang="en">Mol. Plant Microbe Interact.</source>
+<volume>27</volume>, <fpage>461</fpage>&#x02013;<lpage>470</lpage>.<pub-id pub-id-type="pmid">24329171</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0013"><mixed-citation publication-type="journal" id="pbi12949-cit-0013">
+<string-name>
+<surname>Covington</surname>, <given-names>M.F.</given-names>
+</string-name>, <string-name>
+<surname>Maloof</surname>, <given-names>J.N.</given-names>
+</string-name>, <string-name>
+<surname>Straume</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kay</surname>, <given-names>S.A.</given-names>
+</string-name> and <string-name>
+<surname>Harmer</surname>, <given-names>S.L.</given-names>
+</string-name> (<year>2008</year>) <article-title>Global transcriptome analysis reveals circadian regulation of key pathways in plant growth and development</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>9</volume>, <fpage>R130</fpage>.<pub-id pub-id-type="pmid">18710561</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0014"><mixed-citation publication-type="journal" id="pbi12949-cit-0014">
+<string-name>
+<surname>Creelmn</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Mullent</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>1995</year>) <article-title>Jasmonic acid distribution and action in plants: regulation during development and response to biotic and abiotic stress</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>92</volume>, <fpage>4114</fpage>&#x02013;<lpage>4119</lpage>.<pub-id pub-id-type="pmid">11607536</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0015"><mixed-citation publication-type="journal" id="pbi12949-cit-0015">
+<string-name>
+<surname>Dafoe</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Huffaker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vaughan</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Duehl</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Teal</surname>, <given-names>P.E.</given-names>
+</string-name> and <string-name>
+<surname>Schmelz</surname>, <given-names>E.A.</given-names>
+</string-name> (<year>2011</year>) <article-title>Rapidly induced chemical defenses in maize stems and their effects on short&#x02010;term growth of <italic>Ostrinia nubilalis</italic>
+</article-title>. <source xml:lang="en">J. Chem. Ecol.</source>
+<volume>37</volume>, <fpage>984</fpage>&#x02013;<lpage>991</lpage>.<pub-id pub-id-type="pmid">21833765</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0016"><mixed-citation publication-type="journal" id="pbi12949-cit-0016">
+<string-name>
+<surname>D'Alessandro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Brunner</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>von M&#x000e9;rey</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> (<year>2009</year>) <article-title>Strong attraction of the parasitoid <italic>Cotesia marginiventris</italic> towards minor volatile compounds of maize</article-title>. <source xml:lang="en">J. Chem. Ecol.</source>
+<volume>35</volume>, <fpage>999</fpage>&#x02013;<lpage>1008</lpage>.<pub-id pub-id-type="pmid">19779759</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0017"><mixed-citation publication-type="journal" id="pbi12949-cit-0017">
+<string-name>
+<surname>De Boer</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Snoeren</surname>, <given-names>T.A.L.</given-names>
+</string-name> and <string-name>
+<surname>Dicke</surname>, <given-names>M.</given-names>
+</string-name> (<year>2005</year>) <article-title>Predatory mites learn to discriminate between plant volatiles induced by prey and nonprey herbivores</article-title>. <source xml:lang="en">Anim. Behav.</source>
+<volume>69</volume>, <fpage>869</fpage>&#x02013;<lpage>879</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0018"><mixed-citation publication-type="journal" id="pbi12949-cit-0018">
+<string-name>
+<surname>Degen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Dillmann</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Marion&#x02010;Poll</surname>, <given-names>F.</given-names>
+</string-name> and <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> (<year>2004</year>) <article-title>High genetic variability of herbivore&#x02010;induced volatile emission within a broad range of maize inbred lines</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>135</volume>, <fpage>1928</fpage>&#x02013;<lpage>1938</lpage>.<pub-id pub-id-type="pmid">15299140</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0019"><mixed-citation publication-type="journal" id="pbi12949-cit-0019">
+<string-name>
+<surname>Degen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bakalovic</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Bergvinson</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Differential performance and parasitism of caterpillars on maize inbred lines with distinctly different herbivore&#x02010;induced volatile emissions</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>7</volume>, <fpage>e47589</fpage>.<pub-id pub-id-type="pmid">23112820</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0020"><mixed-citation publication-type="journal" id="pbi12949-cit-0020">
+<string-name>
+<surname>Dempsey</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Vlot</surname>, <given-names>A.C.</given-names>
+</string-name>, <string-name>
+<surname>Wildermuth</surname>, <given-names>M.C.</given-names>
+</string-name> and <string-name>
+<surname>Klessig</surname>, <given-names>D.F.</given-names>
+</string-name> (<year>2011</year>) <article-title>Salicylic acid biosynthesis and metabolism</article-title>. <source xml:lang="en">Arabidopsis Book</source>, <volume>9</volume>, <fpage>e0156</fpage>.<pub-id pub-id-type="pmid">22303280</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0021"><mixed-citation publication-type="journal" id="pbi12949-cit-0021">
+<string-name>
+<surname>Douma</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Vermeulen</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Poelman</surname>, <given-names>E.H.</given-names>
+</string-name>, <string-name>
+<surname>Dicke</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Anten</surname>, <given-names>N.P.R.</given-names>
+</string-name> (<year>2017</year>) <article-title>When does it pay off to prime for defense? A modeling analysis.</article-title>
+<source xml:lang="en">New Phytol.</source>
+<volume>216</volume>, <fpage>782</fpage>&#x02013;<lpage>797</lpage>.<pub-id pub-id-type="pmid">28892162</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0022"><mixed-citation publication-type="journal" id="pbi12949-cit-0022">
+<string-name>
+<surname>Erb</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Flors</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Karlen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>De Lange</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Planchamp</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>D'Alessandro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Signal signature of aboveground&#x02010;induced resistance upon belowground herbivory in maize</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>59</volume>, <fpage>292</fpage>&#x02013;<lpage>302</lpage>.<pub-id pub-id-type="pmid">19392694</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0023"><mixed-citation publication-type="journal" id="pbi12949-cit-0023">
+<string-name>
+<surname>Erb</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;llner</surname>, <given-names>T.G.</given-names>
+</string-name>, <string-name>
+<surname>Degenhardt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zwahlen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hibbard</surname>, <given-names>B.E.</given-names>
+</string-name> and <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> (<year>2011a</year>) <article-title>The role of abscisic acid and water stress in root herbivore&#x02010;induced leaf resistance</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>189</volume>, <fpage>308</fpage>&#x02013;<lpage>320</lpage>.<pub-id pub-id-type="pmid">20840610</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0024"><mixed-citation publication-type="journal" id="pbi12949-cit-0024">
+<string-name>
+<surname>Erb</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>, <given-names>C.A.M.</given-names>
+</string-name>, <string-name>
+<surname>Hibbard</surname>, <given-names>B.E.</given-names>
+</string-name> and <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> (<year>2011b</year>) <article-title>Sequence of arrival determines plant&#x02010;mediated interactions between herbivores</article-title>. <source xml:lang="en">J. Ecol.</source>
+<volume>99</volume>, <fpage>7</fpage>&#x02013;<lpage>15</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0025"><mixed-citation publication-type="journal" id="pbi12949-cit-0025">
+<string-name>
+<surname>Erb</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Meldau</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Howe</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>2012</year>) <article-title>Role of phytohormones in insect&#x02010;specific plant reactions</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>17</volume>, <fpage>250</fpage>&#x02013;<lpage>259</lpage>.<pub-id pub-id-type="pmid">22305233</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0026"><mixed-citation publication-type="journal" id="pbi12949-cit-0026">
+<string-name>
+<surname>Erb</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Veyrat</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>, <given-names>C.A.M.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Frey</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ton</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> (<year>2015</year>) <article-title>Indole is an essential herbivore&#x02010;induced volatile priming signal in maize</article-title>. <source xml:lang="en">Nat. Commun.</source>
+<volume>6</volume>, <fpage>6273</fpage>.<pub-id pub-id-type="pmid">25683900</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0027"><mixed-citation publication-type="journal" id="pbi12949-cit-0027">
+<string-name>
+<surname>Ernst</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Bar&#x02010;Joseph</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2006</year>) <article-title>STEM: a tool for the analysis of short time series gene expression data</article-title>. <source xml:lang="en">BMC Bioinformatics</source>, <volume>7</volume>, <fpage>6273</fpage>.</mixed-citation></ref><ref id="pbi12949-bib-0028"><mixed-citation publication-type="miscellaneous" id="pbi12949-cit-0028">
+<collab collab-type="authors">FAOSTAT</collab>
+(<year>2017</year>) <article-title>Production quantities of maize by country, 2016</article-title>. Available from <ext-link ext-link-type="uri" xlink:href="http://faostat3.fao.org/browse/Q/QC/E">http://faostat3.fao.org/browse/Q/QC/E</ext-link>. Updated 2017 (accessed 15 January 2018).</mixed-citation></ref><ref id="pbi12949-bib-0029"><mixed-citation publication-type="journal" id="pbi12949-cit-0029">
+<string-name>
+<surname>Fontana</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Held</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fantaye</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Degenhardt</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Attractiveness of constitutive and herbivore&#x02010;induced sesquiterpene blends of maize to the parasitic wasp <italic>Cotesia marginiventris</italic> (Cresson)</article-title>. <source xml:lang="en">J. Chem. Ecol.</source>
+<volume>37</volume>, <fpage>582</fpage>&#x02013;<lpage>591</lpage>.<pub-id pub-id-type="pmid">21607717</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0030"><mixed-citation publication-type="journal" id="pbi12949-cit-0030">
+<string-name>
+<surname>Frost</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Mescher</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Carlson</surname>, <given-names>J.E.</given-names>
+</string-name> and <string-name>
+<surname>Moraes</surname>, <given-names>C.M.D.</given-names>
+</string-name> (<year>2008</year>) <article-title>Plant defense priming against herbivores: getting ready for a different battle</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>146</volume>, <fpage>818</fpage>&#x02013;<lpage>824</lpage>.<pub-id pub-id-type="pmid">18316635</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0031"><mixed-citation publication-type="journal" id="pbi12949-cit-0031">
+<string-name>
+<surname>Glauser</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Marti</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Villard</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Doyen</surname>, <given-names>G.A.</given-names>
+</string-name>, <string-name>
+<surname>Wolfender</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> and <string-name>
+<surname>Erb</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Induction and detoxification of maize 1,4&#x02010;benzoxazin&#x02010;3&#x02010;ones by insect herbivores</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>68</volume>, <fpage>901</fpage>&#x02013;<lpage>911</lpage>.<pub-id pub-id-type="pmid">21838747</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0032"><mixed-citation publication-type="journal" id="pbi12949-cit-0032">
+<string-name>
+<surname>Gouinguen&#x000e9;</surname>, <given-names>S.P.</given-names>
+</string-name> and <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> (<year>2002</year>) <article-title>The effects of abiotic factors on induced volatile emissions in corn plants</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>129</volume>, <fpage>1296</fpage>&#x02013;<lpage>1307</lpage>.<pub-id pub-id-type="pmid">12114583</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0033"><mixed-citation publication-type="journal" id="pbi12949-cit-0033">
+<string-name>
+<surname>Group</surname>, <given-names>P.A.P.</given-names>
+</string-name>, <string-name>
+<surname>Conrath</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Beckers</surname>, <given-names>G.J.M.</given-names>
+</string-name>, <string-name>
+<surname>Flors</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a&#x02010;Agust&#x000ed;n</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jakab</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mauch</surname>, <given-names>F.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2006</year>) <article-title>Priming: getting ready for battle</article-title>. <source xml:lang="en">Mol. Plant Microbe Interact.</source>
+<volume>19</volume>, <fpage>1062</fpage>&#x02013;<lpage>1071</lpage>.<pub-id pub-id-type="pmid">17022170</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0034"><mixed-citation publication-type="journal" id="pbi12949-cit-0034">
+<string-name>
+<surname>He</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>D.R.</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>, <given-names>L.P.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>Y.Y.</given-names>
+</string-name> and <string-name>
+<surname>Yao</surname>, <given-names>Z.Y.</given-names>
+</string-name> (<year>2003</year>) <article-title>Evaluation of transgenic Bt corn for resistance to the Asian corn borer (Lepidoptera: Pyralidae)</article-title>. <source xml:lang="en">J. Econ. Entomol.</source>
+<volume>96</volume>, <fpage>935</fpage>&#x02013;<lpage>940</lpage>.<pub-id pub-id-type="pmid">12852639</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0035"><mixed-citation publication-type="journal" id="pbi12949-cit-0035">
+<string-name>
+<surname>Howe</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>2004</year>) <article-title>Jasmonates as signals in the wound response</article-title>. <source xml:lang="en">J. Plant Growth Regul.</source>
+<volume>23</volume>, <fpage>223</fpage>&#x02013;<lpage>237</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0036"><mixed-citation publication-type="journal" id="pbi12949-cit-0036">
+<string-name>
+<surname>Howe</surname>, <given-names>G.A.</given-names>
+</string-name> and <string-name>
+<surname>Jander</surname>, <given-names>G.</given-names>
+</string-name> (<year>2008</year>) <article-title>Plant immunity to insect herbivores</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>59</volume>, <fpage>41</fpage>&#x02013;<lpage>66</lpage>.<pub-id pub-id-type="pmid">18031220</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0037"><mixed-citation publication-type="journal" id="pbi12949-cit-0037">
+<string-name>
+<surname>Huang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Yan</surname>, <given-names>F.</given-names>
+</string-name> (<year>2014</year>) <article-title>Adsorbent trap and solid&#x02010;phase microextraction methods for the collection of volatile infochemicals</article-title>. <source xml:lang="en">Chin. J. Appl. Entomol.</source>
+<volume>51</volume>, <fpage>573</fpage>&#x02013;<lpage>578</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0038"><mixed-citation publication-type="journal" id="pbi12949-cit-0038">
+<string-name>
+<surname>Jiao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Peluso</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Stitzer</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>M.S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Improved maize reference genome with single&#x02010;molecule technologies</article-title>. <source xml:lang="en">Nature</source>, <volume>546</volume>, <fpage>524</fpage>&#x02013;<lpage>527</lpage>.<pub-id pub-id-type="pmid">28605751</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0039"><mixed-citation publication-type="journal" id="pbi12949-cit-0039">
+<string-name>
+<surname>Kant</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Ament</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sabelis</surname>, <given-names>M.W.</given-names>
+</string-name>, <string-name>
+<surname>Haring</surname>, <given-names>M.A.</given-names>
+</string-name> and <string-name>
+<surname>Schuurink</surname>, <given-names>R.C.</given-names>
+</string-name> (<year>2004</year>) <article-title>Differential timing of spider mite&#x02010;induced direct and indirect defenses in tomato plants</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>135</volume>, <fpage>483</fpage>&#x02013;<lpage>495</lpage>.<pub-id pub-id-type="pmid">15122016</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0040"><mixed-citation publication-type="journal" id="pbi12949-cit-0040">
+<string-name>
+<surname>Karapetyan</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Dong</surname>, <given-names>X.</given-names>
+</string-name> (<year>2017</year>) <article-title>Redox and the circadian clock in plant immunity: a balancing act</article-title>. <source xml:lang="en">Free Radic. Biol. Med.</source>
+<volume>12</volume>, <fpage>024</fpage>.</mixed-citation></ref><ref id="pbi12949-bib-0110"><mixed-citation publication-type="journal" id="pbi12949-cit-0110">
+<string-name>
+<surname>Karban</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Agrawal</surname>, <given-names>A.A.</given-names>
+</string-name> and <string-name>
+<surname>Mangel</surname>, <given-names>M.</given-names>
+</string-name> (<year>1997</year>) <article-title>The benefits of induced defenses against herbivores</article-title>. <source xml:lang="en">Ecology</source>
+<volume>78</volume>, <fpage>1351</fpage>&#x02013;<lpage>1355</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0041"><mixed-citation publication-type="journal" id="pbi12949-cit-0041">
+<string-name>
+<surname>Karban</surname>, <given-names>R.</given-names>
+</string-name> (<year>2011</year>) <article-title>The ecology and evolution of induced resistance against herbivores</article-title>. <source xml:lang="en">Funct. Ecol.</source>
+<volume>25</volume>, <fpage>339</fpage>&#x02013;<lpage>347</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0042"><mixed-citation publication-type="journal" id="pbi12949-cit-0042">
+<string-name>
+<surname>Kaur</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Heinzel</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000f6;ttner</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Baldwin</surname>, <given-names>I.T.</given-names>
+</string-name> and <string-name>
+<surname>G&#x000e1;lis</surname>, <given-names>I.</given-names>
+</string-name> (<year>2010</year>) <article-title>R2R3&#x02010;NaMYB8 regulates the accumulation of phenylpropanoid&#x02010;polyamine conjugates, which are essential for local and systemic defense against insect herbivores in <italic>Nicotiana attenuata</italic>
+</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>152</volume>, <fpage>1731</fpage>&#x02013;<lpage>1747</lpage>.<pub-id pub-id-type="pmid">20089770</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0043"><mixed-citation publication-type="journal" id="pbi12949-cit-0043">
+<string-name>
+<surname>Kawazu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Mochizuki</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sugeno</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Murata</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Mitsuhara</surname>, <given-names>I.</given-names>
+</string-name> (<year>2012</year>) <article-title>Different expression profiles of jasmonic acid and salicylic acid inducible genes in the tomato plant against herbivores with various feeding modes</article-title>. <source xml:lang="en">Arthropod&#x02010;Plant Interact.</source>
+<volume>6</volume>, <fpage>221</fpage>&#x02013;<lpage>230</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0044"><mixed-citation publication-type="journal" id="pbi12949-cit-0044">
+<string-name>
+<surname>Kerchev</surname>, <given-names>P.I.</given-names>
+</string-name>, <string-name>
+<surname>Fenton</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Foyer</surname>, <given-names>C.H.</given-names>
+</string-name> and <string-name>
+<surname>Hancock</surname>, <given-names>R.D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Plant responses to insect herbivory: interactions between photosynthesis, reactive oxygen species and hormonal signalling pathways</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>35</volume>, <fpage>441</fpage>&#x02013;<lpage>453</lpage>.<pub-id pub-id-type="pmid">21752032</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0045"><mixed-citation publication-type="journal" id="pbi12949-cit-0045">
+<string-name>
+<surname>Kessler</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Baldwin</surname>, <given-names>I.T.</given-names>
+</string-name> (<year>2002</year>) <article-title>Plant responses to insect herbivory: the emerging molecular analysis</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>53</volume>, <fpage>299</fpage>&#x02013;<lpage>328</lpage>.<pub-id pub-id-type="pmid">12221978</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0046"><mixed-citation publication-type="journal" id="pbi12949-cit-0046">
+<string-name>
+<surname>Kim</surname>, <given-names>S.G.</given-names>
+</string-name>, <string-name>
+<surname>Yon</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Gaquerel</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gulati</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Baldwin</surname>, <given-names>I.T.</given-names>
+</string-name> (<year>2011</year>) <article-title>Tissue specific diurnal rhythms of metabolites and their regulation during herbivore attack in a native tobacco, <italic>Nicotiana attenuata</italic>
+</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>, <fpage>e26214</fpage>.<pub-id pub-id-type="pmid">22028833</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0047"><mixed-citation publication-type="journal" id="pbi12949-cit-0047">
+<string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pertea</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Trapnell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pimentel</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kelley</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Salzberg</surname>, <given-names>S.L.</given-names>
+</string-name> (<year>2013</year>) <article-title>TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>14</volume>, <fpage>R36</fpage>.<pub-id pub-id-type="pmid">23618408</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0048"><mixed-citation publication-type="journal" id="pbi12949-cit-0048">
+<string-name>
+<surname>K&#x000f6;llner</surname>, <given-names>T.G.</given-names>
+</string-name>, <string-name>
+<surname>Held</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lenk</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hiltpold</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name>, <string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Degenhardt</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>) <article-title>A maize (<italic>E</italic>)&#x02010;&#x003b2;&#x02010;caryophyllene synthase implicated in indirect defense responses against herbivores is not expressed in most American maize varieties</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>20</volume>, <fpage>482</fpage>&#x02013;<lpage>494</lpage>.<pub-id pub-id-type="pmid">18296628</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0049"><mixed-citation publication-type="journal" id="pbi12949-cit-0049">
+<string-name>
+<surname>Lawrence</surname>, <given-names>S.D.</given-names>
+</string-name>, <string-name>
+<surname>Novak</surname>, <given-names>N.G.</given-names>
+</string-name>, <string-name>
+<surname>Kayal</surname>, <given-names>W.E.</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>, <given-names>C.J.T.</given-names>
+</string-name> and <string-name>
+<surname>Cooke</surname>, <given-names>J.E.K.</given-names>
+</string-name> (<year>2012</year>) <article-title>Root herbivory: molecular analysis of the maize transcriptome upon infestation by Southern corn rootworm, <italic>Diabrotica undecimpunctata</italic> howardi</article-title>. <source xml:lang="en">Physiol. Plant.</source>
+<volume>144</volume>, <fpage>303</fpage>&#x02013;<lpage>319</lpage>.<pub-id pub-id-type="pmid">22172013</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0050"><mixed-citation publication-type="journal" id="pbi12949-cit-0050">
+<string-name>
+<surname>Lin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.H.</given-names>
+</string-name> and <string-name>
+<surname>Hwang</surname>, <given-names>S.Y.</given-names>
+</string-name> (<year>2008</year>) <article-title>Responses of <italic>Helicoverpa armiger</italic>a to tomato plants previously infected by ToMV or damaged by <italic>H. armigera</italic>
+</article-title>. <source xml:lang="en">J. Chem. Ecol.</source>
+<volume>34</volume>, <fpage>353</fpage>&#x02013;<lpage>361</lpage>.<pub-id pub-id-type="pmid">18286340</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0051"><mixed-citation publication-type="journal" id="pbi12949-cit-0051">
+<string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zuo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Genome&#x02010;wide comparative analysis of digital gene expression tag profiles during maize ear development</article-title>. <source xml:lang="en">Genomics</source>, <volume>106</volume>, <fpage>52</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">25847872</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0052"><mixed-citation publication-type="journal" id="pbi12949-cit-0052">
+<string-name>
+<surname>Livak</surname>, <given-names>K.J.</given-names>
+</string-name> and <string-name>
+<surname>Schmittgen</surname>, <given-names>T.D.</given-names>
+</string-name> (<year>2001</year>) <article-title>Analysis of relative gene expression data using real&#x02010;time quantitative PCR and the 2<sup>&#x02212;&#x00394;&#x00394;CT</sup> method</article-title>. <source xml:lang="en">Methods</source>, <volume>25</volume>, <fpage>402</fpage>&#x02013;<lpage>408</lpage>.<pub-id pub-id-type="pmid">11846609</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0053"><mixed-citation publication-type="journal" id="pbi12949-cit-0053">
+<string-name>
+<surname>Lortzing</surname>, <given-names>T.</given-names>
+</string-name> and <string-name>
+<surname>Steppuhn</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Jasmonate signalling in plants shapes plant&#x02010;insect interaction ecology</article-title>. <source xml:lang="en">Curr. Opin. Insect Sci.</source>
+<volume>14</volume>, <fpage>32</fpage>&#x02013;<lpage>39</lpage>.<pub-id pub-id-type="pmid">27436644</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0054"><mixed-citation publication-type="journal" id="pbi12949-cit-0054">
+<string-name>
+<surname>Lu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>, <given-names>C.A.M.</given-names>
+</string-name>, <string-name>
+<surname>Riemann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cosme</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e8;ne&#x02010;Saffran&#x000e9;</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Massana</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Stout</surname>, <given-names>M.J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Induced jasmonate signaling leads to contrasting effects on root damage and herbivore performance</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>167</volume>, <fpage>1100</fpage>&#x02013;<lpage>1116</lpage>.<pub-id pub-id-type="pmid">25627217</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0055"><mixed-citation publication-type="journal" id="pbi12949-cit-0055">
+<string-name>
+<surname>Maag</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Erb</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bernal</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Wolfender</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> and <string-name>
+<surname>Glauser</surname>, <given-names>G.</given-names>
+</string-name> (<year>2015</year>) <article-title>Maize domestication and anti&#x02010;herbivore defences: leaf&#x02010;specific dynamics during early ontogeny of maize and its wild ancestors</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>10</volume>, <fpage>e0135722</fpage>.<pub-id pub-id-type="pmid">26267478</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0056"><mixed-citation publication-type="journal" id="pbi12949-cit-0056">
+<string-name>
+<surname>Maag</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;hler</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>, <given-names>C.A.M.</given-names>
+</string-name>, <string-name>
+<surname>Frey</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wolfender</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name>, <string-name>
+<surname>Glauser</surname>, <given-names>G.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Highly localized and persistent induction of <italic>Bx1</italic>&#x02010;dependent herbivore resistance factors in maize</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>88</volume>, <fpage>976</fpage>&#x02013;<lpage>991</lpage>.<pub-id pub-id-type="pmid">27538820</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0057"><mixed-citation publication-type="journal" id="pbi12949-cit-0057">
+<string-name>
+<surname>Machado</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Arce</surname>, <given-names>C.C.M.</given-names>
+</string-name>, <string-name>
+<surname>Ferrieri</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name>
+<surname>Baldwin</surname>, <given-names>I.T.</given-names>
+</string-name> and <string-name>
+<surname>Erb</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Jasmonate&#x02010;dependent depletion of soluble sugars compromises plant resistance to <italic>Manduca sexta</italic>
+</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>207</volume>, <fpage>91</fpage>&#x02013;<lpage>105</lpage>.<pub-id pub-id-type="pmid">25704234</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0058"><mixed-citation publication-type="journal" id="pbi12949-cit-0058">
+<string-name>
+<surname>Manoli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sturaro</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Trevisan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Quaggiotti</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Nonis</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>) <article-title>Evaluation of candidate reference genes for qPCR in maize</article-title>. <source xml:lang="en">J. Plant Physiol.</source>
+<volume>169</volume>, <fpage>807</fpage>&#x02013;<lpage>815</lpage>.<pub-id pub-id-type="pmid">22459324</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0059"><mixed-citation publication-type="journal" id="pbi12949-cit-0059">
+<string-name>
+<surname>Martinez&#x02010;Medina</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Flors</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Heil</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mauch&#x02010;Mani</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name>, <string-name>
+<surname>Pozo</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Ton</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Recognizing plant defense priming</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>21</volume>, <fpage>818</fpage>&#x02013;<lpage>822</lpage>.<pub-id pub-id-type="pmid">27507609</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0060"><mixed-citation publication-type="journal" id="pbi12949-cit-0060">
+<string-name>
+<surname>Mauch&#x02010;mani</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Baccelli</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Luna</surname>, <given-names>E.</given-names>
+</string-name> and <string-name>
+<surname>Flors</surname>, <given-names>V.</given-names>
+</string-name> (<year>2017</year>) <article-title>Defense priming: an adaptive part of induced resistance</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>68</volume>, <fpage>485</fpage>&#x02013;<lpage>512</lpage>.<pub-id pub-id-type="pmid">28226238</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0061"><mixed-citation publication-type="journal" id="pbi12949-cit-0061">
+<string-name>
+<surname>Meihls</surname>, <given-names>L.N.</given-names>
+</string-name>, <string-name>
+<surname>Kaur</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Jander</surname>, <given-names>G.</given-names>
+</string-name> (<year>2012</year>) <article-title>Natural variation in maize defense against insect herbivores</article-title>. <source xml:lang="en">Cold Spring Harb. Symp. Quant. Biol.</source>
+<volume>77</volume>, <fpage>269</fpage>&#x02013;<lpage>283</lpage>.<pub-id pub-id-type="pmid">23223408</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0062"><mixed-citation publication-type="journal" id="pbi12949-cit-0062">
+<string-name>
+<surname>Meihls</surname>, <given-names>L.N.</given-names>
+</string-name>, <string-name>
+<surname>Handrick</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Glauser</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Barbier</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kaur</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Haribal</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Lipka</surname>, <given-names>A.E.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Natural variation in maize aphid resistance is associated with 2,4&#x02010;dihydroxy&#x02010;7&#x02010;methoxy&#x02010;1,4&#x02010;benzoxazin&#x02010;3&#x02010;one glucoside methyltransferase activity</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>25</volume>, <fpage>2341</fpage>&#x02013;<lpage>2355</lpage>.<pub-id pub-id-type="pmid">23898034</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0063"><mixed-citation publication-type="journal" id="pbi12949-cit-0063">
+<string-name>
+<surname>Mitchell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Brennan</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Karley</surname>, <given-names>A.J.</given-names>
+</string-name> (<year>2016</year>) <article-title>Plant defense against herbivorous pests: exploiting resistance and tolerance traits for sustainable crop protection</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>7</volume>, <fpage>1132</fpage>.<pub-id pub-id-type="pmid">27524994</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0064"><mixed-citation publication-type="journal" id="pbi12949-cit-0064">
+<string-name>
+<surname>Morris</surname>, <given-names>W.F.</given-names>
+</string-name>, <string-name>
+<surname>Traw</surname>, <given-names>M.B.</given-names>
+</string-name> and <string-name>
+<surname>Bergelson</surname>, <given-names>J.</given-names>
+</string-name> (<year>2006</year>) <article-title>On testing for a tradeoff between constitutive and induced resistance</article-title>. <source xml:lang="en">Oiko</source>, <volume>112</volume>, <fpage>102</fpage>&#x02013;<lpage>110</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0065"><mixed-citation publication-type="journal" id="pbi12949-cit-0065">
+<string-name>
+<surname>Nagano</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Mihara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Antonio</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Motoyama</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Itoh</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nagamura</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Deciphering and prediction of transcriptome dynamics under fluctuating field conditions</article-title>. <source xml:lang="en">Cell</source>, <volume>151</volume>, <fpage>1358</fpage>&#x02013;<lpage>1369</lpage>.<pub-id pub-id-type="pmid">23217716</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0067"><mixed-citation publication-type="journal" id="pbi12949-cit-0067">
+<string-name>
+<surname>Nahar</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kyndt</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>De Vleesschauwer</surname>, <given-names>D.D.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;fte</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Gheysen</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>) <article-title>The Jasmonate pathway is a key player in systemically induced defense against root knot nematodes in rice</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>157</volume>, <fpage>305</fpage>&#x02013;<lpage>316</lpage>.<pub-id pub-id-type="pmid">21715672</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0068"><mixed-citation publication-type="journal" id="pbi12949-cit-0068">
+<string-name>
+<surname>Niemeyer</surname>, <given-names>H.M.</given-names>
+</string-name> (<year>2009</year>) <article-title>Hydroxamic acids derived from 2&#x02010;hydroxy&#x02010;2H&#x02010;1,4&#x02010;benzoxazin&#x02010;3(4H)&#x02010;one: key defense chemicals of cereals</article-title>. <source xml:lang="en">J. Agric. Food Chem.</source>
+<volume>57</volume>, <fpage>1677</fpage>&#x02013;<lpage>1696</lpage>.<pub-id pub-id-type="pmid">19199602</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0069"><mixed-citation publication-type="book" id="pbi12949-cit-0069">
+<string-name>
+<surname>Parra</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Panizzi</surname>, <given-names>A.R.</given-names>
+</string-name> and <string-name>
+<surname>Haddad</surname>, <given-names>M.L.</given-names>
+</string-name> (<year>2012</year>) <chapter-title>Nutritional indices for measuring insect food intake and utilization</chapter-title> In <source xml:lang="en">Insect Bioecology and Nutrition for Integrated Pest Management</source> (<person-group person-group-type="editor"><name><surname>Parra</surname><given-names>J.R.</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Panizzi</surname><given-names>A.R.</given-names></name></person-group>, eds), pp. <fpage>13</fpage>&#x02013;<lpage>21</lpage>. <publisher-loc>Boca Raton, FL</publisher-loc>: <publisher-name>CRC Press</publisher-name>.</mixed-citation></ref><ref id="pbi12949-bib-0070"><mixed-citation publication-type="journal" id="pbi12949-cit-0070">
+<string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name>, <string-name>
+<surname>Does</surname>, <given-names>D.V.D.</given-names>
+</string-name>, <string-name>
+<surname>Zamioudis</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Leonreyes</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Wees</surname>, <given-names>S.C.M.V.</given-names>
+</string-name> (<year>2012</year>) <article-title>Hormonal modulation of plant immunity</article-title>. <source xml:lang="en">Annu. Rev. Cell Dev. Biol.</source>
+<volume>28</volume>, <fpage>489</fpage>&#x02013;<lpage>521</lpage>.<pub-id pub-id-type="pmid">22559264</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0071"><mixed-citation publication-type="journal" id="pbi12949-cit-0071">
+<string-name>
+<surname>Qi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hettenhausen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schuman</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Baldwin</surname>, <given-names>I.T.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Oral secretions from <italic>Mythimna separata</italic> insects specifically induce defence responses in maize as revealed by high&#x02010;dimensional biological data</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>39</volume>, <fpage>1749</fpage>&#x02013;<lpage>1766</lpage>.<pub-id pub-id-type="pmid">26991784</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0072"><mixed-citation publication-type="journal" id="pbi12949-cit-0072">
+<string-name>
+<surname>Qi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hettenhausen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>X.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Ultraviolet&#x02010;B enhances the resistance of multiple plant species to lepidopteran insect herbivory through the jasmonic acid pathway</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>8</volume>, <fpage>277</fpage>.<pub-id pub-id-type="pmid">29321619</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0073"><mixed-citation publication-type="book" id="pbi12949-cit-0073">
+<collab collab-type="authors">R Development Core Team</collab>
+(<year>2017</year>) <article-title>R: A Language and Environment for Statistical Computing</article-title>. <publisher-loc>Vienna</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name> Available from <ext-link ext-link-type="uri" xlink:href="http://www.r-project.org/">http://www.r-project.org/</ext-link> (accessed 20 October 2017).</mixed-citation></ref><ref id="pbi12949-bib-0074"><mixed-citation publication-type="journal" id="pbi12949-cit-0074">
+<string-name>
+<surname>Rasmann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;llner</surname>, <given-names>T.G.</given-names>
+</string-name>, <string-name>
+<surname>Degenhardt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hiltpold</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Toepfer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kuhlmann</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>Recruitment of entomopathogenic nematodes by insect&#x02010;damaged maize roots</article-title>. <source xml:lang="en">Nature</source>, <volume>434</volume>, <fpage>732</fpage>&#x02013;<lpage>737</lpage>.<pub-id pub-id-type="pmid">15815622</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0075"><mixed-citation publication-type="journal" id="pbi12949-cit-0075">
+<string-name>
+<surname>Rehrig</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Appel</surname>, <given-names>H.M.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>A.D.</given-names>
+</string-name> and <string-name>
+<surname>Schultz</surname>, <given-names>J.C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Roles for jasmonate&#x02010; and ethylene&#x02010;induced transcription factors in the ability of Arabidopsis to respond differentially to damage caused by two insect herbivores</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>5</volume>, <fpage>407</fpage>.<pub-id pub-id-type="pmid">25191332</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0076"><mixed-citation publication-type="journal" id="pbi12949-cit-0076">
+<string-name>
+<surname>Roeder</surname>, <given-names>K.A.</given-names>
+</string-name> and <string-name>
+<surname>Behmer</surname>, <given-names>S.T.</given-names>
+</string-name> (<year>2015</year>) <article-title>Lifetime consequences of food protein&#x02010;carbohydrate content for an insect herbivore</article-title>. <source xml:lang="en">Funct. Ecol.</source>
+<volume>28</volume>, <fpage>1135</fpage>&#x02013;<lpage>1143</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0077"><mixed-citation publication-type="journal" id="pbi12949-cit-0077">
+<string-name>
+<surname>Salamanca</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Souza</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lundgren</surname>, <given-names>J.G.</given-names>
+</string-name> and <string-name>
+<surname>Rodriguez&#x02010;Saona</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>) <article-title>From laboratory to field: electro&#x02010;antennographic and behavioral responsiveness of two insect predators to methyl salicylate</article-title>. <source xml:lang="en">Chemoecology</source>, <volume>27</volume>, <fpage>51</fpage>&#x02013;<lpage>63</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0078"><mixed-citation publication-type="book" id="pbi12949-cit-0078">
+<collab collab-type="authors">SAS Institute</collab>
+(<year>2009</year>) <source xml:lang="en">Base SAS<sup>&#x000ae;</sup> 9.2 Procedures Guide</source>. <publisher-loc>Cary, NC</publisher-loc>: <publisher-name>SAS Institute</publisher-name>.</mixed-citation></ref><ref id="pbi12949-bib-0079"><mixed-citation publication-type="journal" id="pbi12949-cit-0079">
+<string-name>
+<surname>Schnable</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ware</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fulton</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Pasternak</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>C.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>The B73 maize genome: complexity, diversity, and dynamics</article-title>. <source xml:lang="en">Science</source>, <volume>326</volume>, <fpage>1112</fpage>&#x02013;<lpage>1115</lpage>.<pub-id pub-id-type="pmid">19965430</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0080"><mixed-citation publication-type="journal" id="pbi12949-cit-0080">
+<string-name>
+<surname>Schnee</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kollner</surname>, <given-names>T.G.</given-names>
+</string-name>, <string-name>
+<surname>Held</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name>, <string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Degenhardt</surname>, <given-names>J.</given-names>
+</string-name> (<year>2006</year>) <article-title>The products of a single maize sesquiterpene synthase form a volatile defense signal that attracts natural enemies of maize herbivores</article-title>. <source xml:lang="en">Proc. Natl Acad. Sci. USA</source>, <volume>103</volume>, <fpage>1129</fpage>&#x02013;<lpage>1134</lpage>.<pub-id pub-id-type="pmid">16418295</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0081"><mixed-citation publication-type="journal" id="pbi12949-cit-0081">
+<string-name>
+<surname>Schweiger</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Heise</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Persicke</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Interactions between the jasmonic and salicylic acid pathway modulate the plant metabolome and affect herbivores of different feeding types</article-title>. <source xml:lang="en">Plant, Cell Environ.</source>
+<volume>37</volume>, <fpage>1574</fpage>&#x02013;<lpage>1585</lpage>.<pub-id pub-id-type="pmid">24372400</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0082"><mixed-citation publication-type="journal" id="pbi12949-cit-0082">
+<string-name>
+<surname>Scott</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Thaler</surname>, <given-names>J.S.</given-names>
+</string-name> and <string-name>
+<surname>Scott</surname>, <given-names>J.G.</given-names>
+</string-name> (<year>2010</year>) <article-title>Response of a generalist herbivore <italic>Trichoplusia ni</italic> to jasmonate&#x02010;mediated induced defense in tomato</article-title>. <source xml:lang="en">J. Chem. Ecol.</source>
+<volume>36</volume>, <fpage>490</fpage>&#x02013;<lpage>499</lpage>.<pub-id pub-id-type="pmid">20422268</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0083"><mixed-citation publication-type="journal" id="pbi12949-cit-0083">
+<string-name>
+<surname>Song</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhuang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Transcriptomics and alternative splicing analyses reveal large differences between maize lines B73 and Mo17 in response to aphid <italic>Rhopalosiphum padi</italic> infestation</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>8</volume>, <fpage>1738</fpage>.<pub-id pub-id-type="pmid">29067035</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0084"><mixed-citation publication-type="journal" id="pbi12949-cit-0084">
+<string-name>
+<surname>Stam</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Kroes</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Gols</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>van Loon</surname>, <given-names>J.J.A.</given-names>
+</string-name>, <string-name>
+<surname>Poelman</surname>, <given-names>E.H.</given-names>
+</string-name> and <string-name>
+<surname>Dicke</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Plant interactions with multiple insect herbivores: from community to genes</article-title>. <source xml:lang="en">Annu. Rev. Plant Biol.</source>
+<volume>65</volume>, <fpage>689</fpage>&#x02013;<lpage>713</lpage>.<pub-id pub-id-type="pmid">24313843</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0085"><mixed-citation publication-type="journal" id="pbi12949-cit-0085">
+<string-name>
+<surname>Takemoto</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Takabayashi</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>) <article-title>Parasitic wasps <italic>Aphidius ervi</italic> are more attracted to a blend of host&#x02010;induced plant volatiles than to the independent compounds</article-title>. <source xml:lang="en">J. Chem. Ecol.</source>
+<volume>41</volume>, <fpage>801</fpage>&#x02013;<lpage>807</lpage>.<pub-id pub-id-type="pmid">26302986</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0086"><mixed-citation publication-type="journal" id="pbi12949-cit-0086">
+<string-name>
+<surname>Tamiru</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bruce</surname>, <given-names>T.J.A.</given-names>
+</string-name>, <string-name>
+<surname>Woodcock</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Caulfield</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Midega</surname>, <given-names>C.A.O.</given-names>
+</string-name>, <string-name>
+<surname>Ogol</surname>, <given-names>C.K.P.O.</given-names>
+</string-name>, <string-name>
+<surname>Mayon</surname>, <given-names>P.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Maize landraces recruit egg and larval parasitoids in response to egg deposition by a herbivore</article-title>. <source xml:lang="en">Ecol. Lett.</source>
+<volume>14</volume>, <fpage>1075</fpage>&#x02013;<lpage>1083</lpage>.<pub-id pub-id-type="pmid">21831133</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0087"><mixed-citation publication-type="journal" id="pbi12949-cit-0087">
+<string-name>
+<surname>Thaler</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Humphrey</surname>, <given-names>P.T.</given-names>
+</string-name> and <string-name>
+<surname>Whiteman</surname>, <given-names>N.K.</given-names>
+</string-name> (<year>2012</year>) <article-title>Evolution of jasmonate and salicylate signal crosstalk</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>17</volume>, <fpage>260</fpage>&#x02013;<lpage>270</lpage>.<pub-id pub-id-type="pmid">22498450</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0088"><mixed-citation publication-type="journal" id="pbi12949-cit-0088">
+<string-name>
+<surname>Thompson</surname>, <given-names>S.N.</given-names>
+</string-name>, <string-name>
+<surname>Redak</surname>, <given-names>R.A.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>L.W.</given-names>
+</string-name> (<year>2005</year>) <article-title>Nutrition interacts with parasitism to influence growth and physiology of the insect <italic>Manduca sexta</italic> L</article-title>. <source xml:lang="en">J. Exp. Biol.</source>
+<volume>208</volume>, <fpage>611</fpage>&#x02013;<lpage>623</lpage>.<pub-id pub-id-type="pmid">15695754</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0089"><mixed-citation publication-type="journal" id="pbi12949-cit-0089">
+<string-name>
+<surname>Trapnell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Pertea</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mortazavi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kwan</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>van Baren</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Salzberg</surname>, <given-names>S.L.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Transcript assembly and quantification by RNA&#x02010;Seq reveals unannotated transcripts and isoform switching during cell differentiation</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>28</volume>, <fpage>511</fpage>&#x02013;<lpage>515</lpage>.<pub-id pub-id-type="pmid">20436464</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0090"><mixed-citation publication-type="journal" id="pbi12949-cit-0090">
+<string-name>
+<surname>Trapnell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hendrickson</surname>, <given-names>D.G.</given-names>
+</string-name>, <string-name>
+<surname>Sauvageau</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Goff</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rinn</surname>, <given-names>J.L.</given-names>
+</string-name> and <string-name>
+<surname>Pachter</surname>, <given-names>L.</given-names>
+</string-name> (<year>2012</year>) <article-title>Differential analysis of gene regulation at transcript resolution with RNA&#x02010;seq</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>31</volume>, <fpage>46</fpage>&#x02013;<lpage>53</lpage>.<pub-id pub-id-type="pmid">23222703</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0091"><mixed-citation publication-type="journal" id="pbi12949-cit-0091">
+<string-name>
+<surname>Tuan</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>C.C.</given-names>
+</string-name> and <string-name>
+<surname>Chi</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>Population and damage projection of <italic>Spodoptera litura</italic> (F.) on peanuts (<italic>Arachis hypogaea</italic> L.) under different conditions using the age&#x02010;stage, two&#x02010;sex life table</article-title>. <source xml:lang="en">Pest Manag. Sci.</source>
+<volume>70</volume>, <fpage>805</fpage>&#x02013;<lpage>813</lpage>.<pub-id pub-id-type="pmid">23893943</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0092"><mixed-citation publication-type="journal" id="pbi12949-cit-0092">
+<string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name> and <string-name>
+<surname>Erb</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>) <article-title>Tritrophic interactions mediated by herbivore&#x02010;induced plant volatiles: mechanisms, ecological relevance, and application potential</article-title>. <source xml:lang="en">Annu. Rev. Entomol.</source>
+<volume>63</volume>, <fpage>433</fpage>&#x02013;<lpage>452</lpage>.<pub-id pub-id-type="pmid">29324043</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0093"><mixed-citation publication-type="journal" id="pbi12949-cit-0093">
+<string-name>
+<surname>Turlings</surname>, <given-names>T.C.J.</given-names>
+</string-name>, <string-name>
+<surname>Tumlinson</surname>, <given-names>J.H.</given-names>
+</string-name> and <string-name>
+<surname>Lewis</surname>, <given-names>W.J.</given-names>
+</string-name> (<year>1990</year>) <article-title>Exploitation of herbivore&#x02010;induced plant odors by host&#x02010;seeking parasitic wasps</article-title>. <source xml:lang="en">Science</source>, <volume>250</volume>, <fpage>1251</fpage>&#x02013;<lpage>1253</lpage>.<pub-id pub-id-type="pmid">17829213</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0094"><mixed-citation publication-type="journal" id="pbi12949-cit-0094">
+<string-name>
+<surname>Tzin</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Fernandez&#x02010;Pozo</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Richter</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schmelz</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Schoettner</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000e4;fer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ahern</surname>, <given-names>K.R.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Dynamic maize responses to aphid feeding are revealed by a time series of transcriptomic and metabolomic assays</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>169</volume>, <fpage>1727</fpage>&#x02013;<lpage>1743</lpage>.<pub-id pub-id-type="pmid">26378100</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0095"><mixed-citation publication-type="journal" id="pbi12949-cit-0095">
+<string-name>
+<surname>Tzin</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Hojo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Strickler</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name>
+<surname>Bartsch</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Archer</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Ahern</surname>, <given-names>K.R.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Rapid defense responses in maize leaves induced by <italic>Spodoptera exigua</italic> caterpillar feeding</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>68</volume>, <fpage>4709</fpage>&#x02013;<lpage>4723</lpage>.<pub-id pub-id-type="pmid">28981781</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0096"><mixed-citation publication-type="journal" id="pbi12949-cit-0096">
+<string-name>
+<surname>Vila</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Quilis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Meynard</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Breitler</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Marf&#x000e0;</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Murillo</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Vassal</surname>, <given-names>J.M.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>Expression of the maize proteinase inhibitor (<italic>mpi</italic>) gene in rice plants enhances resistance against the striped stem borer (<italic>chilo suppressalis</italic>): effects on larval growth and insect gut proteinases</article-title>. <source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>3</volume>, <fpage>187</fpage>&#x02013;<lpage>202</lpage>.<pub-id pub-id-type="pmid">17173619</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0097"><mixed-citation publication-type="journal" id="pbi12949-cit-0097">
+<string-name>
+<surname>Vos</surname>, <given-names>I.A.</given-names>
+</string-name>, <string-name>
+<surname>Adriaan</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Schuurink</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Watt</surname>, <given-names>L.G.</given-names>
+</string-name>, <string-name>
+<surname>Pieterse</surname>, <given-names>C.M.J.</given-names>
+</string-name> and <string-name>
+<surname>van Wees</surname>, <given-names>C.M.</given-names>
+</string-name> (<year>2013</year>) <article-title>Onset of herbivore&#x02010;induced resistance in systemic tissue primed for jasmonate&#x02010;dependent defenses is activated by abscisic acid</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>4</volume>, <fpage>539</fpage>.<pub-id pub-id-type="pmid">24416038</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0098"><mixed-citation publication-type="journal" id="pbi12949-cit-0098">
+<string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name> and <string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>) <article-title>The essential role of jasmonic acid in plant&#x02013;herbivore interactions&#x02013;using the wild tobacco <italic>Nicotiana attenuata</italic> as a model</article-title>. <source xml:lang="en">J. Genet. Genomics</source>, <volume>40</volume>, <fpage>597</fpage>&#x02013;<lpage>606</lpage>.<pub-id pub-id-type="pmid">24377866</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0099"><mixed-citation publication-type="journal" id="pbi12949-cit-0099">
+<string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Teng</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Xin</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>D.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017a</year>) <article-title>Transcriptome profiling revealed novel transcriptional regulators in maize&#x000a0;responses to <italic>Ostrinia furnacalis</italic> and jasmonic acid</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>12</volume>, <fpage>e0177739</fpage>.<pub-id pub-id-type="pmid">28520800</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0100"><mixed-citation publication-type="journal" id="pbi12949-cit-0100">
+<string-name>
+<surname>Wang</surname>, <given-names>Z.X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>, <given-names>S.X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>T.T.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>W.Z.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>Z.Y.</given-names>
+</string-name> (<year>2017b</year>) <article-title>Does Bt maize expressing Cry1Ac protein have adverse effects on the parasitoid <italic>Macrocentrus cingulum</italic> (Hymenoptera: Braconidae)?</article-title>
+<source xml:lang="en">Insect Sci.</source>
+<volume>24</volume>, <fpage>599</fpage>&#x02013;<lpage>612</lpage>.<pub-id pub-id-type="pmid">27126195</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0101"><mixed-citation publication-type="journal" id="pbi12949-cit-0101">
+<string-name>
+<surname>Wason</surname>, <given-names>E.L.</given-names>
+</string-name> and <string-name>
+<surname>Hunter</surname>, <given-names>M.D.</given-names>
+</string-name> (<year>2014</year>) <article-title>Genetic variation in plant volatile emission does not result in differential attraction of natural enemies in the field</article-title>. <source xml:lang="en">Oecologia</source>, <volume>174</volume>, <fpage>479</fpage>&#x02013;<lpage>491</lpage>.<pub-id pub-id-type="pmid">24096739</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0102"><mixed-citation publication-type="journal" id="pbi12949-cit-0102">
+<string-name>
+<surname>Wouters</surname>, <given-names>F.C.</given-names>
+</string-name>, <string-name>
+<surname>Blanchette</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gershenzon</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Vass&#x000e3;o</surname>, <given-names>D.G.</given-names>
+</string-name> (<year>2016</year>) <article-title>Plant defense and herbivore counter&#x02010;defense: benzoxazinoids and insect herbivores</article-title>. <source xml:lang="en">Phytochem. Rev.</source>
+<volume>15</volume>, <fpage>1127</fpage>&#x02013;<lpage>1151</lpage>.<pub-id pub-id-type="pmid">27932939</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0103"><mixed-citation publication-type="journal" id="pbi12949-cit-0103">
+<string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Baldwin</surname>, <given-names>I.T.</given-names>
+</string-name> (<year>2010</year>) <article-title>New insights into plant responses to the attack from insect herbivores</article-title>. <source xml:lang="en">Annu. Rev. Genet.</source>
+<volume>44</volume>, <fpage>1</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">20649414</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0104"><mixed-citation publication-type="journal" id="pbi12949-cit-0104">
+<string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hettenhausen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Meldau</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Baldwin</surname>, <given-names>I.T.</given-names>
+</string-name> (<year>2007</year>) <article-title>Herbivory rapidly activates MAPK signaling in attacked and unattacked leaf regions but not between leaves of <italic>Nicotiana attenuata</italic>
+</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>19</volume>, <fpage>1096</fpage>&#x02013;<lpage>1122</lpage>.<pub-id pub-id-type="pmid">17400894</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0105"><mixed-citation publication-type="journal" id="pbi12949-cit-0105">
+<string-name>
+<surname>Yan</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Xie</surname>, <given-names>D.</given-names>
+</string-name> (<year>2015</year>) <article-title>Jasmonate in plant defence: sentinel or double agent?</article-title>
+<source xml:lang="en">Plant Biotechnol. J.</source>
+<volume>13</volume>, <fpage>1233</fpage>&#x02013;<lpage>1240</lpage>.<pub-id pub-id-type="pmid">26096226</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0106"><mixed-citation publication-type="journal" id="pbi12949-cit-0106">
+<string-name>
+<surname>Yan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Isakeit</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Engelberth</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Meeley</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hayward</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Emery</surname>, <given-names>R.J.N.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Disruption of <italic>OPR7</italic> and <italic>OPR8</italic> reveals the versatile functions of jasmonic acid in maize development and defense</article-title>. <source xml:lang="en">Plant Cell</source>, <volume>24</volume>, <fpage>1420</fpage>&#x02013;<lpage>1436</lpage>.<pub-id pub-id-type="pmid">22523204</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0107"><mixed-citation publication-type="journal" id="pbi12949-cit-0107">
+<string-name>
+<surname>Yang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Pennerman</surname>, <given-names>K.K.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Z.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Analysis of key genes of jasmonic acid mediated signal pathway for defense against insect damages by comparative transcriptome sequencing</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>5</volume>, <fpage>16500</fpage>.<pub-id pub-id-type="pmid">26560755</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0108"><mixed-citation publication-type="journal" id="pbi12949-cit-0108">
+<string-name>
+<surname>Zhang</surname>, <given-names>T.T.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>K.L.</given-names>
+</string-name> and <string-name>
+<surname>Wang</surname>, <given-names>Z.Y.</given-names>
+</string-name> (<year>2016</year>) <article-title>Transcriptome comparison analysis of <italic>Ostrinia furnacalis</italic> in four developmental dtages</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>6</volume>, <fpage>35008</fpage>.<pub-id pub-id-type="pmid">27713521</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0109"><mixed-citation publication-type="journal" id="pbi12949-cit-0109">
+<string-name>
+<surname>Zhong</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Joung</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xiang</surname>, <given-names>J.Z.</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>High&#x02010;throughput illumina strand&#x02010;specific RNA sequencing library preparation</article-title>. <source xml:lang="en">Cold Spring Harb. Protoc.</source>
+<volume>8</volume>, <fpage>940</fpage>&#x02013;<lpage>949</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0115"><mixed-citation publication-type="journal" id="pbi12949-cit-0115">
+<string-name>
+<surname>Zhou</surname>, <given-names>D.R.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>B.L.</given-names>
+</string-name> and <string-name>
+<surname>Ju</surname>, <given-names>Z.L.</given-names>
+</string-name> (<year>1980</year>) <article-title>Asian corn borer artificial feeding research: I. A semi&#x02010;artificial diet and improvement</article-title>. <source xml:lang="en">Acta Phytophy. Sin.</source>
+<volume>2</volume>, <fpage>113</fpage>&#x02013;<lpage>122</lpage>.</mixed-citation></ref><ref id="pbi12949-bib-0111"><mixed-citation publication-type="journal" id="pbi12949-cit-0111">
+<string-name>
+<surname>Zhou</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lou</surname>, <given-names>Y.R.</given-names>
+</string-name>, <string-name>
+<surname>Tzin</surname>, <given-names>V.</given-names>
+</string-name> and <string-name>
+<surname>Jander</surname>, <given-names>G.</given-names>
+</string-name> (<year>2015a</year>) <article-title>Alteration of plant primary metabolism in response to insect herbivory</article-title>. <source xml:lang="en">Plant Physiol.</source>
+<volume>169</volume>, <fpage>1488</fpage>&#x02013;<lpage>1498</lpage>.<pub-id pub-id-type="pmid">26378101</pub-id></mixed-citation></ref><ref id="pbi12949-bib-0112"><mixed-citation publication-type="journal" id="pbi12949-cit-0112">
+<string-name>
+<surname>Zhou</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Karapetyan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mwimba</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Marqu&#x000e9;s</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Buchler</surname>, <given-names>N.E.</given-names>
+</string-name> and <string-name>
+<surname>Dong</surname>, <given-names>X.</given-names>
+</string-name> (<year>2015b</year>) <article-title>Redox rhythm reinforces the circadian clock to gate immune response</article-title>. <source xml:lang="en">Nature</source>, <volume>523</volume>, <fpage>472</fpage>&#x02013;<lpage>476</lpage>.<pub-id pub-id-type="pmid">26098366</pub-id></mixed-citation></ref></ref-list></back></article>
