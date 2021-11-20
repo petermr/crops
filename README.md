@@ -5,17 +5,19 @@ Among volatile organic compounds, plant terpenes account for a larger proportion
 
 ## What does "Crops" repository contain
 
-**1. This "Crops" repository contain different folders named basing on crop name and so each of them contain excel file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.**
+**1. This "Crops" repository contain different folders named basing on crop name. Each of them contain README.md and excel file with TPS gene's information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.** 
 
-**2. DST-KARYA interns have created wikipages in this repository and have also uploaded their crop specific dictionaries into respective folder. Citrus, Malus and Oryza  dictionaries are not created.**
+**2. DST-KARYA interns have also uploaded their crop specific dictionaries into respective folder.**
 
-**3. "TPS" folder created by Sagar Jadhav and it contains README and work on TPS enzyme collection.**
+**3. DST-KARYA interns have created wikipages in this repository https://github.com/petermr/crops/wiki.**
 
-**4. "dictionaries" folder created by Sagar Jadhav and it contains README and xml dictionaries from 2020-2021.**
+**4. "TPS" folder created by Sagar Jadhav and it contains README and work on TPS enzyme collection.**
 
-**5. "metadata analysis" folder created by Shweata Hegde and it contains README and metadata_analysis.py files.**
+**5. "dictionaries" folder created by Sagar Jadhav and it contains README and xml dictionaries from 2020-2021.**
 
-**6. "outreach" folder created by Shweata Hegde and contains InCOB and Wikidata Conference presentations**
+**6. "metadata analysis" folder created by Shweata Hegde and it contains README and metadata_analysis.py files.**
+
+**7. "outreach" folder created by Shweata Hegde and contains InCOB and Wikidata Conference presentations**
 
 
 ##
