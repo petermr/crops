@@ -1,0 +1,1039 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 39.96?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS Pathog</journal-id><journal-id journal-id-type="iso-abbrev">PLoS Pathog</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plospath</journal-id><journal-title-group><journal-title>PLoS Pathogens</journal-title></journal-title-group><issn pub-type="ppub">1553-7366</issn><issn pub-type="epub">1553-7374</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6598649</article-id><article-id pub-id-type="pmid">31206553</article-id><article-id pub-id-type="doi">10.1371/journal.ppat.1007897</article-id><article-id pub-id-type="publisher-id">PPATHOGENS-D-19-00684</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>RNA viruses</subject><subj-group><subject>Bunyaviruses</subject><subj-group><subject>Tomato Spotted Wilt Virus</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Medical Microbiology</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Bunyaviruses</subject><subj-group><subject>Tomato Spotted Wilt Virus</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pathology and Laboratory Medicine</subject><subj-group><subject>Pathogens</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Bunyaviruses</subject><subj-group><subject>Tomato Spotted Wilt Virus</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Bunyaviruses</subject><subj-group><subject>Tomato Spotted Wilt Virus</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Plant Science</subject><subj-group><subject>Plant Pathology</subject><subj-group><subject>Plant Pathogens</subject><subj-group><subject>Plant Viral Pathogens</subject><subj-group><subject>Tomato Spotted Wilt Virus</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Animal Studies</subject><subj-group><subject>Experimental Organism Systems</subject><subj-group><subject>Model Organisms</subject><subj-group><subject>Arabidopsis Thaliana</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Model Organisms</subject><subj-group><subject>Arabidopsis Thaliana</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Eukaryota</subject><subj-group><subject>Plants</subject><subj-group><subject>Brassica</subject><subj-group><subject>Arabidopsis Thaliana</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Animal Studies</subject><subj-group><subject>Experimental Organism Systems</subject><subj-group><subject>Plant and Algal Models</subject><subj-group><subject>Arabidopsis Thaliana</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Disease Vectors</subject><subj-group><subject>Viral Vectors</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Species Interactions</subject><subj-group><subject>Disease Vectors</subject><subj-group><subject>Viral Vectors</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Virology</subject><subj-group><subject>Viral Transmission and Infection</subject><subj-group><subject>Viral Vectors</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Disease Vectors</subject><subj-group><subject>Insect Vectors</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Species Interactions</subject><subj-group><subject>Disease Vectors</subject><subj-group><subject>Insect Vectors</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Plant Science</subject><subj-group><subject>Plant Anatomy</subject><subj-group><subject>Leaves</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Vector-Borne Diseases</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Ecology</subject><subj-group><subject>Plant Ecology</subject><subj-group><subject>Plant-Animal Interactions</subject><subj-group><subject>Plant-Herbivore Interactions</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Ecology and Environmental Sciences</subject><subj-group><subject>Ecology</subject><subj-group><subject>Plant Ecology</subject><subj-group><subject>Plant-Animal Interactions</subject><subj-group><subject>Plant-Herbivore Interactions</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Plant Science</subject><subj-group><subject>Plant Ecology</subject><subj-group><subject>Plant-Animal Interactions</subject><subj-group><subject>Plant-Herbivore Interactions</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical Sciences</subject><subj-group><subject>Chemistry</subject><subj-group><subject>Chemical Compounds</subject><subj-group><subject>Organic Compounds</subject><subj-group><subject>Terpenes</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical Sciences</subject><subj-group><subject>Chemistry</subject><subj-group><subject>Organic Chemistry</subject><subj-group><subject>Organic Compounds</subject><subj-group><subject>Terpenes</subject></subj-group></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>The <italic>Orthotospovirus</italic> nonstructural protein NSs
+suppresses plant MYC-regulated jasmonate signaling leading to enhanced vector
+attraction and performance</article-title><alt-title alt-title-type="running-head"><italic>Orthotospoviruses</italic> suppress
+MYC transcription factor family</alt-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>Wu</surname><given-names>Xiujuan</given-names></name><role content-type="http://credit.casrai.org/">Data curation</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing &#x02013; original draft</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref><xref ref-type="aff" rid="aff002"><sup>2</sup></xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Xu</surname><given-names>Shuang</given-names></name><role content-type="http://credit.casrai.org/">Data curation</role><role content-type="http://credit.casrai.org/">Formal analysis</role><role content-type="http://credit.casrai.org/">Investigation</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref><xref ref-type="aff" rid="aff002"><sup>2</sup></xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0003-2704-6677</contrib-id><name><surname>Zhao</surname><given-names>Pingzhi</given-names></name><role content-type="http://credit.casrai.org/">Data curation</role><role content-type="http://credit.casrai.org/">Methodology</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Xuan</given-names></name><role content-type="http://credit.casrai.org/">Data curation</role><role content-type="http://credit.casrai.org/">Investigation</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Yao</surname><given-names>Xiangmei</given-names></name><role content-type="http://credit.casrai.org/">Formal analysis</role><role content-type="http://credit.casrai.org/">Resources</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Sun</surname><given-names>Yanwei</given-names></name><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Resources</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-1677-4591</contrib-id><name><surname>Fang</surname><given-names>Rongxiang</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Resources</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref><xref ref-type="aff" rid="aff002"><sup>2</sup></xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-7741-4354</contrib-id><name><surname>Ye</surname><given-names>Jian</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding acquisition</role><role content-type="http://credit.casrai.org/">Project administration</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Writing &#x02013; original draft</role><role content-type="http://credit.casrai.org/">Writing &#x02013; review &#x00026;
+editing</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref><xref ref-type="aff" rid="aff002"><sup>2</sup></xref><xref ref-type="corresp" rid="cor001">*</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>State Key Laboratory of Plant Genomics, Institute of Microbiology,
+Chinese Academy of Sciences, Beijing, China</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>University of the Chinese Academy of Sciences, Beijing,
+China</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Mescher</surname><given-names>Mark</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1"><addr-line>Eidgenossische Technische Hochschule Zurich,
+SWITZERLAND</addr-line></aff><author-notes><fn fn-type="COI-statement" id="coi001"><p>The authors have declared that no competing interests exist.</p></fn><corresp id="cor001">* E-mail: <email>jianye@im.ac.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>6</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2019</year></pub-date><volume>15</volume><issue>6</issue><elocation-id>e1007897</elocation-id><history><date date-type="received"><day>10</day><month>4</month><year>2019</year></date><date date-type="accepted"><day>5</day><month>6</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; 2019 Wu et al</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>Wu et al</copyright-holder><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>,
+which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="ppat.1007897.pdf"/><abstract><p>Pandemics of vector-borne human and plant diseases often depend on the behaviors
+of their arthropod vectors. Arboviruses, including many bunyaviruses, manipulate
+vector behavior to accelerate their own transmission to vertebrates, birds,
+insects, and plants. However, the molecular mechanism underlying this
+manipulation remains elusive. Here, we report that the non-structural protein
+NSs of Tomato spotted wilt orthotospovirus, a prototype of the
+<italic>Tospoviridae</italic> family and the
+<italic>Orthotospovirus</italic> genus, is a key viral factor that
+indirectly modifies vector preference and increases vector performance. NSs
+suppresses the biosynthesis of plant volatile monoterpenes, which serve as
+repellents of the vector western flower thrips (WFT, <italic>Frankliniella
+occidentalis</italic>). NSs directly interacts with MYC2, the jasmonate (JA)
+signaling master regulator and its two close homologs MYC3 and MYC4, to disable
+JA-mediated activation of <italic>terpene synthase</italic> genes. The
+dysfunction of the MYCs subsequently attenuates host defenses, increases the
+attraction of thrips, and improves thrips fitness. Moreover, MYC2 associated
+with NSs of Tomato zonate spot orthotospovirus, another Euro/Asian-type
+orthotospovirus, suggesting that MYC2 is an evolutionarily conserved target of
+<italic>Orthotospovirus</italic> species for suppression of terpene-based
+resistance to promote vector performance. These findings elucidate the molecular
+mechanism through which an orthotospovirus indirectly manipulates vector
+behaviors and therefore facilitates pathogen transmission. Our results provide
+insights into the molecular mechanisms by which <italic>Orthotospovirus</italic>
+NSs counteracts plant immunity for pathogen transmission.</p></abstract><abstract abstract-type="summary"><title>Author summary</title><p>Most bunyaviruses are transmitted by arthropod vectors, and some of them can
+modify the behaviors of their arthropod vectors to increase transmission to
+mammals, birds, and plants. NSs is a non-structural bunyavirus protein with
+multiple functions that acts as an avirulence determinant and silencing
+suppressor. In this study, we identified a new function of NSs as a conserved
+manipulator of vector behavior via plant. NSs suppresses jasmonate-mediated
+plant immunity against thrips by directly interacting with several homologs of
+MYC transcription factors, the core regulators of the jasmonate-signaling
+pathway. This hijacking by NSs enhances thrips preference and performance.
+Therefore, our data support the hypothesis that MYC2 is a convergent target that
+plant pathogens manipulate to promote their survival in plants.</p></abstract><funding-group><award-group id="award001"><funding-source><institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100001809</institution-id><institution>National Natural Science Foundation of China</institution></institution-wrap></funding-source><award-id>31830073,31522046, 31672001</award-id><principal-award-recipient><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-7741-4354</contrib-id><name><surname>Ye</surname><given-names>Jian</given-names></name></principal-award-recipient></award-group><award-group id="award002"><funding-source><institution>(Strategic Priority Research Program Grant</institution></funding-source><award-id>XDB11040300</award-id><principal-award-recipient><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-7741-4354</contrib-id><name><surname>Ye</surname><given-names>Jian</given-names></name></principal-award-recipient></award-group><funding-statement>JY was supported by the Chinese Academy of Sciences (Strategic
+Priority Research Program Grant NO. XDB11040300) and National Natural Science
+Foundation of China (31830073,31522046, 31672001). The funders had no role in
+study design, data collection and analysis, decision to publish, or preparation
+of the manuscript.</funding-statement></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="21"/></counts><custom-meta-group><custom-meta><meta-name>PLOS Publication Stage</meta-name><meta-value>vor-update-to-uncorrected-proof</meta-value></custom-meta><custom-meta><meta-name>Publication Update</meta-name><meta-value>2019-06-27</meta-value></custom-meta><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All relevant data are within the manuscript and its Supporting
+Information files.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All relevant data are within the manuscript and its Supporting
+Information files.</p></notes></front><body><sec sec-type="intro" id="sec001"><title>Introduction</title><p>Arthropod-borne viruses (arboviruses) are virulent causal agents of diseases in
+humans, animals, and plants. Vector behaviors have critical ecological and
+evolutionary consequences for arboviruses, which rely exclusively on their arthropod
+vectors for dispersal to new hosts. Therefore, it is of evolutionary significance
+for an arbovirus to alter its vector&#x02019;s behavior to facilitate its own transmission.
+For plant viruses, such influence of vectors by viruses can include plant-mediated
+indirect effects or direct manipulation within the vector after acquisition. Among
+the indirect effects, infected plants tend to be more attractive to vectors [<xref rid="ppat.1007897.ref001" ref-type="bibr">1</xref>]. For example,
+<italic>Geminiviridae</italic> and <italic>Luteoviridae</italic> viruses almost
+universally induce preferred settling of the vectors onto infected plants [<xref rid="ppat.1007897.ref002" ref-type="bibr">2</xref>&#x02013;<xref rid="ppat.1007897.ref005" ref-type="bibr">5</xref>], and this phenomenon also exists among the
+<italic>Potyviridae</italic> and <italic>Bunyaviridae</italic> [<xref rid="ppat.1007897.ref006" ref-type="bibr">6</xref>&#x02013;<xref rid="ppat.1007897.ref009" ref-type="bibr">9</xref>]. Moreover, viruses can positively or
+negatively affect the performance or fitness of arthropod vectors on the host.
+Persistently transmitted viruses, which need a sustained feeding of insect vectors
+to be acquired or transmitted, in particular, have positive effects on vector
+performance. For example, insect vectors perform better on
+<italic>Geminiviridae-</italic> and <italic>Tospoviridae</italic>-infected
+plants [<xref rid="ppat.1007897.ref009" ref-type="bibr">9</xref>&#x02013;<xref rid="ppat.1007897.ref012" ref-type="bibr">12</xref>]. For nonpersistently
+transmitted viruses, vectors acquire or transmit the viruses in seconds through
+probing or feeding, such as <italic>Potyviridae</italic>,
+<italic>Caulimoviridae</italic> and <italic>Bromoviridae</italic>, also can
+positively or negatively affect their vectors for efficient virus spread [<xref rid="ppat.1007897.ref001" ref-type="bibr">1</xref>, <xref rid="ppat.1007897.ref006" ref-type="bibr">6</xref>, <xref rid="ppat.1007897.ref013" ref-type="bibr">13</xref>&#x02013;<xref rid="ppat.1007897.ref015" ref-type="bibr">15</xref>].</p><p><italic>Bunyavirales</italic> encompasses nine families of viruses with
+single-stranded negative-sense RNA genomes. As a prototype of the plant-infected
+<italic>Tospoviridae</italic> family, Tomato spotted wilt orthotospovirus (TSWV)
+is transmitted mainly by <italic>Frankliniella occidentalis</italic> Pergande
+(Western flower thrips, WFT) in a persistent and propagative manner [<xref rid="ppat.1007897.ref016" ref-type="bibr">16</xref>,<xref rid="ppat.1007897.ref017" ref-type="bibr">17</xref>]. Plant infection with TSWV influences
+several vector behaviors, such as biting and host choice to increase virus
+transmission, similar to the animal-infecting members of
+<italic>Bunyavirales</italic> [<xref rid="ppat.1007897.ref018" ref-type="bibr">18</xref>&#x02013;<xref rid="ppat.1007897.ref020" ref-type="bibr">20</xref>]. For
+instance, non-viruliferous <italic>F</italic>. <italic>occidentalis</italic> prefers
+to settle on TSWV-infected pepper (<italic>Capsicum annuum</italic> L.) and
+<italic>Datura stramonium</italic> plants over noninfected controls [<xref rid="ppat.1007897.ref009" ref-type="bibr">9</xref>]. However, the underlying
+molecular mechanism of this conserved indirect manipulation of vector behaviors by
+<italic>Orthotospovirus</italic> and <italic>Bunyavirales</italic> species is
+still unclear, although this plant immunity suppression is thought to occur in
+TSWV-infected <italic>Arabidopsis thaliana</italic> [<xref rid="ppat.1007897.ref021" ref-type="bibr">21</xref>]. The bunyavirus families are divided based
+on their different coding strategies for the additional non-structural proteins, NSm
+and NSs, which are often involved in host-pathogen interactions.
+<italic>Orthotospovirus</italic> NSm protein facilitates the movement of viral
+ribonucleoproteins from cell to cell within the plant host. NSm of TSWV has recently
+been identified as the avirulence factor recognized by the product of resistance
+gene <italic>Sw-5b</italic> from tomato (<italic>Solanum lycopersicum</italic> L.)
+[<xref rid="ppat.1007897.ref022" ref-type="bibr">22</xref>]. The NSs proteins of
+many bunyaviruses modulate host innate immune responses, and NSs in
+<italic>Orthotospovirus</italic> functions as a silencing suppressor in both
+plants and insects [<xref rid="ppat.1007897.ref023" ref-type="bibr">23</xref>,<xref rid="ppat.1007897.ref024" ref-type="bibr">24</xref>]. These proteins are
+responsible for establishing systemic infection in plants and for virus transmission
+by insect vectors [<xref rid="ppat.1007897.ref025" ref-type="bibr">25</xref>,<xref rid="ppat.1007897.ref026" ref-type="bibr">26</xref>].</p><p>Many plant species emit herbivore-induced plant volatiles (HIPVs), as an indirect
+anti-herbivore defense strategy [<xref rid="ppat.1007897.ref027" ref-type="bibr">27</xref>&#x02013;<xref rid="ppat.1007897.ref030" ref-type="bibr">30</xref>]. HIPVs can
+repel insects such as aphids and caterpillars or deter lepidopteran oviposition
+[<xref rid="ppat.1007897.ref031" ref-type="bibr">31</xref>&#x02013;<xref rid="ppat.1007897.ref033" ref-type="bibr">33</xref>], and are a common induced defense mechanism
+among plants including cotton and tomato [<xref rid="ppat.1007897.ref034" ref-type="bibr">34</xref>,<xref rid="ppat.1007897.ref035" ref-type="bibr">35</xref>]. Phytohormones such as jasmonate (JA) play
+vital roles in regulating HIPV production upon insect attack [<xref rid="ppat.1007897.ref036" ref-type="bibr">36</xref>,<xref rid="ppat.1007897.ref037" ref-type="bibr">37</xref>]. Several viruses have been shown to modify
+this JA-regulated volatile biosynthesis to affect the communication between plant
+and insect vector. For instance, begomoviruses inhibit the JA pathway and modify
+volatile terpene-mediated defense responses against whitefly [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>]. The JA-mediated biosynthesis of secondary
+metabolites is believed to be associated with thrips resistance [<xref rid="ppat.1007897.ref039" ref-type="bibr">39</xref>]. However, whether and how
+TSWV influence JA signaling remains elusive, although this virus is thought to
+hijack the antagonistic relation between JA and salicylic acid signaling [<xref rid="ppat.1007897.ref040" ref-type="bibr">40</xref>].</p><p>In this study, we showed that TSWV benefits to thrips vector by suppressing a
+JA-regulated defense pathway of plants against herbivores. We identified the NSs
+protein from thrip-borne TSWV as a viral genetic factor induced attraction of its
+insect vector. Various NSs from <italic>orthotospovirus</italic> suppress the JA
+signaling pathway in the host plant by directly interacting with MYCs, key
+regulators of the JA signaling pathway, to reduce host defense responses against
+thrips. Our results establish a molecular mechanism underlying how TSWV attracts and
+benefits to its thrips vector by targeting plant MYC proteins.</p></sec><sec sec-type="results" id="sec002"><title>Results</title><sec id="sec003"><title>TSWV infection enhances plant attractiveness to the thrips vector and
+suppresses plant terpene synthesis</title><p>We first investigated the indirect effect of TSWV infection on the behavioral
+responses of the vector <italic>Frankliniella occidentalis</italic> Pergande
+(Western flower thrips, WFT). We conducted a two-choice assay between infected
+and non-infected plants. Pepper (<italic>Capsicum annuum</italic> L.), a natural
+host of TSWV and an important crop worldwide, was first tested in the tripartite
+thrip&#x02013;orthotospovirus&#x02013;plant interaction. A group of 50 non-viruliferous WFT was
+released from the center of the two-choice arena between two types of pepper
+plants. Consistent with previous results from Maris et al. [<xref rid="ppat.1007897.ref009" ref-type="bibr">9</xref>], ~68% of thrips
+approached TSWV-infected plants, whereas the remaining approached non-infected
+plants (<xref ref-type="fig" rid="ppat.1007897.g001">Fig 1A</xref>), suggesting
+that TSWV infection indirectly increases the attractiveness of peppers to the
+thrips vector.</p><fig id="ppat.1007897.g001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.ppat.1007897.g001</object-id><label>Fig 1</label><caption><title>TSWV infection enhances plant attractiveness to the thrips vector and
+suppresses plant terpene synthesis.</title><p>(A) Thrips preference (as percentage recaptured WFT out of 50 released)
+on different pepper plants. Four-week-old pepper plants were infected
+with TSWV (TSWV) or inoculated with buffer (mock). Plants of a similar
+size were used for thrips bioassay at 14 days post viral infection
+(dpi). Data are mean + SE, n = 6. **<italic>P</italic> &#x0003c; 0.01,
+Wilcoxon matched pairs tests. (B) Relative expression levels of
+<italic>TPS</italic> genes in pepper with or without thrips
+infestation for 6 h. Values are means + SE, n = 3. <italic>P</italic>
+&#x0003c; 0.05, one-way ANOVA plus Duncan&#x02019;s multiple range tests. (C) Thrips
+preference (as percentage recaptured WFT out of 50 released) on
+<italic>N</italic>. <italic>benthamiana</italic> plants.
+Three-week-old <italic>N</italic>. <italic>benthamiana</italic> plants
+were infected with TSWV (TSWV) or inoculated with buffer (mock). Leaves
+of a similar size were used for the thrips bioassay at 14 dpi. Data are
+mean + SE, n = 6. **<italic>P</italic> &#x0003c; 0.01, Wilcoxon matched pairs
+tests. (D) Relative expression levels of various <italic>TPS</italic>
+genes in mock or TSWV-infected <italic>N</italic>.
+<italic>benthamiana</italic> after MeJA treatment.
+<italic>N</italic>. <italic>benthamiana</italic> plants were sprayed
+with 100 &#x003bc;M MeJA (Sigma-Aldrich) containing 0.01% (v/v) Tween 20. Values
+are means + SE, n = 3. *<italic>P</italic> &#x0003c; 0.05
+**<italic>P</italic> &#x0003c; 0.01, Student&#x02019;s
+<italic>t</italic>-test.</p></caption><graphic xlink:href="ppat.1007897.g001"/></fig><p>The attraction of insect vectors induced by the infection of other viruses is
+dependent on plant volatiles [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>,<xref rid="ppat.1007897.ref041" ref-type="bibr">41</xref>]. We
+therefore measured the expression levels of <italic>terpene synthase</italic>
+(<italic>TPS</italic>) genes in pepper leaves based on our previous
+functional analysis of <italic>TPS</italic> genes [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>]. Reverse-transcription quantitative PCR
+(RT-qPCR) analysis showed that the expression of four pepper <italic>monoterpene
+synthase</italic> genes (<italic>CaMTS1</italic>, <italic>CaMTS2</italic>,
+<italic>CaMTS3</italic>, and <italic>CaMTS4</italic>), which are related to
+monoterpene synthesis, were upregulated after thrips infestation (<xref ref-type="fig" rid="ppat.1007897.g001">Fig 1B</xref>). However, the terpene
+biosynthesis gene expression activated by thrips was significantly lower in
+TSWV-infected plants compared with the control (<xref ref-type="fig" rid="ppat.1007897.g001">Fig 1B</xref>).</p><p>Another model (host) plant for tripartite interaction research, <italic>Nicotiana
+benthamiana</italic>, was also tested. Similar to the observations in
+pepper, TSWV-infected <italic>N</italic>. <italic>benthamiana</italic> leaves
+also were more attractive to thrips than non-infected leaves (<xref ref-type="fig" rid="ppat.1007897.g001">Fig 1C</xref>). Moreover, RT-qPCR
+analysis indicated that the <italic>terpene synthase</italic> genes
+<italic>NbTPS5</italic> and <italic>NbTPS38</italic> responded to thrips
+infestation in <italic>N</italic>. <italic>benthamiana</italic> (<xref ref-type="supplementary-material" rid="ppat.1007897.s001">S1A Fig</xref>).
+Consistent with the above results, <italic>NbTPS5</italic> and
+<italic>NbTPS38</italic> expression was notably induced by methyl jasmonate
+(MeJA) treatment, reflecting the same trends as during thrips infestation (<xref ref-type="supplementary-material" rid="ppat.1007897.s001">S1B Fig</xref>).
+JA signaling is normally rapidly activated by thrips feeding [<xref rid="ppat.1007897.ref040" ref-type="bibr">40</xref>]. Considering that
+<italic>N</italic>. <italic>benthamiana</italic> is not a good host for
+thrips as indicated by their poor survival rate, and the finding that MeJA
+induces similar expression of <italic>TPS</italic> genes in <italic>N</italic>.
+<italic>benthamiana</italic> as thrips infestation (<xref ref-type="supplementary-material" rid="ppat.1007897.s001">S1 Fig</xref>), we
+used MeJA to mimic WFT infestation in further tripartite interaction
+experiments. The expression of <italic>NbTPS3</italic>, <italic>NbTPS4</italic>,
+<italic>NbTPS5</italic>, and <italic>NbTPS38</italic> was less changed in
+TSWV-infected plants compared to the control plants when induced by methyl
+jasmonate (MeJA) (<xref ref-type="fig" rid="ppat.1007897.g001">Fig
+1D</xref>).</p></sec><sec id="sec004"><title>TSWV infection induces a terpene-dependent preference in the thrips
+vector</title><p>To explore the metabolic consequences of the altered <italic>TPS</italic> gene
+expression, we investigated changes in the emission of plant volatile compounds
+after TSWV infection. Plants have evolved a blend of HIPVs that are emitted in
+response to, and directly repel, herbivores [<xref rid="ppat.1007897.ref027" ref-type="bibr">27</xref>&#x02013;<xref rid="ppat.1007897.ref033" ref-type="bibr">33</xref>]. We measured the volatile emission
+collected in the headspace of peppers with or without thrips infestation. When
+infested by thrips, damaged plants emitted more volatiles than control plants
+(<xref ref-type="supplementary-material" rid="ppat.1007897.s002">S2
+Fig</xref>). It is noteworthy that TSWV-infected plants emitted
+significantly less linalool, which is the main monoterpene collected from
+peppers after herbivory, compared to non-infected plants, consistent with their
+lower expression of <italic>TPS</italic> genes. In addition, there was no
+significant difference in the emissions of the monoterpene D-limonene (<xref ref-type="fig" rid="ppat.1007897.g002">Fig 2A</xref>). We also monitored the
+emission of volatile compounds in the headspace of <italic>N</italic>.
+<italic>benthamiana</italic>, after applying MeJA to mimic WFT infestation;
+this plant hormone is known to elicit the production of various terpenes [<xref rid="ppat.1007897.ref042" ref-type="bibr">42</xref>]. Among the five
+detected terpenes, the levels of three volatile monoterpenes, linalool,
+&#x003b1;-pinene, and &#x003b2;-pinene, were significantly lower in TSWV-infected plants
+compared to non-infected plants (<xref ref-type="fig" rid="ppat.1007897.g002">Fig 2B</xref>). To examine whether linalool, &#x003b1;-pinene and &#x003b2;-pinene play a
+role in plant&#x02013;WFT interactions, we performed a two-choice assay in which
+non-viruliferous WFT had the choice between the changed monoterpenes and the
+solvent control hexane. The &#x003b1;-pinene and &#x003b2;-pinene directly repelled thrips
+similarly to linalool (<xref ref-type="fig" rid="ppat.1007897.g002">Fig
+2C</xref>). These consistent results on pepper and <italic>N</italic>.
+<italic>benthamiana</italic> revealed that TSWV infection induces a
+terpene-dependent preference in the thrips vector and that this feature is
+common among various TSWV hosts.</p><fig id="ppat.1007897.g002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.ppat.1007897.g002</object-id><label>Fig 2</label><caption><title>TSWV infection increases attractiveness to the thrips vector in a
+terpene-dependent manner.</title><p>(A) Representative GC/MS ion chromatograms of the headspace volatile
+compounds of control (mock-thrips) and TSWV-infected peppers
+(TSWV-thrips) after thrips infestation for 6 h. The peaks of specific
+products are marked with arrows in the left panel. Relative abundance of
+terpenes emitted after thrips infestation are showed in the right panel.
+Values are means + SE, n = 4. **<italic>P</italic> &#x0003c; 0.01, Student&#x02019;s
+<italic>t</italic>-test. (B) Terpenes emitted by <italic>N</italic>.
+<italic>benthamiana</italic> after TSWV infection (under MeJA
+treatment). Values are mean relative amounts (percentage of internal
+standard peak area) &#x000b1; SE, n = 4. **<italic>P</italic> &#x0003c; 0.01,
+Student&#x02019;s <italic>t</italic>-test. (C) Thrips preference (as percentage
+recaptured WFT out of 50 released) on the pure monoterpenes (linalool,
+&#x003b1;-pinene, &#x003b2;-pinene) and solvent control (n-hexane) in a two-choice
+assay. Data are mean percentages + SE, n = 6. *<italic>P</italic> &#x0003c;
+0.05 **<italic>P</italic> &#x0003c; 0.01, Wilcoxon matched pairs tests.</p></caption><graphic xlink:href="ppat.1007897.g002"/></fig></sec><sec id="sec005"><title>NSs manipulates the preference behavior of WFT on plants</title><p>Our data demonstrated that the orthotospovirus TSWV increases the attraction of
+insect vector WFT to its host plant by inhibiting <italic>terpene
+synthase</italic> expression in the host. Next, to explore which viral
+protein(s) in TSWV manipulate vector host choice, we selected three of the five
+viral proteins in TSWV, including a structural protein nucleocapsid protein
+(Ncp) and two non-structural proteins, NSm and NSs [<xref rid="ppat.1007897.ref024" ref-type="bibr">24</xref>]. We used the heterologous Potato virus
+X (PVX) model system for systemic ectopic expression of individual genes for
+TSWV NSs, NSm or Ncp [<xref rid="ppat.1007897.ref043" ref-type="bibr">43</xref>]. PVX-GFP, used to express green fluorescent protein (GFP) in the
+plant, was served as the control. There were no obvious morphological
+differences between these recombinant PVX vector-infected peppers (<xref ref-type="fig" rid="ppat.1007897.g003">Fig 3A</xref>). We performed a WFT
+two-choice assay to determine whether the expression of a single viral protein
+is sufficient to attract WFT. PVX-NSs-infected plants but not PVX-NSm- or
+PVX-Ncp-infected plants were significantly more attractive to WFT than
+PVX-GFP-infected plants (<xref ref-type="fig" rid="ppat.1007897.g003">Fig
+3B</xref>), indicating the expression of <italic>NSs</italic> alone is
+sufficient to attract WFT in peppers.</p><fig id="ppat.1007897.g003" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.ppat.1007897.g003</object-id><label>Fig 3</label><caption><title>NSs from TSWV is a vector behavior manipulator.</title><p>(A) Phenotype of pepper leaves inoculated with recombinant Potato virus X
+(PVX) vectors. PVX-NSs, PVX-NSm or PVX-Ncp was transformed into peppers
+via agroinfiltration. PVX-GFP was used as the control. Bar = 2 cm. (B)
+Attractiveness of different infiltrated peppers. Agrobacteria carrying
+individual recombinant PVX vectors were infiltrated into peppers. Plants
+of a similar size were used for thrips two-choice assays at 10 dpi. Data
+are mean choice percentages + SE, n = 6. *<italic>P</italic> &#x0003c; 0.05,
+Wilcoxon matched pairs tests.</p></caption><graphic xlink:href="ppat.1007897.g003"/></fig></sec><sec id="sec006"><title>TSWV NSs interacts with MYC2 and its homologs MYC3 and MYC4</title><p>To explore the host protein targets of NSs, we screened an
+<italic>Arabidopsis</italic> cDNA library by yeast two-hybrid analysis and
+identified AtMYC2, a key components of the JA signaling pathway [<xref rid="ppat.1007897.ref044" ref-type="bibr">44</xref>&#x02013;<xref rid="ppat.1007897.ref046" ref-type="bibr">46</xref>]. Based on the importance of the JA
+signaling pathway to plant&#x02013;herbivore interactions, we further confirmed the
+interaction between AtMYC2 and NSs. In a yeast two-hybrid assay, the yeast
+transformants harboring AD-AtMYC2 and BD-NSs could grow on SD-Leu-Trp-His medium
+with 0.04 mg/mL X-&#x003b1;-gal and turned blue, while the negative control
+transformants did not (<xref ref-type="fig" rid="ppat.1007897.g004">Fig
+4A</xref>). A bimolecular fluorescence complementation (BiFC) assay
+confirmed the AtMYC2 and NSs interaction in plants. NSs-cEYFP and nEYFP-AtMYC2
+constructs were co-expressed in transgenic <italic>N</italic>.
+<italic>benthamiana</italic> lines that expressed a nucleus-localized
+histone H2B-red fluorescent protein (H2B-RFP) fusion marker protein. A strong
+interaction (represented by fluorescence) was observed in the nucleus (<xref ref-type="fig" rid="ppat.1007897.g004">Fig 4B</xref>), while no fluorescence
+was observed in the negative controls (<xref ref-type="fig" rid="ppat.1007897.g004">Fig 4B</xref>). GST pull-down assay was used to
+verify the direct physical interaction between NSs and AtMYC2 <italic>in
+vitro</italic>. His-NSs was pulled down by GST-AtMYC2, but not by GST alone
+(<xref ref-type="fig" rid="ppat.1007897.g004">Fig 4C</xref>). Moreover, in a
+co-immunoprecipitation (Co-IP) assay, AtMYC2-Myc was coimmunoprecipitated by
+YFP-NSs, but not the YFP control (<xref ref-type="fig" rid="ppat.1007897.g004">Fig 4D</xref>). Taken together, these results demonstrate that NSs directly
+interacts with MYC2 <italic>in vitro</italic> and <italic>in vivo</italic>.</p><fig id="ppat.1007897.g004" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.ppat.1007897.g004</object-id><label>Fig 4</label><caption><title>TSWV NSs interacts with MYC2.</title><p>(A) Yeast two-hybrid assay between NSs and AtMYC2. Yeast cotransformed
+with the indicated plasmids was spotted onto synthetic medium
+(SD-Leu-Trp-His) containing 0.04 mg/mL X-&#x003b1;-gal and 10 mM
+3-amino-1,2,4-triazole (3-AT). The empty vectors pGBKT7 (BD) and pGADT7
+(AD) were used as negative controls. (B) Bimolecular fluorescence
+complementation (BiFC) assay. NSs-cEYFP and nEYFP-AtMYC2 were
+transiently expressed in H2B-RFP transgenic <italic>N</italic>.
+<italic>benthamiana</italic> leaf epidermal cells via
+agroinfiltration. Bars = 15 &#x003bc;m. (C) GST pull-down assays between NSs and
+AtMYC2. (D) Interaction between NSs and AtMYC2 in Co-immunoprecipitation
+(Co-IP) assay. Total protein was extracted from <italic>N</italic>.
+<italic>benthamiana</italic> leaves transiently expressing
+<italic>35S</italic>:<italic>MYC2-Myc</italic> together with
+<italic>35S</italic>:<italic>YFP-NSs</italic> or
+<italic>35S</italic>:<italic>YFP</italic> alone. GFP-trap beads were
+used to precipitate the interaction complex, Anti-GFP and Anti-Myc
+antibodies were using to detect the immunoprecipitates.</p></caption><graphic xlink:href="ppat.1007897.g004"/></fig><p>MYC3 and MYC4 are two closely related bHLH transcription factors that function
+partially redundantly with MYC2 to activate JA responses in
+<italic>Arabidopsis</italic> [<xref rid="ppat.1007897.ref047" ref-type="bibr">47</xref>]. To determine whether TSWV NSs targets
+MCY3 and MYC4 as well, we performed a yeast two-hybrid assay and a BiFC assay.
+MYC2 relatives MYC3 and MYC4 were also found to interact with TSWV NSs as
+indicated by AD-AtMYCs (MYC3 and MYC4) and BD-NSs yeast transformants turned
+blue when grown on SD-Leu-Trp-His medium with 0.04 mg/mL X-&#x003b1;-gal (<xref ref-type="supplementary-material" rid="ppat.1007897.s003">S3A Fig</xref>).
+In the BiFC assay, <italic>N</italic>. <italic>benthamiana</italic> coexpressing
+MYC3 and NSs exhibited fluorescence in the cytoplasm and nucleus, while
+coexpression of MYC4 and NSs led to fluorescence only in the cytoplasm (<xref ref-type="supplementary-material" rid="ppat.1007897.s003">S3B Fig</xref>).
+These results indicate that MYC family transcription factors are targeted by NSs
+protein.</p></sec><sec id="sec007"><title>MYCs positively regulate volatile-dependent immunity against WFT in
+<italic>Arabidopsis</italic></title><p>We previously showed that <italic>Arabidopsis</italic> MYC2 plays important roles
+in JA-regulated plant defense responses, e.g. directly regulates
+<italic>TPS10</italic> transcript levels to promote plant volatile
+biosynthesis [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>]. Thus,
+we hypothesized that AtMYC2, which interacts with virulence factor NSs, is
+involved in the viral-induced, volatile-dependent attraction of WFT to the host
+plant. To validate this hypothesis, we performed a GUS staining assay using two
+transgenic <italic>Arabidopsis</italic> lines expressing an
+<italic>AtMYC2</italic> or <italic>AtTPS10</italic> promoter:
+<italic>GUS</italic> reporter gene. As shown in <xref ref-type="fig" rid="ppat.1007897.g005">Fig 5A</xref>, high <italic>GUS</italic> expression
+was detected after 24 h of WFT infestation. This expression pattern suggests
+that <italic>AtMYC2</italic> and <italic>AtTPS10</italic> both function in
+defense responses against WFT in <italic>Arabidopsis</italic>.</p><fig id="ppat.1007897.g005" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.ppat.1007897.g005</object-id><label>Fig 5</label><caption><title>MYC2 and its homologs in <italic>Arabidopsis</italic> are essential
+regulators of host immunity responses against WFT.</title><p>(A) GUS staining of <italic>AtMYC2p-GUS</italic> and
+<italic>AtTPS10p</italic>-<italic>GUS</italic> seedlings after 24 h
+of thrips feeding. An untreated line was used as a control. Arrows
+indicate thrips feeding sites. Bars = 2 mm. (B) Thrips preference (as
+percentage recaptured WFT out of 50 released) between the mutants and WT
+control in a two-choice assay. Three-week-old
+<italic>Arabidopsis</italic> plants cultured in MS medium were used
+for the thrips two-choice assay. Data are mean percentages + SE, n = 6.
+**<italic>P</italic> &#x0003c; 0.01, Wilcoxon matched pairs tests. (C)
+&#x003b2;-ocimene is less attractive to thrips than mock treatment in a
+two-choice assay. Data are mean percentages + SE, n = 6.
+**<italic>P</italic> &#x0003c; 0.01, Wilcoxon matched pairs tests. (D)
+Thrips preference (as percentage recaptured WFT out of 50 released)
+between the <italic>35S</italic>:<italic>YFP-NSs</italic> transgenic
+<italic>Arabidopsis</italic> lines (<italic>NSs-1</italic>;
+<italic>NSs-2</italic>) and mock control in a two-choice assay.
+Three-week-old transgenic <italic>Arabidopsis</italic> plants cultured
+in MS medium were used. Data are mean percentages + SE, n = 6.
+**<italic>P</italic> &#x0003c; 0.01, Wilcoxon matched pairs tests.</p></caption><graphic xlink:href="ppat.1007897.g005"/></fig><p>To analyze the effects of <italic>AtMYC2</italic> and <italic>AtTPS10</italic> on
+the feeding preferences of thrips, we performed two-choice assays using
+<italic>myc2-1</italic>, <italic>tps10-1</italic>, and wild-type Col-0
+<italic>Arabidopsis</italic>. As shown in <xref ref-type="fig" rid="ppat.1007897.g005">Fig 5B</xref>, the <italic>myc2-1</italic> and
+<italic>tps10-1</italic> mutants were more attractive to WFT than wild type.
+We also tested the effect of triple mutant <italic>myc234</italic> on host
+preference, finding that WFT strongly preferred <italic>myc234</italic> plants
+over the wild type (<xref ref-type="fig" rid="ppat.1007897.g005">Fig 5B</xref>).
+<italic>AtTPS10</italic> encodes a monoterpene synthase that produces
+&#x003b2;-ocimene [<xref rid="ppat.1007897.ref048" ref-type="bibr">48</xref>]. We
+therefore carried out a two-choice assay of &#x003b2;-ocimene to examine whether the
+attraction of <italic>tps10</italic> is terpene-dependent. &#x003b2;-ocimene had a
+strong repellent effect on WFT (<xref ref-type="fig" rid="ppat.1007897.g005">Fig
+5C</xref>). These results indicate that <italic>AtMYC2</italic> is essential
+for terpene-dependent immunity against the thrips vector. We further examined if
+the TSWV NSs contributes to the preference of thrips on
+<italic>Arabidopsis</italic>. In two-choice assays, two transgenic
+<italic>Arabidopsis 35S</italic>:<italic>YFP-NSs</italic>
+(<italic>NSs-1</italic>; <italic>NSs-2</italic>) lines were significantly
+more attractive to thrips compared to controls (<xref ref-type="fig" rid="ppat.1007897.g005">Fig 5D</xref>), supporting the conclusion that NSs
+protein can modify vector feeding behavior in a terpene-dependent manner.</p></sec><sec id="sec008"><title>NSs promotes thrips vector performance by targeting MYCs</title><p>The viral transmission cycle can be roughly divided into two phases. In the first
+phase, the TSWV-infected plants attract non-viruliferous thrips to feed, with
+volatiles playing a key role in this early process (Figs <xref ref-type="fig" rid="ppat.1007897.g001">1</xref>&#x02013;<xref ref-type="fig" rid="ppat.1007897.g005">5</xref>). In the second phase, a (viruliferous)
+thrips population is established on TSWV-infected plants to facilitate virus
+transmission. To investigate whether NSs influences thrips population
+establishment, we performed a thrips spawning experiment with a slight
+modification [<xref rid="ppat.1007897.ref040" ref-type="bibr">40</xref>]. Seven
+female adult thrips were allowed to feed on
+<italic>35S</italic>:<italic>YFP-NSs</italic> (<italic>NSs-1;
+NSs-2</italic>) or wild-type <italic>Arabidopsis</italic> for two weeks. We
+counted the number of new adults and larvae to analyze the effect of NSs on the
+thrips population. Plants expressing <italic>NSs</italic> were more suitable for
+WFT population growth than wild type (<xref ref-type="fig" rid="ppat.1007897.g006">Fig 6A</xref>). We reasoned that NSs targets MYCs to
+disable the activation of <italic>terpene synthase</italic> genes, thereby
+attenuating the defense of the host plant against thrips. To investigate this
+hypothesis, we conducted another spawning experiment using
+<italic>myc2-1</italic>, <italic>tps10-1</italic>, and
+<italic>myc234</italic> mutants. More WFT were found on the mutants compared
+with wild type; these lines were equally suitable for WFT growth compared to the
+lines expressing <italic>NSs</italic>, confirming the important role for NSs in
+the tripartite WFT&#x02013;TSWV&#x02013;plant interaction (<xref ref-type="fig" rid="ppat.1007897.g006">Fig 6B and 6C</xref>).</p><fig id="ppat.1007897.g006" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.ppat.1007897.g006</object-id><label>Fig 6</label><caption><title>NSs promotes WFT performance by targeting MYC-mediated host
+defense.</title><p>(A-C) Effects of different genes on the number of WFT offspring. Seven
+adult females fed on each three-week-old <italic>Arabidopsis</italic>
+line. After 2 weeks, new larvae and adults were counted. Values are
+means &#x000b1; SE, n = 8. *<italic>P</italic> &#x0003c; 0.05, **<italic>P</italic>
+&#x0003c; 0.01, Student&#x02019;s <italic>t</italic>-test.</p></caption><graphic xlink:href="ppat.1007897.g006"/></fig></sec><sec id="sec009"><title>A conserved protein interaction between <italic>Orthotospovirus</italic> NSs
+and plant MYC2</title><p>TSWV-infected pepper plants were more attractive to the thrips vector than
+healthy plants (<xref ref-type="fig" rid="ppat.1007897.g001">Fig 1A</xref>).
+Therefore, we asked whether NSs could interact with AtMYC2 orthologs in pepper.
+We examined the interaction between NSs and the homologous protein of AtMYC2 in
+pepper (CaMYC2). Our BiFC assay results showed interaction fluorescence of
+NSs&#x02013;CaMYC2 in the nucleus, while there was no fluorescence of control (<xref ref-type="fig" rid="ppat.1007897.g007">Fig 7A</xref>). In Co-IP assays,
+CaMYC2-Myc protein was coimmunoprecipitated by YFP-NSs, but not by YFP alone
+(<xref ref-type="fig" rid="ppat.1007897.g007">Fig 7B</xref>). Taken
+together, our results suggest that NSs&#x02013;MYC2 interaction is relatively conserved
+in pepper.</p><fig id="ppat.1007897.g007" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.ppat.1007897.g007</object-id><label>Fig 7</label><caption><title>A conserved protein interaction between
+<italic>Orthotospovirus</italic> NSs and plant MYC2
+proteins.</title><p>(A) BiFC assays of the interaction between TSWV NSs and CaMYC2. H2B-RFP
+transgenic <italic>N</italic>. <italic>benthamiana</italic> plants,
+which express a nucleus marker were used in this assay. Bars = 15 &#x003bc;m.
+(B) Co-immunoprecipitation (Co-IP) assay of the interaction between TSWV
+NSs and CaMYC2. GFP-trap beads were used to precipitate the interaction
+complex. (C) BiFC assays of the interaction between TZSV NSs&#x02013;AtMYC2 and
+TZSV NSs&#x02013;CaMYC2. H2B-RFP transgenic <italic>N</italic>.
+<italic>benthamiana</italic> plants were used in this assay. Bars =
+15 &#x003bc;m. (D) Co-immunoprecipitation (Co-IP) assay of the interaction
+between TZSV NSs&#x02013;AtMYC2 (left panel) and TZSV NSs&#x02013;CaMYC2 (right panel).
+GFP-trap beads were used to precipitate the interaction complex.</p></caption><graphic xlink:href="ppat.1007897.g007"/></fig><p>Other orthotospoviruses also encode a NSs protein and might similarly manipulate
+vector behavior to accelerate their own transmission [<xref rid="ppat.1007897.ref049" ref-type="bibr">49</xref>]. To explore whether the interaction
+between NSs&#x02013;MYC2 is conserved among orthotospoviruses, we used Tomato zonate
+spot orthotospovirus (TZSV), a new species of genus
+<italic>Orthotospovirus</italic> that threatens food security in Southwest
+China [<xref rid="ppat.1007897.ref050" ref-type="bibr">50</xref>]. The
+evolutionary relationship of TSWV and TZSV is not very close [<xref rid="ppat.1007897.ref051" ref-type="bibr">51</xref>], as TSWV represents the
+American- and TZSV represents the Euro/Asian-type orthotospoviruses (<xref ref-type="supplementary-material" rid="ppat.1007897.s004">S4 Fig</xref>). We
+examined TZSV NSs&#x02013;AtMYC2/CaMYC2 interactions by BiFC and Co-IP assays. Notably,
+BiFC showed interaction fluorescence of TZSV NSs&#x02013;AtMYC2 and TZSV NSs&#x02013;CaMYC2
+aggregated in the nucleus, while the Co-IP assays again confirmed the
+interaction between TZSV NSs&#x02013;AtMYC2 (left panel) and TZSV NSs&#x02013;CaMYC2 (right
+panel) (<xref ref-type="fig" rid="ppat.1007897.g007">Fig 7D</xref>), providing
+evidence that TZSV NSs interacts with both AtMYC2 and CaMYC2 <italic>in
+vivo</italic>, consistent with NSs&#x02013;MYC2 interaction in TSWV (Figs <xref ref-type="fig" rid="ppat.1007897.g004">4</xref> and <xref ref-type="fig" rid="ppat.1007897.g007">7A</xref>). These results indicated that the
+interaction between NSs and MYC2 may be conserved in orthotospoviruses.</p><p>In summary, our results suggest that NSs targets MYCs to attenuate host defense
+responses to thrips, thereby manipulating terpene-dependent chemical
+communication between the plant and the thrips vector.</p></sec></sec><sec sec-type="conclusions" id="sec010"><title>Discussion</title><sec id="sec011"><title>TSWV suppresses host terpene biosynthesis and promotes the performance of its
+thrips vector</title><p>Vector-borne virus-infected plants often attract the pathogens&#x02019; vectors [<xref rid="ppat.1007897.ref001" ref-type="bibr">1</xref>]. Here, we demonstrate a
+possible molecular mechanism of this virus-induced indirect manipulation through
+the shared host plant. Non-viruliferous thrips feeding was reported to induce a
+negative change in plant quality for their survival [<xref rid="ppat.1007897.ref010" ref-type="bibr">10</xref>]. Consistent with this, we showed that
+the expression of various <italic>TPSs</italic> were induced strongly by
+herbivory (<xref ref-type="fig" rid="ppat.1007897.g001">Fig 1B</xref>) and
+repellent terpenes were produced as a consequence (<xref ref-type="supplementary-material" rid="ppat.1007897.s002">S2 Fig</xref>).
+Orthotospoviruses depend on the vector thrips for transmission, and enhanced
+performance of WFT on virus-infected plants would be beneficial to the virus and
+the vector. We found that the induction of plant defense was greatly decreased
+in TSWV-infected plants, thus promoting the performance of WFT vector (Figs
+<xref ref-type="fig" rid="ppat.1007897.g001">1</xref>, <xref ref-type="fig" rid="ppat.1007897.g005">5</xref> and <xref ref-type="fig" rid="ppat.1007897.g006">6</xref>). Our results establish the existence of an
+indirect mutualistic relationship between Orthotospoviruses and the thrips
+vector. This indirect mutualism refers to a positive effect of virus on its
+insect vector. Virus suppresses plant defense against the insect vector leading
+to enhanced vector performance and population, which in turn promote virus
+transmission.</p><p>Among the monoterpenes manipulated by TSWV in various plants, linalool functions
+as a repellent to WFT both in pepper and <italic>N</italic>.
+<italic>benthamiana</italic> (<xref ref-type="fig" rid="ppat.1007897.g002">Fig 2</xref>). It is one of the most common defensive monoterpene compounds
+in the HIPVs released from plant species in response to herbivore attacks [<xref rid="ppat.1007897.ref052" ref-type="bibr">52</xref>]. Linalool has been
+shown to affect the feeding behavior of insects, as well as to attract
+pollinators, repel herbivores, and affect insect spawning decisions [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>,<xref rid="ppat.1007897.ref052" ref-type="bibr">52</xref>]. It also inhibits the growth of WFT
+[<xref rid="ppat.1007897.ref053" ref-type="bibr">53</xref>], in agreement
+with the conclusion that linalool is an anti-WFT secondary metabolite hijacked
+by TSWV (<xref ref-type="fig" rid="ppat.1007897.g002">Fig 2A</xref>). Since
+volatiles are essential to herbivory responses, exogenous application of
+monoterpenes such as linalool may be a promising approach to avoid herbivore
+feeding damage and even plant pathogen transmission under field conditions,
+without the need for engineering in plants.</p></sec><sec id="sec012"><title>NSs represses MYC2-mediated JA signaling pathway to achieve indirect
+tospovirus&#x02013;WFT mutualism</title><p>Behavioral manipulation has been observed in animal-infecting bunyaviruses for
+many years. As early as 1980, <italic>La Crosse virus</italic> (LACV) was
+reported to modify the feeding behavior of mosquito vectors [<xref rid="ppat.1007897.ref018" ref-type="bibr">18</xref>]. <italic>Rift Valley
+fever virus</italic> (RVFV) was found to affect mosquito vector morbidity
+and mortality [<xref rid="ppat.1007897.ref019" ref-type="bibr">19</xref>].
+However, the molecular mechanism underlying this manipulation was unclear, and
+no specific information was available regarding viral determinants of the
+virus&#x02013;host&#x02013;vector interaction in bunyaviruses.</p><p>Our study identifies NSs of TSWV as an indirect vector behavior manipulator that
+suppresses host plant defense responses to attract and benefit the fitness of
+WFT, which in turn facilitates disease dispersal from plant to plant. Notably,
+NSs is conserved in bunyaviruses, and TSWV NSs is an avirulence determinant that
+triggers a hypersensitive response in resistant plants [<xref rid="ppat.1007897.ref054" ref-type="bibr">54</xref>]. NSs is also a well-known viral
+suppressor of host RNA interference in both plants and insects and is essential
+for TSWV transmission by WFT [<xref rid="ppat.1007897.ref016" ref-type="bibr">16</xref>,<xref rid="ppat.1007897.ref023" ref-type="bibr">23</xref>&#x02013;<xref rid="ppat.1007897.ref026" ref-type="bibr">26</xref>]. Here, we showed that
+the expression of <italic>NSs</italic> is sufficient to control the behavior of
+WFT (Figs <xref ref-type="fig" rid="ppat.1007897.g003">3</xref>, <xref ref-type="fig" rid="ppat.1007897.g005">5D</xref> and <xref ref-type="fig" rid="ppat.1007897.g006">6A</xref>) by suppressing the host defense against
+insects through MYC proteins (<xref ref-type="fig" rid="ppat.1007897.g004">Fig
+4</xref>). Additionally, the non-viruliferous female thrips were reported to
+produce more offspring on virus-infected plants, which is in agreement with
+their preference for TSWV-infected plants [<xref rid="ppat.1007897.ref009" ref-type="bibr">9</xref>,<xref rid="ppat.1007897.ref010" ref-type="bibr">10</xref>,<xref rid="ppat.1007897.ref021" ref-type="bibr">21</xref>]. Taken together, the infection of TSWV
+could counter plant defense to benefit its vector, thus promoting its spread
+through the NSs protein.</p></sec><sec id="sec013"><title>Effectors target the plant MYC immunity hub</title><p>Earlier studies showed that effectors from bacterial, fungal and oomycete
+pathogens converge onto common host proteins in <italic>Arabidopsis</italic>
+[<xref rid="ppat.1007897.ref055" ref-type="bibr">55</xref>]. Our results
+suggest that viral effectors also share the same plant targets. JA signaling is
+essential for plant defense against pathogen and insect attack in several
+phytopathological systems [<xref rid="ppat.1007897.ref056" ref-type="bibr">56</xref>,<xref rid="ppat.1007897.ref057" ref-type="bibr">57</xref>].
+However, plant arboviruses target JA signaling to increase the suitability of
+host plants for their vectors [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>,<xref rid="ppat.1007897.ref058" ref-type="bibr">58</xref>].
+JA-dependent plant defenses affect WFT performance and preference, and TSWV
+infection reduces the levels of these responses. In JA-insensitive
+<italic>coi1-1</italic> mutants, WFT do not show a preference for
+TSWV-infected plants [<xref rid="ppat.1007897.ref021" ref-type="bibr">21</xref>]. Our results suggest that the MYC proteins involved in the JA
+pathway are responsible for plant terpene immunity against WFT (<xref ref-type="fig" rid="ppat.1007897.g005">Fig 5A&#x02013;5C</xref>).
+<italic>MYCs</italic> are downstream genes of the JA receptor COI1, and
+MYC2-orchestrated transcriptional reprogramming occurs during JA signaling
+[<xref rid="ppat.1007897.ref048" ref-type="bibr">48</xref>].</p><p>Functional blocking of <italic>MYCs</italic> increases WFT preference and
+promotes WFT performance, including developmental duration and fecundity in
+<italic>Arabidopsis</italic> (<xref ref-type="fig" rid="ppat.1007897.g006">Fig 6</xref>). We hypothesize that several MYC-regulated indole and
+aliphatic glucosinolates that function as defensive chemicals against herbivores
+might be repressed. Alternatively, the levels of nutrients (such as amino acids)
+are likely altered in the host, which could affect the feeding behavior and
+preference of thrips, as previously reported [<xref rid="ppat.1007897.ref008" ref-type="bibr">8</xref>]. In addition, the interaction between
+TZSV NSs and MYC2 indicates that TZSV infection of plants may also benefit its
+insect vector like TSWV infection does (<xref ref-type="fig" rid="ppat.1007897.g007">Fig 7B</xref>). Therefore it seems like NSs of
+<italic>Orthotospovirus</italic> conservatively interacted with MYC2 and its
+homologs in plant host (<xref ref-type="fig" rid="ppat.1007897.g007">Fig
+7</xref>).</p><p>By interrupting MYC-regulated plant defense via NSs,
+<italic>Orthotospovirus</italic> species appear to indirectly manipulate the
+preference and performance of WFT, as is the case for &#x003b2;C1 in
+<italic>Begomovirus</italic>. We previously demonstrated that &#x003b2;C1 of
+<italic>Tomato yellow leaf curl China virus</italic> (TYLCCNV) interacts
+with MYC2 to subvert plant resistance and to promote vector performance [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>]. Notably,
+<italic>Begomovirus</italic> and <italic>Orthotospovirus</italic> species
+are persistently transmitted, which tend to induce attraction and promote
+performance of vectors on infected plants for increased transmission efficiency,
+indicating that viruses with same transmission mechanisms can have common
+manipulation tactics. Interestingly, the silencing suppressor 2b of the
+nonpersistently transmitted virus <italic>Cucumber mosaic virus</italic> (CMV,
+<italic>Bromoviridae</italic>) also suppresses JA signaling, and
+<italic>myc234</italic> triple mutant plants were observed to attract the
+CMV aphid vector [<xref rid="ppat.1007897.ref058" ref-type="bibr">58</xref>],
+although CMV appears to attract vectors deceptively [<xref rid="ppat.1007897.ref015" ref-type="bibr">15</xref>]. These similar results on
+evolutionarily different viruses and plant hosts suggest that manipulation of
+the JA pathway could be a general feature in tripartite virus&#x02013;vector&#x02013;plant
+interactions. Notably, these independently evolved virulence proteins were known
+as silencing suppressors that convergently targeted the host RNA silencing
+machinery, and our studies establish that the same occurs for the manipulation
+of plant&#x02013;insect vector interactions.</p><p>These similar effects and pathogen manipulation tactics indicate that the
+mechanistic and evolutionary principle for diverse pathogens seems to be
+convergent, even in human pathogens. For instance, CCR5, which is the first
+described cellular receptor of human immunodeficiency virus (HIV), is necessary
+and sufficient for the pathogenesis of many pathogens [<xref rid="ppat.1007897.ref059" ref-type="bibr">59</xref>]. The HIV, <italic>Toxoplasma
+gondii</italic>, poxviruses (vaccinia and myxoma), and
+<italic>Staphylococcus aureus</italic> exploit CCR5 to target and kill
+mammalian immune cells [<xref rid="ppat.1007897.ref060" ref-type="bibr">60</xref>&#x02013;<xref rid="ppat.1007897.ref063" ref-type="bibr">63</xref>]. Why
+pathogens from different kingdoms tend to keep finding the same host targets to
+disrupt their defenses, and whether this is a consequence of selective pressure
+in evolution remain to be further determined.</p><p>In summary, we have demonstrated that the emission of several monoterpenes is
+greatly decreased by the TSWV infection, which in turn promotes WFT preference
+and performance, uncovering a molecular mechanism underpinning the virus-induced
+manipulation through the shared host plant of the WFT vector. This work presents
+a mechanism by which a pathogen regulates host-derived olfactory cues for vector
+attraction. These results will also help to address similar tripartite
+interaction systems in plants, animals and humans and will allow innovative
+control methods through interference of vector transmission.</p></sec></sec><sec sec-type="materials|methods" id="sec014"><title>Materials and methods</title><sec id="sec015"><title>Plant materials</title><p>Pepper accession Lingfeng (<italic>Capsicum annuum</italic> L.),
+<italic>Nicotiana benthamiana</italic> and <italic>Arabidopsis
+thaliana</italic> (Col-0) plants were grown in insect-free growth chambers
+following standard procedures [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>]. The <italic>Arabidopsis myc2-1</italic>,
+<italic>tps10-1</italic>, and <italic>myc234</italic> mutants (Col-0
+background) were described previously [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>]. The
+<italic>35S</italic>:<italic>YFP-NSs</italic> transgenic lines
+<italic>NSs-1</italic> and <italic>NSs-2</italic> were generated using the
+<italic>Agrobacterium</italic>-mediated floral-dip method [<xref rid="ppat.1007897.ref064" ref-type="bibr">64</xref>].</p></sec><sec id="sec016"><title>Naive Western flower thrips colony and mechanical inoculation of TSWV</title><p>A starting colony of Western flower thrips (WFT, <italic>Frankliniella
+occidentalis</italic> Pergande) (Thysanoptera: Thripidae) was kindly
+provided by Prof. Youjun Zhang (Institute of Vegetables and Flowers, Chinese
+Academy of Agricultural Sciences). The thrips were maintained on green bean pods
+(<italic>Phaseolus vulgaris</italic> L.) in a climate chamber as described
+previously [<xref rid="ppat.1007897.ref065" ref-type="bibr">65</xref>]. Tomato
+spotted wilt orthotospovirus (isolate TSWV-YN) obtained from Prof. Xiaorong Tao
+(Nanjing Agriculture University) was mechanically inoculated onto pepper and
+<italic>N</italic>. <italic>benthamiana</italic> as described by Mandal et
+al. [<xref rid="ppat.1007897.ref066" ref-type="bibr">66</xref>]. Infected leaves
+were ground in 0.05 M phosphate buffer (pH 7.0) and applied to the host plant
+using a soft finger-rubbing technique. Infected plants were tested at 10&#x02013;14 dpi
+by RT-qPCR prior to the thrip two-choice assays.</p></sec><sec id="sec017"><title>Thrip two-choice assay</title><p>The two-choice assays on plants or leaves were performed as described previously
+[<xref rid="ppat.1007897.ref008" ref-type="bibr">8</xref>,<xref rid="ppat.1007897.ref009" ref-type="bibr">9</xref>]. Peppers inoculated with
+TSWV or buffer was used for the assay at 10&#x02013;14 days post inoculation. A
+TSWV-infested and a control plant were confined in a pot covered with a fine
+mesh. For <italic>N</italic>. <italic>benthamiana</italic>, detached leaves of
+TSWV-infected plants and non-infected plants were separately placed in a 16
+cm-Petri dish, which was covered with a moist filter paper. For
+<italic>Arabidopsis</italic>, plants were cultivated on solid Murashige and
+Skoog medium for 3&#x02013;5 weeks, and whole plants were used for the two-choice assay.
+Fifty <italic>F</italic>. <italic>occidentalis</italic> adults were released to
+the center of the two tested plants or the leaves of <italic>N</italic>.
+<italic>benthamiana</italic>, the number of thrips that settled on each
+plant or leaf was counted at 12h (pepper) or 24 h (<italic>N</italic>.
+<italic>benthamiana</italic>, <italic>Arabidopsis</italic>) after release.
+For two-choice assays with individual monoterpene, 2 cm &#x000d7; 2 cm filter paper
+containing 40 &#x003bc;L of a 1:100 (v/v) solution of standard chemical substance from
+Sigma dissolved in n-hexane or n-hexane alone (as a control) was placed in a
+16cm-Petri dish. Thrips were released between the two tested samples, and the
+thrips were counted 5 min after release. The Petri dishes were contained in a
+thrip culture chamber throughout the experiment to maintain consistent
+environmental conditions.</p></sec><sec id="sec018"><title>Thrip infestation assay</title><p>Plants were infested with non-viruliferous thrips as described previously [<xref rid="ppat.1007897.ref056" ref-type="bibr">56</xref>]. Twenty adult thrips
+(7&#x02013;14 d after eclosion) were grouped and starved for 3 h before the plant
+infestation assay. <italic>Arabidopsis</italic> plants grown on solid MS medium
+or soil-grown pepper and <italic>N</italic>. <italic>benthamiana</italic> plants
+were infested with adult thrips for the indicated time period. The thrips were
+gently removed and the leaf samples collected in liquid nitrogen for further
+analysis. For the <italic>GUS</italic>-reporter line expression assays,
+transgenic <italic>Arabidopsis</italic> plants were infested with thrips for 24
+h, followed by GUS activity analysis. The experiment was repeated at least twice
+with similar results.</p></sec><sec id="sec019"><title>Volatile analysis</title><p>For volatile analysis on pepper plants, plants were infested with thirty adults
+in a nylon mesh cage for 6 h before volatile collection. The volatiles emitted
+from insect&#x02010;exposed TSWV-infected and control plants were collected with a solid
+phase microextraction (SPME; Supelco, Belafonte, PA, USA) fiber consisting of
+100 &#x003bc;m polydimethylsiloxane (Supelco). Chemical analysis was performed by gas
+chromatography-mass spectrometry (GC-MS) (Shimadzu, QP2010) coupled with a DB5MS
+column (Agilent, Santa Clara, CA, USA, 30 m x 0.25 mm x 0.25 &#x003bc;m). The SPME fiber
+was thermally desorbed in the injector at 250&#x000b0;C for 1 min. The initial oven
+temperature was held at 40&#x000b0;C for 3 min, increased to 240&#x000b0;C with a gradient of
+5&#x000b0;C/min, and maintained at 240&#x000b0;C for 5 min. The inlet temperature was 250&#x000b0;C. The
+collection of volatiles for each treatment was repeated 4&#x02013;6 times.</p><p>The collection, isolation, and identification of volatiles from
+<italic>N</italic>. <italic>benthamiana</italic> plants were performed as
+described previously [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>,<xref rid="ppat.1007897.ref067" ref-type="bibr">67</xref>]. Plant
+volatiles were collected for 12 h at a gas flow rate of 300 mL/min and analyzed
+by GC-MS. At least four plants per group were used.</p></sec><sec id="sec020"><title>Plasmid construction</title><p>For PVX heterologous virus protein expression in pepper, the TSWV virus genes
+<italic>NSs</italic>, <italic>NSm</italic>, and <italic>Ncp</italic> were
+cloned into the PVX vector pGR208 by using gene-specific primers in <xref ref-type="supplementary-material" rid="ppat.1007897.s005">S1 Table</xref>.
+For agroinfiltration transient expression vectors construction, the indicated
+DNA fragments were PCR cloning into pENTR-3C entry vector, then transformed into
+the agroinfiltration destination vector under the control of a <italic>CaMV
+35S</italic> promoter. All constructs used for protein expression in plants
+were transformed into <italic>Agrobacterium tumefaciens</italic> strain EHA105.
+<italic>Agrobacterium</italic> carrying the binary vectors were infiltrated
+into the abaxial sides of pepper and <italic>N</italic>.
+<italic>benthamiana</italic> leaves [<xref rid="ppat.1007897.ref049" ref-type="bibr">49</xref>].</p></sec><sec id="sec021"><title>Yeast two-hybrid analysis</title><p>The <italic>Arabidopsis</italic> Mate and Plate Library was screened using yeast
+mating method according to the Matchmaker Gold Yeast Two-Hybrid System
+manufacturer&#x02019;s protocol (Clontech). Briefly, full-length <italic>NSs</italic>
+was amplified and inserted into the pGBKT7 vector by Gateway recombination, then
+the constructs was transformed into yeast strain Y2HGold and testing for
+autoactivation by using the Yeastmaker Yeast Transformation System (Clontech).
+Then the <italic>Arabidopsis</italic> Mate and Plate Library and BD-NSs yeast
+clones were mated in YPDA medium. After incubation, isolated destination clones
+were selected from diploid-selection medium (SD/-Leu/-Trp). These primary
+positive interactors were secondary screened on medium plates
+(SD/-Leu/-Trp/-His) and third time screened on medium plates (SD/-Leu/-Trp/
+-His/X-a-Gal). PCR and BLAST searches were used to obtain sequence information
+on corresponding AD- and BD-clones per colony.</p><p>The interaction between TSWV NSs and AtMYCs were confirmed according to the
+manufacturer&#x02019;s protocol (Clontech). The pGBKT7-NSs and pGAD424-MYCs constructs
+were co-transformed into yeast strain Y2HGold. Yeast cotransformed with the
+indicated plasmids was spotted onto synthetic medium (SD-Leu-Trp-His) containing
+10 mM 3-amino-1,2,4-triazole and 0.04 mg/mL X-&#x003b1;-gal. The empty vectors pGBKT7
+(BD) and pGADT7 (AD) were used as negative controls [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>].</p></sec><sec id="sec022"><title>Bimolecular fluorescence complementation (BiFC)</title><p>BiFC was performed as described previously [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>]. The indicated constructs were fused
+with the N-or C- terminal of YFP and transformed into <italic>A</italic>.
+<italic>tumefaciens</italic> strain EHA105. The recombinant constructs of
+<italic>A</italic>. <italic>tumefaciens</italic> were infiltrated in 4&#x02013;6
+week old transgenic <italic>N</italic>. <italic>benthamiana</italic> (expressing
+a nuclear marker-H2B-RFP)[<xref rid="ppat.1007897.ref068" ref-type="bibr">68</xref>] leaves via agroinfiltration. The fluorescent signals were
+detected at 2 dpi via confocal microscopy.</p></sec><sec id="sec023"><title><italic>In Vitro</italic> pull-down assay</title><p>His and GST tag fusion proteins were purified using His- and GST-Trap (GE
+Healthcare) according to the manufacturer&#x02019;s instructions [<xref rid="ppat.1007897.ref038" ref-type="bibr">38</xref>]. GST-AtMYC2 (2 &#x003bc;g) and His-NSs (2 &#x003bc;g)
+fusion proteins were mixed and incubated with 25 &#x003bc;L GST-Trap for 2 h at 4&#x000b0;C in a
+binding buffer (50 mM Tris-HCl, pH 7.5, 200 mM NaCl, 0.25% Triton X-100, and 35
+mM b-mercaptoethanol). After six washes with binding buffer, pulled-down
+proteins were resuspended in 2xSDS buffer and detected by immunoblot using
+Anti-GST and Anti-His antibodys.</p></sec><sec id="sec024"><title>Co-immunoprecipitation (Co-IP)</title><p><italic>A</italic>.<italic>tumefaciens</italic> carrying the
+<italic>35S</italic>:<italic>MYC2-Myc</italic> or
+<italic>35S</italic>:<italic>YFP-NSs</italic> constructs were infiltrated
+into <italic>N</italic>. <italic>benthamiana</italic> leaves. About 1g leaf
+tissue was collected and ground to powder in liquid nitrogen. Proteins were
+extracted in a cold extraction buffer (50 mM Tris-HCl, pH 7.5, 150 mM NaCl, 2 mM
+MgCl2, 0.5 mM EDTA, 0.1% Triton, 0.5% NP-40, 10% glycerol, 1 mM
+phenylmethylsulfonyl fluoride (PMSF), one protease inhibitor cocktail/100 mL
+(Sigma-Aldrich, USA)). Then the protein extracts were incubated with 25 &#x003bc;L
+GFP-trap beads for 3 h at 4&#x000b0;C. After that, the beads were washed three times
+with extraction buffer and resuspended in 2xSDS buffer before used for
+immunoblot analysis.</p></sec><sec id="sec025"><title>Quantitative RT-PCR</title><p>Total RNA was extracted from leaf and plant samples using an RNeasy Plant Mini
+Kit (Qiagen) with column DNase treatment. RNA was reverse transcribed using
+TransScript One-Step gDNA Removal and cDNA Synthesis SuperMix (TransGen Biotech,
+China). Four to six independent biological samples were collected and analyzed.
+RT-qPCR was performed using SYBR Green Real-Time PCR Master Mix (Toyobo, China)
+on the CFX 96 system (Bio-Rad). Pepper <italic>Ca-ACT1</italic> and
+<italic>N</italic>. <italic>benthamiana Nb-EF1&#x003b1;</italic> were used as the
+internal controls (Listed in <xref ref-type="supplementary-material" rid="ppat.1007897.s005">S1 Table</xref>).</p></sec><sec id="sec026"><title>Thrip spawning assay</title><p>The thrip spawning assay was performed as described previously with some
+modifications [<xref rid="ppat.1007897.ref040" ref-type="bibr">40</xref>].
+<italic>Arabidopsis</italic> plants were grown in soil covered with Parafilm
+(Bemis, USA) to prevent any thrips from escaping and to facilitate counting.
+Three-week-old plants were placed in an acryl cylinder chamber (7 cm &#x000d7; 5 cm) and
+covered with a fine mesh. Seven female adults (7&#x02013;14 d after eclosion) were
+allowed to infest a single plant for two weeks, and new larvae and adult thrips
+were counted. Eight plants of each genotype were used per experiment. The
+experiment was repeated at least twice with similar results.</p></sec><sec id="sec027"><title>GUS staining</title><p>Transgenic <italic>Arabidopsis</italic> plants expressing the
+<italic>AtMYC2</italic> or <italic>AtTPS10</italic>
+promoter:<italic>GUS</italic> reporter gene were infested with thrips for 24
+h and incubated in GUS staining buffer (0.5 mg/mL X-glucuronide, 0.5 mM
+potassium ferricyanide, 0.5 mM potassium ferrocyanide, 10 mM EDTA, 0.1% Triton
+X-100, 0.1 M pH 7.0 phosphate buffer) at 37&#x000b0;C overnight. The stained seedlings
+were cleared by washing with 70% ethanol. Untreated plants were used as a
+negative control. The experiment was repeated at least twice with similar
+results.</p></sec><sec id="sec028"><title>Data analysis</title><p>Significant differences in gene expression and volatile organic compound levels
+were determined by Student&#x02019;s <italic>t</italic> tests or one-way ANOVA; if the
+ANOVA result was significant (P &#x0003c; 0.05), Duncan&#x02019;s multiple range tests were
+used to detect significant differences between groups. Thrip choices between
+different treatments were analyzed by nonparametric Wilcoxon matched pairs
+tests. All statistical tests were carried out with GraphPad Prism.</p></sec><sec id="sec029"><title>Accession numbers</title><p>Sequence data in this study can be found in Sol Genomics Network (<ext-link ext-link-type="uri" xlink:href="https://solgenomics.net/">https://solgenomics.net</ext-link>), TAIR (<ext-link ext-link-type="uri" xlink:href="http://www.Arabidopsis.org">www.Arabidopsis.org</ext-link>) or GenBank/EMBL under
+the following accession numbers: CaMYC2 (CA00g50270), CaMTS1 (CA08g16370),
+CaMTS2 (CA08g16380), CaMTS3 (CA08g16410), CaMTS4 (CA08g16420), AtMYC2
+(AT1G32640), AtMYC3 (AT5G46760), AtMYC4 (AT4G17880), AtTPS10 (AT2G24210), TSWV
+NSs (JF960235.1), TSWV NSm (JF960236.1), and TSWV Ncp (JF960235.1),
+TZSV(EF552433.1).</p></sec></sec><sec sec-type="supplementary-material" id="sec030"><title>Supporting information</title><supplementary-material content-type="local-data" id="ppat.1007897.s001"><label>S1 Fig</label><caption><title>MeJA induces several <italic>TPS</italic> genes expression in <italic>N.
+benthamiana</italic> similar to thrips infestation.</title><p>(A) Relative expression levels of various <italic>TPS</italic> genes in
+<italic>N</italic>. <italic>benthamiana</italic> after thrips
+infestation. Four-week-old <italic>N</italic>. <italic>benthamiana</italic>
+plants were infested with twenty thrips adults in a confined pot for 48h.
+Total RNA was prepared from treated plants for RT-qPCR analysis. Values are
+means + SE, n = 3. **P &#x0003c; 0.01, Student&#x02019;s <italic>t</italic>-test. (B)
+Relative expression levels of various <italic>TPS</italic> genes in
+<italic>N</italic>. <italic>benthamiana</italic> after 100 &#x003bc;M MeJA
+treatment for 24h. Values are means + SE, n = 3. **P &#x0003c; 0.01, Student&#x02019;s
+<italic>t</italic>-test.</p><p>(TIF)</p></caption><media xlink:href="ppat.1007897.s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ppat.1007897.s002"><label>S2 Fig</label><caption><title>Thrips infestation induced plant volatiles emission in peppers.</title><p>Representative extracted ion chromatograms of GC/MS headspace volatile
+compounds of peppers. Plants under the same growth condition were infested
+with (pepper-thrips) or without (pepper) thrips for 6 h.</p><p>(TIF)</p></caption><media xlink:href="ppat.1007897.s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ppat.1007897.s003"><label>S3 Fig</label><caption><title>TSWV NSs interacts with AtMYC3 and AtMYC4.</title><p>(A) Interaction between TSWV NSs&#x02013;AtMYC3 and TSWV NSs&#x02013;AtMYC4 in a yeast
+two-hybrid assay. Yeast cotransformed with the indicated plasmids was
+spotted onto synthetic medium (SD-Leu-Trp-His) containing 0.04 mg/mL X-&#x003b1;-gal
+and 10mM 3-amino-1,2,4-triazole (3-AT). The empty vectors pGBKT7 (BD) and
+pGADT7 (AD) were used as negative controls. (B) Interaction between TSWV
+NSs&#x02013;AtMYC3 and TSWV NSs&#x02013;AtMYC4 in a BiFC assay. Indicated construsts were
+transiently expressed in H2B-RFP transgenic <italic>N</italic>.
+<italic>benthamiana</italic> leaf epidermal cells by agroinfiltration.
+Bars = 15 &#x003bc;m.</p><p>(TIF)</p></caption><media xlink:href="ppat.1007897.s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ppat.1007897.s004"><label>S4 Fig</label><caption><title>Phylogenetic tree of NSs protein from diverse orthotospoviruses.</title><p>ClustalW was used to construct the phylogenetic tree. It was constructed
+based on the amino acid sequences of the NSs protein from 23
+orthotospoviruses.</p><p>(TIF)</p></caption><media xlink:href="ppat.1007897.s004.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ppat.1007897.s005"><label>S1 Table</label><caption><title>DNA primers used in this study.</title><p>(DOCX)</p></caption><media xlink:href="ppat.1007897.s005.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We thank Profs. Youjun Zhang (Chinese Academy of Agricultural Sciences, China) and
+Xiaorong Tao (Nanjing Agriculture University, China) for providing the WFT clone and
+TSWV-YN strain. We also thank the three anonymous reviewers whose helpful
+suggestions have led to an improvement of our manuscript.</p></ack><ref-list><title>References</title><ref id="ppat.1007897.ref001"><label>1</label><mixed-citation publication-type="journal"><name><surname>Eigenbrode</surname><given-names>SD</given-names></name>, <name><surname>Bosque-P&#x000e9;rez</surname><given-names>NA</given-names></name>, <name><surname>Davis</surname><given-names>TS</given-names></name>. <article-title>Insect-borne plant pathogens and their vectors: ecology,
+evolution, and complex interactions</article-title>. <source>Annu Rev
+Entomol</source>. <year>2018</year>;
+<volume>63</volume>:<fpage>169</fpage>&#x02013;<lpage>191</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-ento-020117-043119</pub-id>
+<?supplied-pmid 28968147?><pub-id pub-id-type="pmid">28968147</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref002"><label>2</label><mixed-citation publication-type="journal"><name><surname>Legarrea</surname><given-names>S</given-names></name>, <name><surname>Barman</surname><given-names>A</given-names></name>, <name><surname>Marchant</surname><given-names>W</given-names></name>, <name><surname>Diffie</surname><given-names>S</given-names></name>, <name><surname>Srinivasan</surname><given-names>R</given-names></name>. <article-title>Temporal effects of a Begomovirus infection and host
+plant resistance on the preference and development of an insect vector,
+Bemisia tabaci,and implications for epidemics</article-title>. <source>PLoS
+One</source>.
+<year>2015</year>;<volume>10</volume>(<issue>11</issue>):<fpage>e0142114</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0142114</pub-id>
+<?supplied-pmid 26529402?><pub-id pub-id-type="pmid">26529402</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref003"><label>3</label><mixed-citation publication-type="journal"><name><surname>Jim&#x000e9;nez-Mart&#x000ed;nez</surname><given-names>ES</given-names></name>, <name><surname>Bosque-P&#x000e9;rez</surname><given-names>NA</given-names></name>, <name><surname>Berger</surname><given-names>PH</given-names></name>, <name><surname>Zemetra</surname><given-names>RS</given-names></name>, <name><surname>Ding</surname><given-names>H</given-names></name>, <name><surname>Eigenbrode</surname><given-names>SD</given-names></name>. <article-title>Volatile cues influence the response of Rhopalosiphum
+padi (Homoptera: Aphididae) to barley yellow dwarf virus-infected transgenic
+and untransformed wheat</article-title>. <source>Environ Entomol</source>.
+<year>2004</year>;<volume>33</volume>:<fpage>1207</fpage>&#x02013;<lpage>1216</lpage>.
+<pub-id pub-id-type="doi">10.1603/0046-225x-33.5.1207</pub-id>.</mixed-citation></ref><ref id="ppat.1007897.ref004"><label>4</label><mixed-citation publication-type="journal"><name><surname>Medina-Ortega</surname><given-names>KJ</given-names></name>, <name><surname>Bosque-P&#x000e9;rez</surname><given-names>NA</given-names></name>, <name><surname>Ngumbi</surname><given-names>E</given-names></name>, <name><surname>Jim&#x000e9;nez-Mart&#x000ed;nez</surname><given-names>ES</given-names></name>, <name><surname>Eigenbrode</surname><given-names>SD</given-names></name>. <article-title>Rhopalosiphum padi (Hemiptera: Aphididae) responses to
+volatile cues from Barley yellow dwarf virus-infected wheat</article-title>.
+<source>Environ Entomol</source>.
+<year>2009</year>;<volume>38</volume>(<issue>3</issue>):<fpage>836</fpage>&#x02013;<lpage>845</lpage>.
+<pub-id pub-id-type="doi">10.1603/022.038.0337</pub-id>
+<?supplied-pmid 19508794?><pub-id pub-id-type="pmid">19508794</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref005"><label>5</label><mixed-citation publication-type="journal"><name><surname>Eigenbrode</surname><given-names>SD</given-names></name>, <name><surname>Ding</surname><given-names>H</given-names></name>, <name><surname>Shiel</surname><given-names>P</given-names></name>, <name><surname>Berger</surname><given-names>PH</given-names></name>. <article-title>Volatiles from potato plants infected with potato
+leafroll virus attract and arrest the virus vector, Myzus persicae
+(Homoptera: Aphididae)</article-title>. <source>Proc Biol Sci</source>.
+<year>2002</year>;<volume>269</volume>(<issue>1490</issue>):<fpage>455</fpage>&#x02013;<lpage>460</lpage>.
+<pub-id pub-id-type="doi">10.1098/rspb.2001.1909</pub-id>
+<?supplied-pmid 11886636?><pub-id pub-id-type="pmid">11886636</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref006"><label>6</label><mixed-citation publication-type="journal"><name><surname>Casteel</surname><given-names>CL</given-names></name>, <name><surname>Yang</surname><given-names>C</given-names></name>, <name><surname>Nanduri</surname><given-names>AC</given-names></name>, <name><surname>De Jong</surname><given-names>HN</given-names></name>, <name><surname>Whitham</surname><given-names>SA</given-names></name>, <name><surname>Jander</surname><given-names>G</given-names></name>. <article-title>The NIa-Pro protein of Turnip mosaic virus improves
+growth and reproduction of the aphid vector, Myzus persicae (green peach
+aphid)</article-title>. <source>Plant J</source>.
+<year>2014</year>;<volume>77</volume>(<issue>4</issue>):<fpage>653</fpage>&#x02013;<lpage>663</lpage>.
+<pub-id pub-id-type="doi">10.1111/tpj.12417</pub-id>
+<?supplied-pmid 24372679?><pub-id pub-id-type="pmid">24372679</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref007"><label>7</label><mixed-citation publication-type="journal"><name><surname>Hodge</surname><given-names>S</given-names></name>, <name><surname>Powell</surname><given-names>G</given-names></name>. <article-title>Do plant viruses facilitate their aphid vectors by
+inducing symptoms that alter behavior and performance?</article-title>
+<source>Environ Entomol</source>.
+<year>2008</year>;<volume>37</volume>(<issue>6</issue>):<fpage>1573</fpage>&#x02013;<lpage>1581</lpage>.
+<pub-id pub-id-type="doi">10.1603/0046-225x-37.6.1573</pub-id>
+<?supplied-pmid 19161702?><pub-id pub-id-type="pmid">19161702</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref008"><label>8</label><mixed-citation publication-type="journal"><name><surname>Shalileh</surname><given-names>S</given-names></name>, <name><surname>Ogada</surname><given-names>PA</given-names></name>, <name><surname>Moualeu</surname><given-names>DP</given-names></name>, <name><surname>Poehling</surname><given-names>HM</given-names></name>. <article-title>Manipulation of Frankliniella occidentalis
+(Thysanoptera: Thripidae) by Tomato Spotted Wilt Virus (Tospovirus) via the
+host plant nutrients to enhance its transmission and spread</article-title>.
+<source>Environ Entomol</source>.
+<year>2016</year>;<volume>45</volume>(<issue>5</issue>):<fpage>1235</fpage>&#x02013;<lpage>1342</lpage>.
+<pub-id pub-id-type="doi">10.1093/ee/nvw102</pub-id>
+<?supplied-pmid 27566527?><pub-id pub-id-type="pmid">27566527</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref009"><label>9</label><mixed-citation publication-type="journal"><name><surname>Maris</surname><given-names>PC</given-names></name>, <name><surname>Joosten</surname><given-names>NN</given-names></name>, <name><surname>Goldbach</surname><given-names>RW</given-names></name>, <name><surname>Peters</surname><given-names>D</given-names></name>. <article-title>Tomato spotted wilt virus infection improves host
+suitability for its vector Frankliniella occidentalis</article-title>.
+<source>Phytopathology</source>.
+<year>2004</year>;<volume>94</volume>(<issue>7</issue>):<fpage>706</fpage>&#x02013;<lpage>711</lpage>.
+<pub-id pub-id-type="doi">10.1094/PHYTO.2004.94.7.706</pub-id>
+<?supplied-pmid 18943902?><pub-id pub-id-type="pmid">18943902</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref010"><label>10</label><mixed-citation publication-type="journal"><name><surname>Bel&#x000e9;n</surname><given-names>B</given-names></name>, <name><surname>Janssen</surname><given-names>A</given-names></name>, <name><surname>Maris</surname><given-names>PC</given-names></name>, <name><surname>Peters</surname><given-names>D</given-names></name>, <name><surname>Sabelis</surname><given-names>MW</given-names></name>. <article-title>Herbivore arthropods benefit from vectoring plant
+viruses</article-title>. <source>Ecol Lett</source>.
+<year>2005</year>;<volume>8</volume>(<issue>1</issue>):<fpage>70</fpage>&#x02013;<lpage>79</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1461-0248.2004.00699.x</pub-id>.</mixed-citation></ref><ref id="ppat.1007897.ref011"><label>11</label><mixed-citation publication-type="journal"><name><surname>Colvin</surname><given-names>J</given-names></name>, <name><surname>Omongo</surname><given-names>CA</given-names></name>, <name><surname>Govindappa</surname><given-names>MR</given-names></name>, <name><surname>Stevenson</surname><given-names>PC</given-names></name>, <name><surname>Maruthi</surname><given-names>MN</given-names></name>, <name><surname>Gibson</surname><given-names>G</given-names></name>, <etal>et al</etal>
+<article-title>Host-plant viral infection effects
+on arthropod-vector population growth, development and behaviour: management
+and epidemiological implications</article-title>. <source>Adv Virus
+Res</source>.
+<year>2006</year>;<volume>67</volume>:<fpage>419</fpage>&#x02013;<lpage>452</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0065-3527(06)67011-5</pub-id>
+<?supplied-pmid 17027686?><pub-id pub-id-type="pmid">17027686</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref012"><label>12</label><mixed-citation publication-type="journal"><name><surname>Costa</surname><given-names>HS</given-names></name>, <name><surname>Brown</surname><given-names>JK</given-names></name>, <name><surname>Byrne</surname><given-names>DN</given-names></name>. <article-title>Life history traits of the whitefly, Bemisia tabaci
+(Homoptera: Aleyrodidae) on six virus-infected or healthy plant
+species</article-title>. <source>Environ Entomol</source>.
+<year>1991</year>;<volume>20</volume>:<fpage>1102</fpage>&#x02013;<lpage>1107</lpage>.
+<pub-id pub-id-type="doi">10.1093/ee/20.4.1102</pub-id>.</mixed-citation></ref><ref id="ppat.1007897.ref013"><label>13</label><mixed-citation publication-type="journal"><name><surname>Donaldson</surname><given-names>JR</given-names></name>, <name><surname>Gratton</surname><given-names>C</given-names></name>. <article-title>Antagonistic effects of soybean viruses on soybean aphid
+performance</article-title>. <source>Environ Entomol</source>.
+<year>2007</year>;<volume>36</volume>(<issue>4</issue>):<fpage>918</fpage>&#x02013;<lpage>925</lpage>.
+<pub-id pub-id-type="doi">10.1603/0046-225x(2007)36[918:aeosvo]2.0.co;2</pub-id>
+<?supplied-pmid 17716484?><pub-id pub-id-type="pmid">17716484</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref014"><label>14</label><mixed-citation publication-type="journal"><name><surname>Khan</surname><given-names>ZR</given-names></name>, <name><surname>Saxena</surname><given-names>RC</given-names></name>. <article-title>Behavior and biology of <italic>Nephotettix
+virescens</italic> (Homoptera: Cicadellidae) on Tungro virus-infected
+rice plants: epidemiology implications</article-title>. <source>Environ
+Entomol</source>.
+<year>1985</year>;<volume>14</volume>:<fpage>297</fpage>&#x02013;<lpage>304</lpage>.
+<pub-id pub-id-type="doi">10.1093/ee/14.3.297</pub-id>.</mixed-citation></ref><ref id="ppat.1007897.ref015"><label>15</label><mixed-citation publication-type="journal"><name><surname>Mauck</surname><given-names>KE</given-names></name>, <name><surname>De Moraes</surname><given-names>CM</given-names></name>, <name><surname>Mescher</surname><given-names>MC</given-names></name>. <article-title>Deceptive chemical signals induced by a plant virus
+attract insect vectors to inferior hosts</article-title>. <source>Proc Natl
+Acad Sci U S A</source>.
+<year>2010</year>;<volume>107</volume>(<issue>8</issue>):<fpage>3600</fpage>&#x02013;<lpage>3605</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.0907191107</pub-id>
+<?supplied-pmid 20133719?><pub-id pub-id-type="pmid">20133719</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref016"><label>16</label><mixed-citation publication-type="journal"><name><surname>Wijkamp</surname><given-names>I</given-names></name>, <name><surname>Almarza</surname><given-names>N</given-names></name>, <name><surname>Goldbach</surname><given-names>R</given-names></name>, <name><surname>Peters</surname><given-names>D</given-names></name>. <article-title>Distinct levels of specificity in thrips transmission of
+tospoviruses</article-title>. <source>Phytopathology</source>.
+<year>1995</year>;<volume>85</volume>(<issue>10</issue>):<fpage>1069</fpage>&#x02013;<lpage>1074</lpage>.
+<pub-id pub-id-type="doi">10.1094/Phyto-85-1069</pub-id>.</mixed-citation></ref><ref id="ppat.1007897.ref017"><label>17</label><mixed-citation publication-type="journal"><name><surname>Rosell&#x000f3;</surname><given-names>S</given-names></name>, <name><surname>D&#x000ed;ez</surname><given-names>MJ</given-names></name>, <name><surname>Nuez</surname><given-names>F</given-names></name>. <article-title>Viral diseases causing the greatest economic losses to
+the tomato crop. I. The Tomato spotted wilt virus&#x02014;a review</article-title>.
+<source>Sci Hortic</source>.
+<year>1996</year>;<volume>67</volume>(<issue>3&#x02013;4</issue>):<fpage>117</fpage>&#x02013;<lpage>150</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0304-4238(96)00946-6</pub-id>.</mixed-citation></ref><ref id="ppat.1007897.ref018"><label>18</label><mixed-citation publication-type="journal"><name><surname>Grimstad</surname><given-names>PR</given-names></name>, <name><surname>Ross</surname><given-names>QE</given-names></name>, <name><surname>Craig</surname><given-names>GB</given-names><suffix>Jr</suffix></name>. <article-title><italic>Aedes triseriatus</italic> (Diptera: Culicidae)
+and La Crosse virus. II. Modification of mosquito feeding behavior by virus
+infection</article-title>. <source>J Med Entomol</source>.
+<year>1980</year>;<volume>17</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1093/jmedent/17.1.1</pub-id>
+<?supplied-pmid 7365753?><pub-id pub-id-type="pmid">7365753</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref019"><label>19</label><mixed-citation publication-type="journal"><name><surname>Turell</surname><given-names>MJ</given-names></name>, <name><surname>Gargan</surname><given-names>TP 2nd</given-names></name>, <name><surname>Bailey</surname><given-names>CL</given-names></name>. <article-title><italic>Culex pipiens</italic> (Diptera: Culicidae)
+morbidity and mortality associated with Rift valley fever virus
+infection</article-title>. <source>J Med Entomol</source>.
+<year>1985</year>;<volume>22</volume>(<issue>3</issue>):<fpage>332</fpage>&#x02013;<lpage>337</lpage>.
+<pub-id pub-id-type="doi">10.1093/jmedent/22.3.332</pub-id>
+<?supplied-pmid 4009630?><pub-id pub-id-type="pmid">4009630</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref020"><label>20</label><mixed-citation publication-type="journal"><name><surname>Stafford</surname><given-names>CA</given-names></name>, <name><surname>Walker</surname><given-names>GP</given-names></name>, <name><surname>Ullman</surname><given-names>DE</given-names></name>. <article-title>Infection with a plant virus modifies vector feeding
+behavior</article-title>. <source>Proc Natl Acad Sci U S A</source>.
+<year>2011</year>;<volume>108</volume>(<issue>23</issue>):<fpage>9350</fpage>&#x02013;<lpage>9355</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.1100773108</pub-id>
+<?supplied-pmid 21606372?><pub-id pub-id-type="pmid">21606372</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref021"><label>21</label><mixed-citation publication-type="journal"><name><surname>Abe</surname><given-names>H</given-names></name>, <name><surname>Shimoda</surname><given-names>T</given-names></name>, <name><surname>Ohnishi</surname><given-names>J</given-names></name>, <name><surname>Kugimiya</surname><given-names>S</given-names></name>, <name><surname>Narusaka</surname><given-names>M</given-names></name>, <name><surname>Seo</surname><given-names>S</given-names></name>, <etal>et al</etal>
+<article-title>Jasmonate-dependent plant defense
+restricts thrips performance and preference</article-title>. <source>BMC
+Plant Biol</source>. <year>2009</year>;<volume>9</volume>:<fpage>97</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2229-9-97</pub-id>
+<?supplied-pmid 19635132?><pub-id pub-id-type="pmid">19635132</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref022"><label>22</label><mixed-citation publication-type="journal"><name><surname>Leastro</surname><given-names>MO</given-names></name>, <name><surname>De Oliveira</surname><given-names>AS</given-names></name>, <name><surname>Pall&#x000e1;s</surname><given-names>V</given-names></name>, <name><surname>S&#x000e1;nchez-Navarro</surname><given-names>JA</given-names></name>, <name><surname>Kormelink</surname><given-names>R</given-names></name>, <name><surname>Resende</surname><given-names>RO</given-names></name>. <article-title>The NSm proteins of phylogenetically related
+tospoviruses trigger Sw-5b-mediated resistance dissociated of their
+cell-to-cell movement function</article-title>. <source>Virus Res</source>.
+<year>2017</year>;<volume>240</volume>:<fpage>25</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.virusres.2017.07.019</pub-id>
+<?supplied-pmid 28754561?><pub-id pub-id-type="pmid">28754561</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref023"><label>23</label><mixed-citation publication-type="journal"><name><surname>Ocampo Ocampo</surname><given-names>T</given-names></name>, <name><surname>Gabriel Peralta</surname><given-names>SM</given-names></name>, <name><surname>Bacheller</surname><given-names>N</given-names></name>, <name><surname>Uiterwaal</surname><given-names>S</given-names></name>, <name><surname>Knapp</surname><given-names>A</given-names></name>, <name><surname>Hennen</surname><given-names>A</given-names></name>, <etal>et al</etal>
+<article-title>Antiviral RNA silencing suppression
+activity of Tomato spotted wilt virus NSs protein</article-title>.
+<source>Genet Mol Res</source>.
+<year>2016</year>;<volume>15</volume>(<issue>2</issue>). <pub-id pub-id-type="doi">10.4238/gmr.15028625</pub-id>
+<?supplied-pmid 27323202?><pub-id pub-id-type="pmid">27323202</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref024"><label>24</label><mixed-citation publication-type="journal"><name><surname>Oliver</surname><given-names>JE</given-names></name>, <name><surname>Whitfield</surname><given-names>AE</given-names></name>. <article-title>The genus Tospovirus: emerging bunyaviruses that
+threaten food security</article-title>. <source>Annu Rev Virol</source>.
+<year>2016</year>;<volume>3</volume>(<issue>1</issue>):<fpage>101</fpage>&#x02013;<lpage>124</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-virology-100114-055036</pub-id>
+<?supplied-pmid 27578436?><pub-id pub-id-type="pmid">27578436</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref025"><label>25</label><mixed-citation publication-type="journal"><name><surname>Whitfield</surname><given-names>AE</given-names></name>, <name><surname>Ullman</surname><given-names>DE</given-names></name>, <name><surname>German</surname><given-names>TL</given-names></name>. <article-title>Tospovirus-thrips interactions</article-title>.
+<source>Annu Rev Phytopathol</source>.
+<year>2005</year>;<volume>43</volume>:<fpage>459</fpage>&#x02013;<lpage>489</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev.phyto.43.040204.140017</pub-id>
+<?supplied-pmid 16078892?><pub-id pub-id-type="pmid">16078892</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref026"><label>26</label><mixed-citation publication-type="journal"><name><surname>Margaria</surname><given-names>P</given-names></name>, <name><surname>Bosco</surname><given-names>L</given-names></name>, <name><surname>Vallino</surname><given-names>M</given-names></name>, <name><surname>Ciuffo</surname><given-names>M</given-names></name>, <name><surname>Mautino</surname><given-names>GC</given-names></name>, <name><surname>Tavella</surname><given-names>L</given-names></name>, <etal>et al</etal>
+<article-title>The NSs protein of tomato spotted
+wilt virus is required for persistent infection and transmission by
+Frankliniella occidentalis</article-title>. <source>J Virol</source>.
+<year>2014</year>;<volume>88</volume>(<issue>10</issue>):<fpage>5788</fpage>&#x02013;<lpage>5802</lpage>.
+<pub-id pub-id-type="doi">10.1128/JVI.00079-14</pub-id>
+<?supplied-pmid 24623427?><pub-id pub-id-type="pmid">24623427</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref027"><label>27</label><mixed-citation publication-type="journal"><name><surname>Fontana</surname><given-names>A</given-names></name>, <name><surname>Held</surname><given-names>M</given-names></name>, <name><surname>Fantaye</surname><given-names>CA</given-names></name>, <name><surname>Turlings</surname><given-names>TC</given-names></name>, <name><surname>Degenhardt</surname><given-names>J</given-names></name>, <name><surname>Gershenzon</surname><given-names>J</given-names></name>. <article-title>Attractiveness of constitutive and herbivore-induced
+sesquiterpene blends of maize to the parasitic wasp Cotesia marginiventris
+(Cresson)</article-title>. <source>J Chem Ecol</source>.
+<year>2011</year>;<volume>37</volume>(<issue>6</issue>):<fpage>582</fpage>&#x02013;<lpage>591</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10886-011-9967-7</pub-id>
+<?supplied-pmid 21607717?><pub-id pub-id-type="pmid">21607717</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref028"><label>28</label><mixed-citation publication-type="journal"><name><surname>Frost</surname><given-names>CJ</given-names></name>, <name><surname>Mescher</surname><given-names>MC</given-names></name>, <name><surname>Dervinis</surname><given-names>C</given-names></name>, <name><surname>Davis</surname><given-names>JM</given-names></name>, <name><surname>Carlson</surname><given-names>JE</given-names></name>, <name><surname>De Moraes</surname><given-names>CM</given-names></name>. <article-title>Priming defense genes and metabolites in hybrid poplar
+by the green leaf volatile cis-3-hexenyl acetate</article-title>.
+<source>New Phytol</source>.
+<year>2008</year>;<volume>180</volume>(<issue>3</issue>):<fpage>722</fpage>&#x02013;<lpage>734</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1469-8137.2008.02599.x</pub-id>
+<?supplied-pmid 18721163?><pub-id pub-id-type="pmid">18721163</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref029"><label>29</label><mixed-citation publication-type="journal"><name><surname>Erb</surname><given-names>M</given-names></name>, <name><surname>Veyrat</surname><given-names>N</given-names></name>, <name><surname>Robert</surname><given-names>CA</given-names></name>, <name><surname>Xu</surname><given-names>H</given-names></name>, <name><surname>Frey</surname><given-names>M</given-names></name>, <name><surname>Ton</surname><given-names>J</given-names></name>, <etal>et al</etal>
+<article-title>Indole is an essential
+herbivore-induced volatile priming signal in maize</article-title>.
+<source>Nat Commun</source>.
+<year>2015</year>;<volume>16</volume>(<issue>6</issue>):<fpage>62</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="doi">10.1038/ncomms7273</pub-id> pmid: 25683900</mixed-citation></ref><ref id="ppat.1007897.ref030"><label>30</label><mixed-citation publication-type="journal"><name><surname>Mauch-Mani</surname><given-names>B</given-names></name>, <name><surname>Baccelli</surname><given-names>I</given-names></name>, <name><surname>Luna</surname><given-names>E</given-names></name>, <name><surname>Flors</surname><given-names>V</given-names></name>. <article-title>Defense priming: An adaptive part of induced
+resistance</article-title>. <source>Annu Rev Plant Biol</source>.
+<year>2017</year>;<volume>68</volume>:<fpage>485</fpage>&#x02013;<lpage>512</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-arplant-042916-041132</pub-id>
+<?supplied-pmid 28226238?><pub-id pub-id-type="pmid">28226238</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref031"><label>31</label><mixed-citation publication-type="journal"><name><surname>Hegde</surname><given-names>M</given-names></name>, <name><surname>Oliveira</surname><given-names>JN</given-names></name>, <name><surname>da Costa</surname><given-names>JG</given-names></name>, <name><surname>Loza-Reyes</surname><given-names>E</given-names></name>, <name><surname>Bleicher</surname><given-names>E</given-names></name>, <name><surname>Santana</surname><given-names>AE</given-names></name>, <etal>et al</etal>
+<article-title>Aphid antixenosis in cotton is
+activated by the natural plant defence elicitor cis-jasmone</article-title>.
+<source>Phytochemistry</source>.
+<year>2012</year>;<volume>78</volume>(<issue>8</issue>):<fpage>81</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.phytochem.2012.03.004</pub-id>
+<?supplied-pmid 22516741?><pub-id pub-id-type="pmid">22516741</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref032"><label>32</label><mixed-citation publication-type="journal"><name><surname>De Moraes</surname><given-names>CM</given-names></name>, <name><surname>Mescher</surname><given-names>MC</given-names></name>, <name><surname>Tumlinson</surname><given-names>JH</given-names></name>. <article-title>Caterpillar-induced nocturnal plant volatiles repel
+conspecific females</article-title>. <source>Nature</source>.
+<year>2001</year>;<volume>410</volume>(<issue>6828</issue>):<fpage>577</fpage>&#x02013;<lpage>580</lpage>.
+<pub-id pub-id-type="doi">10.1038/35069058</pub-id>
+<?supplied-pmid 11279494?><pub-id pub-id-type="pmid">11279494</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref033"><label>33</label><mixed-citation publication-type="journal"><name><surname>Zakir</surname><given-names>A</given-names></name>, <name><surname>Sadek</surname><given-names>M.M</given-names></name>, <name><surname>Bengtsson</surname><given-names>M</given-names></name>, <name><surname>Hansson</surname><given-names>B.S</given-names></name>, <name><surname>Witzgall</surname><given-names>P</given-names></name>, <name><surname>Anderson</surname><given-names>P</given-names></name>, <etal>et al</etal>
+<article-title>Herbivore&#x02010;induced plant volatiles
+provide associa-tional resistance against an ovipositing
+herbivore</article-title>. <source>Journal of Ecology</source>.
+<year>2013</year>;<volume>101</volume>(<issue>2</issue>):<fpage>410</fpage>&#x02013;<lpage>417</lpage>.
+<pub-id pub-id-type="doi">10.1111/1365-2745.12041</pub-id>.</mixed-citation></ref><ref id="ppat.1007897.ref034"><label>34</label><mixed-citation publication-type="journal"><name><surname>S&#x000e1;nchez-Hern&#x000e1;ndez</surname><given-names>C</given-names></name>, <name><surname>L&#x000f3;pez</surname><given-names>MG</given-names></name>, <name><surname>D&#x000e9;lano-Frier</surname><given-names>JP</given-names></name>. <article-title>Reduced levels of volatile emissions in
+jasmonate&#x02010;deficient spr2 tomato mutants favour oviposition by insect
+herbivores</article-title>. <source>Plant Cell Environ</source>.
+<year>2006</year>;<volume>29</volume>(<issue>4</issue>):<fpage>546</fpage>&#x02013;<lpage>557</lpage>.
+<?supplied-pmid 17080606?><pub-id pub-id-type="pmid">17080606</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref035"><label>35</label><mixed-citation publication-type="journal"><name><surname>Huang</surname><given-names>XZ</given-names></name>, <name><surname>Xiao</surname><given-names>YT</given-names></name>, <name><surname>K&#x000f6;llner</surname><given-names>TG</given-names></name>, <name><surname>Jing</surname><given-names>WX</given-names></name>, <name><surname>Kou</surname><given-names>JF</given-names></name>, <name><surname>Chen</surname><given-names>JY</given-names></name>, <etal>et al</etal>
+<article-title>The terpene synthase gene family in
+Gossypium hirsutum harbors a linalool synthase GhTPS12 implicated in direct
+defence responses against herbivores</article-title>. <source>Plant Cell
+Environ</source>.
+<year>2018</year>;<volume>41</volume>(<issue>1</issue>):<fpage>261</fpage>&#x02013;<lpage>274</lpage>.
+<pub-id pub-id-type="doi">10.1111/pce.13088</pub-id>
+<?supplied-pmid 29044662?><pub-id pub-id-type="pmid">29044662</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref036"><label>36</label><mixed-citation publication-type="journal"><name><surname>Pieterse</surname><given-names>CM</given-names></name>, <name><surname>Van der Does</surname><given-names>D</given-names></name>, <name><surname>Zamioudis</surname><given-names>C</given-names></name>, <name><surname>Leon-Reyes</surname><given-names>A</given-names></name>, <name><surname>Van Wees</surname><given-names>SC</given-names></name>. <article-title>Hormonal modulation of plant immunity</article-title>.
+<source>Annu Rev Cell Dev Biol</source>.
+<year>2012</year>;<volume>28</volume>:<fpage>489</fpage>&#x02013;<lpage>521</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-cellbio-092910-154055</pub-id>
+<?supplied-pmid 22559264?><pub-id pub-id-type="pmid">22559264</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref037"><label>37</label><mixed-citation publication-type="journal"><name><surname>Howe</surname><given-names>GA</given-names></name>, <name><surname>Major</surname><given-names>IT</given-names></name>, <name><surname>Koo</surname><given-names>AJ</given-names></name>. <article-title>Modularity in jasmonate signaling for multistress
+resilience</article-title>. <source>Annu Rev Plant Biol</source>.
+<year>2018</year>;<volume>69</volume>:<fpage>387</fpage>&#x02013;<lpage>415</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-arplant-042817-040047</pub-id>
+<?supplied-pmid 29539269?><pub-id pub-id-type="pmid">29539269</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref038"><label>38</label><mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>R</given-names></name>, <name><surname>Weldegergis</surname><given-names>BT</given-names></name>, <name><surname>Li</surname><given-names>J</given-names></name>, <name><surname>Jung</surname><given-names>C</given-names></name>, <name><surname>Qu</surname><given-names>J</given-names></name>, <name><surname>Sun</surname><given-names>Y</given-names></name>, <etal>et al</etal>
+<article-title>Virulence factors of geminivirus
+interact with MYC2 to subvert plant resistance and promote vector
+performance</article-title>. <source>Plant Cell</source>.
+<year>2014</year>;<volume>26</volume>(<issue>12</issue>):<fpage>4991</fpage>&#x02013;<lpage>5008</lpage>.
+<pub-id pub-id-type="doi">10.1105/tpc.114.133181</pub-id>
+<?supplied-pmid 25490915?><pub-id pub-id-type="pmid">25490915</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref039"><label>39</label><mixed-citation publication-type="journal"><name><surname>Chen</surname><given-names>G</given-names></name>, <name><surname>Klinkhamer</surname><given-names>PGL</given-names></name>, <name><surname>Escobar-Bravo</surname><given-names>R</given-names></name>, <name><surname>Leiss</surname><given-names>KA</given-names></name>. <article-title>Type VI glandular trichome density and their derived
+volatiles are differently induced by jasmonic acid in developing and fully
+developed tomato leaves: Implications for thrips resistance</article-title>.
+<source>Plant Sci</source>.
+<year>2018</year>;<volume>276</volume>:<fpage>87</fpage>&#x02013;<lpage>98</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.plantsci.2018.08.007</pub-id>
+<?supplied-pmid 30348331?><pub-id pub-id-type="pmid">30348331</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref040"><label>40</label><mixed-citation publication-type="journal"><name><surname>Abe</surname><given-names>H</given-names></name>, <name><surname>Tomitaka</surname><given-names>Y</given-names></name>, <name><surname>Shimoda</surname><given-names>T</given-names></name>, <name><surname>Seo</surname><given-names>S</given-names></name>, <name><surname>Sakurai</surname><given-names>T</given-names></name>, <name><surname>Kugimiya</surname><given-names>S</given-names></name>, <etal>et al</etal>
+<article-title>Antagonistic plant defense system
+regulated by phytohormones assists interactions among vector insect, thrips
+and a tospovirus</article-title>. <source>Plant Cell Physiol</source>.
+<year>2011</year>;<volume>53</volume>(<issue>1</issue>):<fpage>204</fpage>&#x02013;<lpage>212</lpage>.
+<pub-id pub-id-type="doi">10.1093/pcp/pcr173</pub-id>
+<?supplied-pmid 22180600?><pub-id pub-id-type="pmid">22180600</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref041"><label>41</label><mixed-citation publication-type="journal"><name><surname>Fereres</surname><given-names>A</given-names></name>, <name><surname>Pe&#x000f1;aflor</surname><given-names>MF</given-names></name>, <name><surname>Favaro</surname><given-names>CF</given-names></name>, <name><surname>Azevedo</surname><given-names>KE</given-names></name>, <name><surname>Landi</surname><given-names>CH</given-names></name>, <name><surname>Maluta</surname><given-names>NK</given-names></name>, <etal>et al</etal>
+<article-title>Tomato infection by
+whitefly-transmitted circulative and non-circulative viruses induce
+contrasting changes in plant volatiles and vector behaviour</article-title>.
+<source>Viruses</source>. <year>2016</year>;
+<volume>8</volume>(<issue>8</issue>):<fpage>225</fpage>&#x02013;<lpage>240</lpage>.
+<pub-id pub-id-type="doi">10.3390/v8080225</pub-id>
+<?supplied-pmid 27529271?><pub-id pub-id-type="pmid">27529271</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref042"><label>42</label><mixed-citation publication-type="journal"><name><surname>Kessler</surname><given-names>A</given-names></name>, <name><surname>Baldwin</surname><given-names>IT</given-names></name>, <article-title>Defensive function of herbivore-induced plant volatile
+emissions in nature</article-title>. <source>Science</source>.
+<year>2001</year>;<volume>291</volume>(<issue>5511</issue>):<fpage>2141</fpage>&#x02013;<lpage>2144</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.291.5511.2141</pub-id>
+<?supplied-pmid 11251117?><pub-id pub-id-type="pmid">11251117</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref043"><label>43</label><mixed-citation publication-type="journal"><name><surname>Thomas</surname><given-names>CL</given-names></name>, <name><surname>Jones</surname><given-names>L</given-names></name>, <name><surname>Baulcombe</surname><given-names>DC</given-names></name>, <name><surname>Maule</surname><given-names>AJ</given-names></name>. <article-title>Size constraints for targeting post-transcriptional gene
+silencing and for RNA-directed methylation in Nicotiana benthamiana using a
+potato virus X vector</article-title>. <source>Plant J</source>.
+<year>2001</year>;<volume>25</volume>(<issue>4</issue>):<fpage>417</fpage>&#x02013;<lpage>425</lpage>.
+<?supplied-pmid 11260498?><pub-id pub-id-type="pmid">11260498</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref044"><label>44</label><mixed-citation publication-type="journal"><name><surname>Kazan</surname><given-names>K</given-names></name>, <name><surname>Manners</surname><given-names>JM</given-names></name>. <article-title>MYC2: the master in action</article-title>. <source>Mol
+Plant</source>. <year>2013</year>;
+<volume>6</volume>(<issue>3</issue>):<fpage>686</fpage>&#x02013;<lpage>703</lpage>.
+<pub-id pub-id-type="doi">10.1093/mp/sss128</pub-id>
+<?supplied-pmid 23142764?><pub-id pub-id-type="pmid">23142764</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref045"><label>45</label><mixed-citation publication-type="journal"><name><surname>Hong</surname><given-names>GJ</given-names></name>, <name><surname>Xue</surname><given-names>XY</given-names></name>, <name><surname>Mao</surname><given-names>YB</given-names></name>, <name><surname>Wang</surname><given-names>LJ</given-names></name>, <name><surname>Chen</surname><given-names>XY</given-names></name>. <article-title>Arabidopsis MYC2 interacts with DELLA proteins in
+regulating sesquiterpene synthase gene expression</article-title>.
+<source>Plant Cell</source>.
+<year>2012</year>;<volume>24</volume>(<issue>6</issue>):<fpage>2635</fpage>&#x02013;<lpage>2648</lpage>.
+<pub-id pub-id-type="doi">10.1105/tpc.112.098749</pub-id>
+<?supplied-pmid 22669881?><pub-id pub-id-type="pmid">22669881</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref046"><label>46</label><mixed-citation publication-type="journal"><name><surname>Wasternack</surname><given-names>C</given-names></name>, <name><surname>Hause</surname><given-names>B</given-names></name>. <article-title>Jasmonates: biosynthesis, perception, signal
+transduction and action in plant stress response, growth and development. An
+update to the 2007 review in Annals of Botany</article-title>. <source>Ann
+Bot</source>.
+<year>2013</year>;<volume>111</volume>(<issue>6</issue>):<fpage>1021</fpage>&#x02013;<lpage>1058</lpage>.
+<pub-id pub-id-type="doi">10.1093/aob/mct067</pub-id>
+<?supplied-pmid 23558912?><pub-id pub-id-type="pmid">23558912</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref047"><label>47</label><mixed-citation publication-type="journal"><name><surname>Gao</surname><given-names>C</given-names></name>, <name><surname>Qi</surname><given-names>S</given-names></name>, <name><surname>Liu</surname><given-names>K</given-names></name>, <name><surname>Li</surname><given-names>D</given-names></name>, <name><surname>Jin</surname><given-names>C</given-names></name>, <name><surname>Li</surname><given-names>Z</given-names></name>, <etal>et al</etal>
+<article-title>MYC2, MYC3, and MYC4 function
+redundantly in seed storage protein accumulation in
+Arabidopsis</article-title>. <source>Plant Physiol Biochem</source>.
+<year>2016</year>;<volume>108</volume>:<fpage>63</fpage>&#x02013;<lpage>70</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.plaphy.2016.07.004</pub-id>
+<?supplied-pmid 27415132?><pub-id pub-id-type="pmid">27415132</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref048"><label>48</label><mixed-citation publication-type="journal"><name><surname>B&#x000f6;hlmann</surname><given-names>J</given-names></name>, <name><surname>Martin</surname><given-names>D</given-names></name>, <name><surname>Oldham</surname><given-names>NJ</given-names></name>, <name><surname>Gershenzon</surname><given-names>J</given-names></name>. <article-title>Terpenoid secondary metabolism in Arabidopsis thaliana:
+cDNA cloning, characterization, and functional expression of a
+myrcene/(E)-&#x003b2;-ocimene synthase</article-title>. <source>Arch Biochem
+Biophys</source>. <year>2000</year>;
+<volume>375</volume>(<issue>2</issue>):<fpage>261</fpage>&#x02013;<lpage>269</lpage>.
+<pub-id pub-id-type="doi">10.1006/abbi.1999.1669</pub-id>
+<?supplied-pmid 10700382?><pub-id pub-id-type="pmid">10700382</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref049"><label>49</label><mixed-citation publication-type="journal"><name><surname>Hedil</surname><given-names>M</given-names></name>, <name><surname>Sterken</surname><given-names>MG</given-names></name>, <name><surname>de Ronde</surname><given-names>D</given-names></name>, <name><surname>Lohuis</surname><given-names>D</given-names></name>, <name><surname>Kormelink</surname><given-names>R</given-names></name>. <article-title>Analysis of tospovirus NSs proteins in suppression of
+systemic silencing</article-title>. <source>PLoS One</source>.
+<year>2015</year>;
+<volume>10</volume>(<issue>8</issue>):<fpage>e0134517</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0134517</pub-id>
+<?supplied-pmid 26275304?><pub-id pub-id-type="pmid">26275304</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref050"><label>50</label><mixed-citation publication-type="journal"><name><surname>Niu</surname><given-names>Y</given-names></name>, <name><surname>Wang</surname><given-names>D</given-names></name>, <name><surname>Cui</surname><given-names>L</given-names></name>, <name><surname>Wang</surname><given-names>B</given-names></name>, <name><surname>Pang</surname><given-names>X</given-names></name>, <name><surname>Yu</surname><given-names>P</given-names></name>. <article-title>Monoclonal antibody-based colloid gold
+immunochromatographic strip for the rapid detection of Tomato zonate spot
+tospovirus</article-title>. <source>Virol J</source>.
+<year>2018</year>;<volume>15</volume>(<issue>1</issue>):<fpage>15</fpage>
+<pub-id pub-id-type="doi">10.1186/s12985-018-0919-5</pub-id>
+<?supplied-pmid 29347937?><pub-id pub-id-type="pmid">29347937</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref051"><label>51</label><mixed-citation publication-type="journal"><name><surname>Turina</surname><given-names>M</given-names></name>, <name><surname>Kormelink</surname><given-names>R</given-names></name>, <name><surname>Resende</surname><given-names>RO</given-names></name>. <article-title>Resistance to Tospoviruses in vegetable crops:
+epidemiological and molecular aspects</article-title>. <source>Annu Rev
+Phytopathol</source>. <year>2016</year>;
+<volume>54</volume>(<issue>1</issue>):<fpage>347</fpage>&#x02013;<lpage>371</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-phyto-080615-095843</pub-id>
+<?supplied-pmid 27296139?><pub-id pub-id-type="pmid">27296139</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref052"><label>52</label><mixed-citation publication-type="journal"><name><surname>Boachon</surname><given-names>B</given-names></name>, <name><surname>Junker</surname><given-names>RR</given-names></name>, <name><surname>Miesch</surname><given-names>L</given-names></name>, <name><surname>Bassard</surname><given-names>JE</given-names></name>, <name><surname>H&#x000f6;fer</surname><given-names>R</given-names></name>, <name><surname>Caillieaudeaux</surname><given-names>R</given-names></name>, <etal>et al</etal>
+<article-title>CYP76C1(cytochrome P450)&#x02010;mediated
+linalool metabolism and the formation of volatile and soluble linalool
+oxides in Arabidopsis flowers: A strategy for defense against floral
+antagonists</article-title>. <source>Plant Cell</source>,
+<year>2015</year>;<volume>27</volume>(<issue>10</issue>):<fpage>2972</fpage>&#x02013;<lpage>2990</lpage>.
+<pub-id pub-id-type="doi">10.1105/tpc.15.00399</pub-id>
+<?supplied-pmid 26475865?><pub-id pub-id-type="pmid">26475865</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref053"><label>53</label><mixed-citation publication-type="journal"><name><surname>Yang</surname><given-names>T</given-names></name>, <name><surname>Stoopen</surname><given-names>G</given-names></name>, <name><surname>Thoen</surname><given-names>M</given-names></name>, <name><surname>Wiegers</surname><given-names>G</given-names></name>, <name><surname>Jongsma</surname><given-names>MA</given-names></name>. <article-title>Chrysanthemum expressing a linalool synthase gene
+'smells good', but 'tastes bad' to western flower thrips</article-title>.
+<source>Plant Biotechnol J</source>.
+<year>2013</year>;<volume>11</volume>(<issue>7</issue>):<fpage>875</fpage>&#x02013;<lpage>882</lpage>.
+<pub-id pub-id-type="doi">10.1111/pbi.12080</pub-id>
+<?supplied-pmid 23745691?><pub-id pub-id-type="pmid">23745691</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref054"><label>54</label><mixed-citation publication-type="journal"><name><surname>De</surname><given-names>RD</given-names></name>, <name><surname>Butterbach</surname><given-names>P</given-names></name>, <name><surname>Lohuis</surname><given-names>D</given-names></name>, <name><surname>Hedil</surname><given-names>M</given-names></name>, <name><surname>van Lent</surname><given-names>JW</given-names></name>, <name><surname>Kormelink</surname><given-names>R</given-names></name>. <article-title>Tsw gene-based resistance is triggered by a functional
+RNA silencing suppressor protein of the Tomato spotted wilt
+virus</article-title>. <source>Mol Plant Pathol</source>.
+<year>2013</year>;<volume>14</volume>(<issue>4</issue>):<fpage>405</fpage>&#x02013;<lpage>415</lpage>.
+<pub-id pub-id-type="doi">10.1111/mpp.12016</pub-id>
+<?supplied-pmid 23360130?><pub-id pub-id-type="pmid">23360130</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref055"><label>55</label><mixed-citation publication-type="journal"><name><surname>We&#x000df;ling</surname><given-names>R</given-names></name>, <name><surname>Epple</surname><given-names>P</given-names></name>, <name><surname>Altmann</surname><given-names>S</given-names></name>, <name><surname>He</surname><given-names>Y</given-names></name>, <name><surname>Yang</surname><given-names>L</given-names></name>, <name><surname>Henz</surname><given-names>SR</given-names></name>, <etal>et al</etal>
+<article-title>Convergent targeting of a common
+host protein-network by pathogen effectors from three kingdoms of
+life</article-title>. <source>Cell Host Microbe</source>.
+<year>2014</year>;<volume>16</volume>(<issue>3</issue>):<fpage>364</fpage>&#x02013;<lpage>375</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.chom.2014.08.004</pub-id>
+<?supplied-pmid 25211078?><pub-id pub-id-type="pmid">25211078</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref056"><label>56</label><mixed-citation publication-type="journal"><name><surname>Abe</surname><given-names>H</given-names></name>, <name><surname>Ohnishi</surname><given-names>J</given-names></name>, <name><surname>Narusaka</surname><given-names>M</given-names></name>, <name><surname>Seo</surname><given-names>S</given-names></name>, <name><surname>Narusaka</surname><given-names>Y</given-names></name>, <name><surname>Tsuda</surname><given-names>S</given-names></name>, <etal>et al</etal>
+<article-title>Function of jasmonate in response
+and tolerance of Arabidopsis to thrip feeding</article-title>. <source>Plant
+Cell Physiol</source>.
+<year>2008</year>;<volume>49</volume>(<issue>1</issue>):<fpage>68</fpage>&#x02013;<lpage>80</lpage>.
+<pub-id pub-id-type="doi">10.1093/pcp/pcm168</pub-id>
+<?supplied-pmid 18045812?><pub-id pub-id-type="pmid">18045812</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref057"><label>57</label><mixed-citation publication-type="journal"><name><surname>Pineda</surname><given-names>A</given-names></name>, <name><surname>Soler</surname><given-names>R</given-names></name>, <name><surname>Weldegergis</surname><given-names>BT</given-names></name>, <name><surname>Shimwela</surname><given-names>MM</given-names></name>, <name><surname>Van Loon</surname><given-names>JJ</given-names></name>, <name><surname>Dicke</surname><given-names>M</given-names></name>. <article-title>Non-pathogenic rhizobacteria interfere with the
+attraction of parasitoids to aphid-induced plant volatiles via jasmonic acid
+signalling</article-title>. <source>Plant Cell Environ</source>.
+<year>2013</year>;
+<volume>36</volume>(<issue>2</issue>):<fpage>393</fpage>&#x02013;<lpage>404</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-3040.2012.02581.x</pub-id>
+<?supplied-pmid 22812443?><pub-id pub-id-type="pmid">22812443</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref058"><label>58</label><mixed-citation publication-type="journal"><name><surname>Wu</surname><given-names>D</given-names></name>, <name><surname>Qi</surname><given-names>T</given-names></name>, <name><surname>Li</surname><given-names>WX</given-names></name>, <name><surname>Tian</surname><given-names>H</given-names></name>, <name><surname>Gao</surname><given-names>H</given-names></name>, <name><surname>Wang</surname><given-names>J</given-names></name>, <etal>et al</etal>
+<article-title>Viral effector protein manipulates
+host hormone signaling to attract insect vectors</article-title>.
+<source>Cell Res</source>. <year>2017</year>;
+<volume>27</volume>(<issue>3</issue>):<fpage>402</fpage>&#x02013;<lpage>415</lpage>.
+<pub-id pub-id-type="doi">10.1038/cr.2017.2</pub-id>
+<?supplied-pmid 28059067?><pub-id pub-id-type="pmid">28059067</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref059"><label>59</label><mixed-citation publication-type="journal"><name><surname>Alonzo</surname><given-names>F 3rd</given-names></name>, <name><surname>Kozhaya</surname><given-names>L</given-names></name>, <name><surname>Rawlings</surname><given-names>SA</given-names></name>, <name><surname>Reyes-Robles</surname><given-names>T</given-names></name>, <name><surname>DuMont</surname><given-names>AL</given-names></name>, <name><surname>Myszka</surname><given-names>DG</given-names></name>, <etal>et al</etal>
+<article-title>CCR5 is a receptor for
+Staphylococcus aureus leukotoxin ED</article-title>.
+<source>Nature</source>.
+<year>2013</year>;<volume>493</volume>(<issue>7430</issue>):<fpage>51</fpage>&#x02013;<lpage>55</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature11724</pub-id>
+<?supplied-pmid 23235831?><pub-id pub-id-type="pmid">23235831</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref060"><label>60</label><mixed-citation publication-type="journal"><name><surname>Deng</surname><given-names>H</given-names></name>, <name><surname>Liu</surname><given-names>R</given-names></name>, <name><surname>Ellmeier</surname><given-names>W</given-names></name>, <name><surname>Choe</surname><given-names>S</given-names></name>, <name><surname>Unutmaz</surname><given-names>D</given-names></name>, <name><surname>Burkhart</surname><given-names>M</given-names></name>, <etal>et al</etal>
+<article-title>Identification of a major
+co-receptor for primary isolates of HIV-1</article-title>.
+<source>Nature</source>.
+<year>1996</year>;<volume>381</volume>(<issue>6584</issue>):<fpage>661</fpage>&#x02013;<lpage>666</lpage>.
+<pub-id pub-id-type="doi">10.1038/381661a0</pub-id>
+<?supplied-pmid 8649511?><pub-id pub-id-type="pmid">8649511</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref061"><label>61</label><mixed-citation publication-type="journal"><name><surname>Golding</surname><given-names>H</given-names></name>, <name><surname>Aliberti</surname><given-names>J</given-names></name>, <name><surname>King</surname><given-names>LR</given-names></name>, <name><surname>Manischewitz</surname><given-names>J</given-names></name>, <name><surname>Andersen</surname><given-names>J</given-names></name>, <name><surname>Valenzuela</surname><given-names>J</given-names></name>, <etal>et al</etal>
+<article-title>Inhibition of HIV-1 infection by a
+CCR5-binding cyclophilin from Toxoplasma gondii</article-title>.
+<source>Blood</source>.
+<year>2003</year>;<volume>102</volume>(<issue>9</issue>):<fpage>3280</fpage>&#x02013;<lpage>3286</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2003-04-1096</pub-id>
+<?supplied-pmid 12855560?><pub-id pub-id-type="pmid">12855560</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref062"><label>62</label><mixed-citation publication-type="journal"><name><surname>Aliberti</surname><given-names>J</given-names></name>, <name><surname>Valenzuela</surname><given-names>JG</given-names></name>, <name><surname>Carruthers</surname><given-names>VB</given-names></name>, <name><surname>Hieny</surname><given-names>S</given-names></name>, <name><surname>Andersen</surname><given-names>J</given-names></name>, <name><surname>Charest</surname><given-names>H</given-names></name>, <etal>et al</etal>
+<article-title>Molecular mimicry of a CCR5
+binding-domain in the microbial activation of dendritic
+cells</article-title>. <source>Nat Immunol</source>.
+<year>2003</year>;<volume>4</volume>(<issue>5</issue>):<fpage>485</fpage>&#x02013;<lpage>490</lpage>.
+<pub-id pub-id-type="doi">10.1038/ni915</pub-id>
+<?supplied-pmid 12665855?><pub-id pub-id-type="pmid">12665855</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref063"><label>63</label><mixed-citation publication-type="journal"><name><surname>Lalani</surname><given-names>AS</given-names></name>, <name><surname>Masters</surname><given-names>J</given-names></name>, <name><surname>Zeng</surname><given-names>W</given-names></name>, <name><surname>Barrett</surname><given-names>J</given-names></name>, <name><surname>Pannu</surname><given-names>R</given-names></name>, <name><surname>Everett</surname><given-names>H</given-names></name>, <etal>et al</etal>
+<article-title>Use of chemokine receptors by
+poxviruses</article-title>. <source>Science</source>.
+<year>1999</year>;<volume>286</volume>(<issue>5446</issue>):<fpage>1968</fpage>&#x02013;<lpage>1971</lpage>.
+<?supplied-pmid 10583963?><pub-id pub-id-type="pmid">10583963</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref064"><label>64</label><mixed-citation publication-type="journal"><name><surname>Yang</surname><given-names>J</given-names></name>, <name><surname>Iwasaki</surname><given-names>M, C</given-names></name>, <name><surname>Machida</surname><given-names>Y</given-names></name>, <name><surname>Zhou</surname><given-names>X</given-names></name>, <name><surname>Chua</surname><given-names>N</given-names></name>. <article-title>&#x003b2;C1, the pathogenicity factor of TYLCCNV, interacts with
+AS1 to alter leaf development and suppress selective jasmonic acid
+responses</article-title>. <source>Genes Dev</source>.
+<year>2008</year>;<volume>22</volume>(<issue>18</issue>):<fpage>2564</fpage>&#x02013;<lpage>2577</lpage>.
+<pub-id pub-id-type="doi">10.1101/gad.1682208</pub-id>
+<?supplied-pmid 18794352?><pub-id pub-id-type="pmid">18794352</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref065"><label>65</label><mixed-citation publication-type="journal"><name><surname>Murai</surname><given-names>T</given-names></name>, <name><surname>Loomans</surname><given-names>AJ</given-names></name>. <article-title>Evaluation of an improved method for mass-rearing of
+thrips and a thrips parasitoid</article-title>. <source>Entomol Exp
+Appl</source>.
+<year>2001</year>;<volume>101</volume>(<issue>3</issue>):<fpage>281</fpage>&#x02013;<lpage>289</lpage>.
+<pub-id pub-id-type="doi">10.1023/A:1019252708938</pub-id>.</mixed-citation></ref><ref id="ppat.1007897.ref066"><label>66</label><mixed-citation publication-type="journal"><name><surname>Mandal</surname><given-names>B</given-names></name>, <name><surname>Csinos</surname><given-names>AS</given-names></name>, <name><surname>Martinezochoa</surname><given-names>N</given-names></name>, <name><surname>Pappu</surname><given-names>HR</given-names></name>. <article-title>A rapid and efficient inoculation method for Tomato
+spotted wilt tospovirus</article-title>. <source>J Virol Methods</source>.
+<year>2008</year>;
+<volume>149</volume>(<issue>1</issue>):<fpage>195</fpage>&#x02013;<lpage>198</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jviromet.2007.12.007</pub-id>
+<?supplied-pmid 18272238?><pub-id pub-id-type="pmid">18272238</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref067"><label>67</label><mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>R</given-names></name>, <name><surname>Afsheen</surname><given-names>S</given-names></name>, <name><surname>Xin</surname><given-names>Z</given-names></name>, <name><surname>Han</surname><given-names>X</given-names></name>, <name><surname>Lou</surname><given-names>Y</given-names></name>. <article-title>OsNPR1 negatively regulates herbivore-induced JA and
+ethylene signaling and plant resistance to a chewing herbivore in
+rice</article-title>. <source>Physiol Plant</source>.
+<year>2013</year>;<volume>147</volume>(<issue>3</issue>):<fpage>340</fpage>&#x02013;<lpage>351</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1399-3054.2012.01666.x</pub-id>
+<?supplied-pmid 22694163?><pub-id pub-id-type="pmid">22694163</pub-id></mixed-citation></ref><ref id="ppat.1007897.ref068"><label>68</label><mixed-citation publication-type="journal"><name><surname>Martin</surname><given-names>K</given-names></name>, <name><surname>Kopperud</surname><given-names>K</given-names></name>, <name><surname>Chakrabarty</surname><given-names>R</given-names></name>, <name><surname>Banerjee</surname><given-names>R</given-names></name>, <name><surname>Brooks</surname><given-names>R</given-names></name>, <name><surname>Goodin</surname><given-names>MM</given-names></name>. <article-title>Transient expression in Nicotiana benthamiana
+fluorescent marker lines provides enhanced definition of protein
+localization, movement and interactions in planta</article-title>.
+<source>Plant J</source>.
+<year>2009</year>;<volume>59</volume>(<issue>1</issue>):<fpage>150</fpage>&#x02013;<lpage>162</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-313X.2009.03850.x</pub-id>
+<?supplied-pmid 19309457?><pub-id pub-id-type="pmid">19309457</pub-id></mixed-citation></ref></ref-list></back></article>

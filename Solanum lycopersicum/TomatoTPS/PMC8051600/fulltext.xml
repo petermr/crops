@@ -1,0 +1,1330 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Biotechnol J</journal-id><journal-id journal-id-type="iso-abbrev">Plant Biotechnol J</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1467-7652</journal-id><journal-id journal-id-type="publisher-id">PBI</journal-id><journal-title-group><journal-title>Plant Biotechnology Journal</journal-title></journal-title-group><issn pub-type="ppub">1467-7644</issn><issn pub-type="epub">1467-7652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8051600</article-id><article-id pub-id-type="pmid">33098334</article-id><article-id pub-id-type="doi">10.1111/pbi.13498</article-id><article-id pub-id-type="publisher-id">PBI13498</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>A chromosome&#x02010;level genome assembly provides insights into ascorbic acid accumulation and fruit softening in guava (<italic>Psidium guajava</italic>)</article-title><alt-title alt-title-type="right-running-head">Guava (<italic>Psidium guajava</italic>) genome</alt-title><alt-title alt-title-type="left-running-head">Chen Feng <italic>et al</italic>.</alt-title></title-group><contrib-group><contrib id="pbi13498-cr-0001" contrib-type="author"><name><surname>Feng</surname><given-names>Chen</given-names></name><xref ref-type="aff" rid="pbi13498-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi13498-cr-0002" contrib-type="author"><name><surname>Feng</surname><given-names>Chao</given-names></name><xref ref-type="aff" rid="pbi13498-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pbi13498-cr-0003" contrib-type="author"><name><surname>Lin</surname><given-names>Xinggu</given-names></name><xref ref-type="aff" rid="pbi13498-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi13498-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="pbi13498-cr-0004" contrib-type="author"><name><surname>Liu</surname><given-names>Shenghui</given-names></name><xref ref-type="aff" rid="pbi13498-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="pbi13498-cr-0005" contrib-type="author" corresp="yes"><name><surname>Li</surname><given-names>Yingzhi</given-names></name><xref ref-type="aff" rid="pbi13498-aff-0004">
+<sup>4</sup>
+</xref><address><email>liyz@gdou.edu.cn</email></address></contrib><contrib id="pbi13498-cr-0006" contrib-type="author" corresp="yes"><name><surname>Kang</surname><given-names>Ming</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4326-7210</contrib-id><xref ref-type="aff" rid="pbi13498-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pbi13498-aff-0005">
+<sup>5</sup>
+</xref><address><email>mingkang@scbg.ac.cn</email></address></contrib></contrib-group><aff id="pbi13498-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Plant Resources Conservation and Sustainable Utilization</named-content>
+<named-content content-type="organisation-division">South China Botanical Garden</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="pbi13498-aff-0002">
+<label><sup>2</sup></label>
+<institution>University of Chinese Academy of Sciences</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="pbi13498-aff-0003">
+<label><sup>3</sup></label>
+<institution>South Subtropical Crops Research Institute</institution>
+<institution>Chinese Academy of Tropical Agriculture Sciences</institution>
+<city>Zhanjiang</city>
+<country country="CN">China</country>
+</aff><aff id="pbi13498-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Horticulture and Forestry Department</named-content>
+<institution>Guangdong Ocean University</institution>
+<city>Zhanjiang</city>
+<country country="CN">China</country>
+</aff><aff id="pbi13498-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Innovation Academy of South China Sea Ecology and Environmental Engineering</named-content>
+<institution>Chinese Academy of Sciences</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence</italic> (Tel 86&#x02010;20&#x02010;3708&#x02010;8127; fax 86&#x02010;20&#x02010;3708&#x02010;8127; emails <email>liyz@gdou.edu.cn</email> (YL); <email>mingkang@scbg.ac.cn</email> (MK))<break/></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>11</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2021</year></pub-date><volume>19</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/pbi.v19.4</issue-id><fpage>717</fpage><lpage>730</lpage><history><date date-type="rev-recd"><day>14</day><month>10</month><year>2020</year></date><date date-type="received"><day>24</day><month>6</month><year>2020</year></date><date date-type="accepted"><day>19</day><month>10</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 Society for Experimental Biology, Association of Applied Biologists and John Wiley & Sons Ltd<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Plant Biotechnology Journal</italic> published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley &#x00026; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:PBI-19-717.pdf"/><abstract id="pbi13498-abs-0001"><title>Summary</title><p>Guava (<italic>Psidium guajava</italic>) is an important fleshy&#x02010;fruited tree of the Myrtaceae family that is widely cultivated in tropical and subtropical areas of the world and has attracted considerable attention for the richness of ascorbic acid in its fruits. However, studies on the evolution and genetic breeding potential of guava are hindered by the lack of a reference genome. Here, we present a chromosome&#x02010;level genomic assembly of guava using PacBio sequencing and Hi&#x02010;C technology. We found that the genome assembly size was 443.8&#x000a0;Mb with a contig N50 of ~15.8&#x000a0;Mb. We annotated a total of 25&#x000a0;601 genes and 193.2&#x000a0;Mb of repetitive sequences for this genome. Comparative genomic analysis revealed that guava has undergone a recent whole&#x02010;genome duplication (WGD) event shared by all species in Myrtaceae. In addition, through metabolic analysis, we determined that the L&#x02010;galactose pathway plays a major role in ascorbic acid biosynthesis in guava fruits. Moreover, the softening of fruits of guava may result from both starch and cell wall degradation according to analyses of gene expression profiles and positively selected genes. Our data provide a foundational resource to support molecular breeding of guava and represent new insights into the evolution of soft, fleshy fruits in Myrtaceae.</p></abstract><kwd-group><kwd id="pbi13498-kwd-0001">Myrtaceae</kwd><kwd id="pbi13498-kwd-0002">ascorbic acid</kwd><kwd id="pbi13498-kwd-0003">starch degradation</kwd><kwd id="pbi13498-kwd-0004">fleshy fruit</kwd><kwd id="pbi13498-kwd-0005">PacBio sequencing</kwd><kwd id="pbi13498-kwd-0006">Hi&#x02010;C</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Institution of South China Sea Ecology and Environmental Engineering, Chinese Academy of Sciences</funding-source><award-id>ISEE 2020YB02</award-id></award-group><award-group id="funding-0002"><funding-source>Projects of Enhancing School with Innovation of Guangdong Ocean University</funding-source><award-id>GDOU2013050217</award-id><award-id>GDOU2016050256</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="14"/><word-count count="11962"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.2 mode:remove_FC converted:16.04.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="pbi13498-cit-1001">
+<string-name>
+<surname>Feng</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>and <string-name>
+<surname>Kang</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>) <article-title>A chromosome&#x02010;level genome assembly provides insights into ascorbic acid accumulation and fruit softening in guava (<italic>Psidium guajava</italic>)</article-title>. <source xml:lang="en">Plant Biotechnol J</source>, <pub-id pub-id-type="doi">10.1111/pbi.13498</pub-id>
+</mixed-citation>
+</p></notes></front><body id="pbi13498-body-0001"><sec id="pbi13498-sec-0001"><title>Introduction</title><p>Guava, <italic>Psidium guajava</italic>, is among the many economically important plant species in the plant family Myrtaceae, which also includes eucalyptus (<italic>Eucalyptus grandis</italic>), wax apple (<italic>Syzygium samarangense</italic>) and rose myrtle (<italic>Rhodomyrtus tomentosa</italic>; Grattapaglia <italic>et al</italic>., <xref rid="pbi13498-bib-0042" ref-type="ref">2012</xref>; Wilson <italic>et al</italic>., <xref rid="pbi13498-bib-0109" ref-type="ref">2004</xref>). <italic>Psidium guajava</italic> was described by Linnaeus in 1753 based on collections from Asia, but many botanists consider the species to be native to tropical America, probably occurring naturally from southern Mexico to South America, with subsequent introductions to many other tropical and subtropical regions throughout the world over the past 400&#x000a0;years (Cobley, <xref rid="pbi13498-bib-0025" ref-type="ref">1976</xref>; Morton, <xref rid="pbi13498-bib-0073" ref-type="ref">1987</xref>; Samson, <xref rid="pbi13498-bib-0087" ref-type="ref">1986</xref>). Guava has been designated as 'the apple of the tropics' or 'poor man's fruit' because it thrives on a variety of soils, propagates easily and bears fruit relatively quickly (Nakasone and Paull, <xref rid="pbi13498-bib-0075" ref-type="ref">1998</xref>; Singh, <xref rid="pbi13498-bib-0092" ref-type="ref">2007</xref>). Among ~3500 fleshy&#x02010;fruited plants in Myrtaceae (Biffin <italic>et al</italic>., <xref rid="pbi13498-bib-0009" ref-type="ref">2010</xref>), the fruit of guava is the only commercially significant one. Its commercial success may largely result from the facts that it is cheap to grow and purchase and is an extremely rich source of ascorbic acid (i.e. vitamin C) and dietary fibres, as well as a good source for vitamins A and B<sub>2</sub> and various other minerals (Gutierrez <italic>et al</italic>., <xref rid="pbi13498-bib-0046" ref-type="ref">2008</xref>; Rahman <italic>et al</italic>., <xref rid="pbi13498-bib-0085" ref-type="ref">2003</xref>). The fruit is also reported to possess many pharmacological properties (Gutierrez <italic>et al</italic>., <xref rid="pbi13498-bib-0046" ref-type="ref">2008</xref>). Guava is consumed as fresh or dried fruits, jam, and antioxidant additives and is important in local markets and as an international commodity in over 60 tropical and subtropical countries (CABI, <xref rid="pbi13498-bib-0017" ref-type="ref">2019</xref>). Guava is most widely produced in Central and South America (Brazil, Mexico), India, and Thailand, and has steadily increasing production in the Caribbean, Hawaii and Florida (USA), and South Africa (CABI, <xref rid="pbi13498-bib-0017" ref-type="ref">2019</xref>). According to Food and Agriculture Organization (FAO) of the United Nations, the average annual production of guava is ca. 6.8 million tons since 2017 (FAO, <xref rid="pbi13498-bib-0037" ref-type="ref">2018</xref>).</p><p>Ascorbic acid is essential for human health because it is required for immune system function (Sorice <italic>et al</italic>., <xref rid="pbi13498-bib-0096" ref-type="ref">2014</xref>) and many physiological processes such as repair of connective tissues, collagen synthesis and producing neurotransmitters (reviewed in Grosso <italic>et al</italic>., <xref rid="pbi13498-bib-0043" ref-type="ref">2013</xref>). Ascorbic acid can be metabolized by most mammals except humans due to the mutation of the <italic>L&#x02010;gulono&#x02010;galactone oxidase</italic> (<italic>GLO</italic>) gene that occurred ~61 million years ago (Drouin <italic>et al</italic>., <xref rid="pbi13498-bib-0033" ref-type="ref">2011</xref>). Therefore, dietary ascorbate is an indispensable nutrient for humans. Due to human needs for dietary sources of ascorbic acid, considerable efforts have been made to boost the accumulation of ascorbic acid in plants using genes encoding enzymes in biosynthesis and regenerating pathways (reviewed in Macknight <italic>et al</italic>., <xref rid="pbi13498-bib-0069" ref-type="ref">2017</xref>). Four <italic>de novo</italic> biosynthesis pathways of ascorbic acid in plants have been proposed: the L&#x02010;galactose, L&#x02010;gulose, <italic>myo</italic>&#x02010;inositol and D&#x02010;galacturonate pathways (Broad <italic>et al</italic>., <xref rid="pbi13498-bib-0014" ref-type="ref">2020</xref>; Ishikawa <italic>et al</italic>., <xref rid="pbi13498-bib-0051" ref-type="ref">2018</xref>; Yoshimura and Ishikawa, <xref rid="pbi13498-bib-0112" ref-type="ref">2017</xref>). Notably, guava fruits produce sixfold more ascorbic acid than strawberry and fivefold more than kiwifruit or orange (Davey <italic>et al</italic>., <xref rid="pbi13498-bib-0029" ref-type="ref">2000</xref>; Gutierrez <italic>et al</italic>., <xref rid="pbi13498-bib-0046" ref-type="ref">2008</xref>; Kumrawat, <xref rid="pbi13498-bib-0060" ref-type="ref">2018</xref>), and the extracts from guava fruits and leaves are potential sources of many other natural antioxidants such as anthocyanin, lycopene, phenolics and tannins (Fernandes <italic>et al</italic>., <xref rid="pbi13498-bib-0039" ref-type="ref">2014</xref>; Guevara <italic>et al</italic>., <xref rid="pbi13498-bib-0044" ref-type="ref">2019</xref>; Yang <italic>et al</italic>., <xref rid="pbi13498-bib-0111" ref-type="ref">2007</xref>). Nevertheless, the genetic basis for ascorbic acid and other bioactive compounds in guava have rarely been studied, except for development of several molecular markers associated with ascorbic acid (Youssef and Ibrahim, <xref rid="pbi13498-bib-0113" ref-type="ref">2016</xref>). Major obstacles to the improvement of ascorbic acid and other bioactive compounds in guava using molecular breeding are the absence of reference genome sequences and transcriptomic information.</p><p>Plants have evolved different types of fruits to protect or disperse their seeds. For example, capsular fruits generate dry, hard pericarps via lignification (reviewed in Dardick and Callahan, <xref rid="pbi13498-bib-0028" ref-type="ref">2014</xref>) and disperse seeds by physical forces such as wind, water or adhering to animal surfaces (Scutt <italic>et al</italic>., <xref rid="pbi13498-bib-0088" ref-type="ref">2006</xref>). In contrast, fleshy fruits often surround their seeds with soft edible tissues (reviewed in Dardick and Callahan, <xref rid="pbi13498-bib-0028" ref-type="ref">2014</xref>) so that they are dispersed by animal consumption and excretion. Evolution of fruit types has attracted the attention of many botanists and others over the past decade (Bobrov and Romanov, <xref rid="pbi13498-bib-0011" ref-type="ref">2019</xref>; Ho and Costea, <xref rid="pbi13498-bib-0050" ref-type="ref">2018</xref>; Pab&#x000f3;n&#x02010;Mora and Litt, <xref rid="pbi13498-bib-0080" ref-type="ref">2011</xref>). The hardening process of woody&#x02010;capsular fruits is thought to be similar to wood formation in xylem, which has been well studied in model plants and crop species (Dardick and Callahan, <xref rid="pbi13498-bib-0028" ref-type="ref">2014</xref>). However, mechanisms underlying fleshy fruit softening are still not well understood, due, in part, to their multiple independent evolutionary origins (Knapp, <xref rid="pbi13498-bib-0058" ref-type="ref">2002</xref>; Li <italic>et al</italic>., <xref rid="pbi13498-bib-0065" ref-type="ref">2019</xref>).</p><p>Fruits of Myrtaceae are classified as either fleshy or capsular, and fruits comprise the traditional basis for taxonomic division of the family into two subfamilies: fleshy&#x02010;fruited Myrtoideae and capsular&#x02010;fruited Leptospermoideae (Niedenzu, <xref rid="pbi13498-bib-0077" ref-type="ref">1893</xref>). However, molecular phylogenetic studies show that the fleshy&#x02010;fruited species are not a monophyletic group and that fleshy fruits have evolved independently several times in the family (Biffin <italic>et al</italic>., <xref rid="pbi13498-bib-0009" ref-type="ref">2010</xref>; Sytsma <italic>et al</italic>., <xref rid="pbi13498-bib-0098" ref-type="ref">2004</xref>; Thornhill <italic>et al</italic>., <xref rid="pbi13498-bib-0100" ref-type="ref">2015</xref>). This makes Myrtaceae an ideal system to study fruit softening mechanisms and evolution of fruit types. Previous studies in guava showed that four enzymes involved in cell wall degradation and had low activity in mature fruits or only slightly elevated activity during ripening (Ali <italic>et al</italic>., <xref rid="pbi13498-bib-0002" ref-type="ref">2004</xref>). Moreover, Braga <italic>et al</italic>. (<xref rid="pbi13498-bib-0013" ref-type="ref">2017</xref>) found that the amount of pectin in cell walls in guava fruits was too high during fruit maturation for its degradation to explain the softening behaviour. Thus, fruit ripening in guava may follow the starch degradation model. However, most studies of fruit softening mechanisms in Myrtaceae have primarily focused on enzymatic activity, while the genetic mechanisms of fruit softening in the family during fleshy fruit formation have not been reported. Therefore, a genome assembly of guava will provide a reference for the understanding of softening mechanisms. In addition, comparison of genomic information for a fleshy fruit (<italic>P.&#x000a0;guajava</italic>) and representative woody&#x02010;capsular&#x02010;fruited plants, <italic>E.&#x000a0;grandis</italic> and <italic>Leptospermum scoparium</italic> (m&#x00101;nuka), will provide a new sight in evolution of fruit types in Myrtaceae.</p><p>Here, we assembled a chromosome&#x02010;level genome for guava using third&#x02010;generation PacBio sequencing and Hi&#x02010;C techniques. We determined the major route to ascorbic acid accumulation in guava was the L&#x02010;galactose pathway. Comparative genomic analyses revealed the importance of starch degradation in fleshy fruit formation in Myrtaceae. Our genomic assembly of guava represents a foundation for investigating the origins of fleshy fruits in Myrtaceae and for accelerating genetic improvement of guava.</p></sec><sec sec-type="results" id="pbi13498-sec-0002"><title>Results</title><sec id="pbi13498-sec-0003"><title>Genome sequencing and assembly</title><p>We sequenced the genome of the guava cultivar, &#x02018;New Age&#x02019; (2<italic>n</italic>&#x000a0;=&#x000a0;2<italic>x</italic>&#x000a0;=&#x000a0;22) (Figure&#x000a0;<xref rid="pbi13498-fig-0001" ref-type="fig">1a</xref>), which is commonly grown in Guangdong Province, China. We sequenced it using a combination of short&#x02010;read sequencing from Illumina NovaSeq with the PE 150&#x000a0;bp protocol and SMRT from PacBio Sequel platform. The sequencing generated ~53.2&#x000a0;Gb of high&#x02010;quality short&#x02010;read sequences and ~53.6&#x000a0;Gb of PacBio sequences, both representing over 115&#x000d7; coverage for the genome, which has an estimated size of 463.8&#x000a0;Mb based on the 17&#x02010;mer depth distribution analysis of the sequenced reads (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S1</xref>) and previous flow cytometry analysis by Coser <italic>et al</italic>. (<xref rid="pbi13498-bib-0027" ref-type="ref">2012</xref>). The final assembled sequence was 443.8&#x000a0;Mb, representing 95.7% of the guava genome. The assembly consisted of 44 scaffolds with an N50 of 40.4&#x000a0;Mb and 73 contigs with an N50 of 15.8&#x000a0;Mb (Table&#x000a0;<xref rid="pbi13498-tbl-0001" ref-type="table">1</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S1</xref>). We used the Hi&#x02010;C technology to reorder and anchor the total 99.44 % (441.27&#x000a0;Mb) of the genome onto 11 pseudochromosomes (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S2</xref>). The GC content of the assembled guava genome was 39.5%, which is similar to those of <italic>E.&#x000a0;grandis</italic> (Myburg <italic>et al</italic>., <xref rid="pbi13498-bib-0074" ref-type="ref">2014</xref>) and <italic>L.&#x000a0;scoparium</italic> (Thrimawithana <italic>et al</italic>., <xref rid="pbi13498-bib-0101" ref-type="ref">2019</xref>), the two most closely related species to guava with sequenced genomes.</p><fig fig-type="Figure" xml:lang="en" id="pbi13498-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(a) Representative fruit from &#x02018;New Age&#x02019; cultivar of guava sequenced in this study; (b) circos view of the <italic>P.&#x000a0;guajava</italic>, <italic>E.&#x000a0;grandis</italic> and <italic>L.&#x000a0;scoparium</italic> genomes. Lanes depict circular representation of pseudochromosomes (i) and the density of genes, transposons and tandem duplicates (ii&#x02010;iv). Lines (v) in the inner circle represent syntenic relationships between the genomes of <italic>P.&#x000a0;guajava</italic> and <italic>E.&#x000a0;grandis</italic>, and <italic>L.&#x000a0;scoparium</italic>.</p></caption><graphic id="jats-graphic-1" xlink:href="PBI-19-717-g002"/></fig><table-wrap id="pbi13498-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>Summary statistics of the genome assembly of guava and annotations</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Feature</th><th align="left" valign="top" rowspan="1" colspan="1">Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Estimated genome size (Mb)</td><td align="left" rowspan="1" colspan="1">463.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Total size of assembled scaffold (Mb)</td><td align="left" rowspan="1" colspan="1">443.76</td></tr><tr><td align="left" rowspan="1" colspan="1">Scaffold N50 (Mb)</td><td align="left" rowspan="1" colspan="1">40.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Longest scaffold (Mb)</td><td align="left" rowspan="1" colspan="1">50.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Total size of assembled contigs (Mb)</td><td align="left" rowspan="1" colspan="1">443.75</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of contigs (&#x02265;1&#x000a0;kb)</td><td align="left" rowspan="1" colspan="1">73</td></tr><tr><td align="left" rowspan="1" colspan="1">N50 contig length (Mb)</td><td align="left" rowspan="1" colspan="1">15.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Largest contig (Mb)</td><td align="left" rowspan="1" colspan="1">37.0</td></tr><tr><td align="left" rowspan="1" colspan="1">GC content (%)</td><td align="left" rowspan="1" colspan="1">39.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of gene models</td><td align="left" rowspan="1" colspan="1">25&#x000a0;601</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>We used BWA v0.7.17 (Li, <xref rid="pbi13498-bib-0062" ref-type="ref">2014</xref>) to align Illumina short reads to the assembly, and obtained the mapping rate of 96.75%. We then assessed the quality of the guava genome assembly through the Conserved Core Eukaryotic Gene Mapping Approach (CEGMA) (Parra <italic>et al</italic>., <xref rid="pbi13498-bib-0081" ref-type="ref">2007</xref>). The analysis revealed that 94.4% of the core protein&#x02010;coding genes were recovered in our assembled genome (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S2</xref>). In addition, we found 1352 (93.9%) complete gene models and 28 (1.9%) fragmented gene models out of 1440 Benchmarking Universal Single&#x02010;Copy Orthologs (BUSCO) genes (Sim&#x000e3;o <italic>et al</italic>., <xref rid="pbi13498-bib-0091" ref-type="ref">2015</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S3</xref>). Furthermore, 97.7% of expressed sequence tags (ESTs) were covered by the assembly, with &#x0003e;50% sequence identity (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S4</xref>). Moreover, we successfully mapped 91.6%&#x02013;94.1% of RNA&#x02010;Seq datasets generated from different tissues and developmental stages to the assembled genome of guava (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S5</xref>). Taken together, these results suggest a high&#x02010;quality genome assembly of guava.</p></sec><sec id="pbi13498-sec-0004"><title>Repeat annotation and gene prediction</title><p>We analysed repetitive sequences by combining <italic>de novo</italic> prediction and a homology&#x02010;based search at both the DNA and protein levels, and found that repetitive sequences occupy 43.55% (193.2&#x000a0;Mb) of the genome of guava (Figure&#x000a0;<xref rid="pbi13498-fig-0001" ref-type="fig">1b</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S6</xref>). We performed an annotation pipeline combining <italic>de novo</italic>, homolog&#x02010;based search and RNA&#x02010;Seq methods to predict gene models from the repeat&#x02010;masked guava genome sequence (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S5</xref>; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S3</xref>). These analyses predicted a total of 25&#x000a0;601 protein&#x02010;coding genes, representing 23.56% of the genome assembly (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S7</xref>). This is a much smaller number of genes than in the sequenced genomes of the myrtaceous species, <italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic> (Myburg <italic>et al</italic>., <xref rid="pbi13498-bib-0074" ref-type="ref">2014</xref>; Thrimawithana <italic>et al</italic>., <xref rid="pbi13498-bib-0101" ref-type="ref">2019</xref>). Among the 25&#x000a0;601 genes, 25&#x000a0;428 (99.3%) were functionally annotated (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S8</xref>). There were 25&#x000a0;498 genes (99.59%) present on chromosomally anchored contigs. In a Gene Ontology (GO) analysis, 9724 (37.98%), 12&#x000a0;866 (50.26%) and 13&#x000a0;400 (52.3%) of annotated genes were assigned to the GO terms cellular component, molecular function and biological process, respectively (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S4</xref>). In addition to the protein&#x02010;coding genes, we also identified 330 miRNA genes, 405 tRNA genes and 844 rRNA genes in the guava genome (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S9</xref>; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S5</xref>a). We also detected a total of 22&#x000a0;334 simple sequence repeats (SSRs) across the whole genome (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S5</xref>b).</p></sec><sec id="pbi13498-sec-0005"><title>Gene family analysis</title><p>Compared with ten other genomes of angiosperms, we found a total of 4310 species&#x02010;specific single&#x02010;copy genes in guava (Tables&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S10 and S11</xref>). We conducted an analysis of GO annotations for these genes and found they were enriched in GO terms including regulation of cell death, receptor regulator activity and chromatin (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S12</xref>).</p><p>The shared gene families among guava and ten other angiosperm species are summarized in Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S11</xref>. We found that guava shared more gene families with <italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic> than with <italic>Punica granatum</italic> (pomegranate; Myrtales, Lythraceae; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S6</xref>). In total, we found that 22 gene families were expanded in guava, while 140 gene families experienced losses compared to the most recent common ancestor (MRCA) of guava and <italic>L.&#x000a0;scoparium</italic> (Figure&#x000a0;<xref rid="pbi13498-fig-0002" ref-type="fig">2a</xref>). Guava showed fewer gene family expansions and more gene family contractions than the other species in Myrtaceae (Figure&#x000a0;<xref rid="pbi13498-fig-0002" ref-type="fig">2a</xref>), and this is consistent with the smaller number of genes we detected in guava compared to the other myrtaceous species. The expanded gene families are enriched in biological processes, especially stimulus response and phosphorelay signal transduction and in several molecular functions, particularly ADP binding and ribosyltransferase activity (Figures&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S7 and S8</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S13</xref>). Functional analysis of contracted gene families indicated enrichment of GO terms such as response to auxin and terpene synthase activity (Figures&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S9 and S10</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S14</xref>), suggesting possible function losses in the xylem formation (Soler <italic>et al</italic>., <xref rid="pbi13498-bib-0094" ref-type="ref">2015</xref>) and essential oil producing (Myburg <italic>et al</italic>., <xref rid="pbi13498-bib-0074" ref-type="ref">2014</xref>) pathways.</p><fig fig-type="Figure" xml:lang="en" id="pbi13498-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Phylogenetic relationship and comparative genomics analyses. (a) Left, phylogenetic tree of 11 plant species and evolution of gene families. Blue numerical value beside each node shows the estimated divergence time (MYA, million years ago). Red circle indicates the node age calibration point, and yellow star represents the inferred whole&#x02010;genome duplication event. Right, the distribution of single&#x02010;copy, multiple&#x02010;copy, unique and unclustered genes in 11 plant species. Distribution of synonymous substitution levels (<italic>K</italic>s) of syntenic orthologous (b) and paralogous genes (c).</p></caption><graphic id="jats-graphic-3" xlink:href="PBI-19-717-g005"/></fig><p>We examined the evolutionary relationships among guava and ten other plant species with sequenced genomes using phylogenetic analysis. The phylogenetic analysis, based on alignments of 487 single&#x02010;copy genes, supported the placement of <italic>P.&#x000a0;guajava</italic>, <italic>E.&#x000a0;grandis</italic>, and <italic>L.&#x000a0;scoparium</italic> in Myrtaceae and <italic>P.&#x000a0;granatum</italic> in the Myrtales order (Figure&#x000a0;<xref rid="pbi13498-fig-0002" ref-type="fig">2a</xref>). Interestingly, <italic>P.&#x000a0;guajava</italic> and <italic>L.&#x000a0;scoparium</italic> comprised a monophyletic group, which is inconsistent with phylogenetic analyses reported by Biffin <italic>et al</italic>. (<xref rid="pbi13498-bib-0009" ref-type="ref">2010</xref>) and Thornhill <italic>et al</italic>. (<xref rid="pbi13498-bib-0100" ref-type="ref">2015</xref>). To improve phylogenetic resolution among species of Myrtaceae, we reconstructed species trees using protein and DNA sequences of 3454 single&#x02010;copy orthologs with <italic>P.&#x000a0;granatum</italic> as the outgroup. In these analyses, both the DNA and protein sequences yielded the topology of (<italic>P.&#x000a0;guajava</italic>, <italic>L.&#x000a0;scoparium</italic>, <italic>E.&#x000a0;grandis</italic>, <italic>P.&#x000a0;granatum</italic>) with high support (bootstrap values&#x000a0;=&#x000a0;100%; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S11</xref>).</p></sec><sec id="pbi13498-sec-0006"><title>Whole&#x02010;genome duplication</title><p>Distributions of synonymous substitutions per synonymous site (<italic>K</italic>s) for paralogous genes of guava showed a peak at <italic>K</italic>s&#x000a0;&#x02248;&#x000a0;1.3 (Figure&#x000a0;<xref rid="pbi13498-fig-0002" ref-type="fig">2b</xref>; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S12</xref>), and similar peaks were identified in <italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic> (Figure&#x000a0;<xref rid="pbi13498-fig-0002" ref-type="fig">2b</xref>; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S12</xref>). In addition, collinearity patterns between <italic>Vitis vinifera</italic> L. (common wine grape; Vitales, Vitaceae), <italic>P. guajava</italic>, and <italic>E.&#x000a0;grandis</italic> (Figure&#x000a0;<xref rid="pbi13498-fig-0003" ref-type="fig">3</xref>) and synteny analyses among species of Myrtaceae (Figure&#x000a0;<xref rid="pbi13498-fig-0001" ref-type="fig">1</xref>; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S13</xref>) indicated that Myrtaceae underwent a whole&#x02010;genome duplication (WGD) event after the well&#x02010;known paleo&#x02010;hexaploidization event, &#x003b3;, in the most recent common ancestor (MRCA) of all eudicots (Jiao <italic>et al</italic>., <xref rid="pbi13498-bib-0052" ref-type="ref">2012</xref>; Myburg <italic>et al</italic>., <xref rid="pbi13498-bib-0074" ref-type="ref">2014</xref>).</p><fig fig-type="Figure" xml:lang="en" id="pbi13498-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Collinearity patterns between <italic>V.&#x000a0;vinifera</italic>, <italic>P.&#x000a0;guajava</italic> and <italic>E.&#x000a0;grandis</italic>. (a) Typical macro&#x02010;collinearity patterns between genomic regions from <italic>V.&#x000a0;vinifera</italic>, <italic>P.&#x000a0;guajava</italic> and <italic>E.&#x000a0;grandis</italic>. The macro&#x02010;collinearity pattern shows that a typical ancestral region in the<italic>V.&#x000a0;vinifera</italic> genome can be traced to two regions each in <italic>P.&#x000a0;guajava</italic> and <italic>E.&#x000a0;grandis</italic>; (b) Micro&#x02010;collinearity pattern between <italic>V.&#x000a0;vinifera</italic>, <italic>P.&#x000a0;guajava</italic> and <italic>E.&#x000a0;grandis</italic>.</p></caption><graphic id="jats-graphic-5" xlink:href="PBI-19-717-g001"/></fig><p>Qin <italic>et al</italic>. (<xref rid="pbi13498-bib-0083" ref-type="ref">2017</xref>) inferred that the MRCA of Myrtales underwent a WGD event after the &#x003b3; event based on analysis of synteny patterns between <italic>E.&#x000a0;grandis</italic> and <italic>P.&#x000a0;granatum</italic>. However, the <italic>K</italic>s distributions for paralogous genes in our analyses revealed a little higher peak value in <italic>P.&#x000a0;granatum</italic> than species of Myrtaceae (Figure&#x000a0;<xref rid="pbi13498-fig-0002" ref-type="fig">2b</xref>; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S12</xref>). Peak values of the <italic>K</italic>s distributions for orthologous genes between Myrtaceae and Lythraceae were a little larger than those within Myrtaceae (Figure&#x000a0;<xref rid="pbi13498-fig-0002" ref-type="fig">2b, c</xref>; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S12</xref>). However, differences in the distribution of <italic>K</italic>s between Myrtaceae and Lythraceae, represented by <italic>P.&#x000a0;granatum</italic>, were too small to determine if they underwent a shared WGD event or independent ones. In order to precisely locate the phylogenetic position of WGDs in Myrtales, we conducted a Multi&#x02010;tAxon Paleopolyploidy Search (MAPS) analysis (Li <italic>et al</italic>., <xref rid="pbi13498-bib-0063" ref-type="ref">2015</xref>) with seven species: <italic>P.&#x000a0;guajava</italic>, <italic>L.&#x000a0;scoparium</italic>, <italic>E.&#x000a0;grandis</italic>, <italic>P.&#x000a0;granatum</italic> of Myrtales and <italic>Arabidopsis thaliana</italic>, <italic>V.&#x000a0;vinifera</italic>, and <italic>Solanum lycopersicum</italic> of Brassicales, Vitales and Solanales, respectively. We recovered 8587 phylogenies of gene families with at least one gene copy from each taxon. Based on MAPS, we identified 7572 trees representing these gene families that included the MRCA of Myrtaceae, and among these, 60% showed a WGD for the MRCA of Myrtaceae (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S14</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S15</xref>). In contrast, only 5.8% supported a gene duplication shared between Myrtaceae and <italic>P.&#x000a0;granatum</italic> (i.e. for Myrtales). (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S14</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S15</xref>). These results support that WGD events in Myrtaceae occurred separately from those in Lythraceae, which is consistent with the finding of inferring putative ancient whole&#x02010;genome duplications in the 1000 Plants (Li and Barker, <xref rid="pbi13498-bib-0064" ref-type="ref">2020</xref>; One Thousand Plant Transcriptomes Initiative, <xref rid="pbi13498-bib-0078" ref-type="ref">2019</xref>).</p><p>We further determined the age of WGD events in Myrtales plants according to their distributions of <italic>K</italic>s (Badouin <italic>et al</italic>., <xref rid="pbi13498-bib-0005" ref-type="ref">2017</xref>; Vanneste <italic>et al</italic>., <xref rid="pbi13498-bib-0104" ref-type="ref">2013</xref>). Synonymous substitutions are putatively evolutionarily neutral and accumulate changes at a constant rate, which can be used to infer the age of WGDs. We inferred an average <italic>K</italic>s/year rate of 1.14&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;8</sup> in Myrtales. Based on this, we inferred that the independent WGD events in Myrtaceae and Lythraceae occurred 50.1&#x02013;61.2 million years ago (MYA) and 55.8&#x02013;61.7 MYA with a confidence interval of 95%. Collectively, our results indicate that the WGD events in Myrtaceae and Lythraceae are family&#x02010;specific but occurred within similar timeframes.</p></sec><sec id="pbi13498-sec-0007"><title>Ascorbic acid metabolism</title><p>We measured ascorbic acid content in three different fruit developmental stages (young, expanding and mature). We found that ascorbic acid content increased along with fruit development (Figure&#x000a0;<xref rid="pbi13498-fig-0004" ref-type="fig">4a</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S16</xref>). We investigated genes encoding key enzymes involved in all four known ascorbic acid biosynthesis pathways and the regeneration pathway (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S15</xref>) during guava fruit development. All genes associated with the L&#x02010;galactose pathway were found in guava genome, but Alase (aldonolactonase), which produces precursors of ascorbic acid in the galacturonate pathway, GlcUR (D&#x02010;galacturonate reductase) in the <italic>myo</italic>&#x02010;Inositol pathway, and a series of genes in the L&#x02010;gulose pathway were absent (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S15</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S17</xref>). Comparisons with two other sequenced species of Myrtales, <italic>E.&#x000a0;grandis</italic> and <italic>P.&#x000a0;granatum</italic>, and with <italic>A.&#x000a0;thaliana</italic> revealed no expansion of genes in the ascorbic acid biosynthesis pathways, but gene families responsible for regenerating ascorbic acid [AO (L&#x02010;ascorbate oxidase) and MDHAR (monodehydroascorbate reductase)] expanded in guava (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S17</xref>). Expression profiling analysis revealed that most genes involved in L&#x02010;galactose and recycling pathways were more highly expressed in fruits compared to other tissues, except one and two members of the MDHAR and AO families, respectively (Figure&#x000a0;<xref rid="pbi13498-fig-0005" ref-type="fig">5</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S18</xref>). Genes encoding downstream biosynthesis enzymes exhibited a positive correlation between expression level and ascorbic acid content in fruits (Figure&#x000a0;<xref rid="pbi13498-fig-0005" ref-type="fig">5</xref>). This result is similar to a previous report in a closely related species, <italic>Myrciaria dubia</italic> (Myrtaceae) (Castro <italic>et al</italic>., <xref rid="pbi13498-bib-0019" ref-type="ref">2015a</xref>). In other pathways, however, only one member of GalUR (D&#x02010;galacturonate reductase) and two of MIOX (myo&#x02010;inositol oxygenase) had detectable expression (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S16</xref>a). Taken together, these results indicate that the L&#x02010;galactose pathway is the major route for ascorbic acid biosynthesis in guava. In particular, MDHAR, rather than DHAR (dehydroascorbate reductase), contributes to ascorbic acid regeneration in guava.</p><fig fig-type="Figure" xml:lang="en" id="pbi13498-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>(a) Starch and ascorbic acid accumulation in fruits at various developmental stages of <italic>P.&#x000a0;guajava</italic>; (b) WGCNA dendrogram indicating the expression of different gene modules in all 21 samples of <italic>P.&#x000a0;guajava</italic>; and (c) analysis of relationships between traits and modules. Different colours represent different modules.</p></caption><graphic id="jats-graphic-7" xlink:href="PBI-19-717-g003"/></fig><fig fig-type="Figure" xml:lang="en" id="pbi13498-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Transcript abundance of genes involved in ascorbic acid metabolism in guava. Blue arrows indicate the biosynthesis pathway, yellow arrows indicate the regeneration pathway, and arrows with dashed lines indicate undefined processes. Scaled log<sub>2</sub> expression values (FPKM) are shown in the heat map legend. The six boxes in one row of each heat map (left to right) correspond to the expression levels in stem, leaf, flower and at three fruit developmental stages. Each row in the heat map corresponds to one gene. AO: L&#x02010;ascorbate oxidase; APX: L&#x02010;ascorbate peroxidase; DHAR: dehydroascorbate reductase; GDH: L&#x02010;galactose dehydrogenase; GGP: GDP&#x02010;L&#x02010;galactose phosphorylase; GLDH: L&#x02010;galactono&#x02010;1,4&#x02010;lactone dehydrogenase; GME: GDP&#x02010;D&#x02010;mannose&#x02010;3,5&#x02010;epimerase; GMP: GDP&#x02010;D&#x02010;mannose pyrophosphorylase; GPP: L&#x02010;galactose&#x02010;1&#x02010;phosphate phosphatase; MDHAR: monodehydroascorbate reductase; PGI: glucose&#x02010;6&#x02010;phosphate isomerase; PMI: mannose&#x02010;6&#x02010;phosphate isomerase; PMM: phosphomannomutase.</p></caption><graphic id="jats-graphic-9" xlink:href="PBI-19-717-g006"/></fig><p>In a weighted gene coexpression network analysis (WGCNA), we found that three of the 20 coexpression modules (Figure&#x000a0;<xref rid="pbi13498-fig-0004" ref-type="fig">4b</xref>) were positively correlated with ascorbic acid content (Figure&#x000a0;<xref rid="pbi13498-fig-0004" ref-type="fig">4c</xref>: tan, 0.91; yellow, 0.81; and light yellow, 0.74). Within these modules, we found six genes involved in ascorbic acid biosynthesis and regeneration pathways (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S17</xref>a, b, c; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S19</xref>), indicating that these genes play key roles in ascorbic acid accumulation. Expression of these genes showed positive correlation with the stages of fruit development. Five of the six key genes (except the one in the regeneration pathway) also showed high expression levels in the stem which, therefore, may also have the capacity for ascorbic acid biosynthesis (De Tullio and Arrigoni, <xref rid="pbi13498-bib-0031" ref-type="ref">2003</xref>).</p></sec><sec id="pbi13498-sec-0008"><title>Fruit softening related metabolism</title><p>Guava fruit loses its firmness during ripening (Ali <italic>et al</italic>., <xref rid="pbi13498-bib-0002" ref-type="ref">2004</xref>). In comparison with woody&#x02010;fruited species (e.g. <italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic>), ripening of fleshy fruits is often associated with starch degradation or cell wall metabolism (Cordenunsi&#x02010;Lysenko <italic>et al</italic>., <xref rid="pbi13498-bib-0026" ref-type="ref">2019</xref>; Wang <italic>et al</italic>., <xref rid="pbi13498-bib-0107" ref-type="ref">2018</xref>). Here, we investigated genes involved in these two pathways.</p><p>In the genome sequences of guava, we found that 44 members of seven gene families involved in the starch degradation pathway (Figure&#x000a0;<xref rid="pbi13498-fig-0006" ref-type="fig">6</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S20</xref>). Compared with <italic>E.&#x000a0;grandis</italic>, <italic>P.&#x000a0;granatum</italic> and <italic>A.&#x000a0;thaliana</italic> (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S20</xref>), guava has the greatest number of genes in gene families related to starch degradation. The main degradation genes in guava are <italic>AMY</italic> (&#x003b1;&#x02010;amylase) and <italic>BAM</italic> (&#x003b2;&#x02010;amylase) genes, which account for 61.4% of these starch degradation genes in guava. We detected more members of <italic>AMY</italic> and <italic>BAM</italic> in guava than in any other plant that we surveyed. Within guava, we also detected &#x003b1;&#x02010;glucosidase (AGL), 4&#x02010;&#x003b1;&#x02010;glucanotransferase (DPE) and isoamylase (ISA), which are additional key enzymes in the starch degradation pathway, and these were not present in <italic>E.&#x000a0;grandis</italic> or <italic>P.&#x000a0;granatum</italic>.</p><fig fig-type="Figure" xml:lang="en" id="pbi13498-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>The proposed starch degradation pathways in plants and transcript abundance of their genes in guava. Gene families that expanded in guava are shown in red. The six boxes in one row of each heat map (left to right) correspond to the expression levels in stem, leaf, flower and at three fruit developmental stages. Each row in the heat map corresponds to one gene. AGL: &#x003b1;&#x02010;glucosidase; AMY: &#x003b1;&#x02010;amylase; BAM: &#x003b2;&#x02010;amylase; DPE: 4&#x02010;&#x003b1;&#x02010;glucanotransferase; GWD: glucan, water dikinase; ISA: isoamylase; PHS: glucan phosphorylase.</p></caption><graphic id="jats-graphic-11" xlink:href="PBI-19-717-g004"/></fig><p>We evaluated starch content in fruits at different developmental stages (Figure&#x000a0;<xref rid="pbi13498-fig-0004" ref-type="fig">4a</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S16</xref>). Gene expression in 21 samples of <italic>P.&#x000a0;guajava</italic> was clustered into 20 coexpression modules (Figure&#x000a0;<xref rid="pbi13498-fig-0004" ref-type="fig">4b</xref>), of which, two were significantly negatively correlated with starch content (Figure&#x000a0;<xref rid="pbi13498-fig-0004" ref-type="fig">4c</xref>: tan, &#x02212;0.92; light yellow, &#x02212;0.70). Within these two, we found four and one starch degradation genes, respectively (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S17</xref>a, b; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S19</xref>). Most genes involved in starch degradation showed increased expression with fruit development in guava (Figure&#x000a0;<xref rid="pbi13498-fig-0006" ref-type="fig">6</xref>; Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S18</xref>), indicating that starch degradation plays an important role in fruit softening during the ripening process.</p><p>We also identified a total of 192 genes encoding five key enzymes related to cell wall degradation (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S21</xref>). Guava possesses more gene members of <italic>&#x003b2;&#x02010;galactosidase</italic> than other plants. We found many genes related to cell wall degradation with high expression levels in fruits, even though they did not show consistent trends during ripening (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S19</xref>). Some genes encoding &#x003b2;&#x02010;galactosidase, polygalacturonase and pectate lyase had increasingly higher expression during fruit ripening (Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S19</xref>). This is in accord with prior work showing that the content of soluble pectin (i.e. galacturonic acid) increased with a reduction of guava fruits firmness (Braga <italic>et al</italic>., <xref rid="pbi13498-bib-0013" ref-type="ref">2017</xref>). Together, these results indicate that cell wall degradation may also contribute to fruit softening in guava.</p></sec><sec id="pbi13498-sec-0009"><title>Positive selection in guava, <italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic>
+</title><p>In order to investigate the evolutionary footprint of natural selection on candidate genes associated with the ascorbic acid pathway and fruit softening, we conducted positive selection analyses for guava, <italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic> using orthologs from <italic>P.&#x000a0;granatum</italic> as the outgroup. Among the 15&#x000a0;681 orthogroups, 3627 contained single&#x02010;copy orthologous genes. In guava, we identified 285 positively selected genes (PSGs) (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S22</xref>). A GO functional classification of significant PSGs in guava revealed several categories associated with proteolysis (Figures&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S20 and S21</xref>). Among the 285 genes, we found two (Pgu12819 and Pgu22300) encoding <italic>AMY</italic> and two genes involved in starch biosynthesis (Pgu05347 and Pgu03782). Furthermore, three of these positively selected genes (Pgu03782, Pgu12819 and Pgu22300) were expressed increasingly during fruit ripening (Figures&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S16b and S18</xref>).</p><p>There were 859 and 313 genes possibly under positive selection in <italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic> (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01), respectively. We found that four and three genes, which were involved in lignin biosynthesis pathways, were PSGs of <italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic>, respectively (Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S23</xref>). These results are consistent with the hypotheses that woody&#x02010;fruit formation occurs via secondary cell wall synthesis and lignification (Dardick and Callahan, <xref rid="pbi13498-bib-0028" ref-type="ref">2014</xref>). Together with the analyses of gene expression during fruit softening, these results support that fleshy&#x02010;fruited species in Myrtaceae underwent positive selection on starch metabolic genes, and the starch degradation may be the main contributor to fruit softening.</p></sec></sec><sec sec-type="discussion" id="pbi13498-sec-0010"><title>Discussion</title><p>In terms of number of species, Myrtaceae is the 8th largest family of flowering plants, with 5950 species in 132 genera, which are distributed primarily across subtropical and tropical regions of the world (Christenhusz and Byng, <xref rid="pbi13498-bib-0024" ref-type="ref">2016</xref>). The family includes many plants of economic value, such as species of <italic>E.&#x000a0;grandis</italic>, <italic>Eugenia uniflora</italic> and <italic>P.&#x000a0;guajava</italic>, which are important sources of timbers, essential oils, and fruits (Grattapaglia <italic>et al</italic>., <xref rid="pbi13498-bib-0042" ref-type="ref">2012</xref>). Genomic resources can facilitate molecular breeding in guava and evolutionary studies of Myrtaceae. Here, we obtained a chromosome&#x02010;level, high&#x02010;quality genome assembly of guava (<italic>P.&#x000a0;guajava</italic>) using PacBio in association with NGS sequencing and Hi&#x02010;C mapping. This nearly complete genome will be valuable for revealing the mechanisms of biosynthesis of economically valuable natural products of the species. The genome assembly will also be a useful genetic resource for molecular breeding and can contribute to improving strategies for postharvest storage.</p><p>The fruits of guava have among the highest natural concentrations of ascorbic acid (vitamin C), folic acid (vitamin B<sub>9</sub>), niacin (vitamin B<sub>3</sub>), pyridoxine (vitamin B<sub>6</sub>) and dietary fibre (Rishika and Sharma, <xref rid="pbi13498-bib-0086" ref-type="ref">2012</xref>). An investigation of antioxidant activity in 19 popular tropical fruits has shown that guava had the highest ascorbic acid content (Guevara <italic>et al</italic>., <xref rid="pbi13498-bib-0044" ref-type="ref">2019</xref>). In the present study, we predicted the ascorbic acid biosynthesis and recycling pathways in guava and identified candidate genes encoding enzymes in these pathways. Analyses of gene families demonstrated that the L&#x02010;galactose pathway may serve as a major route of ascorbic acid biosynthesis in guava. This mechanism is different from <italic>M.&#x000a0;dubia</italic>, a closely related species of the same family, which possesses all four documented metabolic pathways for ascorbic acid biosynthesis (Castro <italic>et al</italic>., <xref rid="pbi13498-bib-0020" ref-type="ref">2015b</xref>). This may indicate that the mechanisms of ascorbic acid biosynthesis are lineage&#x02010;specific in Myrtaceae. However, the L&#x02010;galactose pathway is the primary pathway for ascorbic acid biosynthesis in many other plants such as <italic>Ziziphus jujube</italic> (Rhamnaceae) and <italic>Myrica rubra</italic> (Myricaceae) (Feng <italic>et al</italic>., <xref rid="pbi13498-bib-0038" ref-type="ref">2012</xref>; Liu <italic>et al</italic>., <xref rid="pbi13498-bib-0068" ref-type="ref">2014</xref>). Interestingly, fruits of species that primarily use the L&#x02010;galactose pathway for ascorbic acid biosynthesis are all rich in ascorbic acid. This suggests that, in plants, having multiple biosynthesis pathways is neither required for nor predictive of producing high concentrations of ascorbic acid.</p><p>Ripening processes are different among fruit types and species (Li <italic>et al</italic>., <xref rid="pbi13498-bib-0065" ref-type="ref">2019</xref>; Wang <italic>et al</italic>., <xref rid="pbi13498-bib-0107" ref-type="ref">2018</xref>). Among fruits that exhibit the cell wall disassembly mechanism of fruit softening, pectin and pectin degrading enzymes have attracted the most attention as key cell wall components undergoing changes during maturation (reviewed in Uluisik and Seymour, <xref rid="pbi13498-bib-0103" ref-type="ref">2020</xref>). For guava, prior studies were incongruent in their findings for pectin content in fruits and enzyme activities that degrade pectin. For example, Ali <italic>et al</italic>. (<xref rid="pbi13498-bib-0002" ref-type="ref">2004</xref>) reported that ripening of guava fruits accompanied by limited pectin degradation, but Abreu <italic>et al</italic>. (<xref rid="pbi13498-bib-0001" ref-type="ref">2012</xref>) and Braga <italic>et al</italic>. (<xref rid="pbi13498-bib-0013" ref-type="ref">2017</xref>) found that pectin plays an important role in the firmness of guava fruits. Our transcriptomic analysis represents the first investigation of gene expression profiles underlying pathways involved pectin degradation in different tissues and fruit developmental stages in guava. The RNA&#x02010;Seq analysis in this study supports that enzyme activity and pectin content change during fruit ripening in guava as reported by Braga <italic>et al</italic>. (<xref rid="pbi13498-bib-0013" ref-type="ref">2017</xref>). Recently, Chen <italic>et al</italic>. (<xref rid="pbi13498-bib-0021" ref-type="ref">2017</xref>) reported that postharvest softening in <italic>S. samarangense</italic>, another fleshy&#x02010;fruited species of Myrtaceae, was ascribed to cell wall degradation. Taken these results together, it seems that cell wall degradation contributes to fruit softening commonly in Myrtaceae. Similar mechanisms were also found in most fruits such as mango (Anacardiaceae), strawberry (Rosaceae) and pear (Rosaceae) (reviewed by Wang <italic>et al</italic>., <xref rid="pbi13498-bib-0107" ref-type="ref">2018</xref>).</p><p>In addition to pectin, starch degradation is also considered a major pathway for fruit softening (Brady, <xref rid="pbi13498-bib-0012" ref-type="ref">1987</xref>; Giovannoni <italic>et al</italic>., <xref rid="pbi13498-bib-0040" ref-type="ref">1992</xref>). Expression patterns of genes involved in starch degrading in guava (Figure&#x000a0;<xref rid="pbi13498-fig-0006" ref-type="fig">6</xref>), overwhelmingly showed that starch content decreased with fruit ripening (Figure&#x000a0;<xref rid="pbi13498-fig-0004" ref-type="fig">4</xref>; Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S19</xref>). Collectively, these results may indicate that guava fruit softening is due to the joint action of the cell wall degradation and starch degradation. During fruit ripening, energy for producing volatile compounds is generally provided by glucose which is the main product of starch degradation (Cordenunsi&#x02010;Lysenko <italic>et al</italic>., <xref rid="pbi13498-bib-0026" ref-type="ref">2019</xref>). The abundance of volatile metabolites in mature and soft guava fruit (Moon <italic>et al</italic>., <xref rid="pbi13498-bib-0072" ref-type="ref">2018</xref>) may depend on the hydrolysis of starch, which protects cell membranes and maintains firmness. Starch degradation was also reported as playing a key role in fruit softening in banana (Musaceae) (Shiga <italic>et al</italic>., <xref rid="pbi13498-bib-0090" ref-type="ref">2011</xref>; Song <italic>et al</italic>., <xref rid="pbi13498-bib-0095" ref-type="ref">2019</xref>) and persimmon (Ebenaceae) (Jung <italic>et al</italic>., <xref rid="pbi13498-bib-0053" ref-type="ref">2017</xref>). The reference genome of guava reported here will facilitate studies on both ripening and softening mechanisms and support efforts to prolong the shelf life of guava fruits.</p><p>Woody fruits, as the name implies, are highly lignified. As Carocha <italic>et al</italic>. (<xref rid="pbi13498-bib-0018" ref-type="ref">2015</xref>) reported, each enzyme in lignification pathways has coding genes expressed relatively highly in fruit capsules compared to other tissues. In our PSG analysis, genes in lignin biosynthesis pathways have undergone positive selection in woody&#x02010;fruited species of Myrtaceae (<italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic>). In contrast, genes involving starch accumulation and degradation were found to be positively selected in guava. These results further support that woody fruits in Myrtaceae undergo lignin accumulation during maturation and fleshy fruits may be the result of starch biosynthesis and degradation. However, fleshy fruits in Myrtaceae have arisen more than once, and thus, more genomic or transcriptomic data for additional species of Myrtaceae are needed to gain a more comprehensive understanding of the evolution of fruit types in the family.</p></sec><sec id="pbi13498-sec-0011"><title>Experimental procedures</title><sec id="pbi13498-sec-0012"><title>Sample preparation, de novo sequencing and assembly</title><p>For genome sequencing, we chose a mature healthy tree of the guava cultivar &#x02018;New Age&#x02019; from the garden of Guangdong Ocean University (21.1526 N, 110.2975 E), Zhanjiang in Guangdong Province, China. We extracted genomic DNA from fresh leaves, using a modified CTAB&#x02013;chloroform protocol (Doyle and Doyle, <xref rid="pbi13498-bib-0032" ref-type="ref">1987</xref>) and constructed short&#x02010;insert libraries with a size of 500&#x000a0;bp for sequencing on the Illumina HiSeq 2500 platform under the PE 150&#x000a0;bp protocol. For PacBio library construction, we sheared the genomic DNA of <italic>P.&#x000a0;guajava</italic> to 20&#x000a0;kb fragments, which we used to prepare a SMRT library for sequencing with the PacBio Sequel system (Chin <italic>et al</italic>., <xref rid="pbi13498-bib-0022" ref-type="ref">2013</xref>). We used fresh young leaves of <italic>P.&#x000a0;guajava</italic> to construct Hi&#x02010;C sequencing library. In brief, cross&#x02010;linked chromatin was digested with <italic>Dpn</italic> II and ligated <italic>in situ</italic> after biotinylation. DNA fragments were enriched via the interaction of biotin and blunt&#x02010;end ligation and then subjected to Illumina NovaSeq PE150 sequencing (Belton <italic>et al</italic>., <xref rid="pbi13498-bib-0007" ref-type="ref">2012</xref>).</p><p>We applied the FALCON v0.3.0 (Chin <italic>et al</italic>., <xref rid="pbi13498-bib-0023" ref-type="ref">2016</xref>) to correct errors in PacBio long reads according to PacBio short reads (&#x0003c;5&#x000a0;kb) and then generated consensus sequences. We assembled the primary scaffolds with these subreads, and we further corrected the scaffolds in PILON v1.22 (Walker <italic>et al</italic>., <xref rid="pbi13498-bib-0105" ref-type="ref">2014</xref>) using the short sequencing reads. To anchor scaffolds onto chromosomes, we aligned the Hi&#x02010;C sequencing data to the assembly by BWA v0.7.17 (Li and Durbin, <xref rid="pbi13498-bib-0066" ref-type="ref">2009</xref>) and detected valid contacts. Preassembled scaffolds were clustered, ordered and directed onto pseudochromosomes with LACHESIS software (Hariharan and Toyama, <xref rid="pbi13498-bib-0049" ref-type="ref">2004</xref>). To increase the accuracy of the assembled genome, we artificially corrected the LACHESIS&#x02010;based assembly, filled gaps and removed duplicate sequences (Burton <italic>et al</italic>., <xref rid="pbi13498-bib-0016" ref-type="ref">2013</xref>).</p></sec><sec id="pbi13498-sec-0013"><title>Genome quality assessment</title><p>We estimated the genome size based on k&#x02010;mer distribution analysis with the programme in GCE (Liu et al., <xref rid="pbi13498-bib-0067" ref-type="ref">2013</xref>) using Illumina short reads. We used BUSCO (Sim&#x000e3;o <italic>et al</italic>., <xref rid="pbi13498-bib-0091" ref-type="ref">2015</xref>) and CEGMA (Parra <italic>et al</italic>., <xref rid="pbi13498-bib-0081" ref-type="ref">2007</xref>) to evaluate the completeness and accuracy of the genome assembly and BWA v0.7.17 (Li, <xref rid="pbi13498-bib-0062" ref-type="ref">2014</xref>) to align the Illumina short reads to the assembly and evaluate the assembled portion. We assembled expressed sequencing tags (ESTs) using Trinity v2.8.4 (Grabherr <italic>et al</italic>., <xref rid="pbi13498-bib-0041" ref-type="ref">2011</xref>) with RNA reads from five different tissues (stems, leaves, flowers, fruits and seeds). To further examine the quality of the genome assembly, we aligned ESTs to the assembled genome using BLAT (Kent, <xref rid="pbi13498-bib-0056" ref-type="ref">2002</xref>) using parameters of identity &#x02265;90% and coverage &#x02265;50%. We also evaluated the quality of the genome assembly by mapping RNA&#x02010;Seq reads from the five different tissues to the ESTs using TopHat2 (Trapnell <italic>et al</italic>., <xref rid="pbi13498-bib-0102" ref-type="ref">2012</xref>).</p></sec><sec id="pbi13498-sec-0014"><title>Genome annotations</title><p>We identified repetitive sequences in <italic>P.&#x000a0;guajava</italic> at both the DNA and protein levels by integrating homology&#x02010;based prediction and <italic>de novo</italic> identification. We performed repeat masking based on repeats in the Repbase TE library from the repbase server (Bao <italic>et al</italic>., <xref rid="pbi13498-bib-0006" ref-type="ref">2015</xref>). Using this library, we predicted interspersed repeat elements through RepeatMasker v3.3.0 and ProteinMask (Smit <italic>et al</italic>., <xref rid="pbi13498-bib-0093" ref-type="ref">1996&#x02010;2010</xref>) and screened tandem repeats through TRF v4.07b (Benson, <xref rid="pbi13498-bib-0008" ref-type="ref">1999</xref>).</p><p>We conducted annotation of protein&#x02010;coding genes in the <italic>P.&#x000a0;guajava</italic> genome using a combination of <italic>de novo</italic> gene prediction, homology&#x02010;based prediction and RNA&#x02010;seq&#x02010;based prediction. For <italic>de novo</italic> identification, we predicted the gene models by five <italic>ab initio</italic> gene prediction programmes, Augustus (Stanke <italic>et al</italic>., <xref rid="pbi13498-bib-0097" ref-type="ref">2006</xref>), GlimmerHMM (Majoros <italic>et al</italic>., <xref rid="pbi13498-bib-0070" ref-type="ref">2004</xref>), SNAP (Korf, <xref rid="pbi13498-bib-0059" ref-type="ref">2004</xref>), Genscan (Burge and Karlin, <xref rid="pbi13498-bib-0015" ref-type="ref">1997</xref>) and Geneid (Guig&#x000f3; <italic>et al</italic>., <xref rid="pbi13498-bib-0045" ref-type="ref">1992</xref>), respectively. We aligned proteins from five sequenced plants, that is <italic>A.&#x000a0;thaliana</italic> (Kaul <italic>et al</italic>., <xref rid="pbi13498-bib-0055" ref-type="ref">2000</xref>), <italic>Citrus sinensis</italic> (Wang <italic>et al</italic>., <xref rid="pbi13498-bib-0106" ref-type="ref">2017</xref>), <italic>E.&#x000a0;grandis</italic> (Myburg <italic>et al</italic>., <xref rid="pbi13498-bib-0074" ref-type="ref">2014</xref>), <italic>P.&#x000a0;granatum</italic> (Qin <italic>et al</italic>., <xref rid="pbi13498-bib-0083" ref-type="ref">2017</xref>), and <italic>Theobroma cacao</italic> (Argout <italic>et al</italic>., <xref rid="pbi13498-bib-0004" ref-type="ref">2011</xref>), to the <italic>P.&#x000a0;guajava</italic> assembly using tBlastN (Altschul <italic>et al</italic>., <xref rid="pbi13498-bib-0003" ref-type="ref">1990</xref>) with an e&#x02010;value cut&#x02010;off of 1&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;5</sup>. Gene models were generated by Genewise v2.2.0 (Birney <italic>et al</italic>., <xref rid="pbi13498-bib-0010" ref-type="ref">2004</xref>). We applied two methods of RNA&#x02010;Seq&#x02010;based prediction: (i) We mapped RNA&#x02010;Seq data to the genome using TopHat2 (Kim <italic>et al</italic>., <xref rid="pbi13498-bib-0057" ref-type="ref">2013</xref>) and further generated the gene models in Cufflinks (Trapnell <italic>et al</italic>., <xref rid="pbi13498-bib-0102" ref-type="ref">2012</xref>) based on exons, and (ii) We aligned ESTs against the assembly to generate the gene models using PASA (Haas <italic>et al</italic>., <xref rid="pbi13498-bib-0047" ref-type="ref">2003</xref>). We integrated predictions from the three approaches in EVidenceModeler v1.1.1 (Haas <italic>et al</italic>., <xref rid="pbi13498-bib-0048" ref-type="ref">2008</xref>) to generate a non&#x02010;redundant gene model set. We annotated the final gene model using the non&#x02010;redundant protein database of NCBI (NR), Swissprot, KEGG (Kanehisa <italic>et al</italic>., <xref rid="pbi13498-bib-0054" ref-type="ref">2016</xref>), Interprot (Quevillon <italic>et al</italic>., <xref rid="pbi13498-bib-0084" ref-type="ref">2005</xref>) and Pfam databases.</p></sec><sec id="pbi13498-sec-0015"><title>Phylogenetic analysis and estimation of divergence time</title><p>We used OrthoFinder v2.2.7 (Emms and Kelly, <xref rid="pbi13498-bib-0036" ref-type="ref">2015</xref>) to identify orthologous genes from guava and ten other species of angiosperms including Arabidopsis (<italic>A. thaliana</italic>), eucalyptus (<italic>E. grandis</italic>), m&#x00101;nuka (<italic>L. scoparium</italic>), apple (<italic>Malus domestica</italic>), peach (<italic>Prunus persica</italic>), papaya (<italic>Carica papaya</italic>), pomegranate (<italic>P. granatum</italic>), tomato (<italic>S. lycopersicum</italic>), common wine grape (<italic>V. vinifera</italic>) and rice (<italic>Oryza sativa</italic>). We performed alignment of proteins of single&#x02010;copy orthologous genes with MUSCLE v3.8.425 (Edgar, <xref rid="pbi13498-bib-0035" ref-type="ref">2004</xref>). Based on these alignments, we used IQ&#x02010;TREE v1.6.11 (Nguyen <italic>et al</italic>., <xref rid="pbi13498-bib-0076" ref-type="ref">2015</xref>) to estimate a maximum&#x02010;likelihood (ML) phylogenetic tree for each gene and ASTRAL&#x02010;II v5.6.3 (Mirarab and Warnow, <xref rid="pbi13498-bib-0071" ref-type="ref">2015</xref>) to estimate the species tree by summarizing across gene trees. We used Bayesian Evolutionary Analysis Sampling Trees (BEAST) v2.6.0 (Drummond <italic>et al</italic>., <xref rid="pbi13498-bib-0034" ref-type="ref">2012</xref>) to estimate species divergence times based on a split between Arabidopsis and papaya (mean: 71.9 MYA. Std dev: 2 MYA) (Wikstr&#x000f6;m <italic>et al</italic>., <xref rid="pbi13498-bib-0108" ref-type="ref">2001</xref>) as a secondary calibration. We ran the Markov chain Monte Carlo for 100&#x000a0;000&#x000a0;000 generations with sampling every 1000 generations.</p></sec><sec id="pbi13498-sec-0016"><title>Gene family expansion and contraction analysis</title><p>To study gene family expansion and contraction, we undertook an analysis of gene family sizes using CAF&#x000c9; v4.2 (De Bie <italic>et al</italic>., <xref rid="pbi13498-bib-0030" ref-type="ref">2006</xref>). We obtained counts of gene families and genes from OrthoFinder. We determined the gene family expansions or contractions only when the change in gene copy number was significant with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01.</p></sec><sec id="pbi13498-sec-0017"><title>Whole&#x02010;genome alignment and WGD analysis</title><p>To assess the degree of collinearity, we used the python version of MCScan (Tang <italic>et al</italic>., <xref rid="pbi13498-bib-0099" ref-type="ref">2008</xref>) to identify syntenic blocks between guava, <italic>E.&#x000a0;grandis</italic> and <italic>V.&#x000a0;vinifera</italic>. We defined a syntenic region as one containing a minimum of 30 shared genes. In addition, we constructed a circos map for guava, <italic>L.&#x000a0;scoparium</italic> and <italic>E.&#x000a0;grandis</italic>.</p><p>For analysis of the WGD events, we applied the python library, &#x02018;wgd&#x02019;, (Zwaenepoel and Van de Peer, <xref rid="pbi13498-bib-0115" ref-type="ref">2019</xref>) to construct <italic>K</italic>s&#x02010;based age distributions. In brief, we performed one&#x02010;to&#x02010;one comparisons of orthologs using BLASTP with an e&#x02010;value cut&#x02010;off of 1&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;10</sup>. We obtained <italic>K</italic>s values for all gene pairs through ML estimation in CODEML (<ext-link ext-link-type="uri" xlink:href="https://svn.omdoc.org/repos/codeml/doc/spec/codeml">https://svn.omdoc.org/repos/codeml/doc/spec/codeml</ext-link>) of the PAML package (Yang, <xref rid="pbi13498-bib-0110" ref-type="ref">2007</xref>). To visualize the <italic>K</italic>s distributions, we used kernel density estimates, and we fitted <italic>K</italic>s distribution curves with Gaussian mixture models.</p><p>To infer and locate putative WGD events in Myrtales, we used the Multi&#x02010;tAxon Paleopolyploidy Search (MAPS) tool (Li <italic>et al</italic>., <xref rid="pbi13498-bib-0063" ref-type="ref">2015</xref>). We selected seven species, including four species of Myrtales (<italic>P. guajava</italic>, <italic>L. scoparium</italic>, <italic>E. grandis</italic>, <italic>P. granatum</italic>) that potentially share a WGD in their ancestry and three additional representative species of eudicots (<italic>A. thaliana</italic>, <italic>V. vinifera</italic> and <italic>S. lycopersicum</italic>). MAPS uses a user&#x02010;defined species tree, which resulted from our phylogenetic analysis, to filter collections of gene trees for subtrees consistent with relationships at each node in the species tree. Gene trees were also constructed with IQ&#x02010;TREE v1.6.11 (Nguyen <italic>et al</italic>., <xref rid="pbi13498-bib-0076" ref-type="ref">2015</xref>).</p><p>The ages of WGDs detected were estimated under the assumption that synonymous mutations are accumulated at a constant rate. According to the formula divergence data&#x000a0;=&#x000a0;<italic>K</italic>s/(2&#x000a0;&#x000d7;&#x000a0;<italic>r</italic>) (Badouin <italic>et al</italic>., <xref rid="pbi13498-bib-0005" ref-type="ref">2017</xref>; Vanneste <italic>et al</italic>., <xref rid="pbi13498-bib-0104" ref-type="ref">2013</xref>), we inferred <italic>r</italic> (plant average <italic>K</italic>s/year rate) in Myrtales via <italic>K</italic>s distributions of paralogous genes. We then applied the average <italic>K</italic>s/year rate to estimate WGD ages of each sampled species of Myrtales.</p></sec><sec id="pbi13498-sec-0018"><title>Ascorbic acid and starch content determinations</title><p>For the investigation of fruit development, we collected samples of young fruits (two weeks after fruit set), expanding fruits (five weeks after fruit set) and mature fruits (eight weeks after fruit set). For each fruit stage, we made six independent collections from the individual tree we sequenced the genome.</p><p>The content of ascorbic acid was measured using the dinitrophenylhydrazine method (Otles, <xref rid="pbi13498-bib-0079" ref-type="ref">1995</xref>). Briefly, frozen grounded samples were homogenized in metaphosphoric acid. The homogenate was centrifuged, and then, the supernatant was filtered through a Millipore membrane to measure total ascorbate. The ascorbate extracts were analysed by HPLC (high&#x02010;performance liquid chromatography) using an SB&#x02010;aq column (Agilent) eluted with acetate buffer (0.2&#x000a0;mol/L pH 4.5) at a flow rate of 1.0&#x000a0;mL/min. Elutes were detected at 254&#x000a0;nm, and a standard curve from 2 to 40&#x000a0;&#x003bc;g/mL ascorbic acid was obtained.</p><p>We extracted total starch from frozen, ground samples for each replicate following using a total starch assay kit (Megazyme International Ireland Ltd., Wicklow, Ireland), as described by Peris&#x02010;Tortajada (<xref rid="pbi13498-bib-0082" ref-type="ref">2018</xref>). In brief, we removed fats from frozen grounded samples with n&#x02010;hexane, followed by a further extraction with 80% aqueous methanol to remove soluble sugars. The resulting residue was gelatinized in boiling water and then incubated with pH 4.8 acetate buffer and amyloglucosidase. In this way, the starch was converted into glucose, which, after centrifugation, remains in the supernatant. We measured the glucose content with HPLC using a 5&#x000a0;&#x003bc;m Spherisorb NH<sub>2</sub> column, a RI detector, and 85:15 v/v acetonitrile/water as mobile phase. We determined starch concentration by Starch (%)&#x000a0;=&#x000a0;0.90&#x000a0;&#x000d7;&#x000a0;100&#x000a0;&#x000d7;&#x000a0;C (mg/mL)/W (mg), where C is the content of glucose determined by HPLC and W is the mass of sample.</p></sec><sec id="pbi13498-sec-0019"><title>Identification of gene families in related pathways</title><p>We downloaded protein sequences of gene families in ascorbic acid, starch and cell wall metabolism pathways in <italic>A.&#x000a0;thaliana</italic> from the TAIR database and used these as queries in BLASTP searches against the guava protein sequences to identify homologous sequences. We checked KOG and KEGG annotations of these homologous genes and retained only those genes with hits having KOG and KEGG annotations.</p></sec><sec id="pbi13498-sec-0020"><title>RNA sequencing and WGCNA analysis</title><p>From each collected fruit representing fruit developmental stages, we isolated and purified total RNA using TRIzol reagent (OMEGA Bio&#x02010;Tek, Shanghai, China) following the manufacturer&#x02019;s instructions. Based on the purified total RNA, we generated RNA&#x02010;Seq libraries and sequenced these using an Illumina HiSeq 2000 system. We trimmed the resulting paired&#x02010;end reads to remove adaptors and enhance quality, and we removed trimmed reads that were &#x0003c;100&#x000a0;bp in size. We mapped the remaining reads to the <italic>de novo</italic> assembled genome of guava using TopHat2 (Trapnell <italic>et al</italic>., <xref rid="pbi13498-bib-0102" ref-type="ref">2012</xref>) under default parameters. We assembled the mapped reads for each sample with Cufflinks (Trapnell <italic>et al</italic>., <xref rid="pbi13498-bib-0102" ref-type="ref">2012</xref>) and then merged the assembled contigs with the reference gene annotations into a unified annotation, which we used to quantify gene expression in each sample. We normalized gene expression levels according to FPKM (fragments per kilobase exon model per million mapped fragments) and constructed coexpression networks using WGCNA v1.66 (Langfelder and Horvath, <xref rid="pbi13498-bib-0061" ref-type="ref">2008</xref>). We calculated WGCNA module eigengene values and correlations between them and ascorbic acid and starch contents at different fruit developmental stages. We identified the functions of key genes in each inferred module by both annotation information and manual blast against genes of <italic>A. thaliana</italic> and <italic>E. grandis</italic>. Gene networks were visualized with Cytoscape v3.7.2 (Shannon <italic>et al</italic>., <xref rid="pbi13498-bib-0089" ref-type="ref">2003</xref>).</p></sec><sec id="pbi13498-sec-0021"><title>Positive selection analysis</title><p>For positive selection analysis, we first identified single&#x02010;copy orthologous genes from guava and the three most closely related species with assembled genomes: <italic>L.&#x000a0;scorparium</italic> (Myrtaceae), <italic>E.&#x000a0;grandis</italic> (Myrtaceae) and <italic>P.&#x000a0;granatum</italic> (pomegranate, Lythraceae). For these genes, based on the phylogenetic topology, we employed the branch&#x02010;site model incorporated in the PAML package v4.9 (Zhang <italic>et al</italic>., <xref rid="pbi13498-bib-0114" ref-type="ref">2005</xref>) to detect positively selected genes (PSGs). When one of the three species of Myrtaceae was specified as a foreground branch, the other two and the pomegranate branches in the phylogenetic tree were used as background branches. We conducted likelihood ratio tests to determine whether positive selection was operating on the foreground branch. In this study, PSGs were identified only when <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01.</p></sec></sec><sec sec-type="COI-statement" id="pbi13498-sec-0023"><title>Conflict of interest statement</title><p>The authors declared that they have no conflict of interest to this work.</p></sec><sec id="pbi13498-sec-0024"><title>Author contributions</title><p>MK and YL conceived the project. MK, YL and Chen Feng designed the study. Chen Feng and Chao Feng performed the sampling and experiments, and data analysis. Chen Feng designed and visualized the figures. Chen Feng and MK wrote the manuscript. All authors read and approved the final manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pbi13498-sup-0001"><caption><p>
+<bold>Figure S1</bold> K&#x02010;mer frequency distribution curve (<italic>k</italic>&#x000a0;=&#x000a0;17) of Illumina short reads of the guava genome.</p><p>
+<bold>Figure S2</bold> Hi&#x02010;C contact data mapped to the genome of guava. The heat map represents the normalized contact matrix. The strongest and weakest contacts are shown in red and yellow, respectively.</p><p>
+<bold>Figure S3</bold> Prediction and annotation of genes in guava genome. (a) Number of genes predicted with <italic>de novo</italic>, homolog and RNA&#x02010;seq. All predicted genes were integrated by EVM. (b) Number of genes annotated with databases of Swissprot, NR, GO, KEGG, Pfam and InterPro.</p><p>
+<bold>Figure S4</bold> Diagram showing the gene ontology (GO) categories of the annotated genes in the guava genome.</p><p>
+<bold>Figure S5</bold> (a) The distribution of miRNA, rRNA, snRNA and tRNA genes on the guava pseudochromosomes. (b) The heat map of SSR distribution on the guava pseudochromosomes.</p><p>
+<bold>Figure S6</bold> Venn diagram showing orthologous groups shared among guava (<italic>P. guajava</italic>), <italic>L. scoparium</italic>, <italic>E. grandis</italic>, <italic>P. granatum</italic> and other species. Each number represents the number of gene families.</p><p>
+<bold>Figure S7</bold> Gene ontology enrichment of genes from expanded gene families in guava. Directed acyclic graph showed top enriched GO terms belonging to Category Biological Process. Rectangles indicate the significant terms with <italic>P</italic>&#x02010;value&#x000a0;&#x0003c;&#x000a0;0.01, with colour ranging from dark red (represent most significant <italic>P</italic>&#x02010;value) to bright yellow (least significant). The information displayed for each node, from first line to fourth line, is the GO term, GO name, <italic>P</italic>&#x02010;value and the number of duplicates from the D event/ the number of total genes annotated to the respective GO term, respectively.</p><p>
+<bold>Figure S8</bold> Gene ontology enrichment of genes from expanded gene families in guava. Directed acyclic graph showed top enriched GO terms belonging to Category Molecular Function.</p><p>
+<bold>Figure S9</bold> Gene ontology enrichment of genes from contracted gene families in guava. Directed acyclic graph showed top enriched GO terms belonging to Category Biological Process.</p><p>
+<bold>Figure S10</bold> Gene ontology enrichment of genes from contracted gene families in guava. Directed acyclic graph showed top enriched GO terms belonging to Category Molecular Function.</p><p>
+<bold>Figure S11</bold> Maximum&#x02010;likelihood species trees obtained using protein and DNA sequences of 3454 single&#x02010;copy orthologs. Support values are shown adjacent to nodes.</p><p>
+<bold>Figure S12</bold>
+<italic>K</italic>s distribution for paralogs in guava, <italic>L. scoparium</italic>, <italic>E. grandis</italic> and <italic>P. granatum</italic> (a), and for orthologs between them (b). Dashed lines in (a) which represent individual WGDs are fitted by a mixture model (BGMM).</p><p>
+<bold>Figure S13</bold> Syntenic blocks shared between the guava and <italic>L. scoparium</italic> genomes, and between guava and <italic>E. grandis</italic> genomes.</p><p>
+<bold>Figure S14</bold> MAPS result for potential WGDs. Percentage of subtrees indicates percentage of duplicates shared by descendant species at each node. The yellow star represents the WGD event shared by species of Myrtaceae.</p><p>
+<bold>Figure S15</bold> The four proposed ascorbic acid biosynthesis pathways in higher plants. Gene abbreviations are shown in Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S17</xref>.</p><p>
+<bold>Figure S16</bold> Heat map of gene transcript abundance in the ascorbic acid biosynthesis pathways (a) and starch biosynthesis (b) in different tissues and at different fruit developmental stages in <italic>P. guajava</italic>. FPKM values are log<sub>2</sub>&#x02010;based. Red and blue indicate high and low expression levels, respectively. GalUR: D&#x02010;galacturonate reductase; MIOX: myo&#x02010;inositol oxygenase; SS: starch synthase.</p><p>
+<bold>Figure S17</bold> Gene networks of the tan (a), light yellow (b) and yellow (c) modules. Candidate genes in starch degradation and ascorbic acid biosynthesis pathways are shown in green and red coloured circles, respectively. Genes and their abbreviations are shown in Tables&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S17, S19 and S20</xref>.</p><p>
+<bold>Figure S18</bold> Heat map of gene transcript abundance in the starch degradation pathway in different tissues and at different fruit developmental stages in <italic>P.&#x000a0;guajava</italic>. FPKM values are log<sub>2</sub>&#x02010;based. Red and blue indicate high and low expression levels, respectively. Gene abbreviations are shown in Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S20</xref>.</p><p>
+<bold>Figure S19</bold> Heat map of important genes transcript abundance in the cellulose degradation and cell wall softening pathways in different tissues and at different fruit developmental stages in guava. Gene abbreviations are shown in Table&#x000a0;<xref rid="pbi13498-sup-0002" ref-type="supplementary-material">S21</xref>.</p><p>
+<bold>Figure S20</bold> Gene ontology enrichment of positively selected genes in guava. Directed acyclic graph showed top enriched GO terms belonging to the Biological Process category.</p><p>
+<bold>Figure S21</bold> Gene ontology enrichment of positively selected genes in guava. Directed acyclic graph showed top enriched GO terms belonging to the Molecular Function category.</p></caption><media xlink:href="PBI-19-717-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pbi13498-sup-0002"><caption><p>
+<bold>Table S1</bold> Summary statistics for the final genome assembly of <italic>P. guajava</italic>.</p><p>
+<bold>Table S2</bold> Evaluation of the genome assembly of <italic>P. guajava</italic> using core Eukaryotic genes mapping approach (CEGMA).</p><p>
+<bold>Table S3</bold> Evaluation of the genome assembly of <italic>P. guajava</italic> using Benchmarking Universal Single&#x02010;Copy Orthologs (BUSCO).</p><p>
+<bold>Table S4</bold> Assessment of genome assembly of <italic>P. guajava</italic> using EST sequences.</p><p>
+<bold>Table S5</bold> Statistics of the guava RNA&#x02010;Seq data from different tissues and developmental stages.</p><p>
+<bold>Table S6</bold> Summary of transposable elements in <italic>P. guajava</italic>.</p><p>
+<bold>Table S7</bold> Summary statistics of predicted protein&#x02010;coding genes in <italic>P. guajava</italic>.</p><p>
+<bold>Table S8</bold> Summary of protein&#x02010;coding gene annotation of <italic>P. guajava</italic>.</p><p>
+<bold>Table S9</bold> Non&#x02010;coding RNAs predicted in the genome of <italic>P. guajava</italic>.</p><p>
+<bold>Table S10</bold> List of plant genome sequences used in the comparative genomic analysis.</p><p>
+<bold>Table S11</bold> Gene families clustered by OrthoFinder in 11 species. Genes used for OrthoFinder were proteins without splice variants.</p><p>
+<bold>Table S12</bold> Gene Ontology enrichment analysis of species&#x02010;specific single&#x02010;copy genes in guava.</p><p>
+<bold>Table S13</bold> Gene Ontology enrichment analysis of genes in significantly expanded gene families in <italic>P. guajava</italic>.</p><p>
+<bold>Table S14</bold> Gene Ontology enrichment analysis of genes in significantly contracted gene families in <italic>P. guajava</italic>.</p><p>
+<bold>Table S15</bold> Multi&#x02010;tAxon Paleopolyploidy Search (MAPS) results on the portion of the phylogeny surrounding potential WGDs. Percentage of subtrees indicates percentage of duplicates shared by descendant species at each node. Node numbers correspond to species tree in Figure&#x000a0;<xref rid="pbi13498-sup-0001" ref-type="supplementary-material">S14</xref>.</p><p>
+<bold>Table S16</bold> Starch and ascorbic acid content at different developmental stages in fruits of guava.</p><p>
+<bold>Table S17</bold> Number of predicted genes encoding enzymes of ascorbic acid biosynthesis and regeneration in guava, <italic>E. grandis</italic>, <italic>P. granatum</italic> and <italic>A. thaliana</italic>.</p><p>
+<bold>Table S18</bold> Gene of FPKM&#x000a0;&#x02265;&#x000a0;5 in ascorbic acid biosynthesis and regeneration pathways.</p><p>
+<bold>Table S19</bold> Genes associated with ascorbic acid biosynthesis and starch degradation located in WGCNA coexpression modules.</p><p>
+<bold>Table S20</bold> Number of predicted genes encoding enzymes of starch degradation in guava, <italic>E. grandis</italic>, <italic>P. granatum</italic> and <italic>A. thaliana</italic>.</p><p>
+<bold>Table S21</bold> Number of predicted genes encoding enzymes involving cellulose degradation and cell wall softening in guava, <italic>E. grandis</italic>, <italic>P. granatum</italic> and <italic>A. thaliana</italic>.</p><p>
+<bold>Table S22</bold> Positively selected genes in the genome of <italic>P. guajava</italic>. Two <italic>AMY</italic> genes and two genes involved in starch biosynthesis are in bold.</p><p>
+<bold>Table S23</bold> Positively selected genes in the lignin biosynthesis pathway in the genomes of <italic>L. scoparium</italic> and <italic>E. grandis</italic>.</p></caption><media xlink:href="PBI-19-717-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pbi13498-sec-0022"><title>Acknowledgements</title><p>This work was supported by Institution of South China Sea Ecology and Environmental Engineering, Chinese Academy of Sciences (No. ISEE 2020YB02) and Projects of Enhancing School with Innovation of Guangdong Ocean University (GDOU2013050217, GDOU2016050256). We also thank A. J. Harris for her critical reading and correction of English of the manuscript.</p></ack><sec sec-type="data-availability" id="pbi13498-sec-0026"><title>Data availability</title><p>The raw genomic Illumina sequences, PacBio sequences and transcriptome data have been deposited in the NCBI Sequence Read Archive under accession numbers PRJNA631442. The phenotypic data are deposited in Figshare (10.6084/m9.figshare.12277934.v1).</p></sec><ref-list content-type="cited-references" id="pbi13498-bibl-0001"><title>References</title><ref id="pbi13498-bib-0001"><mixed-citation publication-type="journal" id="pbi13498-cit-0001">
+<string-name>
+<surname>Abreu</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>, <given-names>C.D.</given-names>
+</string-name>, <string-name>
+<surname>Abreu</surname>, <given-names>C.M.P.</given-names>
+</string-name>, <string-name>
+<surname>Corr&#x000ea;a</surname>, <given-names>A.D.</given-names>
+</string-name> and <string-name>
+<surname>Lima</surname>, <given-names>L.C.</given-names>
+</string-name> (<year>2012</year>) <article-title>Sugar fractionation and pectin content during the ripening of guava cv. Pedro Sato</article-title>. <source xml:lang="en">Food Sci. Tech.</source>
+<volume>32</volume>, <fpage>156</fpage>&#x02013;<lpage>162</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0002"><mixed-citation publication-type="journal" id="pbi13498-cit-0002">
+<string-name>
+<surname>Ali</surname>, <given-names>Z.M.</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>, <given-names>L.&#x02010;H.</given-names>
+</string-name> and <string-name>
+<surname>Lazan</surname>, <given-names>H.</given-names>
+</string-name> (<year>2004</year>) <article-title>A comparative study on wall degrading enzymes, pectin modifications and softening during ripening of selected tropical fruits</article-title>. <source xml:lang="en">Plant Sci.</source>
+<volume>167</volume>, <fpage>317</fpage>&#x02013;<lpage>327</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0003"><mixed-citation publication-type="journal" id="pbi13498-cit-0003">
+<string-name>
+<surname>Altschul</surname>, <given-names>S.F.</given-names>
+</string-name>, <string-name>
+<surname>Gish</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>E.W.</given-names>
+</string-name> and <string-name>
+<surname>Lipman</surname>, <given-names>D.J.</given-names>
+</string-name> (<year>2009</year>) <article-title>Basic local alignment search tool</article-title>. <source xml:lang="en">J. Mol. Biol.</source>
+<volume>215</volume>, <fpage>403</fpage>&#x02013;<lpage>410</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0004"><mixed-citation publication-type="journal" id="pbi13498-cit-0004">
+<string-name>
+<surname>Argout</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Salse</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Aury</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Guiltinan</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Droc</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Gouzy</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Allegre</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2011</year>) <article-title>The genome of <italic>Theobroma cacao</italic>
+</article-title>. <source xml:lang="en">Nat. Genet.</source>
+<volume>43</volume>, <fpage>101</fpage>&#x02013;<lpage>108</lpage>.<pub-id pub-id-type="pmid">21186351</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0005"><mixed-citation publication-type="journal" id="pbi13498-cit-0005">
+<string-name>
+<surname>Badouin</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gouzy</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Grassa</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Murat</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Staton</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Cottret</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lelandais&#x02010;Bri&#x000e8;re</surname>, <given-names>C.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2017</year>) <article-title>The sunflower genome provides insights into oil metabolism, flowering and Asterid evolution</article-title>. <source xml:lang="en">Nature,</source>
+<volume>546</volume>, <fpage>148</fpage>&#x02013;<lpage>152</lpage>.<pub-id pub-id-type="pmid">28538728</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0006"><mixed-citation publication-type="journal" id="pbi13498-cit-0006">
+<string-name>
+<surname>Bao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kojima</surname>, <given-names>K.K.</given-names>
+</string-name> and <string-name>
+<surname>Kohany</surname>, <given-names>O.</given-names>
+</string-name> (<year>2015</year>) <article-title>Repbase Update, a database of repetitive elements in eukaryotic genomes</article-title>. <source xml:lang="en">Mob. DNA,</source>
+<volume>6</volume>, <fpage>11</fpage>.<pub-id pub-id-type="pmid">26045719</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0007"><mixed-citation publication-type="journal" id="pbi13498-cit-0007">
+<string-name>
+<surname>Belton</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>McCord</surname>, <given-names>R.P.</given-names>
+</string-name>, <string-name>
+<surname>Gibcus</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Naumova</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zhan</surname>, <given-names>Y.</given-names>
+</string-name> and <string-name>
+<surname>Dekker</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Hi&#x02010;C: a comprehensive technique to capture the conformation of genomes</article-title>. <source xml:lang="en">Methods,</source>
+<volume>58</volume>, <fpage>268</fpage>&#x02013;<lpage>276</lpage>.<pub-id pub-id-type="pmid">22652625</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0008"><mixed-citation publication-type="journal" id="pbi13498-cit-0008">
+<string-name>
+<surname>Benson</surname>, <given-names>G.</given-names>
+</string-name> (<year>1999</year>) <article-title>Tandem repeats finder: a program to analyze DNA sequences</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>27</volume>, <fpage>573</fpage>&#x02013;<lpage>580</lpage>.<pub-id pub-id-type="pmid">9862982</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0009"><mixed-citation publication-type="journal" id="pbi13498-cit-0009">
+<string-name>
+<surname>Biffin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lucas</surname>, <given-names>E.J.</given-names>
+</string-name>, <string-name>
+<surname>Craven</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>, <given-names>I.R.</given-names>
+</string-name>, <string-name>
+<surname>Harrington</surname>, <given-names>M.G.</given-names>
+</string-name> and <string-name>
+<surname>Crisp</surname>, <given-names>M.D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Evolution of exceptional species richness among lineages of fleshy&#x02010;fruited Myrtaceae</article-title>. <source xml:lang="en">Ann. Bot.</source>
+<volume>106</volume>, <fpage>79</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">20462850</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0010"><mixed-citation publication-type="journal" id="pbi13498-cit-0010">
+<string-name>
+<surname>Birney</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Clamp</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Durbin</surname>, <given-names>R.</given-names>
+</string-name> (<year>2004</year>) <article-title>GeneWise and genomewise</article-title>. <source xml:lang="en">Genome Res.</source>
+<volume>14</volume>, <fpage>988</fpage>&#x02013;<lpage>995</lpage>.<pub-id pub-id-type="pmid">15123596</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0011"><mixed-citation publication-type="journal" id="pbi13498-cit-0011">
+<string-name>
+<surname>Bobrov</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Romanov</surname>, <given-names>M.S.</given-names>
+</string-name> (<year>2019</year>) <article-title>Morphogenesis of fruits and types of fruit of angiosperms</article-title>. <source xml:lang="en">Bot. Lett.</source>
+<volume>166</volume>, <fpage>366</fpage>&#x02013;<lpage>399</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0012"><mixed-citation publication-type="journal" id="pbi13498-cit-0012">
+<string-name>
+<surname>Brady</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>1987</year>) <article-title>Fruit ripening</article-title>. <source xml:lang="en">Annu. Rev. Plant Physiol.</source>
+<volume>38</volume>, <fpage>155</fpage>&#x02013;<lpage>173</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0013"><mixed-citation publication-type="journal" id="pbi13498-cit-0013">
+<string-name>
+<surname>Braga</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Marques</surname>, <given-names>T.R.</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x00101;o</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Botelho</surname>, <given-names>L.N.S.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>L.S.</given-names>
+</string-name> and <string-name>
+<surname>Abreu</surname>, <given-names>C.M.P.</given-names>
+</string-name> (<year>2017</year>) <article-title>Mechanism of firmness loss in guava cv. Pedro Sato during ripening at room temperature</article-title>. <source xml:lang="en">Food Sci. Tech.</source>
+<volume>38</volume>, <fpage>26</fpage>&#x02013;<lpage>32</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0014"><mixed-citation publication-type="journal" id="pbi13498-cit-0014">
+<string-name>
+<surname>Broad</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Bonneau</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Hellens</surname>, <given-names>R.P.</given-names>
+</string-name> and <string-name>
+<surname>Johnson</surname>, <given-names>A.A.T.</given-names>
+</string-name> (<year>2020</year>) <article-title>Manipulation of ascorbate biosynthetic, recycling, and regulatory pathways for improved abiotic stress tolerance in plants</article-title>. <source xml:lang="en">Int. J. Mol. Sci.</source>
+<volume>21</volume>, <fpage>1790</fpage>.</mixed-citation></ref><ref id="pbi13498-bib-0015"><mixed-citation publication-type="journal" id="pbi13498-cit-0015">
+<string-name>
+<surname>Burge</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Karlin</surname>, <given-names>S.</given-names>
+</string-name> (<year>1997</year>) <article-title>Prediction of complete gene structures in human genomic DNA</article-title>. <source xml:lang="en">J. Mol. Biol.</source>
+<volume>268</volume>, <fpage>78</fpage>&#x02013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">9149143</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0016"><mixed-citation publication-type="journal" id="pbi13498-cit-0016">
+<string-name>
+<surname>Burton</surname>, <given-names>J.N.</given-names>
+</string-name>, <string-name>
+<surname>Adey</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Patwardhan</surname>, <given-names>R.P.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>R.L.</given-names>
+</string-name>, <string-name>
+<surname>Kitzman</surname>, <given-names>J.O.</given-names>
+</string-name> and <string-name>
+<surname>Shendure</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Chromosome&#x02010;scale scaffolding of <italic>de novo</italic> genome assemblies based on chromatin interactions</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>31</volume>, <fpage>1119</fpage>&#x02013;<lpage>1125</lpage>.<pub-id pub-id-type="pmid">24185095</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0017"><mixed-citation publication-type="book" id="pbi13498-cit-0017">
+<collab collab-type="authors">CABI</collab>
+. (<year>2019</year>) <italic>Psidium guajava</italic>. In: <source xml:lang="en">Invasive Species Compendium</source>. <publisher-loc>Wallingford, UK</publisher-loc>: <publisher-name>CAB International</publisher-name>. <ext-link ext-link-type="uri" xlink:href="http://www.cabi.org/isc">www.cabi.org/isc</ext-link>.</mixed-citation></ref><ref id="pbi13498-bib-0018"><mixed-citation publication-type="journal" id="pbi13498-cit-0018">
+<string-name>
+<surname>Carocha</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Soler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hefer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cassan&#x02010;Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Fevereiro</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Myburg</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Paiva</surname>, <given-names>J.A.P.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2015</year>) <article-title>Genome&#x02010;wide analysis of the lignin toolbox of <italic>Eucalyptus grandis</italic>
+</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>206</volume>, <fpage>1297</fpage>&#x02013;<lpage>1313</lpage>.<pub-id pub-id-type="pmid">25684249</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0019"><mixed-citation publication-type="journal" id="pbi13498-cit-0019">
+<string-name>
+<surname>Castro</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Cobos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Maddox</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Im&#x000e1;n</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Egoavil</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Torres</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Gutierrez</surname>, <given-names>F.</given-names>
+</string-name> (<year>2015a</year>) <article-title>Gene expression and enzyme activities of the D&#x02010;mannose/L&#x02010;galactose pathway influence L&#x02010;ascorbic acid content in <italic>Myrciaria dubia</italic>
+</article-title>. <source xml:lang="en">Biol. Plantarum,</source>
+<volume>59</volume>, <fpage>783</fpage>&#x02013;<lpage>787</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0020"><mixed-citation publication-type="journal" id="pbi13498-cit-0020">
+<string-name>
+<surname>Castro</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Maddox</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Cobos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Requena</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Zimic</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bombarely</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Im&#x000e1;n</surname>, <given-names>S.A.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2015b</year>) <article-title>
+<italic>De novo</italic> assembly and functional annotation of <italic>Myrciaria dubia</italic> fruit transcriptome reveals multiple metabolic pathways for L&#x02010;ascorbic acid biosynthesis</article-title>. <source xml:lang="en">BMC Genom.</source>
+<volume>16</volume>, <fpage>997</fpage>.</mixed-citation></ref><ref id="pbi13498-bib-0021"><mixed-citation publication-type="journal" id="pbi13498-cit-0021">
+<string-name>
+<surname>Chen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Jiang</surname>, <given-names>X.</given-names>
+</string-name> (<year>2017</year>) <article-title>Transcriptome of wax apple (<italic>Syzygium samarangense</italic>) provides insights into nitric oxide&#x02010;induced delays of postharvest cottony softening</article-title>. <source xml:lang="en">Acta Physiol. Plant.</source>
+<volume>39</volume>, <fpage>273</fpage>&#x02013;<lpage>284</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0022"><mixed-citation publication-type="journal" id="pbi13498-cit-0022">
+<string-name>
+<surname>Chin</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>, <given-names>D.H.</given-names>
+</string-name>, <string-name>
+<surname>Marks</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Klammer</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Drake</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Heiner</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Clum</surname>, <given-names>A.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2013</year>) <article-title>Nonhybrid, finished microbial genome assemblies from long&#x02010;read SMRT sequencing data</article-title>. <source xml:lang="en">Nat. Methods,</source>
+<volume>10</volume>, <fpage>563</fpage>&#x02013;<lpage>569</lpage>.<pub-id pub-id-type="pmid">23644548</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0023"><mixed-citation publication-type="journal" id="pbi13498-cit-0023">
+<string-name>
+<surname>Chin</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>Peluso</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Sedlazeck</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Nattestad</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Concepcion</surname>, <given-names>G.T.</given-names>
+</string-name>, <string-name>
+<surname>Clum</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dunn</surname>, <given-names>C.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2016</year>) <article-title>Phased diploid genome assembly with single&#x02010;molecule real&#x02010;time sequencing</article-title>. <source xml:lang="en">Nat. Methods,</source>
+<volume>13</volume>, <fpage>1050</fpage>&#x02013;<lpage>1054</lpage>.<pub-id pub-id-type="pmid">27749838</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0024"><mixed-citation publication-type="journal" id="pbi13498-cit-0024">
+<string-name>
+<surname>Christenhusz</surname>, <given-names>M.J.M.</given-names>
+</string-name> and <string-name>
+<surname>Byng</surname>, <given-names>J.W.</given-names>
+</string-name> (<year>2016</year>) <article-title>The number of known species in the world and its annual increase</article-title>. <source xml:lang="en">Phytotaxa,</source>
+<volume>261</volume>, <fpage>201</fpage>&#x02013;<lpage>217</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0025"><mixed-citation publication-type="book" id="pbi13498-cit-0025">
+<string-name>
+<surname>Cobley</surname>, <given-names>L.S.</given-names>
+</string-name> (<year>1976</year>) <source xml:lang="en">An Introduction to the Botany of Tropical Crops</source>, <edition designator="2">2nd ed.</edition>
+<publisher-loc>New York</publisher-loc>: <publisher-name>Longman</publisher-name>.</mixed-citation></ref><ref id="pbi13498-bib-0026"><mixed-citation publication-type="journal" id="pbi13498-cit-0026">
+<string-name>
+<surname>Cordenunsi&#x02010;Lysenko</surname>, <given-names>B.R.</given-names>
+</string-name>, <string-name>
+<surname>Nascimento</surname>, <given-names>J.R.O.</given-names>
+</string-name>, <string-name>
+<surname>Castro&#x02010;Alves</surname>, <given-names>V.C.</given-names>
+</string-name>, <string-name>
+<surname>Purgatto</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Fabi</surname>, <given-names>J.P.</given-names>
+</string-name> and <string-name>
+<surname>Peroni&#x02010;Okyta</surname>, <given-names>F.H.G.</given-names>
+</string-name> (<year>2019</year>) <article-title>The starch is (not) just another brick in the wall: the primary metabolism of sugars during banana ripening</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>10</volume>, <fpage>391</fpage>.<pub-id pub-id-type="pmid">31001305</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0027"><mixed-citation publication-type="journal" id="pbi13498-cit-0027">
+<string-name>
+<surname>Coser</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>, <given-names>M.F.S.</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mitre</surname>, <given-names>L.K.</given-names>
+</string-name>, <string-name>
+<surname>Carvalho</surname>, <given-names>C.R.</given-names>
+</string-name> and <string-name>
+<surname>Clarindo</surname>, <given-names>W.R.</given-names>
+</string-name> (<year>2012</year>) <article-title>Assessment of genetic diversity in <italic>Psidium guajava</italic> L. using different approaches</article-title>. <source xml:lang="en">Sci. Hortic.</source>
+<volume>148</volume>, <fpage>223</fpage>&#x02013;<lpage>229</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0028"><mixed-citation publication-type="journal" id="pbi13498-cit-0028">
+<string-name>
+<surname>Dardick</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Callahan</surname>, <given-names>A.M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Evolution of the fruit endocarp: molecular mechanisms underlying adaptations in seed protection and dispersal strategies</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>5</volume>, <fpage>284</fpage>.<pub-id pub-id-type="pmid">25009543</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0029"><mixed-citation publication-type="journal" id="pbi13498-cit-0029">
+<string-name>
+<surname>Davey</surname>, <given-names>M.W.</given-names>
+</string-name>, <string-name>
+<surname>Montagu</surname>, <given-names>M.V.</given-names>
+</string-name>
+<string-name>
+<surname>Inze</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sanmartin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kanellis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Smirnoff</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Benzie</surname>, <given-names>I.J.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2000</year>) <article-title>Plant L&#x02010;ascorbic acid: chemistry, function, metabolism, bioavailability and effects of processing</article-title>. <source xml:lang="en">J. Sci. Food Agric.</source>
+<volume>80</volume>, <fpage>825</fpage>&#x02013;<lpage>860</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0030"><mixed-citation publication-type="journal" id="pbi13498-cit-0030">
+<string-name>
+<surname>De Bie</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Cristianini</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Demuth</surname>, <given-names>J.P.</given-names>
+</string-name> and <string-name>
+<surname>Hahn</surname>, <given-names>M.W.</given-names>
+</string-name> (<year>2006</year>) <article-title>CAFE: a computational tool for the study of gene family evolution</article-title>. <source xml:lang="en">Bioinformatics,</source>
+<volume>22</volume>, <fpage>1269</fpage>&#x02013;<lpage>1271</lpage>.<pub-id pub-id-type="pmid">16543274</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0031"><mixed-citation publication-type="journal" id="pbi13498-cit-0031">
+<string-name>
+<surname>De Tullio</surname>, <given-names>M.C.</given-names>
+</string-name> and <string-name>
+<surname>Arrigoni</surname>, <given-names>O.</given-names>
+</string-name> (<year>2003</year>) <article-title>The ascorbic acid system in seeds: to protect and to serve</article-title>. <source xml:lang="en">Seed. Sci. Res.</source>
+<volume>13</volume>, <fpage>249</fpage>&#x02013;<lpage>260</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0032"><mixed-citation publication-type="journal" id="pbi13498-cit-0032">
+<string-name>
+<surname>Doyle</surname>, <given-names>J.J.</given-names>
+</string-name> and <string-name>
+<surname>Doyle</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>1987</year>) <article-title>A rapid DNA isolation procedure from small quantities of fresh leaf tissue</article-title>. <source xml:lang="en">Phytochem. Bull.</source>
+<volume>19</volume>, <fpage>11</fpage>&#x02013;<lpage>15</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0033"><mixed-citation publication-type="journal" id="pbi13498-cit-0033">
+<string-name>
+<surname>Drouin</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Godin</surname>, <given-names>J.R.</given-names>
+</string-name> and <string-name>
+<surname>Page</surname>, <given-names>B.</given-names>
+</string-name> (<year>2011</year>) <article-title>The genetics of vitamin C loss in vertebrates</article-title>. <source xml:lang="en">Curr. Genom,</source>
+<volume>12</volume>, <fpage>371</fpage>&#x02013;<lpage>378</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0034"><mixed-citation publication-type="journal" id="pbi13498-cit-0034">
+<string-name>
+<surname>Drummond</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Suchard</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Rambaut</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>) <article-title>Bayesian phylogenetics with BEAUti and the BEAST 1.7</article-title>. <source xml:lang="en">Mol. Biol. Evol.</source>
+<volume>29</volume>, <fpage>1969</fpage>&#x02013;<lpage>1973</lpage>.<pub-id pub-id-type="pmid">22367748</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0035"><mixed-citation publication-type="journal" id="pbi13498-cit-0035">
+<string-name>
+<surname>Edgar</surname>, <given-names>R.C.</given-names>
+</string-name> (<year>2004</year>) <article-title>MUSCLE: multiple sequence alignment with high accuracy and high throughput</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>32</volume>, <fpage>1792</fpage>&#x02013;<lpage>1797</lpage>.<pub-id pub-id-type="pmid">15034147</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0036"><mixed-citation publication-type="journal" id="pbi13498-cit-0036">
+<string-name>
+<surname>Emms</surname>, <given-names>D.M.</given-names>
+</string-name> and <string-name>
+<surname>Kelly</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>) <article-title>OrthoFinder: Solving fundamental biases in whole genomecomparisons dramatically improves orthogroup inference accuracy</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>16</volume>, <fpage>157</fpage>.<pub-id pub-id-type="pmid">26243257</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0037"><mixed-citation publication-type="book" id="pbi13498-cit-0037">
+<collab collab-type="authors">FAO statistics</collab>
+. (<year>2018</year>) <source xml:lang="en">Minor tropical fruits</source>. <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/news">www.fao.org/news</ext-link>
+</mixed-citation></ref><ref id="pbi13498-bib-0038"><mixed-citation publication-type="journal" id="pbi13498-cit-0038">
+<string-name>
+<surname>Feng</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Allan</surname>, <given-names>A.C.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2012</year>) <article-title>Transcriptomic analysis of Chinese bayberry (<italic>Myrica rubra</italic>) fruit development and ripening using RNA&#x02010;Seq</article-title>. <source xml:lang="en">BMC Genom.</source>
+<volume>13</volume>, <fpage>19</fpage>.</mixed-citation></ref><ref id="pbi13498-bib-0039"><mixed-citation publication-type="journal" id="pbi13498-cit-0039">
+<string-name>
+<surname>Fernandes</surname>, <given-names>M.R.V.</given-names>
+</string-name>, <string-name>
+<surname>Dias</surname>, <given-names>A.L.T.</given-names>
+</string-name>, <string-name>
+<surname>Carvalho</surname>, <given-names>R.R.</given-names>
+</string-name>, <string-name>
+<surname>Souza</surname>, <given-names>C.R.F.</given-names>
+</string-name> and <string-name>
+<surname>Oliveira</surname>, <given-names>W.P.</given-names>
+</string-name> (<year>2014</year>) <article-title>Antioxidant and antimicrobial activities of <italic>Psidium guajava</italic> L. spray dried extracts</article-title>. <source xml:lang="en">Ind. Crop. Prod.</source>
+<volume>60</volume>, <fpage>39</fpage>&#x02013;<lpage>44</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0040"><mixed-citation publication-type="journal" id="pbi13498-cit-0040">
+<string-name>
+<surname>Giovannoni</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>DellaPenna</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>, <given-names>A.B.</given-names>
+</string-name> and <string-name>
+<surname>Fischer</surname>, <given-names>R.L.</given-names>
+</string-name> (<year>1992</year>) <article-title>Polygalacturonase and tomato fruit ripening</article-title>. <source xml:lang="en">Hort. Rev.</source>
+<volume>13</volume>, <fpage>67</fpage>&#x02013;<lpage>109</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0041"><mixed-citation publication-type="journal" id="pbi13498-cit-0041">
+<string-name>
+<surname>Grabherr</surname>, <given-names>G.M.</given-names>
+</string-name>, <string-name>
+<surname>Haas</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Yassour</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>, <given-names>Z.J.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>A.D.</given-names>
+</string-name>, <string-name>
+<surname>Amit</surname>, <given-names>I.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2011</year>) <article-title>Full&#x02010;length transcriptome assembly from RNA&#x02010;Seq data without a reference genome</article-title>. <source xml:lang="en">Nat. Biotechnol.</source>
+<volume>29</volume>, <fpage>644</fpage>&#x02013;<lpage>652</lpage>.<pub-id pub-id-type="pmid">21572440</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0042"><mixed-citation publication-type="journal" id="pbi13498-cit-0042">
+<string-name>
+<surname>Grattapaglia</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Vaillancourt</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Shepherd</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Thumma</surname>, <given-names>B.R.</given-names>
+</string-name>, <string-name>
+<surname>Foley</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;lheim</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Potts</surname>, <given-names>B.M.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2012</year>) <article-title>Progress in Myrtaceae genetics and genomics: <italic>Eucalyptus</italic> as the pivotal genus</article-title>. <source xml:lang="en">Tree Genet. Genomes,</source>
+<volume>8</volume>, <fpage>463</fpage>&#x02013;<lpage>508</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0043"><mixed-citation publication-type="journal" id="pbi13498-cit-0043">
+<string-name>
+<surname>Grosso</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bei</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mistretta</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Marventano</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Calabrese</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Masuelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Giganti</surname>, <given-names>M.G.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2013</year>) <article-title>Effects of vitamin C on health: a review of evidence</article-title>. <source xml:lang="en">Front. Biosci.</source>
+<volume>18</volume>, <fpage>1017</fpage>&#x02013;<lpage>1029</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0044"><mixed-citation publication-type="journal" id="pbi13498-cit-0044">
+<string-name>
+<surname>Guevara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tejera</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Granda&#x02010;Albuja</surname>, <given-names>M.G.</given-names>
+</string-name>, <string-name>
+<surname>Iturralde</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Chisaguano&#x02010;Tonato</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Granda&#x02010;Albuja</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jaramillo&#x02010;Vivanco</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2019</year>) <article-title>Chemical composition and antioxidant activity of the main fruits consumed in the western coastal region of ecuador as a source of health&#x02010;promoting compounds</article-title>. <source xml:lang="en">Antioxidants,</source>
+<volume>8</volume>, <fpage>387</fpage>&#x02013;<lpage>400</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0045"><mixed-citation publication-type="journal" id="pbi13498-cit-0045">
+<string-name>
+<surname>Guig&#x000f3;</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Knudsen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Drake</surname>, <given-names>N.</given-names>
+</string-name> and <string-name>
+<surname>Smith</surname>, <given-names>T.F.</given-names>
+</string-name> (<year>1992</year>) <article-title>Prediction of gene structure</article-title>. <source xml:lang="en">J. Mol. Biol.</source>
+<volume>226</volume>, <fpage>141</fpage>&#x02013;<lpage>157</lpage>.<pub-id pub-id-type="pmid">1619647</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0046"><mixed-citation publication-type="journal" id="pbi13498-cit-0046">
+<string-name>
+<surname>Gutierrez</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Solis</surname>, <given-names>R.V.</given-names>
+</string-name> (<year>2008</year>) <article-title>
+<italic>Psidium guajava</italic>: a review of its traditional uses, phytochemistry and pharmacology</article-title>. <source xml:lang="en">J. Ethnopharmacol.</source>
+<volume>117</volume>, <fpage>1</fpage>&#x02013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">18353572</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0047"><mixed-citation publication-type="journal" id="pbi13498-cit-0047">
+<string-name>
+<surname>Haas</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Delcher</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Mount</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Wortman</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>R.K.</given-names>
+</string-name>, <string-name>
+<surname>Hannick</surname>, <given-names>L.I.</given-names>
+</string-name>, <string-name>
+<surname>Maiti</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2003</year>) <article-title>Improving the <italic>Arabidopsis</italic> genome annotation using maximal transcript alignment assemblies</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>31</volume>, <fpage>5654</fpage>&#x02013;<lpage>5666</lpage>.<pub-id pub-id-type="pmid">14500829</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0048"><mixed-citation publication-type="journal" id="pbi13498-cit-0048">
+<string-name>
+<surname>Haas</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Salzberg</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Pertea</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Orvis</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>O.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2008</year>) <article-title>Automated eukaryotic gene structure annotation using EVidenceModeler and the Program to Assemble Spliced Alignments</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>9</volume>, <fpage>R7</fpage>.<pub-id pub-id-type="pmid">18190707</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0049"><mixed-citation publication-type="book" id="pbi13498-cit-0049">
+<string-name>
+<surname>Hariharan</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Toyama</surname>, <given-names>K.</given-names>
+</string-name> (<year>2004</year>) <italic>Project Lachesis</italic>: parsing and modeling location histories. <source xml:lang="en">International Conference on Geographic Information Science</source>, <publisher-name>Springer</publisher-name>, <publisher-loc>Berlin, Heidelberg</publisher-loc>
+<fpage>106</fpage>&#x02013;<lpage>124</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0050"><mixed-citation publication-type="journal" id="pbi13498-cit-0050">
+<string-name>
+<surname>Ho</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Costea</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>) <article-title>Diversity, evolution and taxonomic significance of fruit in <italic>Cuscuta</italic> (dodder, Convolvulaceae); the evolutionary advantages of indehiscence</article-title>. <source xml:lang="en">Perspect. Plant Ecol.</source>
+<volume>32</volume>, <fpage>1</fpage>&#x02013;<lpage>17</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0051"><mixed-citation publication-type="book" id="pbi13498-cit-0051">
+<string-name>
+<surname>Ishikawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Maruta</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yoshimura</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Smirnoff</surname>, <given-names>N.</given-names>
+</string-name> (<year>2018</year>) <chapter-title>Biosynthesis and regulation of ascorbic acid in plants</chapter-title>. In <source xml:lang="en">Antioxidants and Antioxidant Enzymes in Higher Plants</source> (<person-group person-group-type="editor"><string-name>
+<surname>Gupta</surname>, <given-names>D.K.</given-names>
+</string-name></person-group> and <person-group person-group-type="editor"><string-name>
+<surname>Palma</surname>, <given-names>J.M.</given-names>
+</string-name></person-group>, eds), pp. <fpage>163</fpage>&#x02013;<lpage>179</lpage>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="pbi13498-bib-0052"><mixed-citation publication-type="journal" id="pbi13498-cit-0052">
+<string-name>
+<surname>Jiao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Leebens&#x02010;Mack</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ayyampalayam</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bowers</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>McKain</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>McNeal</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rolf</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2012</year>) <article-title>A genome triplication associated with early diversification of the core eudicots</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>13</volume>, <fpage>R3</fpage>.<pub-id pub-id-type="pmid">22280555</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0053"><mixed-citation publication-type="journal" id="pbi13498-cit-0053">
+<string-name>
+<surname>Jung</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>B.K.</given-names>
+</string-name>, <string-name>
+<surname>Ahn</surname>, <given-names>G.W.</given-names>
+</string-name> and <string-name>
+<surname>Ryu</surname>, <given-names>S.B.</given-names>
+</string-name> (<year>2017</year>) <article-title>A transcriptome approach toward understanding fruit softening in persimmon</article-title>. <source xml:lang="en">Front. Plant Sci.</source>
+<volume>8</volume>, <fpage>1556</fpage>.<pub-id pub-id-type="pmid">28955353</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0054"><mixed-citation publication-type="journal" id="pbi13498-cit-0054">
+<string-name>
+<surname>Kanehisa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kawashima</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Furumichi</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Tanabe</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>) <article-title>KEGG as a reference resource for gene and protein annotation</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>44</volume>, <fpage>457</fpage>&#x02013;<lpage>462</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0055"><mixed-citation publication-type="journal" id="pbi13498-cit-0055">
+<string-name>
+<surname>Kaul</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Koo</surname>, <given-names>H.L.</given-names>
+</string-name>, <string-name>
+<surname>Jenkins</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rizzo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rooney</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Tallon</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Feldblyum</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2000</year>) <article-title>Analysis of the genome sequence of the flowering plant <italic>Arabidopsis thaliana</italic>
+</article-title>. <source xml:lang="en">Nature,</source>
+<volume>408</volume>, <fpage>796</fpage>&#x02013;<lpage>815</lpage>.<pub-id pub-id-type="pmid">11130711</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0056"><mixed-citation publication-type="journal" id="pbi13498-cit-0056">
+<string-name>
+<surname>Kent</surname>, <given-names>W.J.</given-names>
+</string-name> (<year>2002</year>) <article-title>BLAT&#x02013;&#x02013;The BLAST&#x02010;like alignment tool</article-title>. <source xml:lang="en">Genome Res.</source>
+<volume>12</volume>, <fpage>656</fpage>&#x02013;<lpage>664</lpage>.<pub-id pub-id-type="pmid">11932250</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0057"><mixed-citation publication-type="journal" id="pbi13498-cit-0057">
+<string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pertea</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Trapnell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pimentel</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Salzberg</surname>, <given-names>S.L.</given-names>
+</string-name> (<year>2013</year>) <article-title>TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions</article-title>. <source xml:lang="en">Genome Biol.</source>
+<volume>14</volume>, <fpage>R36</fpage>.<pub-id pub-id-type="pmid">23618408</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0058"><mixed-citation publication-type="journal" id="pbi13498-cit-0058">
+<string-name>
+<surname>Knapp</surname>, <given-names>S.</given-names>
+</string-name> (<year>2002</year>) <article-title>Tobacco to tomatoes: a phylogenetic perspective on fruit diversity in the Solanaceae</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>53</volume>, <fpage>2001</fpage>&#x02013;<lpage>2022</lpage>.<pub-id pub-id-type="pmid">12324525</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0059"><mixed-citation publication-type="journal" id="pbi13498-cit-0059">
+<string-name>
+<surname>Korf</surname>, <given-names>I.</given-names>
+</string-name> (<year>2004</year>) <article-title>Gene finding in novel genomes</article-title>. <source xml:lang="en">BMC Bioinform.</source>
+<volume>5</volume>, <fpage>59</fpage>.</mixed-citation></ref><ref id="pbi13498-bib-0060"><mixed-citation publication-type="journal" id="pbi13498-cit-0060">
+<string-name>
+<surname>Kumrawat</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>) <article-title>Effect of integrated nutrient management on quality and yield parameters of guava</article-title>. <source xml:lang="en">J. Pharmacogn. Phytochem.</source>
+<volume>7</volume>, <fpage>1668</fpage>&#x02013;<lpage>1670</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0061"><mixed-citation publication-type="journal" id="pbi13498-cit-0061">
+<string-name>
+<surname>Langfelder</surname>, <given-names>P.</given-names>
+</string-name> and <string-name>
+<surname>Horvath</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>) <article-title>WGCNA: an R package for weighted correlation network analysis</article-title>. <source xml:lang="en">BMC Bioinform.</source>
+<volume>9</volume>, <fpage>559</fpage>.</mixed-citation></ref><ref id="pbi13498-bib-0062"><mixed-citation publication-type="journal" id="pbi13498-cit-0062">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>) <article-title>Toward better understanding of artifacts in variant calling from high&#x02010;coverage samples</article-title>. <source xml:lang="en">Bioinformatics,</source>
+<volume>30</volume>, <fpage>2843</fpage>&#x02013;<lpage>2851</lpage>.<pub-id pub-id-type="pmid">24974202</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0063"><mixed-citation publication-type="journal" id="pbi13498-cit-0063">
+<string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Baniaga</surname>, <given-names>A.E.</given-names>
+</string-name>, <string-name>
+<surname>Sessa</surname>, <given-names>E.B.</given-names>
+</string-name>, <string-name>
+<surname>Scascitelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>, <given-names>S.W.</given-names>
+</string-name>, <string-name>
+<surname>Rieseberg</surname>, <given-names>L.H.</given-names>
+</string-name> and <string-name>
+<surname>Barker</surname>, <given-names>M.S.</given-names>
+</string-name> (<year>2015</year>) <article-title>Early genome duplications in conifers and other seed plants</article-title>. <source xml:lang="en">Sci. Adv.</source>
+<volume>1</volume>, <elocation-id>e1501084</elocation-id>.<pub-id pub-id-type="pmid">26702445</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0064"><mixed-citation publication-type="journal" id="pbi13498-cit-0064">
+<string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name> and <string-name>
+<surname>Barker</surname>, <given-names>M.S.</given-names>
+</string-name> (<year>2020</year>) <article-title>Inferring putative ancient whole&#x02010;genome duplications in the 1000 Plants (1KP) initiative: access to gene family phylogenies and age distributions</article-title>. <source xml:lang="en">Gigascience,</source>
+<volume>9</volume>, <fpage>giaa004</fpage>.<pub-id pub-id-type="pmid">32043527</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0065"><mixed-citation publication-type="journal" id="pbi13498-cit-0065">
+<string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Grierson</surname>, <given-names>D.</given-names>
+</string-name> (<year>2019</year>) <article-title>A critical evaluation of the role of ethylene and MADS transcription factors in the network controlling fleshy fruit ripening</article-title>. <source xml:lang="en">New Phytol.</source>
+<volume>221</volume>, <fpage>1724</fpage>&#x02013;<lpage>1741</lpage>.<pub-id pub-id-type="pmid">30328615</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0066"><mixed-citation publication-type="journal" id="pbi13498-cit-0066">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name> and <string-name>
+<surname>Durbin</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Fast and accurate short read alignment with Burrows&#x02010;Wheeler transform</article-title>. <source xml:lang="en">Bioinformatics,</source>
+<volume>25</volume>, <fpage>1754</fpage>&#x02013;<lpage>1760</lpage>.<pub-id pub-id-type="pmid">19451168</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0067"><mixed-citation publication-type="miscellaneous" id="pbi13498-cit-0067">
+<string-name>
+<surname>Liu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Mu</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Fan</surname>, <given-names>W.</given-names>
+</string-name> (<year>2013</year>) <article-title>Estimation of genomic characteristics by analyzing k&#x02010;mer frequency in de novo genome projects</article-title>. arXiv preprint arXiv, 1308.2012.</mixed-citation></ref><ref id="pbi13498-bib-0068"><mixed-citation publication-type="journal" id="pbi13498-cit-0068">
+<string-name>
+<surname>Liu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>P.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2014</year>) <article-title>The complex jujube genome provides insights into fruit tree biology</article-title>. <source xml:lang="en">Nat. Commun.</source>
+<volume>5</volume>, <fpage>5315</fpage>.<pub-id pub-id-type="pmid">25350882</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0069"><mixed-citation publication-type="journal" id="pbi13498-cit-0069">
+<string-name>
+<surname>Macknight</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Laing</surname>, <given-names>W.A.</given-names>
+</string-name>, <string-name>
+<surname>Bulley</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Broad</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>A.A.</given-names>
+</string-name> and <string-name>
+<surname>Hellens</surname>, <given-names>R.P.</given-names>
+</string-name> (<year>2017</year>) <article-title>Increasing ascorbate levels in crops to enhance human nutrition and plant abiotic stress tolerance</article-title>. <source xml:lang="en">Curr. Opin. Biotechnol.</source>
+<volume>44</volume>, <fpage>153</fpage>&#x02013;<lpage>160</lpage>.<pub-id pub-id-type="pmid">28231513</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0070"><mixed-citation publication-type="journal" id="pbi13498-cit-0070">
+<string-name>
+<surname>Majoros</surname>, <given-names>W.H.</given-names>
+</string-name>, <string-name>
+<surname>Pertea</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Salzberg</surname>, <given-names>S.L.</given-names>
+</string-name> (<year>2004</year>) <article-title>TigrScan and GlimmerHMM: two open source ab initio eukaryotic gene&#x02010;finders</article-title>. <source xml:lang="en">Bioinformatics,</source>
+<volume>20</volume>, <fpage>2878</fpage>&#x02013;<lpage>2879</lpage>.<pub-id pub-id-type="pmid">15145805</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0071"><mixed-citation publication-type="journal" id="pbi13498-cit-0071">
+<string-name>
+<surname>Mirarab</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Warnow</surname>, <given-names>T.</given-names>
+</string-name> (<year>2015</year>) <article-title>ASTRAL&#x02010;II: coalescent&#x02010;based species tree estimation with many hundreds of taxa and thousands of genes</article-title>. <source xml:lang="en">Bioinformatics,</source>
+<volume>31</volume>, <fpage>i44</fpage>&#x02013;<lpage>i52</lpage>.<pub-id pub-id-type="pmid">26072508</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0072"><mixed-citation publication-type="journal" id="pbi13498-cit-0072">
+<string-name>
+<surname>Moon</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Plotto</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Crane</surname>, <given-names>J.</given-names>
+</string-name> and <string-name>
+<surname>Chambers</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>) <article-title>Assessment of fruit aroma for twenty&#x02010;seven guava (<italic>Psidium guajava</italic>) accessions through three fruit developmental stages</article-title>. <source xml:lang="en">Sci. Hortic.</source>
+<volume>238</volume>, <fpage>375</fpage>&#x02013;<lpage>383</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0073"><mixed-citation publication-type="book" id="pbi13498-cit-0073">
+<string-name>
+<surname>Morton</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>1987</year>) <source xml:lang="en">Fruits of Warm Climates</source>. <publisher-loc>Miami, FL</publisher-loc>: <publisher-name>Creative Resources Systems Inc</publisher-name>, pp. <fpage>356</fpage>&#x02013;<lpage>363</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0074"><mixed-citation publication-type="journal" id="pbi13498-cit-0074">
+<string-name>
+<surname>Myburg</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Grattapaglia</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Tuskan</surname>, <given-names>G.A.</given-names>
+</string-name>, <string-name>
+<surname>Hellsten</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Grimwood</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jenkins</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2014</year>) <article-title>The genome of <italic>Eucalyptus grandis</italic>
+</article-title>. <source xml:lang="en">Nature,</source>
+<volume>510</volume>, <fpage>356</fpage>&#x02013;<lpage>362</lpage>.<pub-id pub-id-type="pmid">24919147</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0075"><mixed-citation publication-type="book" id="pbi13498-cit-0075">
+<string-name>
+<surname>Nakasone</surname>, <given-names>H.Y.</given-names>
+</string-name> and <string-name>
+<surname>Paull</surname>, <given-names>R.E.</given-names>
+</string-name> (<year>1998</year>) <source xml:lang="en">Tropical Fruits</source>, pp. <fpage>93</fpage>&#x02013;<lpage>98</lpage>. <publisher-loc>Wallirgford</publisher-loc>: <publisher-name>CAB Queensland</publisher-name>.</mixed-citation></ref><ref id="pbi13498-bib-0076"><mixed-citation publication-type="journal" id="pbi13498-cit-0076">
+<string-name>
+<surname>Nguyen</surname>, <given-names>L.T.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>H.A.</given-names>
+</string-name>, <string-name>
+<surname>von Haeseler</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Minh</surname>, <given-names>B.Q.</given-names>
+</string-name> (<year>2015</year>) <article-title>IQ&#x02010;TREE: a fast and effective stochastic algorithm for estimating maximum&#x02010;likelihood phylogenies</article-title>. <source xml:lang="en">Mol. Bio. Evol.</source>
+<volume>32</volume>, <fpage>268</fpage>&#x02013;<lpage>274</lpage>.<pub-id pub-id-type="pmid">25371430</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0077"><mixed-citation publication-type="journal" id="pbi13498-cit-0077">
+<string-name>
+<surname>Niedenzu</surname>, <given-names>F.</given-names>
+</string-name> (<year>1893</year>) <article-title>Myrtaceae</article-title>. In: Engler A, Prantl K (eds). <source xml:lang="en">Nat. Pflanzenfam</source>. <volume>3</volume>, <fpage>57</fpage>&#x02013;<lpage>107</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0078"><mixed-citation publication-type="journal" id="pbi13498-cit-0078">
+<collab collab-type="authors">One Thousand Plant Transcriptomes Initiative</collab>
+. (<year>2019</year>) <article-title>One thousand plant transcriptomes and the phylogenomics of green plants</article-title>. <source xml:lang="en">Nature</source>
+<volume>574</volume>, <fpage>679</fpage>&#x02013;<lpage>685</lpage>.<pub-id pub-id-type="pmid">31645766</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0079"><mixed-citation publication-type="journal" id="pbi13498-cit-0079">
+<string-name>
+<surname>Otles</surname>, <given-names>S.</given-names>
+</string-name> (<year>1995</year>) <article-title>Comparative determination of ascorbic acid in bass (Morone lebrax) liver by HPLC and DNPH methods</article-title>. <source xml:lang="en">Int. J. Food Sci. Nutr.</source>
+<volume>46</volume>, <fpage>229</fpage>&#x02013;<lpage>232</lpage>.<pub-id pub-id-type="pmid">7584161</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0080"><mixed-citation publication-type="journal" id="pbi13498-cit-0080">
+<string-name>
+<surname>Pab&#x000f3;n&#x02010;Mora</surname>, <given-names>N.</given-names>
+</string-name> and <string-name>
+<surname>Litt</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>) <article-title>Comparative anatomical and developmental analysis of dry and fleshy fruits of Solanaceae</article-title>. <source xml:lang="en">Am. J. Bot.</source>
+<volume>98</volume>, <fpage>1415</fpage>&#x02013;<lpage>1436</lpage>.<pub-id pub-id-type="pmid">21875970</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0081"><mixed-citation publication-type="journal" id="pbi13498-cit-0081">
+<string-name>
+<surname>Parra</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bradnam</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Korf</surname>, <given-names>I.</given-names>
+</string-name> (<year>2007</year>) <article-title>CEGMA: a pipeline to accurately annotate core genes in eukaryotic genomes</article-title>. <source xml:lang="en">Bioinformatics,</source>
+<volume>23</volume>, <fpage>1061</fpage>&#x02013;<lpage>1067</lpage>.<pub-id pub-id-type="pmid">17332020</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0082"><mixed-citation publication-type="book" id="pbi13498-cit-0082">
+<string-name>
+<surname>Peris&#x02010;Tortajada</surname>, <given-names>M.</given-names>
+</string-name>(<year>2018</year>) <chapter-title>Measuring starch in food</chapter-title>. In <source xml:lang="en">Starch in Food</source>, <edition designator="2">2nd ed.</edition>(<person-group person-group-type="editor"><string-name>
+<surname>Nilsson</surname>, <given-names>L.</given-names>
+</string-name></person-group>, ed), pp. <fpage>255</fpage>&#x02013;<lpage>281</lpage>. <publisher-loc>Cambridge</publisher-loc>: <publisher-name>Woodhead Publishing</publisher-name>.</mixed-citation></ref><ref id="pbi13498-bib-0083"><mixed-citation publication-type="journal" id="pbi13498-cit-0083">
+<string-name>
+<surname>Qin</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ming</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Guyot</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2017</year>) <article-title>The pomegranate (<italic>Punica granatum</italic> L.) genome and the genomics of punicalagin biosynthesis</article-title>. <source xml:lang="en">Plant J.</source>
+<volume>91</volume>, <fpage>1108</fpage>&#x02013;<lpage>1128</lpage>.<pub-id pub-id-type="pmid">28654223</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0084"><mixed-citation publication-type="journal" id="pbi13498-cit-0084">
+<string-name>
+<surname>Quevillon</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Silventoinen</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Pillai</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Harte</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mulder</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Apweiler</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Lopez</surname>, <given-names>R.</given-names>
+</string-name> (<year>2005</year>) <article-title>InterProScan: protein domains identifier</article-title>. <source xml:lang="en">Nucleic Acids Res.</source>
+<volume>33</volume>(<issue>suppl_2</issue>), <fpage>116</fpage>&#x02013;<lpage>120</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0085"><mixed-citation publication-type="journal" id="pbi13498-cit-0085">
+<string-name>
+<surname>Rahman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Begum</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Begum</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Faruque</surname>, <given-names>C.A.A.</given-names>
+</string-name> (<year>2003</year>) <article-title>Correlation and path analysis in guava</article-title>. <source xml:lang="en">Bangladesh J. Agric. Res.</source>
+<volume>28</volume>, <fpage>93</fpage>&#x02013;<lpage>98</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0086"><mixed-citation publication-type="journal" id="pbi13498-cit-0086">
+<string-name>
+<surname>Rishika</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Sharma</surname>, <given-names>R.</given-names>
+</string-name> (<year>2012</year>) <article-title>An update of pharmacological activity of <italic>Psidium guajava</italic> in the management of various disorders</article-title>. <source xml:lang="en">Int. J. Pharm. Sci. Rev. Res.</source>
+<volume>3</volume>, <fpage>3577</fpage>&#x02013;<lpage>3584</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0087"><mixed-citation publication-type="book" id="pbi13498-cit-0087">
+<string-name>
+<surname>Samson</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>1986</year>) <source xml:lang="en">Tropical Fruits. Tropical Agricultural Series</source>, <edition designator="2">2nd ed</edition>. <publisher-loc>New York</publisher-loc>: <publisher-name>Longman</publisher-name>.</mixed-citation></ref><ref id="pbi13498-bib-0088"><mixed-citation publication-type="journal" id="pbi13498-cit-0088">
+<string-name>
+<surname>Scutt</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Vinauger&#x02010;Douard</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fourquin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Finet</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Dumas</surname>, <given-names>C.</given-names>
+</string-name> (<year>2006</year>) <article-title>An evolutionary perspective on the regulation of carpel development</article-title>. <source xml:lang="en">J. Exp. Bot.</source>
+<volume>57</volume>, <fpage>2143</fpage>&#x02013;<lpage>2152</lpage>.<pub-id pub-id-type="pmid">16720607</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0089"><mixed-citation publication-type="journal" id="pbi13498-cit-0089">
+<string-name>
+<surname>Shannon</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Markiel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ozier</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Baliga</surname>, <given-names>N.S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.T.</given-names>
+</string-name>, <string-name>
+<surname>Ramage</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Amin</surname>, <given-names>N.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2003</year>) <article-title>Cytoscape: a software environment for integrated models of biomolecular interaction networks</article-title>. <source xml:lang="en">Genome Res.</source>
+<volume>13</volume>, <fpage>2498</fpage>&#x02013;<lpage>2504</lpage>.<pub-id pub-id-type="pmid">14597658</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0090"><mixed-citation publication-type="journal" id="pbi13498-cit-0090">
+<string-name>
+<surname>Shiga</surname>, <given-names>T.M.</given-names>
+</string-name>, <string-name>
+<surname>Soares</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Nascimento</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Purgatto</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lajolo</surname>, <given-names>F.M.</given-names>
+</string-name> and <string-name>
+<surname>Cordenunsi</surname>, <given-names>B.R.</given-names>
+</string-name> (<year>2011</year>) <article-title>Ripening&#x02010;associated changes in the amounts of starch and non&#x02010;starch polysaccharides and their contributions to fruit softening in three banana cultivars</article-title>. <source xml:lang="en">J. Sci. Food Agric.</source>
+<volume>91</volume>, <fpage>1511</fpage>&#x02013;<lpage>1516</lpage>.<pub-id pub-id-type="pmid">21445854</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0091"><mixed-citation publication-type="journal" id="pbi13498-cit-0091">
+<string-name>
+<surname>Sim&#x000e3;o</surname>, <given-names>F.A.</given-names>
+</string-name>, <string-name>
+<surname>Waterhouse</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kriventseva</surname>, <given-names>E.V.</given-names>
+</string-name> and <string-name>
+<surname>Zdobnov</surname>, <given-names>E.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>BUSCO: assessing genome assembly and annotation completeness with single&#x02010;copy orthologs</article-title>. <source xml:lang="en">Bioinformatics</source>
+<volume>31</volume>, <fpage>3210</fpage>&#x02013;<lpage>3212</lpage>.<pub-id pub-id-type="pmid">26059717</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0092"><mixed-citation publication-type="journal" id="pbi13498-cit-0092">
+<string-name>
+<surname>Singh</surname>, <given-names>G.</given-names>
+</string-name> (<year>2007</year>) <article-title>Recent development in production of guava</article-title>. <source xml:lang="en">Acta Hortic.</source>
+<volume>735</volume>, <fpage>161</fpage>&#x02013;<lpage>176</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0093"><mixed-citation publication-type="book" id="pbi13498-cit-0093">
+<string-name>
+<surname>Smit</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hubley</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Green</surname>, <given-names>P.</given-names>
+</string-name> (<year>1996&#x02013;2010</year>) <source xml:lang="en">RepeatMasker Open&#x02010;3.0</source>. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.repeatmasker.org">http://www.repeatmasker.org</ext-link>.</mixed-citation></ref><ref id="pbi13498-bib-0094"><mixed-citation publication-type="journal" id="pbi13498-cit-0094">
+<string-name>
+<surname>Soler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Camargo</surname>, <given-names>E.L.O.</given-names>
+</string-name>, <string-name>
+<surname>Carocha</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Cassan&#x02010;Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Clemente</surname>, <given-names>H.S.</given-names>
+</string-name>, <string-name>
+<surname>Savelli</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Hefer</surname>, <given-names>C.A.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2015</year>) <article-title>The <italic>Eucalyptus grandis</italic> R2R3&#x02010;MYB transcription factor family: evidence for woody growth&#x02010;related evolution and function</article-title>. <source xml:lang="en">New Phyto.</source>
+<volume>206</volume>, <fpage>1364</fpage>&#x02013;<lpage>1377</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0095"><mixed-citation publication-type="journal" id="pbi13498-cit-0095">
+<string-name>
+<surname>Song</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2019</year>) <article-title>The involvement of the banana F&#x02010;Box protein MaEBF1 in regulating chilling&#x02010;inhibited starch degradation through interaction with a MaNAC67&#x02010;like protein</article-title>. <source xml:lang="en">Biomolecules,</source>
+<volume>9</volume>, <fpage>552</fpage>&#x02013;<lpage>569</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0096"><mixed-citation publication-type="journal" id="pbi13498-cit-0096">
+<string-name>
+<surname>Sorice</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Guerriero</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Capone</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Colonna</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Castello</surname>, <given-names>G.</given-names>
+</string-name> and <string-name>
+<surname>Costantini</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>) <article-title>Ascorbic acid: its role in immune system and chronic inflammation diseases</article-title>. <source xml:lang="en">Mini. Rev. Med. Chem.</source>
+<volume>14</volume>, <fpage>444</fpage>&#x02013;<lpage>452</lpage>.<pub-id pub-id-type="pmid">24766384</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0097"><mixed-citation publication-type="journal" id="pbi13498-cit-0097">
+<string-name>
+<surname>Stanke</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schoffmann</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Morgenstern</surname>, <given-names>B.</given-names>
+</string-name> and <string-name>
+<surname>Waack</surname>, <given-names>S.</given-names>
+</string-name> (<year>2006</year>) <article-title>Gene prediction in eukaryotes with a generalized hidden Markov model that uses hints from external sources</article-title>. <source xml:lang="en">BMC Bioinform.</source>
+<volume>7</volume>, <fpage>62</fpage>.</mixed-citation></ref><ref id="pbi13498-bib-0098"><mixed-citation publication-type="journal" id="pbi13498-cit-0098">
+<string-name>
+<surname>Sytsma</surname>, <given-names>K.J.</given-names>
+</string-name>, <string-name>
+<surname>Litt</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zjhra</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Pires</surname>, <given-names>Z.J.</given-names>
+</string-name>, <string-name>
+<surname>Nepokroeff</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Conti</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2004</year>) <article-title>Clades, clocks, and continents: Historical and biogeographical analysis of Myrtaceae, Vochysiaceae, and relatives in the southern hemisphere</article-title>. <source xml:lang="en">Int. J. Plant Sci.</source>
+<volume>165</volume>, <fpage>S85</fpage>&#x02013;<lpage>S105</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0099"><mixed-citation publication-type="journal" id="pbi13498-cit-0099">
+<string-name>
+<surname>Tang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bowers</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ming</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Alam</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Paterson</surname>, <given-names>A.H.</given-names>
+</string-name> (<year>2008</year>) <article-title>Synteny and collinearity in plant genomes</article-title>. <source xml:lang="en">Science,</source>
+<volume>320</volume>, <fpage>486</fpage>&#x02013;<lpage>488</lpage>.<pub-id pub-id-type="pmid">18436778</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0100"><mixed-citation publication-type="journal" id="pbi13498-cit-0100">
+<string-name>
+<surname>Thornhill</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>S.Y.</given-names>
+</string-name>, <string-name>
+<surname>Kulheim</surname>, <given-names>C.</given-names>
+</string-name> and <string-name>
+<surname>Crisp</surname>, <given-names>M.D.</given-names>
+</string-name> (<year>2015</year>) <article-title>Interpreting the modern distribution of Myrtaceae using a dated molecular phylogeny</article-title>. <source xml:lang="en">Mol. Phylogenet. Evol.</source>
+<volume>93</volume>, <fpage>29</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">26211451</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0101"><mixed-citation publication-type="journal" id="pbi13498-cit-0101">
+<string-name>
+<surname>Thrimawithana</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hilario</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Grierson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ngo</surname>, <given-names>H.M.</given-names>
+</string-name>, <string-name>
+<surname>Liachko</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>, <given-names>S.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2019</year>) <article-title>A whole genome assembly of <italic>Leptospermum scoparium</italic> (Myrtaceae) for m&#x00101;nuka research</article-title>. <source xml:lang="en">New Zeal. J. Crop Hort.</source>
+<volume>47</volume>, <fpage>233</fpage>&#x02013;<lpage>260</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0102"><mixed-citation publication-type="journal" id="pbi13498-cit-0102">
+<string-name>
+<surname>Trapnell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Goff</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Pertea</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kelley</surname>, <given-names>D.R.</given-names>
+</string-name>, <string-name>
+<surname>Pimentel</surname>, <given-names>H.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2012</year>) <article-title>Differential gene and transcript expression analysis of RNA&#x02010;Seq experiments with TopHat and Cufflinks</article-title>. <source xml:lang="en">Nat. Protoc.</source>
+<volume>7</volume>, <fpage>562</fpage>&#x02013;<lpage>578</lpage>.<pub-id pub-id-type="pmid">22383036</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0103"><mixed-citation publication-type="journal" id="pbi13498-cit-0103">
+<string-name>
+<surname>Uluisik</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Seymour</surname>, <given-names>G.B.</given-names>
+</string-name> (<year>2020</year>) <article-title>Pectate lyases: Their role in plants and importance in fruit ripening</article-title>. <source xml:lang="en">Food Chem.</source>
+<volume>309</volume>, <fpage>125559</fpage>.<pub-id pub-id-type="pmid">31679850</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0104"><mixed-citation publication-type="journal" id="pbi13498-cit-0104">
+<string-name>
+<surname>Vanneste</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>De Peer</surname>, <given-names>Y.V.</given-names>
+</string-name> and <string-name>
+<surname>Maere</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>) <article-title>Inference of genome duplications from age distributions revisited</article-title>. <source xml:lang="en">Mol. Biol. Evol.</source>
+<volume>30</volume>, <fpage>177</fpage>&#x02013;<lpage>190</lpage>.<pub-id pub-id-type="pmid">22936721</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0105"><mixed-citation publication-type="journal" id="pbi13498-cit-0105">
+<string-name>
+<surname>Walker</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Abeel</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shea</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Priest</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Abouelliel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sakthikumar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cuomo</surname>, <given-names>C.A.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2014</year>) <article-title>Pilon: an integrated tool for comprehensive microbial variant detection and genome assembly improvement</article-title>. <source xml:lang="en">PLoS One,</source>
+<volume>9</volume>, <elocation-id>e112963</elocation-id>.<pub-id pub-id-type="pmid">25409509</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0106"><mixed-citation publication-type="journal" id="pbi13498-cit-0106">
+<string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>G.</given-names>
+</string-name>
+<italic>et al</italic>. (<year>2017</year>) <article-title>Genomic analyses of primitive, wild and cultivated citrus provide insights into asexual reproduction</article-title>. <source xml:lang="en">Nat. Genet.</source>
+<volume>49</volume>, <fpage>765</fpage>&#x02013;<lpage>772</lpage>.<pub-id pub-id-type="pmid">28394353</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0107"><mixed-citation publication-type="journal" id="pbi13498-cit-0107">
+<string-name>
+<surname>Wang</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Yeats</surname>, <given-names>T.H.</given-names>
+</string-name>, <string-name>
+<surname>Uluisik</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rose</surname>, <given-names>J.K.C.</given-names>
+</string-name> and <string-name>
+<surname>Seymour</surname>, <given-names>G.B.</given-names>
+</string-name> (<year>2018</year>) <article-title>Fruit softening: revisiting the role of pectin</article-title>. <source xml:lang="en">Trends Plant Sci.</source>
+<volume>23</volume>, <fpage>302</fpage>&#x02013;<lpage>310</lpage>.<pub-id pub-id-type="pmid">29429585</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0108"><mixed-citation publication-type="journal" id="pbi13498-cit-0108">
+<string-name>
+<surname>Wikstr&#x000f6;m</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Vincent</surname>, <given-names>S.</given-names>
+</string-name> and <string-name>
+<surname>Mark</surname>, <given-names>W.C.</given-names>
+</string-name> (<year>2001</year>) <article-title>Evolution of the angiosperms: calibrating the family tree</article-title>. <source xml:lang="en">Proceedings Roy. Soc. Lond. B Bio.</source>
+<volume>268</volume>, <fpage>2211</fpage>&#x02013;<lpage>2220</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0109"><mixed-citation publication-type="journal" id="pbi13498-cit-0109">
+<string-name>
+<surname>Wilson</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Brien</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Heslewood</surname>, <given-names>M.M.</given-names>
+</string-name> and <string-name>
+<surname>Quinn</surname>, <given-names>C.</given-names>
+</string-name> (<year>2004</year>) <article-title>Relationships within Myrtaceae sensu lato based on a <italic>matK</italic> phylogeny</article-title>. <source xml:lang="en">Plant Syst. Evol.</source>
+<volume>251</volume>, <fpage>3</fpage>&#x02013;<lpage>19</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0110"><mixed-citation publication-type="journal" id="pbi13498-cit-0110">
+<string-name>
+<surname>Yang</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2007</year>) <article-title>PAML 4: phylogenetic analysis by maximum likelihood</article-title>. <source xml:lang="en">Mol. Bio. Evol.</source>
+<volume>24</volume>, <fpage>1586</fpage>&#x02013;<lpage>1591</lpage>.<pub-id pub-id-type="pmid">17483113</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0111"><mixed-citation publication-type="journal" id="pbi13498-cit-0111">
+<string-name>
+<surname>Yang</surname>, <given-names>X.L.</given-names>
+</string-name>, <string-name>
+<surname>Hsieh</surname>, <given-names>K.L.</given-names>
+</string-name> and <string-name>
+<surname>Liu</surname>, <given-names>J.K.</given-names>
+</string-name> (<year>2007</year>) <article-title>Guajadial: An unusual monoterpenoid from guava leaves</article-title>. <source xml:lang="en">Org. Let.</source>
+<volume>24</volume>, <fpage>5135</fpage>&#x02013;<lpage>5138</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0112"><mixed-citation publication-type="book" id="pbi13498-cit-0112">
+<string-name>
+<surname>Yoshimura</surname>, <given-names>K.</given-names>
+</string-name> and <string-name>
+<surname>Ishikawa</surname>, <given-names>T.</given-names>
+</string-name> (<year>2017</year>) <chapter-title>Chemistry and metabolism of ascorbic acid in plants</chapter-title>. In <source xml:lang="en">Ascorbic Acid in Plant Growth, Development and Stress Tolerance</source>(<person-group person-group-type="editor"><string-name>
+<surname>Hossain</surname>, <given-names>M.A.</given-names>
+</string-name></person-group> and <person-group person-group-type="editor"><string-name>
+<surname>Munn&#x000e9;&#x02010;Bosch</surname>, <given-names>S.</given-names>
+</string-name></person-group>, eds), pp. <fpage>1</fpage>&#x02013;<lpage>23</lpage>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="pbi13498-bib-0113"><mixed-citation publication-type="journal" id="pbi13498-cit-0113">
+<string-name>
+<surname>Youssef</surname>, <given-names>M.</given-names>
+</string-name> and <string-name>
+<surname>Ibrahim</surname>, <given-names>R.</given-names>
+</string-name> (<year>2016</year>) <article-title>Molecular markers associated with high vitamin&#x02010;C content in guava</article-title>. <source xml:lang="en">J. Agr. Chem. Biotech.</source>
+<volume>7</volume>, <fpage>49</fpage>&#x02013;<lpage>55</lpage>.</mixed-citation></ref><ref id="pbi13498-bib-0114"><mixed-citation publication-type="journal" id="pbi13498-cit-0114">
+<string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>, <given-names>R.</given-names>
+</string-name> and <string-name>
+<surname>Yang</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2005</year>) <article-title>Evaluation of an improved branch&#x02010;site likelihood method for detecting positive selection at the molecular level</article-title>. <source xml:lang="en">Mol. Biol. Evol.</source>
+<volume>22</volume>, <fpage>2472</fpage>&#x02013;<lpage>2479</lpage>.<pub-id pub-id-type="pmid">16107592</pub-id></mixed-citation></ref><ref id="pbi13498-bib-0115"><mixed-citation publication-type="journal" id="pbi13498-cit-0115">
+<string-name>
+<surname>Zwaenepoel</surname>, <given-names>A.</given-names>
+</string-name> and <string-name>
+<surname>Van de Peer</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2019</year>) <article-title>wgd&#x02010;simple command line tools for the analysis of ancient whole genome duplications</article-title>. <source xml:lang="en">Bioinformatics,</source>
+<volume>35</volume>, <fpage>2153</fpage>&#x02013;<lpage>2155</lpage>.<pub-id pub-id-type="pmid">30398564</pub-id></mixed-citation></ref></ref-list></back></article>
