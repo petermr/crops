@@ -1,7 +1,9 @@
-## This folder contains following files:
+## This folder contains following files that are created while working on TPS enzyme collection:
 
-A) Ran metadata_analysis.py file and generated **TPS_sentences_full_search_result.csv**. Please also refer https://github.com/petermr/CEVOpen/wiki/Scoping-through-TPS-Corpus
+A) **11951_TPS** excel file contains TPS genes that are collected from Uniprot and phytozome. Please refer https://github.com/petermr/CEVOpen/wiki/GENE-:-TPS 
 
-B) **TPS_EC** (for TPS enzyme commission number) csv file contain TPS enzyme names and EC number.
+B) Ran metadata_analysis.py file and generated **TPS_sentences_full_search_result.csv**. Please also refer https://github.com/petermr/CEVOpen/wiki/Scoping-through-TPS-Corpus
 
-C) **wiki_binomial_abbreviation** (for abbreviation of scientific name) csv file contain Scientific names of essential oil plants, their wikidata IDs and abbreviations.
+C) **TPS_EC** (for TPS enzyme commission number) csv file contain TPS enzyme names and EC number.
+
+D) **wiki_binomial_abbreviation** (for abbreviation of scientific name) csv file contain Scientific names of essential oil plants, their wikidata IDs and abbreviations.
