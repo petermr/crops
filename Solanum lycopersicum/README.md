@@ -1,6 +1,6 @@
 # This folder contains following files:
 
-A) A) TomatoTPS folder: Corpus that is created by using command pygetpapers -q "terpene synthase volatile solanum lycopersicum AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:"Review")))" -o TomatoTPS -x -p -s
+A) **TomatoTPS folder**: Corpus that is created by using command **pygetpapers -q "terpene synthase volatile solanum lycopersicum AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:"Review")))" -o TomatoTPS -x -p -s**
 
 B) **S. lycopersicum TPS.xlsx**: Excel file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.
 
