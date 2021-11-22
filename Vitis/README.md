@@ -6,6 +6,13 @@ B) **Vitis TPS.xlsx**: Excel file with TPS genes with information such as unipro
 
 C) **eo_VVinifera.xml**: Dictionary created
 
+| Dictionary specifications |Number |% |
+   | --- | --- | --- |
+   |Total Terms | 141| |
+   |Terms with synonyms |15 |  10 % |
+   |Terms with Wikidata IDs|19 | 13 % |
+   |Vitis specific terms|59 | 42 % |
+
 D) **full data table**: full data table generated after testing dictionary. Please, refer https://github.com/petermr/crops/wiki/TPS-Reserve-For-Camellia-and-Tomato-Crop
 
 E) **vitis_full_search_result**: csv file generated after metadata analysis on tomato corpus
