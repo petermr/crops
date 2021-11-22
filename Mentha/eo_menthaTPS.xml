@@ -2,35 +2,35 @@
 <dictionary title="eo_menthaTPS" version="0.0.1">
  <desc>Corrected punctuation; PMR</desc>
  <entry term="1,8-cineole synthase" id="CM.eo_Gene.1"/>
- <entry term="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase"  id="CM.eo_Gene.3"/>
- <entry term="bicyclogermacrene synthase" id="CM.eo_Gene.4"/>
- <entry term="corvol ether b synthase" id="CM.eo_Gene.5"/>
- <entry term="ent-copalyl diphosphate synthase" wikidataID="Q5168300" id="CM.eo_Gene.6"/>
- <entry term="solanesyl pyrophosphate synthase" id="CM.eo_Gene.8"/>
- <entry term="spata-13,17-diene synthase" id="CM.eo_Gene.9"/>
- <entry term="1-aminocyclopropane-1-carboxylate synthase" id="CM.eo_Gene.10"/>
- <entry term="1-deoxy-d-xylulose-6-phosphate synthase" id="CM.eo_Gene.11"/>
- <entry term="1-deoxy-d-xylulose-5-phosphate synthase" id="CM.eo_Gene.12"/>
- <entry term="1-deoxyxylulose-5-phosphate synthase" id="CM.eo_Gene.13"/>
- <entry term="10-epi-cubebol synthase" id="CM.eo_Gene.14"/>
- <entry term="17-diene synthase" id="CM.eo_Gene.15"/>
- <entry term="2-methylisoborneol synthases" id="CM.eo_Gene.16"/>
- <entry term="3-carene synthase" id="CM.eo_Gene.17"/>
- <entry term="3-ketoacyl-coa synthase" id="CM.eo_Gene.19"/>
- <entry term="4-hydroxy-3-methyl-but-2-enyl diphosphate synthase" id="CM.eo_Gene.20"/>
- <entry term="5-epi-aristolochene synthase" wikidataID="Q27125365" id="CM.eo_Gene.22"/>
- <entry term="alpha-farnesene synthase" id="CM.eo_Gene.23"/>
- <entry term="alpha-pinene synthase" wikidataID="Q13406627" id="CM.eo_Gene.24"/>
- <entry term="alpha-bisabolene synthase" id="CM.eo_Gene.25"/>
- <entry term="gamma-cadinene synthase" wikidataID="Q13405173" id="CM.eo_Gene.26"/>
- <entry term="beta-caryophyllene synthase" wikidataID="Q61589407" id="CM.eo_Gene.27"/>
- <entry term="gamma-eudesmol synthase" id="CM.eo_Gene.28"/>
- <entry term="beta-farnesene synthase" wikidataID="Q34419156" id="CM.eo_Gene.29"/>
- <entry term="gamma-humulene synthase" id="CM.eo_Gene.31"/>
- <entry term="gamma-muurolene synthase" id="CM.eo_Gene.32"/>
- <entry term="beta-myrcene synthase" id="CM.eo_Gene.33"/>
- <entry term="beta-ocimene synthase" id="CM.eo_Gene.34"/>
- <entry term="beta-pinene synthase" wikidataID=Q13406628 id="CM.eo_Gene.35"/>
+ <entry term="2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase"  id="CM.eo_Gene.2"/>
+ <entry term="bicyclogermacrene synthase" id="CM.eo_Gene.3"/>
+ <entry term="corvol ether b synthase" id="CM.eo_Gene.4"/>
+ <entry term="ent-copalyl diphosphate synthase" wikidataID="Q5168300" id="CM.eo_Gene.5"/>
+ <entry term="solanesyl pyrophosphate synthase" id="CM.eo_Gene.6"/>
+ <entry term="spata-13,17-diene synthase" id="CM.eo_Gene.7"/>
+ <entry term="1-aminocyclopropane-1-carboxylate synthase" id="CM.eo_Gene.8"/>
+ <entry term="1-deoxy-d-xylulose-6-phosphate synthase" id="CM.eo_Gene.9"/>
+ <entry term="1-deoxy-d-xylulose-5-phosphate synthase" id="CM.eo_Gene.10"/>
+ <entry term="1-deoxyxylulose-5-phosphate synthase" id="CM.eo_Gene.11"/>
+ <entry term="10-epi-cubebol synthase" id="CM.eo_Gene.12"/>
+ <entry term="17-diene synthase" id="CM.eo_Gene.13"/>
+ <entry term="2-methylisoborneol synthases" id="CM.eo_Gene.14"/>
+ <entry term="3-carene synthase" id="CM.eo_Gene.15"/>
+ <entry term="3-ketoacyl-coa synthase" id="CM.eo_Gene.16"/>
+ <entry term="4-hydroxy-3-methyl-but-2-enyl diphosphate synthase" id="CM.eo_Gene.17"/>
+ <entry term="5-epi-aristolochene synthase" wikidataID="Q27125365" id="CM.eo_Gene.18"/>
+ <entry term="alpha-farnesene synthase" id="CM.eo_Gene.19"/>
+ <entry term="alpha-pinene synthase" wikidataID="Q13406627" id="CM.eo_Gene.20"/>
+ <entry term="alpha-bisabolene synthase" id="CM.eo_Gene.21"/>
+ <entry term="gamma-cadinene synthase" wikidataID="Q13405173" id="CM.eo_Gene.22"/>
+ <entry term="beta-caryophyllene synthase" wikidataID="Q61589407" id="CM.eo_Gene.23"/>
+ <entry term="gamma-eudesmol synthase" id="CM.eo_Gene.24"/>
+ <entry term="beta-farnesene synthase" wikidataID="Q34419156" id="CM.eo_Gene.25"/>
+ <entry term="gamma-humulene synthase" id="CM.eo_Gene.26"/>
+ <entry term="gamma-muurolene synthase" id="CM.eo_Gene.27"/>
+ <entry term="beta-myrcene synthase" id="CM.eo_Gene.28"/>
+ <entry term="beta-ocimene synthase" id="CM.eo_Gene.29"/>
+ <entry term="beta-pinene synthase" wikidataID=Q13406628 id="CM.eo_Gene.30"/>
  <entry term="beta-sesquiphellandrane synthase" id="CM.eo_Gene.36"/>
  <entry term="gamma-terpinene synthase" id="CM.eo_Gene.37"/>
  <entry term="alpha-terpineol synthase" id="CM.eo_Gene.39"/>
