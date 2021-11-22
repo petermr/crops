@@ -6,9 +6,10 @@ B) **eo_menthaTPS**: Dictionary created
 
 | Dictionary specifications |Number |% |
    | --- | --- | --- |
-   |Total Terms | | |
-   |Terms with synonyms | |  % |
-   |Terms with Wikidata IDs|  |  % |
+   |Total Terms |202 | |
+   |Terms with synonyms | 0|  0% |
+   |Terms with Wikidata IDs| 25 | 2 % |
+   |Mentha specific Terms| 57 | 28% |
 
 C) **Mentha TPS**: csv file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.
 
