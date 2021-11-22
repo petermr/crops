@@ -4,7 +4,13 @@ A) **Mentha TPS** folder: Corpus that is created by using command **pygetpapers 
 
 B) **eo_menthaTPS**: Dictionary created
 
-C) **Mentha TPS**: Excel file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.
+| Dictionary specifications |Number |% |
+   | --- | --- | --- |
+   |Total Terms | | |
+   |Terms with synonyms | |  % |
+   |Terms with Wikidata IDs|  |  % |
+
+C) **Mentha TPS**: csv file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.
 
 
 
