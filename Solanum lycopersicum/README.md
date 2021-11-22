@@ -11,5 +11,6 @@ C) **eo_tomato.xml**: Dictionary Summary
    |Total Terms | 141| |
    |Terms with synonyms |15 |  10 % |
    |Terms with Wikidata IDs|19 | 13 % |
+   |Tomato specific terms | 12 | 8 % |
 
 D) **full data table**: full data table generated after testing dictionary. Please, refer https://github.com/petermr/crops/wiki/TPS-Reserve-For-Camellia-and-Tomato-Crop
