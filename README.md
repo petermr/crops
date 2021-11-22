@@ -29,7 +29,7 @@ Among volatile organic compounds, plant terpenes account for a larger proportion
    |Anam Anjum|Camellia<br/>Tomato | **49**<br/>**77**|https://github.com/petermr/crops/blob/main/Solanum%20lycopersicum/eo_tomato.xml https://github.com/petermr/crops/blob/main/Camellia/eo_CAMSITps.xml|
    | Anjali Shekhawat|Mentha | **91** | https://github.com/petermr/crops/blob/main/Mentha/eo_menthaTPS.xml|
    | Prachi Singh|Zea mays | **123** | https://github.com/petermr/crops/blob/main/Zea%20mays/eo_ZeaTPS.xml|
-   | Rageshwari Singh |Vitis vinifera | **163** |https://github.com/petermr/crops/blob/main/Vitis%20vinifera/eo_VVinifera.xml|
+   | Rageshwari Singh |Vitis vinifera | **163** |https://github.com/petermr/crops/blob/main/Vitis/eo_VVinifera.xml|
    |Shweata Hegde |metadata_analysis |TPS terms extraction from corpus|https://github.com/petermr/crops/tree/main/metadata_analysis |
    |Sagar Jadhav | Combined above mini_tps dictionaries, Created tpsimage dictionary, Ran metadata analysis on 620 papers|crop tps dictionary, metadata analysis|https://github.com/petermr/crops/blob/main/dictinaries/crop_tpsenzyme.xml  https://github.com/petermr/crops/blob/main/dictinaries/tpsimage.xml https://github.com/petermr/crops/blob/main/TPS%20sentences_full_search_result.csv|
   
