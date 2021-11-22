@@ -22,7 +22,7 @@ Among volatile organic compounds, plant terpenes account for a larger proportion
 
 ##
 
-# SUMMRY TABLE
+# SUMMARY TABLE
 
 | Intern Name|Crop| Papers available (Research article)|Wikipage|
    | --- | --- | --- |--- |
