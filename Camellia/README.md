@@ -4,8 +4,10 @@ A) **CamelliaTPS folder**: Corpus that is created by using command **pygetpapers
 
 B) **Camellia_TPS**: Excel file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.
 
-C) **Camellia_TPS.txt**: Text file conataining terms extracted from corpus.
+C) **Camellia_Tps.txt**: Text file containing terms extracted from corpus.
 
-D) **eo_CAMPSITps**: Dictionary created 
+D) **Camellia_Tps.txt**: Excel file containing terms extracted from corpus.
 
-E) **full data table**: full data table generated after testing dictionary. Please, refer https://github.com/petermr/crops/wiki/TPS-Reserve-For-Camellia-and-Tomato-Crop
+E) **eo_CAMPSITps**: Dictionary created 
+
+F) **full data table**: full data table generated after testing dictionary. Please, refer https://github.com/petermr/crops/wiki/TPS-Reserve-For-Camellia-and-Tomato-Crop
