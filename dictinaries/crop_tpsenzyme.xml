@@ -290,15 +290,79 @@
  </entry>
  <entry term="cssesquitps3" id="CM.TPS_enzyme.172">
  </entry>
- <entry term="cstps1" id="CM.TPS_enzyme.173">
+ <entry term="cstps1" geneID="TEA032539.1" id="CM.TPS_enzyme.173">
  </entry>
- <entry term="cstps2" id="CM.TPS_enzyme.174">
+ <entry term="cstps2" geneID="TEA029356.1" id="CM.TPS_enzyme.174">
  </entry>
- <entry term="cstps3" id="CM.TPS_enzyme.175">
+ <entry term="cstps3" geneID="TEA014184.1" id="CM.TPS_enzyme.175">
  </entry>
- <entry term="cstps4" id="CM.TPS_enzyme.176">
+ <entry term="cstps4" geneID="" id="CM.TPS_enzyme.176">
  </entry>
- <entry term="cstps5" id="CM.TPS_enzyme.177">
+ <entry term="cstps5" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps6" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps7" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps8" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps9" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps10" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps11" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps12" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps13" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps14" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps15" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps16" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps17" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps18" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps19" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps20" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps21" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps22" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps23" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps24" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps25" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps26" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps27" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps28" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps29" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps30" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps31" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps32" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps33" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps34" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps35" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps36" geneID="" id="CM.TPS_enzyme.177">
+ </entry>
+ <entry term="cstps37" geneID="" id="CM.TPS_enzyme.177">
  </entry>
  <entry term="cycloaraneosene synthase" wikidataID="Q60152010" id="CM.TPS_enzyme.180">
   <synonym role="EC enzyme number" roleID="wd:P591">EC 4.2.3.191</synonym>
