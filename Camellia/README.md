@@ -6,7 +6,7 @@ B) **Camellia_TPS**: Excel file with TPS genes with information such as uniprot 
 
 C) **Camellia_Tps.txt**: Text file containing terms extracted from corpus.
 
-D) **Camellia_Tps.txt**: Excel file containing terms extracted from corpus.
+D) **Camellia_Tps.xlsx**: Excel file containing terms extracted from corpus.
 
 E) **eo_CAMPSITps**: Dictionary created 
 
