@@ -13,6 +13,6 @@ D) **eo_CAMPSITps.xml**: **Dictionary Summary**
    |Total Terms | 285| |
    |Terms with synonyms |14| 5% |
    |Terms with Wikidata IDs| 71| 25% |
-
+   |Cammelia specific terms|81 | 28% |
 
 E) **full data table**: full data table generated after testing dictionary. Please, refer https://github.com/petermr/crops/wiki/TPS-Reserve-For-Camellia-and-Tomato-Crop
