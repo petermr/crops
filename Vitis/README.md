@@ -2,9 +2,9 @@
 
 A) **VitisTPS folder**: Corpus that is created by using command **pygetpapers -q "terpene synthase volatile vitis vinifera AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:"Review")))" -o VitisTPS -x -p -s**
 
-B) **Vitis_TPS**: csv file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.
+B) **Vitis_TPS**: csv file with TPS gene's information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
 
-C) **eo_VVinifera.xml**: Dictionary created
+C) **eo_VVinifera.xml**: Dictionary Summary
 
 | Dictionary specifications |Number |% |
    | --- | --- | --- |
