@@ -4,7 +4,7 @@ A) **TomatoTPS folder**: Corpus that is created by using command **pygetpapers -
 
 B) **S. lycopersicum TPS.csv**: csv file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
 
-C) **eo_tomato.xml**: Dictionary Summary
+C) **eo_tomato.xml**: **Dictionary Summary**
 
 | Dictionary specifications |Number |% |
    | --- | --- | --- |
