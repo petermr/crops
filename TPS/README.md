@@ -6,7 +6,7 @@ B) **TPS_EC** (for TPS enzyme commission number) csv file contain TPS enzyme nam
 
 C) **TPS metadata analysis.csv** -
  
-I ran metadata_analysis.py script (https://github.com/petermr/crops/blob/main/metadata_analysis/metadata_analysis.py) on **corpus PlantTPS** (present in this folder, contains 573 papers). 
+I ran metadata_analysis.py script (https://github.com/petermr/crops/blob/main/metadata_analysis/metadata_analysis.py) on **corpus PlantTPS** (present in this folder, contains 573 papers). In this metadata_analysis.py script, it uses command **pygetpapers -q "terpene synthase TPS plant" -o TPS -p**
 
 Metadata analysis script 
 
