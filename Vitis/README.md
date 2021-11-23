@@ -4,7 +4,7 @@ A) **VitisTPS folder**: Corpus that is created by using command **pygetpapers -q
 
 B) **Vitis_TPS**: csv file with TPS gene's information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
 
-C) **eo_VVinifera.xml**: Dictionary Summary
+C) **eo_VVinifera.xml**: **Dictionary Summary**
 
 | Dictionary specifications |Number |% |
    | --- | --- | --- |
