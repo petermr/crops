@@ -2,7 +2,7 @@
 
 A) **Mentha TPS** folder: Corpus that is created by using command **pygetpapers -q "terpene synthase volatile mentha AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:"Review")))" -o MenthaTPS -x -p -s**
 
-B) **eo_menthaTPS**: Dictionary created
+B) **eo_menthaTPS**: Dictionary Summary
 
 | Dictionary specifications |Number |% |
    | --- | --- | --- |
@@ -11,7 +11,7 @@ B) **eo_menthaTPS**: Dictionary created
    |Terms with Wikidata IDs| 25 | 2 % |
    |Mentha specific Terms| 57 | 28% |
 
-C) **Mentha TPS**: csv file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc.
+C) **Mentha TPS**: csv file with TPS genes with information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
 
 
 
