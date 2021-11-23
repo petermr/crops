@@ -2,9 +2,9 @@
 
 A) **CamelliaTPS folder**: Corpus that is created by using command **pygetpapers -q "terpene synthase volatile Camellia AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:"Review")))" -o CamelliaTPS -x -p -s**
 
-B) **Camellia_TPS**: csv file with TPS gene's information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
+B) **CamelliaTPS_from_corpus**: csv file containing terms extracted from corpus.
 
-C) **CamelliaTPS_from_corpus**: csv file containing terms extracted from corpus.
+C) **Camellia_TPS**: csv file with TPS gene's information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
 
 E) **eo_CAMPSITps**: Dictionary Summary 
 
