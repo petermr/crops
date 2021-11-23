@@ -2,8 +2,8 @@
 
 **2. Dictionaries that are named as mini_ : created by DST-KARYA interns by scoping the crop specific terpenes synthase corpus.**
 
-**3. Sagar Jadhav combined all crop specific mini_TPS dictionaries and created crop_tpsenzyme dictionary.**
+**3. Sagar Jadhav combined all crop specific mini_TPS dictionaries and created "crop_tpsenzyme.xml" dictionary.**
 
-**4. tpsimage dictionary is created to extract terms from images from any scientific paper.**
+**4. "tpsimage.xml" dictionary is created to extract terms from images from any scientific paper.**
 
 
