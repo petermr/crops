@@ -6,7 +6,7 @@ B) **CamelliaTPS_from_corpus**: csv file containing terms extracted from corpus.
 
 C) **Camellia_TPS**: csv file with TPS gene's information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
 
-E) **eo_CAMPSITps**: Dictionary Summary 
+D) **eo_CAMPSITps**: Dictionary Summary 
 
 | Dictionary specifications |Number |% |
    | --- | --- | --- |
@@ -15,4 +15,4 @@ E) **eo_CAMPSITps**: Dictionary Summary
    |Terms with Wikidata IDs| 71| 25% |
 
 
-F) **full data table**: full data table generated after testing dictionary. Please, refer https://github.com/petermr/crops/wiki/TPS-Reserve-For-Camellia-and-Tomato-Crop
+E) **full data table**: full data table generated after testing dictionary. Please, refer https://github.com/petermr/crops/wiki/TPS-Reserve-For-Camellia-and-Tomato-Crop
