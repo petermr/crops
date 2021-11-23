@@ -6,11 +6,11 @@ B) **TPS_EC** (for TPS enzyme commission number) csv file contain TPS enzyme nam
 
 C) **TPS metadata analysis.csv** -
  
-I ran metadata_analysis.py script (https://github.com/petermr/crops/blob/main/metadata_analysis/metadata_analysis.py) on **corpus PlantTPS** (present in this folder). 
+I ran metadata_analysis.py script (https://github.com/petermr/crops/blob/main/metadata_analysis/metadata_analysis.py) on **corpus PlantTPS** (present in this folder, contains 573 papers). 
 
 Metadata analysis script 
 
-- queries EPMC via pygetpapers, downloads XML and creates Corpus.
+- **queries EPMC via pygetpapers, downloads XML and creates Corpus**.
 - sections papers using ami-section
 - gets the PMCIDs, Abstracts and Keywords from the metadata of individual papers
 - globs and parses the XML to get the section of your interest (result, method, etc.)
