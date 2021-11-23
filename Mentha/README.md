@@ -2,7 +2,7 @@
 
 A) **Mentha TPS** folder: Corpus that is created by using command **pygetpapers -q "terpene synthase volatile mentha AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:"Review")))" -o MenthaTPS -x -p -s**
 
-B) **eo_menthaTPS**: Dictionary Summary
+B) **eo_menthaTPS.xml**: **Dictionary Summary**
 
 | Dictionary specifications |Number |% |
    | --- | --- | --- |
