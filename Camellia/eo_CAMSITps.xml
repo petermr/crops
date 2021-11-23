@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary title="eo_CAMSITps">
  <entry term="1,3-beta-d-glucan synthase" wikidataID="Q62654464" id="CM.eo_CAMSITps.0"/>
- <entry term="1,8-cineole synthase" wikidataID="Q13405276" id="CM.eo_CAMSITps.1"/>
+ <entry term="1,8-cineole synthase" wikidataID="Q13405276" id="CM.eo_CAMSITps.1">
+  <synonym source="https://enzyme.expasy.org/EC/4.2.3.108">1,8-cineole cyclase</synonym>
+ </entry>
  <entry term="1-aminocyclopropane-1-carboxylate synthase" wikidataID="Q3596759" id="CM.eo_CAMSITps.2">
    <synonym>ACC</synonym>
  </entry>
