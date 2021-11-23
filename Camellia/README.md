@@ -4,7 +4,7 @@ A) **CamelliaTPS folder**: Corpus that is created by using command **pygetpapers
 
 B) **Camellia_TPS**: csv file with TPS gene's information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
 
-C) **Camellia_Tps.txt**: Text file containing terms extracted from corpus.
+C) **CamelliaTPS_from_corpus**: csv file containing terms extracted from corpus.
 
 E) **eo_CAMPSITps**: Dictionary Summary 
 
