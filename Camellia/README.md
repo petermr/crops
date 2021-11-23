@@ -6,7 +6,7 @@ B) **CamelliaTPS_from_corpus**: csv file containing terms extracted from corpus.
 
 C) **Camellia_TPS**: csv file with TPS gene's information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
 
-D) **eo_CAMPSITps**: Dictionary Summary 
+D) **eo_CAMPSITps.xml**: **Dictionary Summary** 
 
 | Dictionary specifications |Number |% |
    | --- | --- | --- |
