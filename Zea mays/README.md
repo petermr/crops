@@ -4,7 +4,7 @@ A) **ZeaTPS folder**: Corpus that is created by using command **pygetpapers -q "
 
 B) **Zea_TPS**: csv file with TPS genes information such as uniprot ID, uniprotkb ac/ID, Organism name, synonyms and corresponding TPS protein function etc. This file is created using Uniprot database.
 
-C) **eo_ZeaTPS.xml**: Dictionary Summary
+C) **eo_ZeaTPS.xml**: **Dictionary Summary**
 
 | Dictionary specifications |Number |% |
    | --- | --- | --- |
