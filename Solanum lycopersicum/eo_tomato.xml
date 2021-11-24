@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary title="eo_tomato">
+<dictionary title="eo_tomato" version="0.0.1">
  <entry term="(3s)-linalool synthase" id="CM.eo_tomato.0"/>
  <entry term="(4s)-limonene synthase" id="CM.eo_tomato.1"/>
  <entry term="(e)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase" id="CM.eo_tomato.2"/>
