@@ -31,7 +31,7 @@
  <entry term="5-epi-aristolochene synthase" wikidataID="Q27125365" id="CM.eo_Gene.27"/>
  <entry term="7-deoxyloganetic acid synthase" id="CM.eo_Gene.28"/>
  <entry term="abieta-7, 13-diene synthase" id="CM.eo_Gene.29"/>
- <entry term="abietadiene synthase" wikidataID=Q4667641 id="CM.eo_Gene.30"/>
+ <entry term="abietadiene synthase" wikidataID="Q4667641" id="CM.eo_Gene.30"/>
  <entry term="acetolactate synthase" wikipedia="acetolactate synthase" id="CM.eo_Gene.31"/>
  <entry term="acs-acridone synthase" id="CM.eo_Gene.32"/>
  <entry term="acyclic terpene synthases" id="CM.eo_Gene.33"/>
@@ -39,59 +39,59 @@
  <entry term="alpha bergamotene synthase" id="CM.eo_Gene.35"/>
  <entry term="alpha humulene synthase" id="CM.eo_Gene.36"/>
  <entry term="alpha terpeneol synthase" id="CM.eo_Gene.37"/>
- <entry term="alpha-bergamotene synthase" wikidataID=Q13405209 id="CM.eo_Gene.38"/>
+ <entry term="alpha-bergamotene synthase" wikidataID="Q13405209" id="CM.eo_Gene.38"/>
  <entry term="alpha-bisabolene synthase" id="CM.eo_Gene.39"/>
- <entry term="alpha-copaene synthase" wikidataID=Q13406644 id="CM.eo_Gene.40"/>
+ <entry term="alpha-copaene synthase" wikidataID="Q13406644" id="CM.eo_Gene.40"/>
  <entry term="alpha-farnesene synthase" id="CM.eo_Gene.41"/>
  <entry term="alpha-guaiene synthase" id="CM.eo_Gene.42"/>
- <entry term="alpha-pinene synthase" wikidataID=Q13406627 id="CM.eo_Gene.43"/>
+ <entry term="alpha-pinene synthase" wikidataID="Q13406627" id="CM.eo_Gene.43"/>
  <entry term="alpha-zingiberene synthase" id="CM.eo_Gene.44"/>
  <entry term="amorpha-4,11-diene synthase" wikipedia="amorpha-4,11-diene synthase" id="CM.eo_Gene.45"/>
  <entry term="amorphadiene synthase" id="CM.eo_Gene.46"/>
  <entry term="amyrin synthase" id="CM.eo_Gene.47"/>
  <entry term="bas-benzalacetone synthase" id="CM.eo_Gene.48"/>
  <entry term="berbamunine synthase" id="CM.eo_Gene.49"/>
- <entry term="bergamotene synthase" wikidataID=Q13405209 id="CM.eo_Gene.50"/>
+ <entry term="bergamotene synthase" wikidataID="Q13405209" id="CM.eo_Gene.50"/>
  <entry term="beta amyrin synthase" id="CM.eo_Gene.51"/>
  <entry term="beta ketoacyl co a synthase" id="CM.eo_Gene.52"/>
  <entry term="beta-caryophyllene synthases" id="CM.eo_Gene.53"/>
  <entry term="beta-copaene synthase" id="CM.eo_Gene.54"/>
  <entry term="beta-cubebene synthase" id="CM.eo_Gene.55"/>
  <entry term="beta-curcumene synthase" id="CM.eo_Gene.56"/>
- <entry term="beta-farnesene synthase" wikidataID=Q34419156 id="CM.eo_Gene.57"/>
+ <entry term="beta-farnesene synthase" wikidataID="Q34419156" id="CM.eo_Gene.57"/>
  <entry term="beta-ketoacyl-acyl-carrier protein synthase" id="CM.eo_Gene.58"/>
  <entry term="beta-ketoacyl-coa synthase" id="CM.eo_Gene.59"/>
- <entry term="beta-macrocarpene synthase" wikidataID=Q13419062 id="CM.eo_Gene.60"/>
+ <entry term="beta-macrocarpene synthase" wikidataID="Q13419062" id="CM.eo_Gene.60"/>
  <entry term="beta-myrcene synthase" id="CM.eo_Gene.61"/>
  <entry term="beta-ocimene synthase" id="CM.eo_Gene.62"/>
  <entry term="beta-phellanderene synthase" id="CM.eo_Gene.63"/>
- <entry term="beta-pinene synthase" wikidataID=Q13406628 id="CM.eo_Gene.64"/>
+ <entry term="beta-pinene synthase" wikidataID="Q13406628" id="CM.eo_Gene.64"/>
  <entry term="beta-sesquiphellandrane synthase" id="CM.eo_Gene.65"/>
  <entry term="bicyclogermacrene synthase" id="CM.eo_Gene.66"/>
- <entry term="bisabolene synthase" wikidataID=Q13402076 id="CM.eo_Gene.67"/>
- <entry term="bornyl diphosphate synthase" wikidataID=Q4946163 id="CM.eo_Gene.68"/>
+ <entry term="bisabolene synthase" wikidataID="Q13402076" id="CM.eo_Gene.67"/>
+ <entry term="bornyl diphosphate synthase" wikidataID="Q4946163" id="CM.eo_Gene.68"/>
  <entry term="bornyl disphosphate synthase" id="CM.eo_Gene.69"/>
  <entry term="bornyl pyrophosphate synthase" id="CM.eo_Gene.70"/>
- <entry term="cadinene synthase" wikidataID=Q22324418 id="CM.eo_Gene.71"/>
+ <entry term="cadinene synthase" wikidataID="Q22324418" id="CM.eo_Gene.71"/>
  <entry term="cadinol synthase" id="CM.eo_Gene.72"/>
  <entry term="camphene synthase" id="CM.eo_Gene.73"/>
  <entry term="capsanthin capsorubin synthase" id="CM.eo_Gene.74"/>
  <entry term="capsanthin synthase" id="CM.eo_Gene.75"/>
  <entry term="capsorubin synthase" id="CM.eo_Gene.76"/>
- <entry term="carene synthase" wikidataID=Q13405275 id="CM.eo_Gene.77"/>
- <entry term="caryophyllene synthase" wikidataID=Q13402109 id="CM.eo_Gene.78"/>
- <entry term="casbene synthase" wikidataID=Q5048068 id="CM.eo_Gene.79"/>
+ <entry term="carene synthase" wikidataID="Q13405275" id="CM.eo_Gene.77"/>
+ <entry term="caryophyllene synthase" wikidataID="Q13402109" id="CM.eo_Gene.78"/>
+ <entry term="casbene synthase" wikidataID="Q5048068" id="CM.eo_Gene.79"/>
  <entry term="casbene synthase geranil linalool synthase" id="CM.eo_Gene.80"/>
  <entry term="chalcone stilbene synthase" id="CM.eo_Gene.81"/>
  <entry term="chalcone synthase" wikipedia="chalcone synthase" id="CM.eo_Gene.82"/>
  <entry term="chavicol synthase" id="CM.eo_Gene.83"/>
  <entry term="chorismate synthase" id="CM.eo_Gene.84"/>
  <entry term="chrysanthemyl diphosphate synthase" wikipedia="chrysanthemyl diphosphate synthase" id="CM.eo_Gene.85"/>
- <entry term="cineole synthase" wikidataID=Q13405276 id="CM.eo_Gene.86"/>
+ <entry term="cineole synthase" wikidataID="Q13405276" id="CM.eo_Gene.86"/>
  <entry term="cis-muurola-3,5-diene synthase" id="CM.eo_Gene.87"/>
  <entry term="cobalamin-independent methionine synthase" id="CM.eo_Gene.88"/>
- <entry term="copaene synthase" wikidataID=Q13406644 id="CM.eo_Gene.89"/>
- <entry term="copalyl diphosphate synthase" wikidataID=Q5168300 id="CM.eo_Gene.90"/>
+ <entry term="copaene synthase" wikidataID="Q13406644" id="CM.eo_Gene.89"/>
+ <entry term="copalyl diphosphate synthase" wikidataID="Q5168300" id="CM.eo_Gene.90"/>
  <entry term="copalyl phosphate synthase" id="CM.eo_Gene.91"/>
  <entry term="cubebol synthase" id="CM.eo_Gene.92"/>
  <entry term="cubene synthase" id="CM.eo_Gene.93"/>
@@ -107,7 +107,7 @@
  <entry term="decaprenyl diphosphate synthase" id="CM.eo_Gene.103"/>
  <entry term="delta-1 pyrroline 5 carboxylate synthase" id="CM.eo_Gene.104"/>
  <entry term="delta-amyrin synthase" id="CM.eo_Gene.105"/>
- <entry term="delta-cadinene synthase" wikidataID=Q22324418 id="CM.eo_Gene.106"/>
+ <entry term="delta-cadinene synthase" wikidataID="Q22324418" id="CM.eo_Gene.106"/>
  <entry term="delta-elemene synthase" id="CM.eo_Gene.107"/>
  <entry term="delta-protoilludene synthases" id="CM.eo_Gene.108"/>
  <entry term="deoxy-d-xylulose synthase" id="CM.eo_Gene.109"/>
@@ -115,24 +115,24 @@
  <entry term="digalactosyldiacylglycerol synthase 2" id="CM.eo_Gene.111"/>
  <entry term="dihydrodipicolinate synthase" id="CM.eo_Gene.112"/>
  <entry term="dihydrouridine synthase 2" id="CM.eo_Gene.113"/>
- <entry term="diterpene synthase" wikidataID=Q58612757 id="CM.eo_Gene.114"/>
+ <entry term="diterpene synthase" wikidataID="Q58612757" id="CM.eo_Gene.114"/>
  <entry term="diterpenoid synthase" id="CM.eo_Gene.115"/>
  <entry term="e-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase" id="CM.eo_Gene.116"/>
- <entry term="endo-fenchol synthase" wikidataID=Q8171001 id="CM.eo_Gene.117"/>
- <entry term="ent-copalyl diphosphate synthase" wikipedia="ent-copalyl diphosphate synthase" wikidataID=Q5168300 id="CM.eo_Gene.118"/>
+ <entry term="endo-fenchol synthase" wikidataID="Q8171001" id="CM.eo_Gene.117"/>
+ <entry term="ent-copalyl diphosphate synthase" wikipedia="ent-copalyl diphosphate synthase" wikidataID="Q5168300" id="CM.eo_Gene.118"/>
  <entry term="ent-kaur-16-ene synthase" id="CM.eo_Gene.119"/>
- <entry term="ent-kaurene synthase" wikidataID=Q5380074 id="CM.eo_Gene.120"/>
- <entry term="ent-sandaracopimaradiene synthase" wikidataID=Q13402063 id="CM.eo_Gene.121"/>
- <entry term="epi-aristolochene synthase" wikidataID=Q27125365 id="CM.eo_Gene.122"/>
+ <entry term="ent-kaurene synthase" wikidataID="Q5380074" id="CM.eo_Gene.120"/>
+ <entry term="ent-sandaracopimaradiene synthase" wikidataID="Q13402063" id="CM.eo_Gene.121"/>
+ <entry term="epi-aristolochene synthase" wikidataID="Q27125365" id="CM.eo_Gene.122"/>
  <entry term="esvratrol synthase" id="CM.eo_Gene.123"/>
  <entry term="eugenol synthase" id="CM.eo_Gene.124"/>
- <entry term="farnesene synthase" wikidataID=Q34419156 id="CM.eo_Gene.125"/>
+ <entry term="farnesene synthase" wikidataID="Q34419156" id="CM.eo_Gene.125"/>
  <entry term="farnesyl diphosphate synthase" wikipedia="farnesyl diphosphate synthase" id="CM.eo_Gene.126"/>
  <entry term="farnesyl pyrophosphate synthase" wikipedia="farnesyl pyrophosphate synthase" id="CM.eo_Gene.127"/>
  <entry term="ferruginol synthase" id="CM.eo_Gene.128"/>
  <entry term="galactinol synthase" id="CM.eo_Gene.129"/>
  <entry term="gamma bisabolene synthase" id="CM.eo_Gene.130"/>
- <entry term="gamma-cadinene synthase" wikidataID=Q13405247 id="CM.eo_Gene.131"/>
+ <entry term="gamma-cadinene synthase" wikidataID="Q13405247" id="CM.eo_Gene.131"/>
  <entry term="gamma-humulene synthase" id="CM.eo_Gene.132"/>
  <entry term="gamma-terpinene synthase" id="CM.eo_Gene.133"/>
  <entry term="geranoil synthase" id="CM.eo_Gene.134"/>
@@ -141,15 +141,15 @@
  <entry term="geranyl pyrophosphate synthase" id="CM.eo_Gene.137"/>
  <entry term="geranylgeranyl diphosphate synthase" id="CM.eo_Gene.138"/>
  <entry term="geranylgeranyl pyrophosphate synthase" id="CM.eo_Gene.139"/>
- <entry term="germacradienol synthase" wikidataID=Q7923744 id="CM.eo_Gene.140"/>
- <entry term="germacrene a synthase" wikidataID=Q5550969 id="CM.eo_Gene.141"/>
- <entry term="germacrene d synthase" wikidataID=Q22324416 id="CM.eo_Gene.142"/>
+ <entry term="germacradienol synthase" wikidataID="Q7923744" id="CM.eo_Gene.140"/>
+ <entry term="germacrene a synthase" wikidataID="Q5550969" id="CM.eo_Gene.141"/>
+ <entry term="germacrene d synthase" wikidataID="Q22324416" id="CM.eo_Gene.142"/>
  <entry term="germacrene d synthase like" id="CM.eo_Gene.143"/>
  <entry term="germacrene synthase" id="CM.eo_Gene.144"/>
  <entry term="germacrene synthase-like" id="CM.eo_Gene.145"/>
  <entry term="gfpp synthase" id="CM.eo_Gene.146"/>
  <entry term="glutamate synthase" wikipedia="glutamate synthase" id="CM.eo_Gene.147"/>
- <entry term="guaiene synthase" wikidataID=Q13405248 id="CM.eo_Gene.148"/>
+ <entry term="guaiene synthase" wikidataID="Q13405248" id="CM.eo_Gene.148"/>
  <entry term="halimadenyl diphosphate synthase" id="CM.eo_Gene.149"/>
  <entry term="hedychium farnesyl pyrophosphate synthase" id="CM.eo_Gene.150"/>
  <entry term="hemiterpene synthase" id="CM.eo_Gene.151"/>
@@ -169,19 +169,19 @@
  <entry term="isoeugenol synthase" id="CM.eo_Gene.165"/>
  <entry term="isoledene synthase" id="CM.eo_Gene.166"/>
  <entry term="isopimaradiene synthase" id="CM.eo_Gene.167"/>
- <entry term="isoprene synthase" wikidataID=Q11286661 id="CM.eo_Gene.168"/>
+ <entry term="isoprene synthase" wikidataID="Q11286661" id="CM.eo_Gene.168"/>
  <entry term="isoprenyl diphosphate synthase" id="CM.eo_Gene.169"/>
- <entry term="kaurene synthase" wikidataID=Q5380074 id="CM.eo_Gene.170"/>
+ <entry term="kaurene synthase" wikidataID="Q5380074" id="CM.eo_Gene.170"/>
  <entry term="kaurene-like synthase" id="CM.eo_Gene.171"/>
  <entry term="ketoacyl co-a synthase" id="CM.eo_Gene.172"/>
  <entry term="l-3-cyanoalanine synthase cysteine synthase" id="CM.eo_Gene.173"/>
- <entry term="limonene synthase" wikipedia="limonene synthase" wikidataID=Q4544850 id="CM.eo_Gene.174"/>
- <entry term="linalool synthase" wikipedia="linalool synthase" wikidataID=Q16872170 id="CM.eo_Gene.175"/>
+ <entry term="limonene synthase" wikipedia="limonene synthase" wikidataID="Q4544850" id="CM.eo_Gene.174"/>
+ <entry term="linalool synthase" wikipedia="linalool synthase" wikidataID="Q16872170" id="CM.eo_Gene.175"/>
  <entry term="me-cdp synthase" id="CM.eo_Gene.176"/>
  <entry term="mep synthase" id="CM.eo_Gene.177"/>
  <entry term="methionine synthase" wikipedia="methionine synthase" id="CM.eo_Gene.178"/>
  <entry term="miltiradiene synthase" id="CM.eo_Gene.179"/>
- <entry term="monoterpene synthase" wikidataID=Q91498371 id="CM.eo_Gene.180"/>
+ <entry term="monoterpene synthase" wikidataID="Q91498371" id="CM.eo_Gene.180"/>
  <entry term="monoterpenoid synthase" id="CM.eo_Gene.181"/>
  <entry term="mycrene synthase" id="CM.eo_Gene.182"/>
  <entry term="myrcene synthase" id="CM.eo_Gene.183"/>
@@ -189,7 +189,7 @@
  <entry term="napthoate synthase" id="CM.eo_Gene.185"/>
  <entry term="naringenin-chalcone synthase" wikipedia="naringenin-chalcone synthase" id="CM.eo_Gene.186"/>
  <entry term="neoxanthine synthase" id="CM.eo_Gene.187"/>
- <entry term="nerolidol synthase" wikidataID=Q13402087 id="CM.eo_Gene.188"/>
+ <entry term="nerolidol synthase" wikidataID="Q13402087" id="CM.eo_Gene.188"/>
  <entry term="nerolidol synthase-like" id="CM.eo_Gene.189"/>
  <entry term="neryl diphosphate synthase 1" id="CM.eo_Gene.190"/>
  <entry term="nerylneryl diphosphate synthase" id="CM.eo_Gene.191"/>
@@ -203,12 +203,12 @@
  <entry term="patchoulene synthase" id="CM.eo_Gene.199"/>
  <entry term="pehydrodolichyl diphosphate synthase 2-like" id="CM.eo_Gene.200"/>
  <entry term="penta cyclic synthase" id="CM.eo_Gene.201"/>
- <entry term="phellandrene synthase" wikidataID=Q13402092 id="CM.eo_Gene.202"/>
+ <entry term="phellandrene synthase" wikidataID="Q13402092" id="CM.eo_Gene.202"/>
  <entry term="pheromone synthase" id="CM.eo_Gene.203"/>
  <entry term="phosphoheptulonate synthase" id="CM.eo_Gene.204"/>
- <entry term="phytoene synthase" wikidataID=Q23406281 id="CM.eo_Gene.205"/>
+ <entry term="phytoene synthase" wikidataID="Q23406281" id="CM.eo_Gene.205"/>
  <entry term="pimaradiene synthase" id="CM.eo_Gene.206"/>
- <entry term="pinene synthase" wikidataID=Q13406627 id="CM.eo_Gene.207"/>
+ <entry term="pinene synthase" wikidataID="Q13406627" id="CM.eo_Gene.207"/>
  <entry term="polyketide synthase" wikipedia="polyketide synthase" id="CM.eo_Gene.208"/>
  <entry term="polyprenyl synthetase" wikipedia="polyprenyl synthetase" id="CM.eo_Gene.209"/>
  <entry term="premnaspirodiene synthase" id="CM.eo_Gene.210"/>
@@ -223,20 +223,20 @@
  <entry term="pyridoxal 5-phosphate synthase-like" id="CM.eo_Gene.219"/>
  <entry term="qns-quinolone synthase" id="CM.eo_Gene.220"/>
  <entry term="quinolinate synthase" id="CM.eo_Gene.221"/>
- <entry term="r-linalool synthase" wikidataID=Q16872170 id="CM.eo_Gene.222"/>
+ <entry term="r-linalool synthase" wikidataID="Q16872170" id="CM.eo_Gene.222"/>
  <entry term="raffinose synthase" id="CM.eo_Gene.223"/>
  <entry term="s-adenosylmethionine synthase" id="CM.eo_Gene.224"/>
- <entry term="s-linalool synthase" wikidataID=Q16872170 id="CM.eo_Gene.225"/>
- <entry term="sabinene synthase" wikidataID=Q87483707 id="CM.eo_Gene.226"/>
+ <entry term="s-linalool synthase" wikidataID="Q16872170" id="CM.eo_Gene.225"/>
+ <entry term="sabinene synthase" wikidataID="Q87483707" id="CM.eo_Gene.226"/>
  <entry term="sabisabolene synthase" id="CM.eo_Gene.227"/>
  <entry term="sam synthase" id="CM.eo_Gene.228"/>
  <entry term="santalene synthase" id="CM.eo_Gene.229"/>
  <entry term="santalum farnesyl diphosphate synthase" id="CM.eo_Gene.230"/>
  <entry term="sasesquisabinene synthase" id="CM.eo_Gene.231"/>
  <entry term="secologanin synthase-like" id="CM.eo_Gene.232"/>
- <entry term="selinene synthase" wikidataID=Q13405200 id="CM.eo_Gene.233"/>
+ <entry term="selinene synthase" wikidataID="Q13405200" id="CM.eo_Gene.233"/>
  <entry term="sesquiterpene biosynthase" id="CM.eo_Gene.234"/>
- <entry term="sesquiterpene synthase" wikidataID=Q13406639 id="CM.eo_Gene.235"/>
+ <entry term="sesquiterpene synthase" wikidataID="Q13406639" id="CM.eo_Gene.235"/>
  <entry term="solanesyl diphosphate synthase" wikipedia="solanesyl diphosphate synthase" id="CM.eo_Gene.236"/>
  <entry term="sprmine synthase" id="CM.eo_Gene.237"/>
  <entry term="squalene synthase" wikipedia="squalene synthase" id="CM.eo_Gene.238"/>
@@ -250,7 +250,7 @@
  <entry term="syn-copalyl-diphosphate synthase" id="CM.eo_Gene.246"/>
  <entry term="synthetic terpene synthase" id="CM.eo_Gene.247"/>
  <entry term="taxadiene synthase" id="CM.eo_Gene.248"/>
- <entry term="terpene synthase" wikidataID=Q23279294 id="CM.eo_Gene.249"/>
+ <entry term="terpene synthase" wikidataID="Q23279294" id="CM.eo_Gene.249"/>
  <entry term="terpene synthase 03" id="CM.eo_Gene.250"/>
  <entry term="terpene synthase 08" id="CM.eo_Gene.251"/>
  <entry term="terpene synthase 10.2" id="CM.eo_Gene.252"/>
@@ -292,8 +292,8 @@
  <entry term="terpeniol synthase" id="CM.eo_Gene.288"/>
  <entry term="terpenoid biosynthase" id="CM.eo_Gene.289"/>
  <entry term="terpenoid synthase" id="CM.eo_Gene.290"/>
- <entry term="terpinene synthase" wikidataID=Q13406622 id="CM.eo_Gene.291"/>
- <entry term="terpinolene synthase" wikidataID=Q13406621 id="CM.eo_Gene.292"/>
+ <entry term="terpinene synthase" wikidataID="Q13406622" id="CM.eo_Gene.291"/>
+ <entry term="terpinolene synthase" wikidataID="Q13406621" id="CM.eo_Gene.292"/>
  <entry term="threalose synthase" id="CM.eo_Gene.293"/>
  <entry term="threonine synthase" id="CM.eo_Gene.294"/>
  <entry term="tps-c specific ent-copalyl diphosphate synthase" id="CM.eo_Gene.295"/>
@@ -301,14 +301,14 @@
  <entry term="trans-ocimene synthase" id="CM.eo_Gene.297"/>
  <entry term="trehalose 6 phosphate synthase" id="CM.eo_Gene.298"/>
  <entry term="trichodiene synthase" id="CM.eo_Gene.299"/>
- <entry term="tricyclene synthase" wikidataID=Q13405269 id="CM.eo_Gene.300"/>
+ <entry term="tricyclene synthase" wikidataID="Q13405269" id="CM.eo_Gene.300"/>
  <entry term="triterpene oxidosqualene synthase" id="CM.eo_Gene.301"/>
  <entry term="triterpene synthase" id="CM.eo_Gene.302"/>
  <entry term="valancene synthase" id="CM.eo_Gene.303"/>
  <entry term="valencene synthases-like" id="CM.eo_Gene.304"/>
  <entry term="valerophenone synthase" id="CM.eo_Gene.305"/>
  <entry term="vetispiradiene synthase" id="CM.eo_Gene.306"/>
- <entry term="viridiflorene synthase" wikidataID=Q61589407 id="CM.eo_Gene.307"/>
+ <entry term="viridiflorene synthase" wikidataID="Q61589407" id="CM.eo_Gene.307"/>
  <entry term="vitis vinifera ma terpene synthase 10" id="CM.eo_Gene.308"/>
  <entry term="vitis vinifera ma terpene synthase 27" id="CM.eo_Gene.309"/>
  <entry term="vitis vinifera ma terpene synthase 28" id="CM.eo_Gene.310"/>
